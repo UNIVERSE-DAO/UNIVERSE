@@ -17,8 +17,10 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Install Dependencies
-        run: npm install  # Change this for your tech stack (e.g., pip install for Python)
+      - name: Install Backend Dependencies
+        working-directory: backend
+        run: npm install
 
-      - name: Run Tests
-        run: npm test  # Change this based on your test setup
+      - name: Run Backend Tests
+        working-directory: backend
+        run: npm test
