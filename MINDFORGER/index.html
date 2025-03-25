@@ -11,27 +11,34 @@
       padding: 20px;
     }
 
-    .poem-section {
+    .poem-box {
+      background-color: #1a1a1a;
+      border-radius: 10px;
+      padding: 20px;
       margin-bottom: 40px;
     }
 
     .poem-title {
       cursor: pointer;
       font-size: 1.4em;
-      margin-top: 20px;
-      background-color: #222;
-      padding: 10px 15px;
-      border-radius: 8px;
+      padding-bottom: 10px;
       text-align: center;
       font-weight: bold;
+      color: #eee;
     }
 
     .poem-content {
-      background-color: #1a1a1a;
-      padding: 15px;
-      border-radius: 8px;
-      margin-top: 10px;
-      text-align: center;
+      padding-top: 10px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .poem-content pre {
+      font-family: 'Courier New', monospace;
+      font-size: 1em;
+      white-space: pre;
+      text-align: left;
+      line-height: 1.8;
     }
 
     .hidden {
@@ -49,23 +56,16 @@
     .nav-title {
       font-size: 1.2em;
       letter-spacing: 6px;
-      margin-bottom: 10px;
+      margin-bottom: 30px;
       font-weight: bold;
     }
 
-    .nav-subtitle {
-      font-size: 0.9em;
-      color: #aaa;
-      margin-bottom: 30px;
-    }
-
     .nav-grid {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 25px 40px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
       max-width: 600px;
       margin: 0 auto;
-      text-align: left;
     }
 
     .nav-item {
@@ -95,53 +95,49 @@
 <body>
 
   <!-- Poem 1 -->
-  <div class="poem-section">
-    <h2 class="poem-title" onclick="togglePoem('poem1')">Acknowledgment</h2>
+  <div class="poem-box">
+    <div class="poem-title" onclick="togglePoem('poem1')">Acknowledgment</div>
     <div id="poem1" class="poem-content hidden">
-      <p>
-        In the essential quest to see, we first must find,<br>
-        The core issue that to all of us is blind.<br>
-        Acknowledgment starts the trail,<br>
-        Where synthesis will prevail.
-      </p>
-      <p>
-        Piece by piece, the puzzle laid,<br>
-        In unity and consensus, fears allayed.<br>
-        From the depths of 'impossible' streams,<br>
-        Crucial solutions emerge, elegantly it seems.
-      </p>
+      <pre>
+  In the essential quest to see, we first must find,
+  The core issue that to all of us is blind.
+  Acknowledgment starts the trail,
+  Where synthesis will prevail.
+
+  Piece by piece, the puzzle laid,
+  In unity and consensus, fears allayed.
+  From the depths of 'impossible' streams,
+  Crucial solutions emerge, elegantly it seems.
+      </pre>
     </div>
   </div>
 
   <!-- Poem 2 -->
-  <div class="poem-section">
-    <h2 class="poem-title" onclick="togglePoem('poem2')">Dilemma of The Ultimate Tech for Good</h2>
+  <div class="poem-box">
+    <div class="poem-title" onclick="togglePoem('poem2')">Dilemma of The Ultimate Tech for Good</div>
     <div id="poem2" class="poem-content hidden">
-      <p>
-        The key to master The Infinite Game,<br>
-        A simple tool forged, yet risks aflame.<br>
-        Crafting solutions, a most delicate art,<br>
-        Falling in wrong hands, they tear apart.
-      </p>
-      <p>
-        Power and Trust, in a precarious dance,<br>
-        Infinite potential, both fate and chance.<br>
-        For in mastery lies both boon and bane,<br>
-        Timeless struggle in this universe game.
-      </p>
-      <p>
-        Guided by Social Choice Theory's hand,<br>
-        It favours the good, where justice stand.<br>
-        Challenges abound, and dangers loom,<br>
-        Justified hope, wisdom clears the gloom.
-      </p>
+      <pre>
+  The key to master The Infinite Game,
+  A simple tool forged, yet risks aflame.
+  Crafting solutions, a most delicate art,
+  Falling in wrong hands, they tear apart.
+
+  Power and Trust, in a precarious dance,
+  Infinite potential, both fate and chance.
+  For in mastery lies both boon and bane,
+  Timeless struggle in this universe game.
+
+  Guided by Social Choice Theory's hand,
+  It favours the good, where justice stand.
+  Challenges abound, and dangers loom,
+  Justified hope, wisdom clears the gloom.
+      </pre>
     </div>
   </div>
 
-  <!-- Navigation / App Preview -->
+  <!-- Navigation Section -->
   <div class="nav-box">
     <div class="nav-title">M I N D F O R G E R</div>
-    <div class="nav-subtitle">interactive APP coming soon – <a href="https://www.universe.meme" style="color:#888" target="_blank">www.universe.meme</a></div>
 
     <div class="nav-grid">
       <div class="nav-item"><b>Motivation</b><i>The Power of Stories</i></div>
