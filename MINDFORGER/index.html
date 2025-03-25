@@ -5,92 +5,59 @@
   <title>MINDFORGER</title>
   <style>
     body {
-      background-color: #111;
+      background-color: #000;
       color: #eee;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-      padding: 20px;
-    }
-
-    /* Fade animation */
-    .fade {
-      opacity: 1;
-      transition: opacity 0.5s ease, max-height 0.5s ease;
-      overflow: hidden;
-      max-height: 1000px;
-    }
-
-    .fade.hidden {
-      opacity: 0;
-      max-height: 0;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
       padding: 0;
       margin: 0;
     }
 
-    .poem-box {
-      background-color: #1a1a1a;
-      border-radius: 10px;
-      padding: 20px;
-      margin-bottom: 40px;
-    }
-
-    .poem-title {
-      cursor: pointer;
-      font-size: 1.4em;
-      padding-bottom: 10px;
-      text-align: center;
-      font-weight: bold;
-      color: #eee;
-      transition: transform 0.2s ease, text-shadow 0.3s ease;
-    }
-
-    .poem-title:hover {
-      transform: scale(1.02);
-      text-shadow: 0 0 8px #3366ff;
-    }
-
-    .poem-content {
-      padding-top: 10px;
+    .container {
       display: flex;
-      justify-content: center;
+      flex-direction: column;
+      gap: 20px;
+      padding: 20px;
     }
 
-    .poem-content pre {
-      font-family: 'Courier New', monospace;
-      font-size: 1em;
-      white-space: pre;
-      text-align: left;
-      line-height: 1.8;
+    .top-section {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
     }
 
-    .nav-box {
+    .left-pane, .right-pane {
       background-color: #1a1a1a;
-      border-radius: 12px;
+      border-radius: 16px;
       padding: 30px;
-      margin-top: 40px;
-      text-align: center;
+      flex: 1;
+      min-width: 300px;
+    }
+
+    .left-pane {
+      display: flex;
+      flex-direction: column;
     }
 
     .nav-title {
-      font-size: 1.2em;
+      font-size: 1.4em;
       letter-spacing: 6px;
       margin-bottom: 30px;
-      font-weight: bold;
+      text-align: center;
       color: #3366FF;
+      font-weight: bold;
     }
 
     .nav-grid {
       display: flex;
       flex-direction: column;
-      gap: 20px;
-      max-width: 600px;
-      margin: 0 auto;
+      gap: 16px;
     }
 
     .nav-item {
       display: flex;
       justify-content: space-between;
       border-bottom: 1px solid #333;
-      padding: 10px 10px 5px;
+      padding: 10px;
       cursor: pointer;
       transition: all 0.2s ease;
     }
@@ -125,7 +92,79 @@
       color: #22DD09;
     }
 
-    /* Fade-in animation for adapted content */
+    .right-pane .title-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .right-pane h3 {
+      color: #ffda3d;
+      margin: 0;
+    }
+
+    .clear-button {
+      padding: 8px 14px;
+      font-size: 0.9em;
+      font-weight: bold;
+      background-color: transparent;
+      color: #ff5555;
+      border: 1px solid #ff5555;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .clear-button:hover {
+      background-color: #ff5555;
+      color: #000;
+    }
+
+    .dropdown-group {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .dropdown-group select {
+      background-color: #000;
+      color: #343434;
+      border: none;
+      padding: 12px 16px;
+      border-radius: 8px;
+      font-weight: bold;
+      font-family: inherit;
+      font-size: 0.95em;
+      appearance: none;
+      cursor: pointer;
+      box-shadow: inset 0 0 0 1px #333;
+      transition: background 0.2s, box-shadow 0.2s, transform 0.2s, color 0.2s;
+    }
+
+    .dropdown-group select:hover {
+      transform: scale(1.02);
+    }
+
+    .dropdown-group select:has(option:checked:not([value=""])) {
+      color: #ffffff;
+    }
+
+    .bottom-section {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    .box {
+      flex: 1;
+      background-color: #1a1a1a;
+      border-radius: 16px;
+      padding: 30px;
+      min-height: 200px;
+      min-width: 300px;
+    }
+
     .fade-in {
       animation: fadeIn 0.6s ease-in-out;
     }
@@ -134,129 +173,188 @@
       from { opacity: 0; transform: translateY(10px); }
       to { opacity: 1; transform: translateY(0); }
     }
+
+    .box-title {
+      text-align: center;
+      font-weight: bold;
+      font-size: 1.1em;
+      margin-bottom: 20px;
+      color: #22DD09;
+    }
+
+    .content-text {
+      color: #eee;
+      white-space: pre-wrap;
+      line-height: 1.6;
+      text-align: center;
+    }
   </style>
-
-  <script>
-    function togglePoem(id) {
-      const el = document.getElementById(id);
-      el.classList.toggle('hidden');
-    }
-
-    function showAdaptation(topic) {
-      const contentMap = {
-        motivation: `Our Experiences and Emotions shape who we are and what drives us.
-
-Emotional Cognition = Behavioural Strategies = Motivated Identity
-
-The Leaders with the most compelling stories will
-influence society by inspiring us through our emotions.`,
-
-        escalation: `Escalation explores how small tensions amplify.
-From tiny sparks to social revolutions, this pillar
-teaches us to recognize early signs — and steer wisely.`,
-
-        realization: `Realization is the awakening to deeper truths.
-It challenges assumptions and asks: What really matters?
-How do we align our actions with awareness?`,
-
-        interpretation: `History is not just what happened — it's how we read it.
-Interpretation teaches us to reflect, compare, and understand
-our past with fresh philosophical eyes.`,
-
-        clarification: `Truth-seeking is the compass of ethics.
-Clarification cuts through noise, showing what matters —
-fact, value, or meaning.`,
-
-        determination: `With all insights aligned, Determination leads to choice.
-It is about acting on informed understanding — choosing wisely
-for long-term benefit, not just short-term gain.`
-      };
-
-      document.querySelectorAll('.nav-item').forEach(item => {
-        item.classList.remove('active');
-      });
-
-      const clickedItem = document.querySelector(`.nav-item[onclick*="${topic}"]`);
-      if (clickedItem) {
-        clickedItem.classList.add('active');
-      }
-
-      const adaptedBox = document.getElementById('adaptedContent');
-      const adaptedText = document.getElementById('adaptedText');
-
-      adaptedText.textContent = contentMap[topic] || "Coming soon...";
-
-      adaptedBox.classList.remove('hidden');
-      adaptedBox.classList.remove('fade-in'); // Reset animation
-      void adaptedBox.offsetWidth; // Trigger reflow
-      adaptedBox.classList.add('fade-in');
-    }
-  </script>
 </head>
 <body>
+  <div class="container">
+    <div class="top-section">
+      <div class="left-pane">
+        <div class="nav-title">M I N D F O R G E R</div>
+        <div class="nav-grid">
+          <div class="nav-item" onclick="showAdaptation('motivation')"><b>Motivation</b><i>The Power of Stories</i></div>
+          <div class="nav-item" onclick="showAdaptation('escalation')"><b>Escalation</b><i>The Pillar of Society</i></div>
+          <div class="nav-item" onclick="showAdaptation('realization')"><b>Realization</b><i>The Existential Question</i></div>
+          <div class="nav-item" onclick="showAdaptation('interpretation')"><b>Interpretation</b><i>The Lesson of History</i></div>
+          <div class="nav-item" onclick="showAdaptation('clarification')"><b>Clarification</b><i>The Truth that Matters</i></div>
+          <div class="nav-item" onclick="showAdaptation('determination')"><b>Determination</b><i>The Rational Choice</i></div>
+        </div>
+      </div>
 
-  <!-- Poem 1 -->
-  <div class="poem-box">
-    <div class="poem-title" onclick="togglePoem('poem1')">Acknowledgment</div>
-    <div id="poem1" class="poem-content fade hidden">
-      <pre>
-  In the essential quest to see, we first must find,
-  The core issue that to all of us is blind.
-  Acknowledgment starts the trail,
-  Where synthesis will prevail.
+      <div class="right-pane">
+        <div class="title-bar">
+          <h3>Adapted Content</h3>
+          <button class="clear-button" onclick="clearFilters()">Clear All Filters</button>
+        </div>
+        <div class="dropdown-group">
+          <select id="language" onchange="updateFromDropdown()">
+            <option value="">Language</option>
+            <option value="English">English</option>
+            <option value="German">German</option>
+            <option value="French">French</option>
+            <option value="Spanish">Spanish</option>
+          </select>
 
-  Piece by piece, the puzzle laid,
-  In unity and consensus, fears allayed.
-  From the depths of 'impossible' streams,
-  Crucial solutions emerge, elegantly it seems.
-      </pre>
+          <select id="age" onchange="updateFromDropdown()">
+            <option value="">Age / Life Stage</option>
+            <option value="Teen">Teen (13–17)</option>
+            <option value="YoungAdult">Young Adult (18–25)</option>
+            <option value="Adult">Adult (26+)</option>
+          </select>
+
+          <select id="emotion" onchange="updateFromDropdown()">
+            <option value="">Triggered Emotion</option>
+            <option value="Hope">Hope</option>
+            <option value="Fear">Fear</option>
+            <option value="Curiosity">Curiosity</option>
+          </select>
+
+          <select id="worldview" onchange="updateFromDropdown()">
+            <option value="">Worldview</option>
+            <option value="Realist">Realist</option>
+            <option value="Idealist">Idealist</option>
+            <option value="Pragmatist">Pragmatist</option>
+          </select>
+
+          <select id="manipulation" onchange="updateFromDropdown()">
+            <option value="">Content Manipulation</option>
+            <option value="Simplified">Simplified</option>
+            <option value="Analytical">Analytical</option>
+            <option value="Provocative">Provocative</option>
+          </select>
+
+          <select id="prompt" onchange="updateFromDropdown()">
+            <option value="">Personal Prompt</option>
+            <option value="Custom1">Prompt 1</option>
+            <option value="Custom2">Prompt 2</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <div class="bottom-section">
+      <div class="box">
+        <div id="originalTitle" class="box-title"></div>
+        <div id="originalText" class="content-text"></div>
+      </div>
+      <div class="box">
+        <div id="adaptedText" class="content-text"></div>
+      </div>
     </div>
   </div>
 
-  <!-- Poem 2 -->
-  <div class="poem-box">
-    <div class="poem-title" onclick="togglePoem('poem2')">Dilemma of The Ultimate Tech for Good</div>
-    <div id="poem2" class="poem-content fade hidden">
-      <pre>
-  The key to master The Infinite Game,
-  A simple tool forged, yet risks aflame.
-  Crafting solutions, a most delicate art,
-  Falling in wrong hands, they tear apart.
+  <script>
+    let currentTopic = "";
 
-  Power and Trust, in a precarious dance,
-  Infinite potential, both fate and chance.
-  For in mastery lies both boon and bane,
-  Timeless struggle in this universe game.
+    const adaptedMap = {
+      motivation: {
+        base: `Our Experiences and Emotions shape who we are and what drives us.\n\nEmotional Cognition = Behavioural Strategies = Motivated Identity\n\nThe Leaders with the most compelling stories will influence society by inspiring us through our emotions.`,
 
-  Guided by Social Choice Theory's hand,
-  It favours the good, where justice stand.
-  Challenges abound, and dangers loom,
-  Justified hope, wisdom clears the gloom.
-      </pre>
-    </div>
-  </div>
+        Teen_Hope: `Placeholder for Teen + Hope`,
+        Adult_Fear: `Placeholder for Adult + Fear`,
+        French_Teen_Hope: `Texte d'exemple en français pour un adolescent plein d'espoir.`,
+        Spanish_Adult_Fear: `Ejemplo en español para un adulto motivado por el miedo.`,
+      },
 
-  <!-- Navigation Section -->
-  <div class="nav-box">
-    <div class="nav-title">M I N D F O R G E R</div>
+      escalation: { base: "Escalation base text." },
+      realization: { base: "Realization base text." },
+      interpretation: { base: "Interpretation base text." },
+      clarification: { base: "Clarification base text." },
+      determination: { base: "Determination base text." }
+    };
 
-    <div class="nav-grid">
-      <div class="nav-item" onclick="showAdaptation('motivation')"><b>Motivation</b><i>The Power of Stories</i></div>
-      <div class="nav-item" onclick="showAdaptation('escalation')"><b>Escalation</b><i>The Pillar of Society</i></div>
-      <div class="nav-item" onclick="showAdaptation('realization')"><b>Realization</b><i>The Existential Question</i></div>
-      <div class="nav-item" onclick="showAdaptation('interpretation')"><b>Interpretation</b><i>The Lesson of History</i></div>
-      <div class="nav-item" onclick="showAdaptation('clarification')"><b>Clarification</b><i>The Truth that Matters</i></div>
-      <div class="nav-item" onclick="showAdaptation('determination')"><b>Determination</b><i>The Rational Choice</i></div>
-    </div>
-  </div>
+    const titles = {
+      motivation: "Motivation : The Power of Stories",
+      escalation: "Escalation : The Pillar of Society",
+      realization: "Realization : The Existential Question",
+      interpretation: "Interpretation : The Lesson of History",
+      clarification: "Clarification : The Truth that Matters",
+      determination: "Determination : The Rational Choice"
+    };
 
-  <!-- Adapted Content Display -->
-  <div id="adaptedContent" class="poem-box hidden">
-    <div class="poem-title">Adapted Content</div>
-    <div class="poem-content">
-      <pre id="adaptedText"></pre>
-    </div>
-  </div>
+    function showAdaptation(topic) {
+      currentTopic = topic;
 
+      document.querySelectorAll('.nav-item').forEach(item => item.classList.remove('active'));
+      const clicked = document.querySelector(`.nav-item[onclick*="${topic}"]`);
+      if (clicked) clicked.classList.add('active');
+
+      document.getElementById("originalTitle").textContent = titles[topic] || "";
+      document.getElementById("originalText").textContent = adaptedMap[topic]?.base || "";
+      document.getElementById("adaptedText").textContent = "";
+
+      document.getElementById("originalText").classList.add("fade-in");
+      setTimeout(() => {
+        document.getElementById("originalText").classList.remove("fade-in");
+      }, 700);
+    }
+
+    function updateFromDropdown() {
+      if (!currentTopic) return;
+
+      const language = document.getElementById("language").value;
+      const age = document.getElementById("age").value;
+      const worldview = document.getElementById("worldview").value;
+      const emotion = document.getElementById("emotion").value;
+      const manipulation = document.getElementById("manipulation").value;
+      const prompt = document.getElementById("prompt").value;
+
+      const section = adaptedMap[currentTopic];
+      let adapted = section?.base || "No base content.";
+
+      const comboKeys = [];
+
+      comboKeys.push(`${language}_${age}_${worldview}_${emotion}_${manipulation}_${prompt}`);
+      comboKeys.push(`${language}_${age}_${emotion}`);
+      comboKeys.push(`${language}_${age}`);
+      comboKeys.push(`${language}`);
+      comboKeys.push(`${age}_${emotion}`);
+      comboKeys.push(`${age}`);
+      comboKeys.push(`${emotion}`);
+
+      for (const key of comboKeys) {
+        if (section[key]) {
+          adapted = section[key];
+          break;
+        }
+      }
+
+      document.getElementById("adaptedText").textContent = adapted;
+      document.getElementById("adaptedText").classList.add("fade-in");
+      setTimeout(() => {
+        document.getElementById("adaptedText").classList.remove("fade-in");
+      }, 700);
+    }
+
+    function clearFilters() {
+      const selects = document.querySelectorAll('.dropdown-group select');
+      selects.forEach(select => select.value = "");
+      updateFromDropdown();
+    }
+  </script>
 </body>
 </html>
