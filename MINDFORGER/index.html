@@ -1,1 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>MINDFORGER</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #eee;
+      font-family: 'Courier New', monospace;
+      padding: 20px;
+    }
+    .poem-section {
+      margin-bottom: 40px;
+    }
+    .poem-title {
+      cursor: pointer;
+      font-size: 1.4em;
+      margin-top: 20px;
+      background-color: #222;
+      padding: 10px 15px;
+      border-radius: 8px;
+    }
+    .poem-content {
+      background-color: #1a1a1a;
+      padding: 15px;
+      border-radius: 8px;
+      margin-top: 10px;
+    }
+    .hidden {
+      display: none;
+    }
+  </style>
+  <script>
+    function togglePoem(id) {
+      const el = document.getElementById(id);
+      el.classList.toggle('hidden');
+    }
+  </script>
+</head>
+<body>
+  <div class="poem-section">
+    <h2 class="poem-title" onclick="togglePoem('poem1')">Acknowledgment</h2>
+    <div id="poem1" class="poem-content hidden">
+      <p>
+        In the essential quest to see, we first must find,<br>
+        The core issue that to all of us is blind...<br>
+        ...Crucial solutions emerge, elegantly it seems.
+      </p>
+    </div>
+
+    <h2 class="poem-title" onclick="togglePoem('poem2')">Dilemma of The Ultimate Tech for Good</h2>
+    <div id="poem2" class="poem-content hidden">
+      <p>
+        The key to master The Infinite Game,<br>
+        A simple tool forged, yet risks aflame...<br>
+        ...Justified hope, wisdom clears the gloom.
+      </p>
+    </div>
+  </div>
+</body>
+</html>
 
