@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="="en">
 <head>
   <meta charset="UTF-8" />
   <title>MINDFORGER</title>
@@ -9,10 +9,15 @@
       color: #eee;
       font-family: 'Courier New', monospace;
       padding: 20px;
+      max-width: 800px;
+      margin: auto;
     }
+
+    /* Poem Styles */
     .poem-section {
       margin-bottom: 40px;
     }
+
     .poem-title {
       cursor: pointer;
       font-size: 1.4em;
@@ -21,16 +26,63 @@
       padding: 10px 15px;
       border-radius: 8px;
     }
+
     .poem-content {
       background-color: #1a1a1a;
       padding: 15px;
       border-radius: 8px;
       margin-top: 10px;
     }
+
     .hidden {
       display: none;
     }
+
+    /* Topic Section */
+    .topic-section {
+      margin-top: 40px;
+      padding: 20px;
+      background-color: #1a1a1a;
+      border-radius: 10px;
+    }
+
+    .app-title {
+      font-size: 1.2em;
+      margin-bottom: 20px;
+    }
+
+    .topics-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 15px;
+    }
+
+    .topic-pair {
+      display: flex;
+      justify-content: space-between;
+      border-bottom: 1px solid #333;
+      padding: 8px 0;
+    }
+
+    .topic-name {
+      font-weight: bold;
+      color: #eee;
+    }
+
+    .topic-theme {
+      font-style: italic;
+      color: #bbb;
+    }
+
+    a {
+      color: #bbb;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
   </style>
+
   <script>
     function togglePoem(id) {
       const el = document.getElementById(id);
@@ -39,13 +91,19 @@
   </script>
 </head>
 <body>
+
   <div class="poem-section">
     <h2 class="poem-title" onclick="togglePoem('poem1')">Acknowledgment</h2>
     <div id="poem1" class="poem-content hidden">
       <p>
         In the essential quest to see, we first must find,<br>
-        The core issue that to all of us is blind...<br>
-        ...Crucial solutions emerge, elegantly it seems.
+        The core issue that to all of us is blind.<br>
+        Acknowledgment starts the trail,<br>
+        Where synthesis will prevail.<br><br>
+        Piece by piece, the puzzle laid,<br>
+        In unity and consensus, fears allayed.<br>
+        From the depths of 'impossible' streams,<br>
+        Crucial solutions emerge, elegantly it seems.
       </p>
     </div>
 
@@ -53,11 +111,56 @@
     <div id="poem2" class="poem-content hidden">
       <p>
         The key to master The Infinite Game,<br>
-        A simple tool forged, yet risks aflame...<br>
-        ...Justified hope, wisdom clears the gloom.
+        A simple tool forged, yet risks aflame.<br>
+        Crafting solutions, a most delicate art,<br>
+        Falling in wrong hands, they tear apart.<br><br>
+        Power and Trust, in a precarious dance,<br>
+        Infinite potential, both fate and chance.<br>
+        For in mastery lies both boon and bane,<br>
+        Timeless struggle in this universe game.<br><br>
+        Guided by Social Choice Theory's hand,<br>
+        It favours the good, where justice stand.<br>
+        Challenges abound, and dangers loom,<br>
+        Justified hope, wisdom clears the gloom.
       </p>
     </div>
   </div>
+
+  <div class="topic-section">
+    <h2 class="app-title">M I N D F O R G E R  
+      <small style="font-size: 0.6em; font-weight: normal;">
+        interactive APP coming soon – 
+        <a href="https://www.universe.meme" target="_blank">www.universe.meme</a>
+      </small>
+    </h2>
+
+    <div class="topics-grid">
+      <div class="topic-pair">
+        <span class="topic-name">Motivation</span>
+        <span class="topic-theme">The Power of Stories</span>
+      </div>
+      <div class="topic-pair">
+        <span class="topic-name">Escalation</span>
+        <span class="topic-theme">The Pillar of Society</span>
+      </div>
+      <div class="topic-pair">
+        <span class="topic-name">Realization</span>
+        <span class="topic-theme">The Existential Question</span>
+      </div>
+      <div class="topic-pair">
+        <span class="topic-name">Interpretation</span>
+        <span class="topic-theme">The Lesson of History</span>
+      </div>
+      <div class="topic-pair">
+        <span class="topic-name">Clarification</span>
+        <span class="topic-theme">The Truth that Matters</span>
+      </div>
+      <div class="topic-pair">
+        <span class="topic-name">Determination</span>
+        <span class="topic-theme">The Rational Choice</span>
+      </div>
+    </div>
+  </div>
+
 </body>
 </html>
-
