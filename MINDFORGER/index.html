@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="="en">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <title>MINDFORGER</title>
@@ -9,11 +9,8 @@
       color: #eee;
       font-family: 'Courier New', monospace;
       padding: 20px;
-      max-width: 800px;
-      margin: auto;
     }
 
-    /* Poem Styles */
     .poem-section {
       margin-bottom: 40px;
     }
@@ -25,6 +22,8 @@
       background-color: #222;
       padding: 10px 15px;
       border-radius: 8px;
+      text-align: center;
+      font-weight: bold;
     }
 
     .poem-content {
@@ -32,54 +31,57 @@
       padding: 15px;
       border-radius: 8px;
       margin-top: 10px;
+      text-align: center;
     }
 
     .hidden {
       display: none;
     }
 
-    /* Topic Section */
-    .topic-section {
-      margin-top: 40px;
-      padding: 20px;
+    .nav-box {
       background-color: #1a1a1a;
-      border-radius: 10px;
+      border-radius: 12px;
+      padding: 30px;
+      margin-top: 40px;
+      text-align: center;
     }
 
-    .app-title {
+    .nav-title {
       font-size: 1.2em;
-      margin-bottom: 20px;
+      letter-spacing: 6px;
+      margin-bottom: 10px;
+      font-weight: bold;
     }
 
-    .topics-grid {
+    .nav-subtitle {
+      font-size: 0.9em;
+      color: #aaa;
+      margin-bottom: 30px;
+    }
+
+    .nav-grid {
       display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 15px;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 25px 40px;
+      max-width: 600px;
+      margin: 0 auto;
+      text-align: left;
     }
 
-    .topic-pair {
+    .nav-item {
       display: flex;
       justify-content: space-between;
       border-bottom: 1px solid #333;
-      padding: 8px 0;
+      padding-bottom: 5px;
     }
 
-    .topic-name {
+    .nav-item b {
       font-weight: bold;
-      color: #eee;
     }
 
-    .topic-theme {
+    .nav-item i {
       font-style: italic;
-      color: #bbb;
-    }
-
-    a {
-      color: #bbb;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
+      color: #aaa;
     }
   </style>
 
@@ -92,6 +94,7 @@
 </head>
 <body>
 
+  <!-- Poem 1 -->
   <div class="poem-section">
     <h2 class="poem-title" onclick="togglePoem('poem1')">Acknowledgment</h2>
     <div id="poem1" class="poem-content hidden">
@@ -99,25 +102,34 @@
         In the essential quest to see, we first must find,<br>
         The core issue that to all of us is blind.<br>
         Acknowledgment starts the trail,<br>
-        Where synthesis will prevail.<br><br>
+        Where synthesis will prevail.
+      </p>
+      <p>
         Piece by piece, the puzzle laid,<br>
         In unity and consensus, fears allayed.<br>
         From the depths of 'impossible' streams,<br>
         Crucial solutions emerge, elegantly it seems.
       </p>
     </div>
+  </div>
 
+  <!-- Poem 2 -->
+  <div class="poem-section">
     <h2 class="poem-title" onclick="togglePoem('poem2')">Dilemma of The Ultimate Tech for Good</h2>
     <div id="poem2" class="poem-content hidden">
       <p>
         The key to master The Infinite Game,<br>
         A simple tool forged, yet risks aflame.<br>
         Crafting solutions, a most delicate art,<br>
-        Falling in wrong hands, they tear apart.<br><br>
+        Falling in wrong hands, they tear apart.
+      </p>
+      <p>
         Power and Trust, in a precarious dance,<br>
         Infinite potential, both fate and chance.<br>
         For in mastery lies both boon and bane,<br>
-        Timeless struggle in this universe game.<br><br>
+        Timeless struggle in this universe game.
+      </p>
+      <p>
         Guided by Social Choice Theory's hand,<br>
         It favours the good, where justice stand.<br>
         Challenges abound, and dangers loom,<br>
@@ -126,39 +138,18 @@
     </div>
   </div>
 
-  <div class="topic-section">
-    <h2 class="app-title">M I N D F O R G E R  
-      <small style="font-size: 0.6em; font-weight: normal;">
-        interactive APP coming soon – 
-        <a href="https://www.universe.meme" target="_blank">www.universe.meme</a>
-      </small>
-    </h2>
+  <!-- Navigation / App Preview -->
+  <div class="nav-box">
+    <div class="nav-title">M I N D F O R G E R</div>
+    <div class="nav-subtitle">interactive APP coming soon – <a href="https://www.universe.meme" style="color:#888" target="_blank">www.universe.meme</a></div>
 
-    <div class="topics-grid">
-      <div class="topic-pair">
-        <span class="topic-name">Motivation</span>
-        <span class="topic-theme">The Power of Stories</span>
-      </div>
-      <div class="topic-pair">
-        <span class="topic-name">Escalation</span>
-        <span class="topic-theme">The Pillar of Society</span>
-      </div>
-      <div class="topic-pair">
-        <span class="topic-name">Realization</span>
-        <span class="topic-theme">The Existential Question</span>
-      </div>
-      <div class="topic-pair">
-        <span class="topic-name">Interpretation</span>
-        <span class="topic-theme">The Lesson of History</span>
-      </div>
-      <div class="topic-pair">
-        <span class="topic-name">Clarification</span>
-        <span class="topic-theme">The Truth that Matters</span>
-      </div>
-      <div class="topic-pair">
-        <span class="topic-name">Determination</span>
-        <span class="topic-theme">The Rational Choice</span>
-      </div>
+    <div class="nav-grid">
+      <div class="nav-item"><b>Motivation</b><i>The Power of Stories</i></div>
+      <div class="nav-item"><b>Escalation</b><i>The Pillar of Society</i></div>
+      <div class="nav-item"><b>Realization</b><i>The Existential Question</i></div>
+      <div class="nav-item"><b>Interpretation</b><i>The Lesson of History</i></div>
+      <div class="nav-item"><b>Clarification</b><i>The Truth that Matters</i></div>
+      <div class="nav-item"><b>Determination</b><i>The Rational Choice</i></div>
     </div>
   </div>
 
