@@ -4,197 +4,248 @@
   <meta charset="UTF-8" />
   <title>MINDFORGER</title>
   <style>
-    body {
-      background-color: #000;
-      color: #eee;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
-      padding: 0;
-      margin: 0;
-    }
+/* === GLOBAL STYLES === */
+body {
+  background-color: #000;
+  color: #eee;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+  margin: 0;
+  padding: 0;
+}
 
-    .container {
-      display: flex;
-      flex-direction: column;
-      gap: 20px;
-      padding: 20px;
-    }
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  max-width: 80%;
+  margin: 0 auto;
+}
 
-    .top-section {
-      display: flex;
-      gap: 20px;
-      flex-wrap: wrap;
-    }
+/* === LAYOUT SECTIONS === */
+.top-section, .bottom-section {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
 
-    .left-pane, .right-pane {
-      background-color: #1a1a1a;
-      border-radius: 16px;
-      padding: 30px;
-      flex: 1;
-      min-width: 300px;
-    }
+.left-pane, .right-pane {
+  background-color: #1a1a1a;
+  border-radius: 16px;
+  padding: 30px;
+  min-width: 300px;
+}
 
-    .left-pane {
-      display: flex;
-      flex-direction: column;
-    }
+.left-pane {
+  flex: 3;
+  font-size: 0.85em;
+}
 
-    .nav-title {
-      font-size: 1.4em;
-      letter-spacing: 6px;
-      margin-bottom: 30px;
-      text-align: center;
-      color: #3366FF;
-      font-weight: bold;
-    }
+.right-pane {
+  flex: 6;
+}
 
-    .nav-grid {
-      display: flex;
-      flex-direction: column;
-      gap: 16px;
-    }
+/* === PAGE TITLE === */
+.page-title {
+  text-align: center;
+  color: #3366FF;
+  letter-spacing: 8px;
+  font-weight: bold;
+  font-size: 1.6em;
+  margin-bottom: 10px;
+}
 
-    .nav-item {
-      display: flex;
-      justify-content: space-between;
-      border-bottom: 1px solid #333;
-      padding: 10px;
-      cursor: pointer;
-      transition: all 0.2s ease;
-    }
+/* === NAVIGATION === */
+.nav-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
 
-    .nav-item:hover {
-      transform: scale(1.02);
-      background-color: #1f1f1f;
-    }
+.nav-item {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #333;
+  padding: 10px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
 
-    .nav-item:hover b,
-    .nav-item:hover i {
-      color: #22DD09;
-    }
+.nav-item b {
+  font-weight: bold;
+  color: #666;
+  transition: color 0.2s ease;
+}
 
-    .nav-item b {
-      font-weight: bold;
-      transition: color 0.2s ease;
-    }
+.nav-item i {
+  font-style: italic;
+  color: #666;
+  transition: color 0.2s ease;
+}
 
-    .nav-item i {
-      font-style: italic;
-      color: #aaa;
-      transition: color 0.2s ease;
-    }
+.nav-item:hover b,
+.nav-item:hover i {
+  color: #22DD09;
+}
 
-    .nav-item.active {
-      background-color: #1f1f1f;
-    }
+.nav-item.active {
+  background-color: #1f1f1f;
+}
 
-    .nav-item.active b,
-    .nav-item.active i {
-      color: #22DD09;
-    }
+.nav-item.active b,
+.nav-item.active i {
+  color: #fff;
+}
 
-    .right-pane .title-bar {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 20px;
-    }
+/* === DROPDOWNS & BUTTON === */
+.dropdown-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
 
-    .right-pane h3 {
-      color: #ffda3d;
-      margin: 0;
-    }
+.dropdown-group select {
+  background-color: #1e1e1e;
+  color: #888;
+  border: none;
+  padding: 12px 16px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 0.9em;
+  appearance: none;
+  cursor: pointer;
+  box-shadow: inset 0 0 0 1px #444;
+  background-image: url("data:image/svg+xml,%3Csvg fill='gray' height='12' viewBox='0 0 24 24' width='12' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 12px;
+  padding-right: 32px;
+  transition: all 0.2s ease;
+}
 
-    .clear-button {
-      padding: 8px 14px;
-      font-size: 0.9em;
-      font-weight: bold;
-      background-color: transparent;
-      color: #ff5555;
-      border: 1px solid #ff5555;
-      border-radius: 8px;
-      cursor: pointer;
-      transition: all 0.2s ease;
-    }
+.dropdown-group select:hover {
+  transform: scale(1.02);
+  box-shadow: inset 0 0 0 1px #666;
+}
 
-    .clear-button:hover {
-      background-color: #ff5555;
-      color: #000;
-    }
+.dropdown-group select:has(option:checked:not([value=""])) {
+  color: #ffffff;
+}
 
-    .dropdown-group {
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-    }
+.clear-button {
+  padding: 10px;
+  font-size: 0.85em;
+  font-weight: bold;
+  background-color: transparent;
+  color: #EF8C00;
+  border: 1px solid #EF8C00;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 10px;
+}
 
-    .dropdown-group select {
-      background-color: #000;
-      color: #343434;
-      border: none;
-      padding: 12px 16px;
-      border-radius: 8px;
-      font-weight: bold;
-      font-family: inherit;
-      font-size: 0.95em;
-      appearance: none;
-      cursor: pointer;
-      box-shadow: inset 0 0 0 1px #333;
-      transition: background 0.2s, box-shadow 0.2s, transform 0.2s, color 0.2s;
-    }
+.clear-button:hover {
+  background-color: #EF8C00;
+  color: #000;
+}
 
-    .dropdown-group select:hover {
-      transform: scale(1.02);
-    }
+/* === CONTENT BOXES === */
+.box {
+  background-color: #1a1a1a;
+  border-radius: 16px;
+  padding: 30px;
+  min-height: 200px;
+  overflow: hidden;
+  box-sizing: border-box;
+  transition: all 0.2s ease;
+}
 
-    .dropdown-group select:has(option:checked:not([value=""])) {
-      color: #ffffff;
-    }
+.box-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-bottom: 20px;
+  color: #22DD09;
+  text-decoration: underline;
+}
 
-    .bottom-section {
-      display: flex;
-      gap: 20px;
-      flex-wrap: wrap;
-    }
+.content-text {
+  white-space: pre-wrap;
+  text-align: center;
+  line-height: 1.6;
+}
 
-    .box {
-      flex: 1;
-      background-color: #1a1a1a;
-      border-radius: 16px;
-      padding: 30px;
-      min-height: 200px;
-      min-width: 300px;
-    }
+/* Adaptive content */
+.right-top-box .content-text {
+  font-size: 0.85em;
+  color: #ddd;
+}
 
-    .fade-in {
-      animation: fadeIn 0.6s ease-in-out;
-    }
+.right-bottom-box .content-text {
+  font-size: 0.95em;
+  color: #fff;
+}
 
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(10px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
+/* === ANIMATIONS === */
+.fade-in {
+  animation: fadeIn 0.6s ease-in-out;
+}
 
-    .box-title {
-      text-align: center;
-      font-weight: bold;
-      font-size: 1.1em;
-      margin-bottom: 20px;
-      color: #22DD09;
-    }
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
 
-    .content-text {
-      color: #eee;
-      white-space: pre-wrap;
-      line-height: 1.6;
-      text-align: center;
-    }
+/* === GLOBIND STYLING === */
+.conclusion-highlight {
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 1.2em;
+  color: #2266FF;
+  font-weight: bold;
+  line-height: 0; /* ↓ tighter */
+}
+
+.conclusion-footnote {
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 0.75em;
+  color: #666;
+  letter-spacing: 1px;
+  line-height: 0; /* ↓ tighter */
+}
+
+/* === RESPONSIVE === */
+@media (max-width: 768px) {
+  .top-section, .bottom-section {
+    flex-direction: column;
+  }
+
+  .left-pane, .right-pane {
+    min-width: 100%;
+    padding: 20px;
+  }
+}
+
+#originalText {
+  font-size: 0.85em !important;
+  color: #ccc;
+}
+
   </style>
 </head>
 <body>
   <div class="container">
+
+    <!-- PAGE TITLE -->
+    <div class="page-title">M I N D F O R G E R</div>
+
+    <!-- TOP SECTION -->
     <div class="top-section">
+      <!-- Left Navigation (Topics) -->
       <div class="left-pane">
-        <div class="nav-title">M I N D F O R G E R</div>
         <div class="nav-grid">
           <div class="nav-item" onclick="showAdaptation('motivation')"><b>Motivation</b><i>The Power of Stories</i></div>
           <div class="nav-item" onclick="showAdaptation('escalation')"><b>Escalation</b><i>The Pillar of Society</i></div>
@@ -205,156 +256,74 @@
         </div>
       </div>
 
-      <div class="right-pane">
-        <div class="title-bar">
-          <h3>Adapted Content</h3>
-          <button class="clear-button" onclick="clearFilters()">Clear All Filters</button>
+      <!-- Right Box (Original Text) -->
+      <div class="right-pane right-top-box">
+        <div class="box">
+          <div id="originalTitle" class="box-title">Welcome!</div>
+          <div id="originalText" class="content-text">
+            Start your journey by selecting a topic from the left.<br><br>
+            We recommend beginning with <strong>“Motivation”</strong> to explore how stories shape us.
+          </div>
         </div>
+      </div>
+    </div>
+
+    <!-- BOTTOM SECTION -->
+    <div class="bottom-section">
+      <!-- Filters -->
+      <div class="left-pane">
         <div class="dropdown-group">
-          <select id="language" onchange="updateFromDropdown()">
-            <option value="">Language</option>
-            <option value="English">English</option>
-            <option value="German">German</option>
-            <option value="French">French</option>
-            <option value="Spanish">Spanish</option>
-          </select>
 
-          <select id="age" onchange="updateFromDropdown()">
-            <option value="">Age / Life Stage</option>
-            <option value="Teen">Teen (13–17)</option>
-            <option value="YoungAdult">Young Adult (18–25)</option>
-            <option value="Adult">Adult (26+)</option>
+          <select id="age" onchange="updateFromDropdown('age')">
+            <option value="">Stage of Life</option>
+            <option value="Elementary">Elementary</option>
+            <option value="Adult">Adult</option>
+            <option value="Pension">Pension Age</option>
           </select>
-
-          <select id="emotion" onchange="updateFromDropdown()">
+          
+          <select id="emotion" onchange="updateFromDropdown('emotion')">
             <option value="">Triggered Emotion</option>
             <option value="Hope">Hope</option>
             <option value="Fear">Fear</option>
             <option value="Curiosity">Curiosity</option>
           </select>
-
-          <select id="worldview" onchange="updateFromDropdown()">
-            <option value="">Worldview</option>
-            <option value="Realist">Realist</option>
-            <option value="Idealist">Idealist</option>
-            <option value="Pragmatist">Pragmatist</option>
+          
+          <select id="manipulation" onchange="updateFromDropdown('manipulation')">
+            <option value="">Truth & Story Framing</option>
+            <option value="Reassuring">Reassuring / Emotionally Grounding</option>
+            <option value="Provocative">Provocative / Challenging & Disruptive</option>
+            <option value="Manipulative">Manipulative / Persuasive & Distorting</option>
+          </select>
+          
+          <select id="ideology" onchange="updateFromDropdown('ideology')">
+            <option value="">Ideological Bias</option>
+            <option value="Socialist">Socialist / Collectivist</option>
+            <option value="Capitalist">Capitalist / Market-driven</option>
+            <option value="Left">Political Left</option>
+            <option value="Right">Political Right</option>
           </select>
 
-          <select id="manipulation" onchange="updateFromDropdown()">
-            <option value="">Content Manipulation</option>
-            <option value="Simplified">Simplified</option>
-            <option value="Analytical">Analytical</option>
-            <option value="Provocative">Provocative</option>
+          <select id="prompt" onchange="updateFromDropdown()" disabled>
+            <option value="">Personal Prompt (coming soon)</option>
           </select>
 
-          <select id="prompt" onchange="updateFromDropdown()">
-            <option value="">Personal Prompt</option>
-            <option value="Custom1">Prompt 1</option>
-            <option value="Custom2">Prompt 2</option>
-          </select>
+          <button class="clear-button" onclick="clearFilters()">Clear All Filters</button>
+        </div>
+      </div>
+
+      <!-- Right Box (Adaptive Interpretation) -->
+      <div class="right-pane right-bottom-box">
+        <div class="box">
+          <div class="box-title" id="adaptiveTitle" style="display: none; color: #FFA500;">Adaptive Interpretation</div>
+          <div id="adaptedText" class="content-text"></div>
         </div>
       </div>
     </div>
 
-    <div class="bottom-section">
-      <div class="box">
-        <div id="originalTitle" class="box-title"></div>
-        <div id="originalText" class="content-text"></div>
-      </div>
-      <div class="box">
-        <div id="adaptedText" class="content-text"></div>
-      </div>
-    </div>
   </div>
 
-  <script>
-    let currentTopic = "";
-
-    const adaptedMap = {
-      motivation: {
-        base: `Our Experiences and Emotions shape who we are and what drives us.\n\nEmotional Cognition = Behavioural Strategies = Motivated Identity\n\nThe Leaders with the most compelling stories will influence society by inspiring us through our emotions.`,
-
-        Teen_Hope: `Placeholder for Teen + Hope`,
-        Adult_Fear: `Placeholder for Adult + Fear`,
-        French_Teen_Hope: `Texte d'exemple en français pour un adolescent plein d'espoir.`,
-        Spanish_Adult_Fear: `Ejemplo en español para un adulto motivado por el miedo.`,
-      },
-
-      escalation: { base: "Escalation base text." },
-      realization: { base: "Realization base text." },
-      interpretation: { base: "Interpretation base text." },
-      clarification: { base: "Clarification base text." },
-      determination: { base: "Determination base text." }
-    };
-
-    const titles = {
-      motivation: "Motivation : The Power of Stories",
-      escalation: "Escalation : The Pillar of Society",
-      realization: "Realization : The Existential Question",
-      interpretation: "Interpretation : The Lesson of History",
-      clarification: "Clarification : The Truth that Matters",
-      determination: "Determination : The Rational Choice"
-    };
-
-    function showAdaptation(topic) {
-      currentTopic = topic;
-
-      document.querySelectorAll('.nav-item').forEach(item => item.classList.remove('active'));
-      const clicked = document.querySelector(`.nav-item[onclick*="${topic}"]`);
-      if (clicked) clicked.classList.add('active');
-
-      document.getElementById("originalTitle").textContent = titles[topic] || "";
-      document.getElementById("originalText").textContent = adaptedMap[topic]?.base || "";
-      document.getElementById("adaptedText").textContent = "";
-
-      document.getElementById("originalText").classList.add("fade-in");
-      setTimeout(() => {
-        document.getElementById("originalText").classList.remove("fade-in");
-      }, 700);
-    }
-
-    function updateFromDropdown() {
-      if (!currentTopic) return;
-
-      const language = document.getElementById("language").value;
-      const age = document.getElementById("age").value;
-      const worldview = document.getElementById("worldview").value;
-      const emotion = document.getElementById("emotion").value;
-      const manipulation = document.getElementById("manipulation").value;
-      const prompt = document.getElementById("prompt").value;
-
-      const section = adaptedMap[currentTopic];
-      let adapted = section?.base || "No base content.";
-
-      const comboKeys = [];
-
-      comboKeys.push(`${language}_${age}_${worldview}_${emotion}_${manipulation}_${prompt}`);
-      comboKeys.push(`${language}_${age}_${emotion}`);
-      comboKeys.push(`${language}_${age}`);
-      comboKeys.push(`${language}`);
-      comboKeys.push(`${age}_${emotion}`);
-      comboKeys.push(`${age}`);
-      comboKeys.push(`${emotion}`);
-
-      for (const key of comboKeys) {
-        if (section[key]) {
-          adapted = section[key];
-          break;
-        }
-      }
-
-      document.getElementById("adaptedText").textContent = adapted;
-      document.getElementById("adaptedText").classList.add("fade-in");
-      setTimeout(() => {
-        document.getElementById("adaptedText").classList.remove("fade-in");
-      }, 700);
-    }
-
-    function clearFilters() {
-      const selects = document.querySelectorAll('.dropdown-group select');
-      selects.forEach(select => select.value = "");
-      updateFromDropdown();
-    }
-  </script>
+  <!-- JavaScript -->
+  <script src="content.js"></script> 
+  <script src="main.js"></script>
 </body>
 </html>
