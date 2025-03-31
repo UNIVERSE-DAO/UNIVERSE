@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <title>MINDFORGER</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="MINDFORGER – Interactive ethical storytelling about AI, truth, and human reasoning." />
   <style>
 /* === GLOBAL STYLES === */
 body {
@@ -14,48 +16,122 @@ body {
 }
 
 .container {
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 10px 20px; /* was 20px → 10px */
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  gap: 20px;
-  padding: 20px;
-  max-width: 80%;
-  margin: 0 auto;
+  gap: 20px; /* was 40px → tighter */
 }
 
-/* === LAYOUT SECTIONS === */
-.top-section, .bottom-section {
-  display: flex;
-  gap: 20px;
-  flex-wrap: wrap;
-}
-
-.left-pane, .right-pane {
-  background-color: #1a1a1a;
-  border-radius: 16px;
-  padding: 30px;
-  min-width: 300px;
-}
-
-.left-pane {
-  flex: 3;
-  font-size: 0.85em;
-}
-
-.right-pane {
-  flex: 6;
-}
-
-/* === PAGE TITLE === */
 .page-title {
   text-align: center;
   color: #3366FF;
-  letter-spacing: 8px;
-  font-weight: bold;
-  font-size: 1.6em;
-  margin-bottom: 10px;
+  letter-spacing: 7px;
+  font-weight: 900;     /* use this for max bold */
+  font-size: 2em;
+  margin-top: 5vh;      /* proper top spacing */
+  margin-bottom: -8px;
 }
 
-/* === NAVIGATION === */
+#main-title {
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+#main-title:hover {
+  color: #343434;
+}
+
+#main-title.locked {
+  color: #343434;
+}
+
+@keyframes darkPulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; } /* gentler dip */
+}
+
+#main-title.pulse {
+  animation: darkPulse 3s ease-in-out 2;
+}
+
+
+/* === POEM CONTAINER === */
+.page-title {
+  text-align: center;
+  color: #3366FF;
+  letter-spacing: 7px;     /* or 10px if you prefer */
+  font-weight: 900;        /* maximum bold */
+  font-size: 2em;          /* slightly larger */
+  margin-top: 5vh;         /* 5% from top of screen */
+  margin-bottom: -8px;     /* tight spacing to poem */
+}
+
+#poem-container {
+  margin-top: 0em;
+  margin-bottom: 0.75em;
+  color: #3366FF;
+  font-size: 1em;          /* slightly smaller */
+  line-height: 1.4em;         /* tighter line height */
+  text-align: center;
+  transition: max-height 0.4s ease, opacity 0.4s ease, margin 0.3s ease;
+  overflow: hidden;
+  max-height: 0;
+  opacity: 0;
+  padding: 0;
+}
+
+#poem-container.show {
+  max-height: 300px; /* ↓ reduced from 300px */
+  opacity: 1;
+  margin-top: 0em;
+  margin-bottom: 0px;
+}
+
+#poem-container p {
+  margin: 0px 0;     /* ↓ smaller than before */
+  padding: 0;
+}
+
+/* === FLEX GRID === */
+.top-row,
+.bottom-row {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.top-row .nav-grid {
+  flex: 1;
+  min-width: 220px;
+  max-width: 300px;
+  font-size: 0.85em;
+}
+
+.top-row .right-box,
+.bottom-row .right-pane {
+  flex: 2;
+  min-width: 300px;
+}
+
+.bottom-row .left-pane {
+  flex: 0.9;
+  min-width: 200px;
+  max-width: 270px;
+  font-size: 0.85em;
+}
+
+.merged-pane {
+  background-color: #1a1a1a;
+  border-radius: 20px;
+  padding: 24px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+}
+
 .nav-grid {
   display: flex;
   flex-direction: column;
@@ -66,7 +142,7 @@ body {
   display: flex;
   justify-content: space-between;
   border-bottom: 1px solid #333;
-  padding: 10px;
+  padding: 5px;
   cursor: pointer;
   transition: all 0.2s ease;
 }
@@ -74,12 +150,15 @@ body {
 .nav-item b {
   font-weight: bold;
   color: #666;
+  font-size: 0.85em;
+  margin-right: 4px;
   transition: color 0.2s ease;
 }
 
 .nav-item i {
   font-style: italic;
   color: #666;
+  font-size: 0.75em;
   transition: color 0.2s ease;
 }
 
@@ -97,67 +176,16 @@ body {
   color: #fff;
 }
 
-/* === DROPDOWNS & BUTTON === */
-.dropdown-group {
+.box {
   display: flex;
   flex-direction: column;
-  gap: 10px;
-}
-
-.dropdown-group select {
-  background-color: #1e1e1e;
-  color: #888;
-  border: none;
-  padding: 12px 16px;
-  border-radius: 8px;
-  font-weight: bold;
-  font-size: 0.9em;
-  appearance: none;
-  cursor: pointer;
-  box-shadow: inset 0 0 0 1px #444;
-  background-image: url("data:image/svg+xml,%3Csvg fill='gray' height='12' viewBox='0 0 24 24' width='12' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
-  background-repeat: no-repeat;
-  background-position: right 12px center;
-  background-size: 12px;
-  padding-right: 32px;
-  transition: all 0.2s ease;
-}
-
-.dropdown-group select:hover {
-  transform: scale(1.02);
-  box-shadow: inset 0 0 0 1px #666;
-}
-
-.dropdown-group select:has(option:checked:not([value=""])) {
-  color: #ffffff;
-}
-
-.clear-button {
+  justify-content: center;
+  align-items: center;
   padding: 10px;
-  font-size: 0.85em;
-  font-weight: bold;
-  background-color: transparent;
-  color: #EF8C00;
-  border: 1px solid #EF8C00;
-  border-radius: 8px;
-  cursor: pointer;
-  margin-top: 10px;
-}
-
-.clear-button:hover {
-  background-color: #EF8C00;
-  color: #000;
-}
-
-/* === CONTENT BOXES === */
-.box {
+  min-height: 200px;
+  box-sizing: border-box;
   background-color: #1a1a1a;
   border-radius: 16px;
-  padding: 30px;
-  min-height: 200px;
-  overflow: hidden;
-  box-sizing: border-box;
-  transition: all 0.2s ease;
 }
 
 .box-title {
@@ -169,21 +197,116 @@ body {
   text-decoration: underline;
 }
 
-.content-text {
-  white-space: pre-wrap;
-  text-align: center;
-  line-height: 1.6;
+.bigger {
+  font-size: 1.4em;
 }
 
-/* Adaptive content */
-.right-top-box .content-text {
-  font-size: 0.85em;
+.content-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0 5px;
+  max-width: 600px;
+  line-height: 1.5;
+  font-size: 0.8em;
   color: #ddd;
 }
 
-.right-bottom-box .content-text {
-  font-size: 0.95em;
-  color: #fff;
+.content-text p {
+  margin: 8px 0;
+}
+
+.conclusion-highlight {
+  display: block;
+  margin-top: 12px;
+  font-size: 1.1em;
+  color: #3366FF;
+  font-weight: bold;
+  text-align: center;
+}
+
+.conclusion-footnote {
+  display: block;
+  margin-top: 6px;
+  font-size: 0.75em;
+  color: #ccc;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+/* === DROPDOWNS === */
+.dropdown-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.dropdown-group select {
+  background-color: #1e1e1e;
+  color: #888;
+  border: none;
+  padding: 10px 14px;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 0.85em;
+  appearance: none;
+  cursor: pointer;
+  box-shadow: inset 0 0 0 1px #333;
+  background-image: url("data:image/svg+xml,%3Csvg fill='gray' height='12' viewBox='0 0 24 24' width='12' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  background-size: 10px;
+  padding-right: 28px;
+  transition: all 0.2s ease;
+}
+
+.dropdown-group select:hover {
+  transform: scale(1.02);
+  box-shadow: inset 0 0 0 1px #666;
+}
+
+.dropdown-group select#manipulation.red-highlight {
+  border: 1px solid red;
+  color: #FF4444;
+  font-weight: bold;
+}
+
+.dropdown-group select:hover {
+  transform: scale(1.02);
+  box-shadow: inset 0 0 0 1px #666;
+  background-color: #1c1c1c;
+  color: #ccc;
+}
+
+.dropdown-group select:focus {
+  outline: none;
+  border: 1px solid #22DD09;
+  color: #eee;
+}
+
+select.active-filter {
+  color: #fff !important;
+  font-weight: bold;
+}
+
+
+/* === PROMPT TEXTAREA === */
+textarea#userPrompt {
+  width: 100%;
+  padding: 12px;
+  background-color: #000;
+  border: 1px solid #333;
+  border-radius: 10px;
+  color: #666;
+  font-size: 0.85em;
+  font-family: inherit;
+  resize: vertical;
+  min-height: 100px;
+  opacity: 0.4;
+  cursor: not-allowed;
 }
 
 /* === ANIMATIONS === */
@@ -196,56 +319,68 @@ body {
   to { opacity: 1; transform: translateY(0); }
 }
 
-/* === GLOBIND STYLING === */
-.conclusion-highlight {
-  display: block;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  font-size: 1.2em;
-  color: #2266FF;
-  font-weight: bold;
-  line-height: 0; /* ↓ tighter */
-}
-
-.conclusion-footnote {
-  display: block;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  font-size: 0.75em;
-  color: #666;
-  letter-spacing: 1px;
-  line-height: 0; /* ↓ tighter */
-}
-
-/* === RESPONSIVE === */
+/* === MEDIA QUERIES === */
 @media (max-width: 768px) {
-  .top-section, .bottom-section {
+  .top-row,
+  .bottom-row {
     flex-direction: column;
   }
 
-  .left-pane, .right-pane {
-    min-width: 100%;
-    padding: 20px;
+  .top-row .nav-grid,
+  .top-row .right-box,
+  .bottom-row .left-pane,
+  .bottom-row .right-pane {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .dropdown-group select {
+    font-size: 0.9em;
+    padding: 10px 14px;
+  }
+
+  .dropdown-group {
+    gap: 12px;
   }
 }
 
-#originalText {
-  font-size: 0.85em !important;
-  color: #ccc;
+@media (max-width: 500px) {
+  .bottom-row .left-pane {
+    font-size: 0.8em;
+  }
+
+  .dropdown-group select {
+    font-size: 0.8em;
+    padding: 9px 12px;
+  }
 }
+
 
   </style>
 </head>
+
 <body>
   <div class="container">
+    <div id="main-title" class="page-title">M I N D F O R G E R</div>
 
-    <!-- PAGE TITLE -->
-    <div class="page-title">M I N D F O R G E R</div>
+    <div id="poem-container">
+      <p>In the essential quest to see, we first must find,<br>
+      The core issue that to all of us is blind.<br>
+      Acknowledgment starts the trail,<br>
+      Where synthesis will prevail.</p>
+      <br>
+      <p>Piece by piece, the puzzle laid,<br>
+      In unity and consensus, fears allayed.<br>
+      From the depths of 'impossible' streams,<br>
+      Crucial solutions emerge, elegantly it seems.</p>
+    </div>
+    
 
     <!-- TOP SECTION -->
-    <div class="top-section">
-      <!-- Left Navigation (Topics) -->
-      <div class="left-pane">
+    <div class="merged-pane">
+      <div class="top-row">
+
+        <!-- Left Navigation -->
         <div class="nav-grid">
           <div class="nav-item" onclick="showAdaptation('motivation')"><b>Motivation</b><i>The Power of Stories</i></div>
           <div class="nav-item" onclick="showAdaptation('escalation')"><b>Escalation</b><i>The Pillar of Society</i></div>
@@ -254,76 +389,139 @@ body {
           <div class="nav-item" onclick="showAdaptation('clarification')"><b>Clarification</b><i>The Truth that Matters</i></div>
           <div class="nav-item" onclick="showAdaptation('determination')"><b>Determination</b><i>The Rational Choice</i></div>
         </div>
-      </div>
 
-      <!-- Right Box (Original Text) -->
-      <div class="right-pane right-top-box">
-        <div class="box">
-          <div id="originalTitle" class="box-title">Welcome!</div>
-          <div id="originalText" class="content-text">
-            Start your journey by selecting a topic from the left.<br><br>
-            We recommend beginning with <strong>“Motivation”</strong> to explore how stories shape us.
+        <!-- Original Content -->
+        <div class="right-box">
+          <div class="box">
+            <div id="originalTitle" class="box-title"><strong><span class="bigger">W E L C O M E</span></strong></div>
+            <div id="originalText" class="content-text">
+              <p>Begin exploring with Motivation - where stories shape who we are.</p>
+            </div>
           </div>
         </div>
+
       </div>
     </div>
 
     <!-- BOTTOM SECTION -->
-    <div class="bottom-section">
-      <!-- Filters -->
-      <div class="left-pane">
-        <div class="dropdown-group">
+    <div class="merged-pane">
+      <div class="bottom-row">
 
-          <select id="age" onchange="updateFromDropdown('age')">
-            <option value="">Stage of Life</option>
-            <option value="Elementary">Elementary</option>
-            <option value="Adult">Adult</option>
-            <option value="Pension">Pension Age</option>
-          </select>
-          
-          <select id="emotion" onchange="updateFromDropdown('emotion')">
-            <option value="">Triggered Emotion</option>
-            <option value="Hope">Hope</option>
-            <option value="Fear">Fear</option>
-            <option value="Curiosity">Curiosity</option>
-          </select>
-          
-          <select id="manipulation" onchange="updateFromDropdown('manipulation')">
-            <option value="">Truth & Story Framing</option>
-            <option value="Reassuring">Reassuring / Emotionally Grounding</option>
-            <option value="Provocative">Provocative / Challenging & Disruptive</option>
-            <option value="Manipulative">Manipulative / Persuasive & Distorting</option>
-          </select>
-          
-          <select id="ideology" onchange="updateFromDropdown('ideology')">
-            <option value="">Ideological Bias</option>
-            <option value="Socialist">Socialist / Collectivist</option>
-            <option value="Capitalist">Capitalist / Market-driven</option>
-            <option value="Left">Political Left</option>
-            <option value="Right">Political Right</option>
-          </select>
+        <!-- Filter Dropdowns -->
+        <div class="left-pane">
+          <div class="dropdown-group">
+            <select id="age" onchange="updateFromDropdown('age')">
+              <option value="">Stage of Life</option>
+              <option value="Elementary">Elementary</option>
+              <option value="Adult">Adult</option>
+              <option value="Pension">Pension Age</option>
+            </select>
 
-          <select id="prompt" onchange="updateFromDropdown()" disabled>
-            <option value="">Personal Prompt (coming soon)</option>
-          </select>
+            <select id="emotion" onchange="updateFromDropdown('emotion')">
+              <option value="">Triggered Emotion</option>
+              <option value="Hope">Hope</option>
+              <option value="Fear">Fear</option>
+              <option value="Curiosity">Curiosity</option>
+            </select>
 
-          <button class="clear-button" onclick="clearFilters()">Clear All Filters</button>
+            <select id="ideology" onchange="updateFromDropdown('ideology')">
+              <option value="">Ideological Bias</option>
+              <option value="Socialist">Socialist / Collectivist</option>
+              <option value="Capitalist">Capitalist / Market-driven</option>
+              <option value="Left">Political Left</option>
+              <option value="Right">Political Right</option>
+            </select>
+
+            <select id="manipulation" onchange="updateFromDropdown('manipulation')">
+              <option value="">Truth & Framing</option>
+              <option value="Reassuring">Reassuring</option>
+              <option value="Provocative">Provocative</option>
+              <option value="Manipulative">Manipulative</option>
+            </select>
+
+            <select id="prompt" onchange="updateFromDropdown()" disabled>
+              <option value="">My Prompt (coming soon)</option>
+            </select>
+          </div>
         </div>
-      </div>
 
-      <!-- Right Box (Adaptive Interpretation) -->
-      <div class="right-pane right-bottom-box">
-        <div class="box">
-          <div class="box-title" id="adaptiveTitle" style="display: none; color: #FFA500;">Adaptive Interpretation</div>
-          <div id="adaptedText" class="content-text"></div>
+        <!-- Adaptive Output -->
+        <div class="right-pane">
+          <div class="box">
+            <div class="box-title" id="adaptiveTitle" style="display: none; color: #FFA500;">Adaptive Perspective</div>
+            <div id="adaptedText" class="content-text"></div>
+          </div>
         </div>
+
       </div>
     </div>
-
   </div>
 
   <!-- JavaScript -->
-  <script src="content.js"></script> 
+  <script src="content.js"></script>
   <script src="main.js"></script>
+
+
+
+  <script>
+    const titleEl = document.getElementById('main-title');
+    const poemEl = document.getElementById('poem-container');
+  
+    let isLockedOpen = false;
+  
+    // Show poem (hover/touch)
+    function revealPoem() {
+      if (!isLockedOpen) {
+        poemEl.classList.add('show');
+      }
+    }
+  
+    // Hide poem (leave)
+    function hidePoem() {
+      if (!isLockedOpen) {
+        poemEl.classList.remove('show');
+      }
+    }
+  
+    // Toggle lock state on click
+    titleEl.addEventListener('click', () => {
+      isLockedOpen = !isLockedOpen;
+      poemEl.classList.toggle('show', isLockedOpen);
+      titleEl.classList.toggle('locked', isLockedOpen); // visual feedback
+    });
+  
+    // Hover / mouse
+    titleEl.addEventListener('mouseenter', revealPoem);
+    titleEl.addEventListener('mouseleave', hidePoem);
+  
+    // Touch devices
+    titleEl.addEventListener('touchstart', revealPoem);
+    titleEl.addEventListener('touchend', hidePoem);
+  </script>
+
+<script>
+  window.addEventListener('load', () => {
+    const title = document.getElementById('main-title');
+
+    // Start the pulse
+    title.classList.add('pulse');
+
+    // Stop pulse after full animation (fallback)
+    const pulseTimeout = setTimeout(() => {
+      title.classList.remove('pulse');
+    }, 7500); // 3s * 2 pulses
+
+    // Cancel pulse early if user hovers or touches
+    const stopPulse = () => {
+      title.classList.remove('pulse');
+      clearTimeout(pulseTimeout);
+    };
+
+    title.addEventListener('mouseenter', stopPulse, { once: true });
+    title.addEventListener('touchstart', stopPulse, { once: true });
+  });
+</script>
+
+
 </body>
 </html>
