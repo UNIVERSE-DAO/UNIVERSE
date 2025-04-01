@@ -4,6 +4,25 @@ All notable changes to this project will be documented here.
 
 ---
 
+## [0.1.1] – 2025-04-01
+
+### 🔨 Structure Cleanup & UI Clarification
+- ✅ Removed unused `6 frontend/` folder to reduce redundancy
+- ✅ Confirmed `7 nextjs-app/` as the primary UI module
+- 🧭 Clarified future potential for `frontend/` as a design system if needed
+
+### 📂 Updated Project Layout
+- Finalized symbolic structure (`0 #DAO - The Layer Zero`, `1 #MOMENTUM`, etc.)
+- Verified alignment with `PROJECT-STRUCTURE.md` and `BRANCHING-STRATEGY.md`
+
+### 🛠 Ready for Branch Rollout
+- Confirmed that `dev` branch is the starting point for modular branches
+- Staged rollout plan: `identity`, `infra1`, `scrs`, `ui/nextjs`, etc.
+
+> ✅ Next step: Begin creating branches and linking protected submodules
+
+---
+
 ## [0.1.0] – 2025-04-01
 
 ### 🆕 Added
@@ -30,4 +49,3 @@ All notable changes to this project will be documented here.
 
 > This marks the foundational structure of the UNIVERSE codebase:  
 > future-proofed, modular, and ready for the Infinite Game 🌌
-
