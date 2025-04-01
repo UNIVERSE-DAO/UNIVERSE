@@ -9,7 +9,7 @@ It supports modular development, decentralization phases, and collaborative work
 
 | Branch         | Purpose                                                                 |
 |----------------|-------------------------------------------------------------------------|
-| `main`         | ✅ Stable, production-level code (demo-ready)           |
+| `main`         | ✅ Stable, production-level code (demo-ready, investor-facing)          |
 | `dev`          | 🧪 Active development branch — staging zone for merging features         |
 | `docs`         | 📚 Documentation, whitepapers, governance processes                      |
 | `infra1`       | 🏗️ Infrastructure for the **bootstrapping phase**                        |
@@ -23,7 +23,7 @@ It supports modular development, decentralization phases, and collaborative work
 
 ## 🌱 Short-Lived Feature Branches
 
-These are created from the most relevant parent branch (`dev`, `infra1`, etc.), then merged back when complete.
+These branches are created from a relevant core branch (like `dev`, `infra1`, `identity`, etc.) and merged back when completed and reviewed.
 
 | Branch                     | Based on      | Purpose                                                   |
 |----------------------------|---------------|-----------------------------------------------------------|
@@ -40,10 +40,11 @@ These are created from the most relevant parent branch (`dev`, `infra1`, etc.), 
 ## 🔁 Workflow Summary
 
 1. **Create a branch** from the appropriate base (e.g. `dev`, `identity`, `infra1`, etc.)
-2. Make changes → commit and push
+2. Make your changes → commit and push
 3. Open a **Pull Request** into the parent branch
-4. Test, review, and merge
-5. Periodically merge `dev` → `main` when stable
+4. Review and test changes
+5. Merge the PR after approval
+6. Periodically merge `dev` → `main` when stable
 
 ---
 
@@ -52,22 +53,26 @@ These are created from the most relevant parent branch (`dev`, `infra1`, etc.), 
 > One branch = one clear purpose  
 > Build modular, test independently, and merge cleanly.
 
+This strategy supports collaborative scaling while keeping complexity under control.
+
 ---
 
 ## 📁 Folder & File Naming Conventions
 
-To clarify the state of each module in the codebase, UNIVERSE uses specific file naming patterns:
+To clarify the state of each module, UNIVERSE uses consistent naming markers:
 
 | Status                  | Naming Pattern         | Meaning                                                                 |
 |--------------------------|------------------------|-------------------------------------------------------------------------|
-| 📦 Placeholder Module    | `--README.md`          | Indicates the module is **planned** but not yet implemented             |
-| 🛡️ Protected Module      | `#MODULE` (e.g. `#DAO`) | Indicates the module exists but is **withheld** for IP/security reasons |
+| 📦 Placeholder Module    | `--README.md`          | Module is **planned** but not yet implemented                          |
+| 🛡️ Protected Module      | `#MODULE`              | Logic exists but is **withheld** for IP or security reasons            |
 
-### Example Usage:
+### 📌 Example Usage:
 
-- A folder like `dao/` might contain a file: `#DAO`, with a note that smart contracts are being developed externally.
-- A folder like `scrs/` might contain a file: `--README.md`, indicating the logic will be implemented in the next stage.
+- A folder like `dao-core/` might contain a file: `#DAO`, with a note that smart contracts are being developed externally.
+- A folder like `scrs/` might contain a file: `--README.md`, indicating the logic will be implemented in a future phase.
 
-These naming patterns improve clarity for contributors, reviewers, and investors by showing which parts of the system are active, pending, or intentionally hidden.
+These naming conventions help communicate the **status, priority, and intention** behind each part of the codebase — useful for contributors, reviewers, and external observers.
 
 ---
+
+> _Branch with purpose. Merge with clarity. Build the Infinite Game._
