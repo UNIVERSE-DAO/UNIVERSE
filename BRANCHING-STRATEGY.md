@@ -61,17 +61,17 @@ This strategy supports collaborative scaling while keeping complexity under cont
 
 To clarify the state of each module, UNIVERSE uses consistent naming markers:
 
-| Status                  | Naming Pattern         | Meaning                                                                 |
-|--------------------------|------------------------|-------------------------------------------------------------------------|
-| 📦 Placeholder Module    | `--README.md`          | Module is **planned** but not yet implemented                          |
-| 🛡️ Protected Module      | `#MODULE`              | Logic exists but is **withheld** for IP or security reasons            |
+| Status                  | Naming Pattern      | Meaning                                                             |
+|-------------------------|---------------------|----------------------------------------------------------------------|
+| 📦 Placeholder Module    | `-README.md`        | Module is **planned** but not yet implemented                       |
+| 🛡️ Protected Module      | `#MODULE`           | Logic exists but is **withheld** for IP or security reasons         |
 
-### 📌 Example Usage:
+### 📌 Example Usage
 
-- A folder like `dao-core/` might contain a file: `#DAO`, with a note that smart contracts are being developed externally.
-- A folder like `scrs/` might contain a file: `--README.md`, indicating the logic will be implemented in a future phase.
+- A file or folder prefixed with `#`, such as `#DAO`, indicates protected content developed externally or under NDA.
+- A file like `-README.md` inside a module marks it as a placeholder for planned but not-yet-implemented logic.
 
-These naming conventions help communicate the **status, priority, and intention** behind each part of the codebase — useful for contributors, reviewers, and external observers.
+These naming conventions improve clarity for contributors, reviewers, and investors — helping everyone quickly understand what’s public, planned, or protected.
 
 ---
 
