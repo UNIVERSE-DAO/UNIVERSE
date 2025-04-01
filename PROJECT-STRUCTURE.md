@@ -1,51 +1,44 @@
 # 📂 UNIVERSE – Project Structure
 
-This document outlines the full folder and file structure of the UNIVERSE repository, including all modules, submodules, placeholders, and special files.
+This document outlines the current folder and file structure of the UNIVERSE repository, including all modules, protected areas, and development placeholders.
 
 ---
 
 ## 🔢 Modular System Overview
 
-| Path                                | Purpose                                                                 |
-|-------------------------------------|-------------------------------------------------------------------------|
-| `.github/`                          | GitHub configuration                                                    |
-| └── `workflows/`                    | CI/CD workflows (e.g. `ci.yml`)                                         |
-| `0 #DAO - The Layer Zero/`          | 🏛️ Root layer of trust, governance, and smart contracts                 |
-| ├── `1.1 contracts/`                | Smart contracts (protected or external repo)                            |
-| ├── `1.2 proposals/`                | Proposal logic, drafts, and governance flows                            |
-| └── `1.3 voting/`                   | DAO voting logic and (future) UI integration                            |
-| `1 #MOMENTUM/`                      | 🔥 Cultural ignition layer — virality, onboarding emotion               |
-| └── `- README.md`                   | Placeholder or vision doc                                               |
-| `2 MINDFORGER/`                     | 🧠 Ideology, narrative design, philosophical clarity                     |
-| ├── `README.md`                     | Explains the role of Mindforger                                         |
-| ├── `content.js`                    | Placeholder for future content logic                                    |
-| ├── `index.html`                    | Placeholder for interface experiments                                   |
-| └── `main.js`                       | Placeholder for interaction logic                                       |
-| `3 identity/`                       | 🆔 Self-sovereign login & auth                                          |
-| ├── `3.1 #SignUp1/`                 | Web2-compatible onboarding                                              |
-| │   └── `#SignUp1.md`               | Protected module placeholder                                            |
-| ├── `3.2 #SignUp2/`                 | zk-auth, DIDs, decentralized onboarding                                 |
-| │   └── `#SignUp2.md`               | Protected module placeholder                                            |
-| └── `- README.md`                   | Identity system structure overview                                      |
-| `4 infra/`                          | 🏗️ Privacy-preserving, resilient infrastructure                        |
-| ├── `4.1 #infra1/`                  | Early-stage hosted infra (bootstrapping)                                |
-| │   └── `#infra1.md`                | Protected logic or notes                                                |
-| ├── `4.2 #infra2/`                  | Fully decentralized, censorship-resistant layer                         |
-| │   └── `#infra2.md`                | Protected logic or notes                                                |
-| ├── `4.3 #KPI/`                     | ZK-KPI systems, verifiable performance tracking                         |
-| │   └── `#KPI.md`                   | Placeholder or protected logic                                          |
-| └── `README.md`                     | Overview of infrastructure roadmap                                      |
-| `5 backend/`                        | ⚙️ APIs, service logic, data handlers                                   |
-| ├── `- README.md`                   | Placeholder or module index                                             |
-| └── `- package.json`                | Future Node.js configuration                                            |
-| `6 frontend/`                       | 🎨 UI components, styling, logic                                        |
-| └── `- README.md`                   | Placeholder                                                             |
-| `7 nextjs-app/`                     | 🌐 Public-facing web app shell                                          |
-| └── `- README.md`                   | Placeholder                                                             |
-| `8 scripts/`                        | 🛠️ Internal dev tools and automation                                   |
-| └── `- README.md`                   | Placeholder                                                             |
-| `docs/`                             | 📚 Documentation, governance references, whitepapers                    |
-| `contracts/`                        | 🔐 (Optional) smart contract export or aggregation                      |
+| Path                                   | Purpose                                                                 |
+|----------------------------------------|-------------------------------------------------------------------------|
+| `.github/`                             | GitHub configuration and automation                                     |
+| `0 #DAO - The Layer Zero/`             | 🏛️ Root consensus layer — DAO governance, contracts, proposals          |
+| ├── `1.1 contracts/`                   | Smart contracts (protected or external)                                 |
+| ├── `1.2 proposals/`                   | DAO proposal templates and governance flows                             |
+| └── `1.3 voting/`                      | Voting logic and UI integration                                         |
+| `1 #MOMENTUM/`                         | 🔥 Cultural ignition — virality, onboarding emotion                     |
+| `2 MINDFORGER/`                        | 🧠 Ideology layer — vision, PMF insight, narrative refinement           |
+| ├── `README.md`                        | Introduction to the Mindforger layer                                    |
+| ├── `content.js`                       | Placeholder content logic (future)                                      |
+| ├── `index.html`                       | Prototype or storytelling draft                                         |
+| └── `main.js`                          | Placeholder for interface interaction                                   |
+| `3 identity/`                          | 🆔 Self-sovereign identity and onboarding systems                        |
+| ├── `3.1 #SignUp1/`                    | Web2-style login with privacy-first foundation                          |
+| │   └── `#SignUp1.md`                  | Protected logic or private documentation                                |
+| ├── `3.2 #SignUp2/`                    | zk-login, DIDs, decentralized identity                                  |
+| │   └── `#SignUp2.md`                  | Protected logic or private documentation                                |
+| └── `- README.md`                      | Identity system overview (placeholder)                                  |
+| `4 infra/`                             | 🏗️ Infrastructure modules for decentralization                         |
+| ├── `4.1 #infra1/`                     | Hosted infra (bootstrapping)                                            |
+| │   └── `#infra1.md`                   | Protected logic or private implementation notes                         |
+| ├── `4.2 #infra2/`                     | Fully decentralized infrastructure                                      |
+| │   └── `#infra2.md`                   | Protected logic or private implementation notes                         |
+| ├── `4.3 #KPI/`                        | zk-KPI and verifiable telemetry                                         |
+| │   └── `#KPI.md`                      | Protected logic or placeholder                                          |
+| └── `README.md`                        | Infra module roadmap                                                    |
+| `5 backend/`                           | ⚙️ Service logic, APIs (currently empty)                                |
+| `6 frontend/`                          | 🎨 UI component structure (currently empty)                             |
+| `7 nextjs-app/`                        | 🌐 Public-facing web shell                                              |
+| `8 scripts/`                           | 🛠️ Internal tools, setup automation                                    |
+| `docs/`                                | 📚 Whitepapers, governance, changelogs                                  |
+| `contracts/`                           | 🔐 Exported or compiled smart contracts (optional)                      |
 
 ---
 
@@ -53,29 +46,39 @@ This document outlines the full folder and file structure of the UNIVERSE reposi
 
 | File                        | Purpose                                                  |
 |-----------------------------|----------------------------------------------------------|
-| `README.md`                 | Project intro, philosophy, and repo structure            |
-| `PROJECT-STRUCTURE.md`      | You are here — full repo structure breakdown             |
-| `BRANCHING-STRATEGY.md`     | Git workflow and modular branching model                |
-| `CHANGELOG.md`              | Development milestones and version log                   |
-| `CONTRIBUTING.md`           | Guidelines for contributors                              |
-| `LICENSE`                   | Legal usage license                                      |
+| `README.md`                 | Project introduction and overview                        |
+| `PROJECT-STRUCTURE.md`      | You are here — the full module layout                    |
+| `BRANCHING-STRATEGY.md`     | Git strategy and branch naming conventions               |
+| `CHANGELOG.md`              | Dev history, milestone tracking                          |
+| `CONTRIBUTING.md`           | Contribution guidelines                                  |
+| `LICENSE`                   | Open-source license details                              |
 | `.gitignore`                | Files/folders excluded from version control              |
 
 ---
 
-## 🧠 File & Naming Conventions
+## 🧠 Naming Conventions
 
-To clearly communicate the state of each module:
+| Marker / Pattern           | Meaning                                                                 |
+|----------------------------|-------------------------------------------------------------------------|
+| `#FOLDER/` or `#file.md`   | 🛡️ Protected — logic is intentionally withheld or in a private repo     |
+| `- README.md`              | 📎 Placeholder — module exists but implementation is pending            |
+| `README.md`                | 📘 Entry point for active folders — always use for clarity              |
 
-| Symbol/File Name          | Meaning                                                       |
-|---------------------------|---------------------------------------------------------------|
-| `#MODULE` (e.g. `#DAO`)   | 🛡️ Protected — logic exists privately or externally           |
-| `- README.md`             | 📎 Placeholder — descriptive marker or inactive module         |
+> Folder names may contain `#` to mark protection, but for cross-platform compatibility, keep inner logic clean. Use `README.md` for previews and clarity in GitHub’s UI.
 
 ---
 
-## 🔜 Next Up
+## 🔜 Next Steps
 
-- Implement core branches as defined in [`BRANCHING-STRATEGY.md`](BRANCHING-STRATEGY.md)
-- Link key protected modules via **Git submodules**
-- Begin populating active modules
+- Implement modular branches from [`BRANCHING-STRATEGY.md`](BRANCHING-STRATEGY.md)
+- Begin linking protected modules (e.g. `dao-contracts`, `auth-core`) as submodules
+- Fill key logic in:  
+  - `3.1 #SignUp1` (onboarding)  
+  - `4.3 #KPI` (metrics)  
+  - `1 #MOMENTUM` (cultural engine)
+- Use `2 MINDFORGER` to document evolving narrative, user signal, and PMF learning
+
+---
+
+> _UNIVERSE is not just code — it’s protocol, philosophy, and participation.  
+> This structure is your blueprint for building the Infinite Game._
