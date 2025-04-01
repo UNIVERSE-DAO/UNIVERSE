@@ -30,20 +30,19 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | └── `- README.md`                      | Identity system overview (placeholder)                                  |
 | `5 infra/`                             | 🏗️ Infrastructure modules for decentralization                         |
 | ├── `5.1 #infra1/`                     | Hosted infra (bootstrapping)                                            |
-| │   └── `#infra1.md`                   | Protected logic or private implementation notes                         |
 | ├── `5.2 #infra2/`                     | Fully decentralized infrastructure                                      |
-| │   └── `#infra2.md`                   | Protected logic or private implementation notes                         |
 | ├── `5.3 #KPI/`                        | zk-KPI and verifiable telemetry                                         |
-| │   └── `#KPI.md`                      | Protected logic or placeholder                                          |
 | └── `- README.md`                      | Infra module roadmap                                                    |
-| `6 backend/`                           | ⚙️ Service logic, APIs (currently empty)                                |
-| ├── `- README.md`                      | Placeholder                                                             |
-| └── `- package.json`                   | Placeholder config                                                      |
+| `6 scripts/`                           | 🛠️ Internal tools, automation, setup helpers                           |
+| └── `- README.md`                      | Placeholder                                                             |
 | `7 nextjs-app/`                        | 🌐 Public-facing web shell                                              |
 | └── `- README.md`                      | Placeholder                                                             |
-| `8 scripts/`                           | 🛠️ Internal tools, setup automation                                    |
-| └── `- README.md`                      | Placeholder                                                             |
+| `backend/`                             | ⚙️ API logic, Node.js service layer                                     |
+| ├── `package.json`                     | Config with test placeholder                                            |
+| └── `index.js`                         | (Recommended) Entry point for future services                           |
 | `docs/`                                | 📚 Whitepapers, governance, changelogs                                  |
+| `contracts/`                           | 🔐 Smart contract aggregation or deployment exports                      |
+| └── `- README.md`                      | Placeholder or purpose description                                      |
 
 ---
 
@@ -69,21 +68,20 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | `- README.md`              | 📎 Placeholder — module exists but implementation is pending            |
 | `README.md`                | 📘 Entry point for active folders — always use for clarity              |
 
-> Folder names may contain `#` to mark protection, but for cross-platform compatibility, keep inner logic clean. Use `README.md` for previews and clarity in GitHub’s UI.
+> Use `#` to mark protected folders, and `-README.md` as placeholder markers. Avoid special characters in system-critical files like `package.json`.
 
 ---
 
 ## 🔜 Next Steps
 
-- Implement modular branches from [`BRANCHING-STRATEGY.md`](BRANCHING-STRATEGY.md)
-- Begin linking protected modules (e.g. `dao-contracts`, `auth-core`) as submodules
-- Fill key logic in:  
-  - `4.1 #SignUp1` (onboarding)  
-  - `5.3 #KPI` (metrics)  
-  - `1 #MOMENTUM` (cultural engine)
-- Use `2 MINDFORGER` to document evolving narrative, user signal, and PMF learning
+- Create core branches as defined in [`BRANCHING-STRATEGY.md`](BRANCHING-STRATEGY.md)
+- Connect external submodules (e.g. DAO contracts, auth core)
+- Begin implementation inside:
+  - `4.1 #SignUp1/` — onboarding logic  
+  - `5.3 #KPI/` — metrics and telemetry  
+  - `1 #MOMENTUM/` — cultural traction tools
+- Use `2 MINDFORGER/` to shape the narrative and uncover product–market fit signals
 
 ---
 
-> _UNIVERSE is not just code — it’s protocol, philosophy, and participation.  
-> This structure is your blueprint for building the Infinite Game._
+> _UNIVERSE is not just a project. It’s a structured invitation to co-create the Infinite Game._
