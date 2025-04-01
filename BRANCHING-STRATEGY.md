@@ -9,20 +9,21 @@ It supports modular development, decentralized rollout, and collaboration at sca
 
 These branches reflect key modules of the UNIVERSE stack. Each one maps 1:1 to a top-level folder in the repo.
 
-| Branch         | Purpose                                                                 |
-|----------------|-------------------------------------------------------------------------|
-| `main`         | ✅ Stable, production-ready codebase (demo, investor-facing)            |
-| `dev`          | 🧪 Active development (feature branches merge here before `main`)       |
-| `docs`         | 📚 Whitepapers, governance, and documentation-only changes              |
-| `momentum`     | 🔥 Memetic ignition, onboarding energy, culture-building assets         |
-| `mindforger`   | 🧠 Narrative shaping, philosophical clarity, PMF exploration            |
-| `scrs`         | 🔍 Smart Compliance — KPI logic, privacy-first compliance               |
-| `identity`     | 🆔 Onboarding, auth flows, zk-proofs, login UX                          |
-| `infra1`       | 🏗️ Bootstrapped hosted infrastructure (early phase)                    |
-| `infra2`       | 🛡️ Fully decentralized, censorship-resistant infra                     |
-| `kpi` (optional) | 📊 KPI logic (if separated from `scrs`)                              |
-| `dao-core`     | 🏛️ Governance contracts, DAO proposals, feature gating logic           |
-| `ui/nextjs`    | 🎨 UI shell (Next.js app), voting, dashboards, onboarding frontends     |
+| Branch         | Folder                | Purpose                                                                 |
+|----------------|------------------------|-------------------------------------------------------------------------|
+| `main`         | —                      | ✅ Stable, production-ready codebase (demo, investor-facing)            |
+| `dev`          | —                      | 🧪 Active development (feature branches merge here before `main`)       |
+| `docs`         | `docs/`                | 📚 Whitepapers, governance, and documentation-only changes              |
+| `momentum`     | `1 #MOMENTUM/`         | 🔥 Memetic ignition, onboarding energy, culture-building assets         |
+| `mindforger`   | `2 MINDFORGER/`        | 🧠 Narrative shaping, philosophical clarity, PMF exploration            |
+| `scrs`         | `3 #SCRS/`             | 🔍 Smart Compliance — KPI logic, privacy-first compliance               |
+| `identity`     | `4 identity/`          | 🆔 Onboarding, auth flows, zk-proofs, login UX                          |
+| `infra1`       | `5.1 #infra1/`         | 🏗️ Bootstrapped hosted infrastructure (early phase)                    |
+| `infra2`       | `5.2 #infra2/`         | 🛡️ Fully decentralized, censorship-resistant infra                     |
+| `kpi` (optional)| `5.3 #KPI/`            | 📊 KPI logic (if separated from `scrs`)                                |
+| `dao-core`     | `0 #DAO - The Layer Zero/` | 🏛️ Governance contracts, DAO proposals, feature gating logic       |
+| `ui/nextjs`    | `7 nextjs-app/`        | 🎨 UI shell (Next.js app), voting, dashboards, onboarding frontends     |
+| `scripts`      | `6 scripts/`           | 🛠️ Dev automation scripts, tooling, governance support                 |
 
 ---
 
@@ -36,7 +37,7 @@ These are temporary and created from core branches. They are merged back when co
 | `feature/signup2-did`       | `identity`   | Sovereign login with zk and DIDs                               |
 | `feature/scrs-zk-kpi`       | `scrs`       | KPI ZK-verification logic and privacy implementation           |
 | `feature/meme-engine`       | `momentum`   | Meme vault, virality kits, strategic cultural experiments      |
-| `feature/kpi-dashboard`     | `scrs` or `kpi` | Visualization of metrics (if separate)                       |
+| `feature/kpi-dashboard`     | `scrs` or `kpi` | Visualization of metrics (if separated)                     |
 | `feature/infra1-logging`    | `infra1`     | Logging and audit tools for hosted infra                       |
 | `feature/ui-polishing`      | `ui/nextjs`  | Visual tweaks, animations, responsive layout                   |
 | `feature/dao-voting-ui`     | `ui/nextjs`  | Frontend components for DAO proposal voting                   |
@@ -79,7 +80,7 @@ This modular system:
 
 - `3 #SCRS/` → contains `#SCRS.md` (protected vision/logic)
 - `5.3 #KPI/` → tracks KPI logic, may later become its own branch (`kpi`)
-- `1 #MOMENTUM/` → could hold culture kits, onboarding content, meme decks
+- `6 scripts/` → holds tooling logic, internal governance or DAO CLI helpers
 
 ---
 
@@ -94,10 +95,11 @@ Some branches or modules are intentionally private or external. These are:
 
 ## 🔜 What’s Next
 
-- ✅ Create core branches (`dev`, `scrs`, `identity`, etc.)
+- ✅ Create core branches (`dev`, `scrs`, `identity`, `momentum`, etc.)
 - 🔄 Link external modules when ready (`dao-contracts`, `auth-core`, etc.)
 - 🚀 Use `momentum` and `mindforger` to shape narrative and community ignition
 
 ---
 
-> _UNIVERSE is not a product — it’s a philosophy on-chain. Branch with purpose. Build the Infinite Game._
+> _UNIVERSE is not a product — it’s a philosophy on-chain.  
+> Branch with purpose. Build the Infinite Game._
