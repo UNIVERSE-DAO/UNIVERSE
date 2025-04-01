@@ -1,12 +1,7 @@
 {
   "name": "backend",
-  "version": "1.0.0",
-  "description": "Backend for my SaaS project",
-  "main": "index.js",
+  "version": "0.0.1",
   "scripts": {
-    "start": "node index.js",
     "test": "echo 'No tests yet' && exit 0"
-  },
-  "dependencies": {},
-  "devDependencies": {}
+  }
 }
