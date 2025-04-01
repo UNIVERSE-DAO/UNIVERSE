@@ -59,7 +59,6 @@ To visually communicate the state of modules:
 | Symbol/File Name          | Meaning                                                       |
 |---------------------------|---------------------------------------------------------------|
 | `#MODULE` (e.g. `#DAO`)   | 🛡️ Protected — external or private implementation             |
-| `--README.md`             | 📦 Placeholder — planned but not yet implemented              |
 | `- README.md`             | 📎 Minor placeholder — simple marker or folder description    |
 
 ---
