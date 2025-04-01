@@ -9,17 +9,22 @@
 
 This repository is organized as a modular system following a staged roadmap from centralized bootstrapping to full decentralization.
 
-| 📁 Folder           | Purpose                                                                 |
-|---------------------|-------------------------------------------------------------------------|
-| `1-DAO/`            | DAO contracts, proposals, and voting logic                              |
-| `2-MINDFORGER/`     | Ideological foundation and narrative engine for the protocol             |
-| `3-identity/`       | SignUp1 (Web2 onboarding) → SignUp2 (DID, ZK auth)                       |
-| `4-infra/`          | Infrastructure bootstrapping → decentralized (Infra1 & Infra2)          |
-| `5-backend/`        | API logic, privacy-enforcing computation layer                          |
-| `6-frontend/`       | UI logic and components (atoms, molecules, etc.)                        |
-| `7-nextjs-app/`     | Main user-facing app (Next.js shell)                                    |
-| `8-scripts/`        | Internal dev tools, migration scripts, setup helpers                    |
-| `docs/`             | Whitepapers, governance, changelogs, contribution guidelines            |
+| 📁 Folder               | Purpose                                                                 |
+|-------------------------|-------------------------------------------------------------------------|
+| `1 #DAO/`               | DAO contracts, proposals, and voting logic                              |
+| ├── `1.1 contracts/`    | Smart contracts (on-chain logic)                                        |
+| ├── `1.2 proposals/`    | Proposal templates & tracking                                           |
+| └── `1.3 voting/`       | Governance voting logic & UI integrations                              |
+| `2 MINDFORGER/`         | Ideological foundation, core vision, content modules                    |
+| `3 identity/`           | Self-sovereign identity systems                                         |
+| ├── `3.1 #SignUp1/`     | Web2-compatible login, privacy-first                                     |
+| └── `3.2 #SignUp2/`     | Decentralized identity (DID, zk-authentication)                         |
+| `4 infra/`              | Infrastructure bootstrapping and decentralization roadmap               |
+| `5 backend/`            | Placeholder backend module (Node.js project marker)                     |
+| `6 frontend/`           | UI components and styling                                               |
+| `7 nextjs-app/`         | Main user-facing app (Next.js shell)                                   |
+| `8 scripts/`            | Internal tools, migration scripts, automation                          |
+| `docs/`                 | Documentation, governance references, changelogs                        |
 
 ---
 
@@ -28,9 +33,9 @@ This repository is organized as a modular system following a staged roadmap from
 > **"Master the Infinite Game"**  
 Build modular. Govern transparently. Decentralize progressively.
 
-- Privacy-first by design
-- Transparency without surveillance
-- DAO as long-term steward, not controller
+- 🛡️ Privacy-first by design  
+- 🧠 Transparency without surveillance  
+- 🏛️ DAO as long-term steward, not controller  
 
 ---
 
@@ -38,18 +43,19 @@ Build modular. Govern transparently. Decentralize progressively.
 
 | File                     | Purpose                                     |
 |--------------------------|---------------------------------------------|
-| `README.md`              | This overview — repo structure & philosophy |
+| `README.md`              | Project intro, structure & philosophy       |
+| `FOLDER-STRUCTURE.md`    | Detailed explanation of all project folders |
+| `BRANCHING-STRATEGY.md`  | Git & development workflow                  |
 | `CHANGELOG.md`           | Milestone-based changelog                   |
 | `CONTRIBUTING.md`        | Guide for contributors                      |
-| `BRANCHING-STRATEGY.md`  | Git & dev workflow guide                    |
-| `.gitignore`             | Standard Git ignore list                    |
-| `.github/`               | Actions, PR templates, issue forms          |
+| `.gitignore`             | Git ignore rules                            |
+| `.github/`               | GitHub Actions, PR/issue templates          |
 
 ---
 
 ## 🔗 Get Involved
 
-- 🗳️ Governance: [DAO Proposals](1-DAO/)
+- 🗳️ Governance: [DAO Proposals](1%20%23DAO/)
 - 🛠️ Build: Fork and explore any module
 - 💬 Join discussions: GitHub | Twitter | Discord
 
