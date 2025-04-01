@@ -51,3 +51,23 @@ These are created from the most relevant parent branch (`dev`, `infra1`, etc.), 
 
 > One branch = one clear purpose  
 > Build modular, test independently, and merge cleanly.
+
+---
+
+## 📁 Folder & File Naming Conventions
+
+To clarify the state of each module in the codebase, UNIVERSE uses specific file naming patterns:
+
+| Status                  | Naming Pattern         | Meaning                                                                 |
+|--------------------------|------------------------|-------------------------------------------------------------------------|
+| 📦 Placeholder Module    | `--README.md`          | Indicates the module is **planned** but not yet implemented             |
+| 🛡️ Protected Module      | `#MODULE` (e.g. `#DAO`) | Indicates the module exists but is **withheld** for IP/security reasons |
+
+### Example Usage:
+
+- A folder like `dao/` might contain a file: `#DAO`, with a note that smart contracts are being developed externally.
+- A folder like `scrs/` might contain a file: `--README.md`, indicating the logic will be implemented in the next stage.
+
+These naming patterns improve clarity for contributors, reviewers, and investors by showing which parts of the system are active, pending, or intentionally hidden.
+
+---
