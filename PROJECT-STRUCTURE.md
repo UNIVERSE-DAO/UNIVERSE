@@ -1,65 +1,76 @@
-# 🌌 UNIVERSE Project
+# 📂 UNIVERSE – Project Structure
 
-> **UNIte to find consensus through the MetaVERSE**  
-> Building the ultimate tool for good — censorship-resistant, privacy-first, community-governed.
-
----
-
-## 🧭 Project Structure
-
-This repository is organized as a modular system following a staged roadmap from centralized bootstrapping to full decentralization.
-
-| 📁 Folder               | Purpose                                                                 |
-|-------------------------|-------------------------------------------------------------------------|
-| `1 #DAO/`               | DAO contracts, proposals, and voting logic                              |
-| ├── `1.1 contracts/`    | Smart contracts (on-chain logic)                                        |
-| ├── `1.2 proposals/`    | Proposal templates & tracking                                           |
-| └── `1.3 voting/`       | Governance voting logic & UI integrations                              |
-| `2 MINDFORGER/`         | Ideological foundation, core vision, content modules                    |
-| `3 identity/`           | Self-sovereign identity systems                                         |
-| ├── `3.1 #SignUp1/`     | Web2-compatible login, privacy-first                                     |
-| └── `3.2 #SignUp2/`     | Decentralized identity (DID, zk-authentication)                         |
-| `4 infra/`              | Infrastructure bootstrapping and decentralization roadmap               |
-| `5 backend/`            | Placeholder backend module (Node.js project marker)                     |
-| `6 frontend/`           | UI components and styling                                               |
-| `7 nextjs-app/`         | Main user-facing app (Next.js shell)                                   |
-| `8 scripts/`            | Internal tools, migration scripts, automation                          |
-| `docs/`                 | Documentation, governance references, changelogs                        |
+This document outlines the full folder and file structure of the UNIVERSE repository, including all modules, submodules, placeholders, and special files.
 
 ---
 
-## 🧠 Philosophy
+## 🔢 Modular System Overview
 
-> **"Master the Infinite Game"**  
-Build modular. Govern transparently. Decentralize progressively.
-
-- 🛡️ Privacy-first by design  
-- 🧠 Transparency without surveillance  
-- 🏛️ DAO as long-term steward, not controller  
+| Path                          | Purpose                                                             |
+|-------------------------------|---------------------------------------------------------------------|
+| `.github/`                    | GitHub Actions, PR/issue templates                                  |
+| └── `workflows/`              | CI/CD workflows (e.g. `ci.yml`)                                     |
+| `1 #DAO/`                     | DAO governance layer                                                |
+| ├── `1.1 contracts/`          | Smart contracts (protected or external repo)                        |
+| ├── `1.2 proposals/`          | Proposal logic, templates                                           |
+| └── `1.3 voting/`             | DAO voting logic + possible UI integration                          |
+| `2 MINDFORGER/`               | Ideological content, strategy, Cipher Punk vision                   |
+| `3 identity/`                 | Identity/auth flows                                                 |
+| ├── `3.1 #SignUp1/`           | Web2-compatible onboarding                                          |
+| ├── `3.2 #SignUp2/`           | Self-sovereign auth, DIDs, zk-proofs                               |
+| └── `- README.md`             | Placeholder for future expansion                                    |
+| `4 infra/`                    | Infra modules for decentralization                                 |
+| ├── `4.1 #infra1/`            | Bootstrapping phase infra                                           |
+| ├── `4.2 #infra2/`            | Full decentralized infra (censorship-proof, zero-trust)            |
+| └── `4.3 #KPI/`               | zk-KPI, data verification, telemetry                               |
+| └── `README.md`               | Module overview placeholder                                         |
+| `5 backend/`                  | Core service logic and APIs (Node.js based)                         |
+| ├── `- README.md`             | Placeholder info for backend                                        |
+| └── `- package.json`          | Placeholder config for future backend setup                         |
+| `6 frontend/`                 | Component-based UI logic                                            |
+| └── `- README.md`             | Placeholder                                                         |
+| `7 nextjs-app/`               | Public-facing app shell                                             |
+| └── `- README.md`             | Placeholder                                                         |
+| `8 scripts/`                  | Internal tools, automation scripts                                  |
+| └── `- README.md`             | Placeholder                                                         |
+| `docs/`                       | Whitepapers, governance references, changelogs                      |
+| `contracts/`                  | (optional) centralized place for compiled smart contracts (TBD)     |
 
 ---
 
-## 📂 Key Files
+## 📜 Root Files
 
-| File                     | Purpose                                     |
-|--------------------------|---------------------------------------------|
-| `README.md`              | Project intro, structure & philosophy       |
-| `FOLDER-STRUCTURE.md`    | Detailed explanation of all project folders |
-| `BRANCHING-STRATEGY.md`  | Git & development workflow                  |
-| `CHANGELOG.md`           | Milestone-based changelog                   |
-| `CONTRIBUTING.md`        | Guide for contributors                      |
-| `.gitignore`             | Git ignore rules                            |
-| `.github/`               | GitHub Actions, PR/issue templates          |
-
----
-
-## 🔗 Get Involved
-
-- 🗳️ Governance: [DAO Proposals](1%20%23DAO/)
-- 🛠️ Build: Fork and explore any module
-- 💬 Join discussions: GitHub | Twitter | Discord
+| File                        | Purpose                                                  |
+|-----------------------------|----------------------------------------------------------|
+| `README.md`                 | Project intro, philosophy, and repo structure            |
+| `FOLDER-STRUCTURE.md`       | You are here — full repo structure breakdown             |
+| `BRANCHING-STRATEGY.md`     | Git workflow and branching model                         |
+| `CHANGELOG.md`              | Development milestones and version log                   |
+| `CONTRIBUTING.md`           | Guidelines for contributors                              |
+| `LICENSE`                   | Legal usage license                                      |
+| `.gitignore`                | Tells Git what files/folders to ignore                   |
 
 ---
 
-> _Built for builders. Governed by truth. Protected by protocol._  
-> — UNIVERSE
+## 🧠 Conventions
+
+To visually communicate the state of modules:
+
+| Symbol/File Name          | Meaning                                                       |
+|---------------------------|---------------------------------------------------------------|
+| `#MODULE` (e.g. `#DAO`)   | 🛡️ Protected — external or private implementation             |
+| `--README.md`             | 📦 Placeholder — planned but not yet implemented              |
+| `- README.md`             | 📎 Minor placeholder — simple marker or folder description    |
+
+---
+
+## 🔜 Next Up
+
+- Implement all **core branches** as defined in [`BRANCHING-STRATEGY.md`](BRANCHING-STRATEGY.md)
+- Link protected modules via **Git submodules** (e.g. `dao-contracts`, `auth-core`)
+- Start populating active modules (e.g. `3.1 #SignUp1`, `4.3 #KPI`) with starter files
+
+---
+
+> _This structure ensures a future-proof, modular, and decentralized development approach for UNIVERSE._
+
