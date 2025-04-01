@@ -9,7 +9,7 @@ It supports modular development, decentralization phases, and collaborative work
 
 | Branch         | Purpose                                                                 |
 |----------------|-------------------------------------------------------------------------|
-| `main`         | ✅ Stable, production-level code (demo-ready, investor-facing)           |
+| `main`         | ✅ Stable, production-level code (demo-ready)           |
 | `dev`          | 🧪 Active development branch — staging zone for merging features         |
 | `docs`         | 📚 Documentation, whitepapers, governance processes                      |
 | `infra1`       | 🏗️ Infrastructure for the **bootstrapping phase**                        |
