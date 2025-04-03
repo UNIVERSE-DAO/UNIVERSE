@@ -1,6 +1,3 @@
-Here's your full **cleaned-up and GitHub markdown–optimized** version of the `🗂 UNIVERSE Backup Naming Guide`, including your inline content plus proper table formatting and spacing — ready to paste directly into your repo:
-
-```md
 # 🗂 UNIVERSE Backup Naming Guide
 
 This guide defines how to name and track backup versions of the UNIVERSE repository — whether snapshots, full `.git` mirrors, or remote shadow clones.
