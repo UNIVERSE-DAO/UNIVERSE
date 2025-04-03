@@ -1,9 +1,31 @@
-Here’s the full `CHANGELOG.md` with all versions and your latest updates included:
+# 📜 CHANGELOG  
+All notable changes to this project will be documented here.
 
 ---
 
-# 📜 CHANGELOG  
-All notable changes to this project will be documented here.
+## [0.1.3] – 2025-04-03
+
+### 🧹 Structural Refinements & Documentation Alignment  
+- ✅ Renamed typo `4 indentity/` → `4 identity/` for professionalism and consistency  
+- ✅ Updated `PROJECT-STRUCTURE.md` to reflect:
+  - Correct folder numbering under `0 #DAO - The Layer Zero/` (`0.1`, `0.2`, `0.3`)
+  - Added `.github/workflows/` for CI awareness
+  - Added `ARCHIVE.md` to `docs/`
+
+### 📜 Backup Strategy Documentation  
+- 🗃️ Added `ARCHIVE.md` describing:
+  - Shadow repo backup strategy
+  - Offline `.zip` versioning plan
+  - Archive snapshot log format (date, version, stage, notes)
+- Reinforced privacy-first principles while preserving clarity for contributors
+
+### 🧭 Alignment with Repo Philosophy  
+- Continued enforcing symbolic conventions (`#FOLDER/`, `-README.md`)  
+- Maintained clear distinction between active modules and protected zones  
+- Structured documentation for future onboarding and DAO transparency
+
+> 🔄 Next step: Begin archive snapshot logging (`v0.1.0.zip`, etc.) and test shadow repo sync  
+> Optional: Script or automate local zip + push backup via `scripts/backup.sh`
 
 ---
 
@@ -80,5 +102,3 @@ All notable changes to this project will be documented here.
 
 > This marks the foundational structure of the UNIVERSE codebase:  
 > future-proofed, modular, and ready for the Infinite Game 🌌
-
----
