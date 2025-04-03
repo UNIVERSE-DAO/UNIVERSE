@@ -6,22 +6,35 @@ UNIte to find consensus through the MetaVERSE
 
 🌌 UNIVERSE.DAO
 
-🚀 Building, Decentralizing & Governing the Ultimate Tool for Good
-
+🚀 Building, Decentralizing & Governing the Ultimate Tool for Good  
 🔐 Mastering the Infinite Game with CPI – Cipher Punk Ideology
+
+UNIVERSE is not just code — it is an invitation to **co-create sovereignty**, build **infrastructure for truth**, and design **systems that evolve with integrity**.
 
 ------------
 
 📌 Mission
 
-To build, decentralize, and govern a censorship-resistant, privacy-first digital infrastructure that serves as a public good.  
-Once fully decentralized, UNIVERSE.DAO shifts into a guardian role, ensuring:
+To build a sovereignty-first digital infrastructure that empowers **societies** to  
+**find consensus through the MetaVERSE** — and discover the most crucial solutions for well-being, prosperity, and long-term alignment.
+
+UNIVERSE is not just a system — it’s a **search engine for solutions**, a **mirror of societal progress**, and a **framework for shared responsibility**.  
+It helps individuals, communities, and institutions act in alignment — with clarity, transparency, and care for the whole.
+
+🔍 Key Outcomes:
+- The **Truth Engine** for AI alignment & rational governance  
+- A platform for **visualizing societal progress and well-being**  
+- Public infrastructure for **responsible consensus** and multidimensional flourishing  
+
+Once fully decentralized, **UNIVERSE.DAO** becomes a guardian — preserving the right conditions for truth, coordination, and collective growth.
 
 ✅ Sovereignty 🏛️  
 ✅ Resilience 🛡️  
 ✅ Long-term integrity 🔗  
 
-📢 Governance Role: Voting on and implementing key upgrades to sustain decentralization.
+📢 Governance Role: To support upgrades that align with the highest responsibility — protecting freedom, encouraging participation, and sustaining the Infinite Game.
+
+🧭 Full mission & philosophy: [docs/MISSION.md](docs/MISSION.md)
 
 ------------
 
@@ -44,23 +57,14 @@ UNIVERSE is developed through modular infrastructure phases and a staged governa
 | **Infra2**          | Fully decentralized, censorship-resistant backend |
 | **Universal Login** | Web2→Web3 identity transition with zk-proof auth |
 | **SCRS**            | Smart Compliance with zero-knowledge KPIs        |
+| **Public UI Layer** | Visualizes societal well-being & rational metrics |
 | **DAO Governance**  | Evolves from builder to long-term steward        |
 
-📘 Learn more: [docs/ARCHITECTURE-OVERVIEW.md](docs/D-ARCHITECTURE-OVERVIEW.md)
+📘 Full breakdown: [docs/D-ARCHITECTURE-OVERVIEW.md](docs/D-ARCHITECTURE-OVERVIEW.md)
 
 ------------
 
-🚀 Final Vision: The Infinite Game Continues
-
-✅ A censorship-resistant, privacy-first infrastructure that endures beyond any single entity  
-✅ A self-sustaining, decentralized system governed by cryptographic consensus  
-✅ UNIVERSE.DAO evolves from builder to protector, ensuring no entity can re-centralize control
-
-🌌 Mastering the Infinite Game → Building. Decentralizing. Protecting. 🚀
-
-------------
-
-### Roadmap Milestone Overview ([docs/ROADMAP.md](UNIVERSE/docs/ROADMAP.md))
+🗺️ Roadmap Milestone Overview ([docs/ROADMAP.md](docs/ROADMAP.md))
 
 UNIVERSE unfolds in symbolic phases, like lunar cycles — guiding its emergence as a decentralized, privacy-first protocol.
 
@@ -74,6 +78,18 @@ UNIVERSE unfolds in symbolic phases, like lunar cycles — guiding its emergence
 > 🔐 Protected logic is intentionally hidden until the right phase.  
 > 🛰️ Current Stage: **Phase 1 – Pre Big-Bang** 🌓  
 > 🛡️ [Request Access](https://universe.org/github) if you’re ready to build sovereignty.
+
+------------
+
+📂 Core Documentation Index
+
+- 📜 [The UNIVERSE Manifesto](docs/MANIFESTO.md)  
+- 🧭 [Full Mission](docs/MISSION.md)  
+- 🛠 [Architecture Overview](docs/D-ARCHITECTURE-OVERVIEW.md)  
+- 🌕 [Symbolic Roadmap](docs/ROADMAP.md)  
+- 🧬 [Governance Proposals](proposals/UIP-GOVERNANCE.md)  
+- 📦 [Backup System](docs/ARCHIVE.md)  
+- 📄 [Commit Guide](docs/COMMIT-GUIDE.md)  
 
 ------------
 
