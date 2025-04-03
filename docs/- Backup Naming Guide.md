@@ -1,9 +1,3 @@
-Got you — let’s **simplify** the layout for clarity and calmness, keeping it clean and minimal for your docs. No excessive backticks, just readable structure you can scan or copy from easily.
-
-Here’s your refined version of the **UNIVERSE Backup Naming Guide**:
-
----
-
 # 🗂 UNIVERSE Backup Naming Guide
 
 Naming patterns for backup snapshots, full `.git` mirrors, and remote shadows.
