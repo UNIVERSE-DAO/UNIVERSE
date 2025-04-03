@@ -4,36 +4,45 @@ UNIVERSE maintains layered backups to ensure long-term resilience, decentralizat
 
 ---
 
-## 🧩 Backup Layers
+## 📦 Branch ZIP Snapshots
 
-- **📦 Branch ZIP Snapshots**  
-  Lightweight `.zip` archives of individual branches without Git history. Ideal for external sharing, MVP releases, and milestone checkpoints.
+Snapshot archives of single branches (no Git history).  
+Used for development milestones, releases, and external sharing.
 
-- **🧬 Full Git Repository Clones**  
-  `.zip` archives of the full `.git` repo including all branches, tags, and commit history. Used for archival redundancy and offline migration.
-
-- **🔒 Mirrored Private Repositories**  
-  Shadow clones — full Git mirrors pushed to alternate platforms or private accounts (e.g. GitLab, Gitea). Enables platform redundancy and censorship resistance.
+| Date       | Version              | Stage               | Notes                                     |
+|------------|----------------------|----------------------|--------------------------------------------|
+| 2025-04-03 | v0.1.3-main.zip      | Infra1 Prep          | Snapshot after changelog + structure fix   |
 
 ---
 
-## 📅 Archive Log
+## 🧬 Full Git Clone Archives
 
-| Date       | Type                  | Version / Ref                     | Stage               | Notes                                 |
-|------------|------------------------|------------------------------------|----------------------|----------------------------------------|
-| 2025-04-03 | Branch ZIP Snapshot    | v0.1.3-main.zip                   | Infra1 Prep          | Snapshot after changelog + structure fix |
-| 2025-04-03 | Full Git Clone ZIP     | full-repo-2025-04-03.zip          | Safe full backup     | Includes all Git history and branches   |
-| 2025-04-03 | Mirrored Repo          | shadow-gitlab (dev)               | Post-v0.1.3 merge     | Synced via Git push to off-site mirror  |
+Complete `.git` mirrors zipped for offline backup.  
+Contains full history, tags, and all branches.
 
-> Snapshots include committed code, docs, and public assets, but exclude `.env`, credentials, and untracked files.
+| Date       | File Name                   | Stage              | Notes                                     |
+|------------|-----------------------------|---------------------|--------------------------------------------|
+| 2025-04-03 | full-repo-2025-04-03.zip     | Safe Full Backup    | Includes all Git history and branches      |
+
+---
+
+## 🔒 Mirrored Private Repositories
+
+Redundant Git mirrors pushed to external platforms (shadow clones).  
+Ensures continuity across platforms or sovereign storage.
+
+| Date       | Target Repo                | Source Branch | Stage              | Notes                                      |
+|------------|----------------------------|----------------|---------------------|---------------------------------------------|
+| 2025-04-03 | shadow-gitlab              | dev            | Post-v0.1.3 Merge   | Synced via push to private GitLab repo      |
 
 ---
 
 ## 🧠 Why This Matters
 
 > *Preserving the code is preserving the mission.*  
-Each backup is a resilience checkpoint — a reflection of alignment, intent, and continuity.
+Each backup is a timestamped reflection of what matters most: continuity, sovereignty, and co-authorship of the Infinite Game.
 
-We back up not just code, but context.
+We don’t just save versions.  
+We store our story.
 
 ---
