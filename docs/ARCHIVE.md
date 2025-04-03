@@ -11,7 +11,7 @@ Used for development milestones, releases, and external sharing.
 
 | Date       | Version              | Stage               | Notes                                     |
 |------------|----------------------|----------------------|--------------------------------------------|
-| 2025-04-03 | v0.1.3-main.zip      | Infra1 Prep          | Snapshot after changelog + structure fix   |
+| 2025-04-03 | UNIVERSE-MAIN-v0.1.0.zip      | Infra1 Prep          | Snapshot after changelog + structure fix   |
 
 ---
 
@@ -22,7 +22,7 @@ Contains full history, tags, and all branches.
 
 | Date       | File Name                   | Stage              | Notes                                     |
 |------------|-----------------------------|---------------------|--------------------------------------------|
-| 2025-04-??? | full-repo-2025-04-03.zip     | Safe Full Backup    | Includes all Git history and branches      |
+| 2025-04-??? | UNIVERSE-FULL-v0.1.0.zip     | Safe Full Backup    | Includes all Git history and branches      |
 
 ---
 
@@ -33,7 +33,7 @@ Ensures continuity across platforms or sovereign storage.
 
 | Date       | Target Repo                | Source Branch | Stage              | Notes                                      |
 |------------|----------------------------|----------------|---------------------|---------------------------------------------|
-| 2025-04-??? | shadow-gitlab              | dev            | Post-v0.1.3 Merge   | Synced via push to private GitLab repo      |
+| 2025-04-??? | shadow-gitlab              | dev            | UNIVERSE-FULL-v0.1.0   | Synced via push to private GitLab repo      |
 
 ---
 
