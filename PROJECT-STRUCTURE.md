@@ -9,10 +9,11 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | Path                                   | Purpose                                                                 |
 |----------------------------------------|-------------------------------------------------------------------------|
 | `.github/`                             | GitHub configuration and automation                                     |
+| └── `workflows/`                       | CI/CD pipelines and automation flows                                   |
 | `0 #DAO - The Layer Zero/`             | 🏛️ Root consensus layer — DAO governance, contracts, proposals          |
-| ├── `1.1 contracts/`                   | Smart contracts (protected or external)                                 |
-| ├── `1.2 proposals/`                   | DAO proposal templates and governance flows                             |
-| └── `1.3 voting/`                      | Voting logic and UI integration                                         |
+| ├── `0.1 contracts/`                   | Smart contracts (protected or external)                                 |
+| ├── `0.2 proposals/`                   | DAO proposal templates and governance flows                             |
+| └── `0.3 voting/`                      | Voting logic and UI integration                                         |
 | `1 #MOMENTUM/`                         | 🔥 Cultural ignition — virality, onboarding emotion                     |
 | └── `- README.md`                      | Placeholder or overview                                                 |
 | `2 MINDFORGER/`                        | 🧠 Ideology layer — vision, PMF insight, narrative refinement           |
@@ -41,6 +42,7 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | ├── `package.json`                     | Config with test placeholder                                            |
 | └── `index.js`                         | (Recommended) Entry point for future services                           |
 | `docs/`                                | 📚 Whitepapers, governance, changelogs                                  |
+| ├── `ARCHIVE.md`                       | Backup strategy and snapshot log                                        |
 | `contracts/`                           | 🔐 Smart contract aggregation or deployment exports                      |
 | └── `- README.md`                      | Placeholder or purpose description                                      |
 
