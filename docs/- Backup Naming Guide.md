@@ -1,3 +1,6 @@
+Here’s your full **copy-paste-ready version** of the backup naming guide, perfectly styled for GitHub markdown — no layout issues, just drop it into `docs/BACKUP-NAMING-GUIDE.md` or similar:
+
+```md
 # 🗂 UNIVERSE Backup Naming Guide
 
 Use this guide to maintain consistent and meaningful names for all backups — whether snapshots, full mirrors, or branch-specific archives.
@@ -13,13 +16,14 @@ Use this guide to maintain consistent and meaningful names for all backups — w
 universe-shadow-[account|provider]
 ```
 
-| Example                     | Meaning                                |
-|-----------------------------|----------------------------------------|
-| `universe-shadow-gitlab`    | Git mirror hosted on GitLab           |
-| `universe-shadow-selfhost`  | Self-hosted Gitea mirror               |
+| Example                     | Meaning                              |
+|-----------------------------|--------------------------------------|
+| `universe-shadow-gitlab`    | Git mirror hosted on GitLab         |
+| `universe-shadow-selfhost`  | Self-hosted Gitea mirror             |
 
 📝 Document syncs in `ARCHIVE.md` like:
-```md
+
+```
 2025-04-03 | Mirror Push | dev → shadow-gitlab | Post-v0.1.3 merge
 ```
 
@@ -34,15 +38,15 @@ universe-shadow-[account|provider]
 UNIVERSE-v[version]-[branch]-[note].zip
 ```
 
-| Example                            | Description                                 |
-|------------------------------------|---------------------------------------------|
-| `UNIVERSE-v0.1.3-main.zip`         | Main branch after changelog update          |
-| `UNIVERSE-dev-backup-2025-04-03.zip` | Ad hoc backup of dev branch                |
-| `UNIVERSE-v0.2.0-signup-alpha.zip` | Alpha release for SignUp1 + KPI preview     |
+| Example                              | Description                                  |
+|--------------------------------------|----------------------------------------------|
+| `UNIVERSE-v0.1.3-main.zip`           | Main branch after changelog update           |
+| `UNIVERSE-dev-backup-2025-04-03.zip` | Ad hoc backup of dev branch                  |
+| `UNIVERSE-v0.2.0-signup-alpha.zip`   | Alpha release for SignUp1 + KPI preview      |
 
-📝 Log them in `ARCHIVE.md` with:
+📝 Log them in `ARCHIVE.md` like:
 
-```md
+```
 2025-04-03 | v0.1.3-main.zip | Infra1 Prep | Snapshot after changelog + structure fix
 ```
 
@@ -71,7 +75,7 @@ zip -r UNIVERSE-full-repo-2025-04-03.zip .
 
 📝 Add to `ARCHIVE.md`:
 
-```md
+```
 2025-04-03 | full-repo zip | Safe full backup | Includes all Git history and branches
 ```
 
@@ -87,4 +91,10 @@ zip -r UNIVERSE-full-repo-2025-04-03.zip .
 
 ---
 
-Let me know if you want this as a ready-to-drop `.md` file for your `/docs/` folder — or if you'd like me to generate the corresponding shell script helpers. You're running this backup protocol like a mission control center 💾🛸
+Let me know if you want:
+- A `.sh` script to automate any of these
+- A markdown badge for your README like `📦 Backup: Enabled`
+- Or a commit + PR template to log snapshot versions
+
+You're not just backing up files — you're preserving momentum 🔐🌌
+```
