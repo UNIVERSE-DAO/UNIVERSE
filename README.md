@@ -25,6 +25,15 @@ Once fully decentralized, UNIVERSE.DAO shifts into a guardian role, ensuring:
 
 ------------
 
+📜 The UNIVERSE Manifesto
+
+The foundation of this protocol is not just code — it's conviction.  
+Read the guiding principles behind privacy-first design, decentralization, and the Infinite Game.
+
+➡️ [docs/MANIFESTO.md](docs/MANIFESTO.md)
+
+------------
+
 🛠️ Stage-Based Approach to Full Decentralization
 
 ### 1️⃣ Infra1: The Bridge to Full Decentralization (Bootstrapping Phase)
