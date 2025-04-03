@@ -14,7 +14,7 @@ UNIVERSE maintains regular backups to ensure resilience, continuity, and alignme
 
 | Date       | Version      | Stage             | Notes                          |
 |------------|--------------|-------------------|---------------------------------|
-| 2025-04-03 | v0.1.0.zip   | Initial Structure | DAO layer set, layout stable   |
+| 2025-04-03 | v0.1.0-main.zip   | Initial Structure | DAO layer set, layout stable   |
 | ...        | ...          | ...               | ...                             |
 
 > Snapshots include active code, docs, and public assets, but exclude `.env`, secrets, and Git history.
