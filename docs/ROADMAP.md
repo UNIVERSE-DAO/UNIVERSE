@@ -1,4 +1,4 @@
-# 🛰️ UNIVERSE – Development Phases · Glossary
+# UNIVERSE – Development Phases · Glossary
 
 UNIVERSE unfolds through intentional development phases.  
 Some stages are public, others remain protected until key thresholds are met —  
@@ -6,11 +6,11 @@ such as decentralized UI operation and contributor federation.
 
 ---
 
-## 🚧 Phase Overview
+## Phase Overview
 
 ---
 
-### 🧱 Phase 0 — Backbone BUIDL  
+### 🌒 Phase 0 — Backbone BUIDL  
 Foundational structure, symbolic systems, and initialization.
 
 - `#DAO`  
@@ -19,7 +19,7 @@ Foundational structure, symbolic systems, and initialization.
 
 ---
 
-### 🌘 Phase 1 — Pre Big-Bang  
+### 🌓 Phase 1 — Pre Big-Bang  
 Protected ideation, modular implementation, and internal alignment.
 
 - `#infra1`  
@@ -28,7 +28,7 @@ Protected ideation, modular implementation, and internal alignment.
 
 ---
 
-### 🌌 Phase 2 — Big Bang  
+### 🌕 Phase 2 — Big Bang  
 Public ignition of key modules and contributor onboarding.  
 The moment UNIVERSE begins to operate beyond its original vessel.
 
