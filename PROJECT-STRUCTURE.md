@@ -10,9 +10,11 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 |----------------------------------------|-------------------------------------------------------------------------|
 | `.github/`                             | GitHub configuration and automation                                     |
 | └── `workflows/`                       | CI/CD pipelines and automation flows                                   |
+| └── `ci-cd.yml`                        | Primary workflow file for backend tests                                 |
 | `0 #DAO - The Layer Zero/`             | 🏛️ Root consensus layer — DAO governance, contracts, proposals          |
 | ├── `0.1 contracts/`                   | Smart contracts (protected or external)                                 |
 | ├── `0.2 proposals/`                   | DAO proposal templates and governance flows                             |
+| │   └── `#UIP-GOVERNANCE.md`           | Protected core governance mechanics                                     |
 | └── `0.3 voting/`                      | Voting logic and UI integration                                         |
 | `1 #MOMENTUM/`                         | 🔥 Cultural ignition — virality, onboarding emotion                     |
 | └── `- README.md`                      | Placeholder or overview                                                 |
@@ -42,7 +44,10 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | ├── `package.json`                     | Config with test placeholder                                            |
 | └── `index.js`                         | (Recommended) Entry point for future services                           |
 | `docs/`                                | 📚 Whitepapers, governance, changelogs                                  |
-| ├── `ARCHIVE.md`                       | Backup strategy and snapshot log                                        |
+| ├── `ARCHIVE.md`                       | Backup log and snapshot registry                                        |
+| ├── `BACKUP-NAMING-GUIDE.md`           | Naming rules for backups and mirrored repos                             |
+| ├── `COMMIT-GUIDE.md`                  | Conventional commits and PR title structure                             |
+| ├── `ROADMAP.md`                       | Overview of symbolic development phases                                 |
 | `contracts/`                           | 🔐 Smart contract aggregation or deployment exports                      |
 | └── `- README.md`                      | Placeholder or purpose description                                      |
 
@@ -70,7 +75,8 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | `- README.md`              | 📎 Placeholder — module exists but implementation is pending            |
 | `README.md`                | 📘 Entry point for active folders — always use for clarity              |
 
-> Use `#` to mark protected folders, and `-README.md` as placeholder markers. Avoid special characters in system-critical files like `package.json`.
+> Use `#` to mark protected folders, and `-README.md` as placeholder markers.  
+> Avoid special characters in system-critical files like `package.json`.
 
 ---
 
