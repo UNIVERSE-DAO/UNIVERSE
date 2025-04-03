@@ -49,16 +49,16 @@ Read the guiding principles behind privacy-first design, decentralization, and t
 
 🛠️ Architecture Overview
 
-UNIVERSE is developed through modular infrastructure phases and a staged governance transition toward full decentralization.
+UNIVERSE is developed through modular infrastructure phases, each represented by symbolic modules. These layers are progressively activated, cryptographically linked, and designed for long-term autonomy.
 
-| Layer              | Focus                                           |
-|--------------------|--------------------------------------------------|
-| **Infra1**          | Bootstrapping privacy-first infrastructure       |
-| **Infra2**          | Fully decentralized, censorship-resistant backend |
-| **Universal Login** | Web2→Web3 identity transition with zk-proof auth |
-| **SCRS**            | Smart Compliance with zero-knowledge KPIs        |
-| **Public UI Layer** | Visualizes societal well-being & rational metrics |
-| **DAO Governance**  | Evolves from builder to long-term steward        |
+| Module              | Identifier       | Description                                                |
+|---------------------|------------------|------------------------------------------------------------|
+| Infra1              | `#Infra1`        | Bootstrapping privacy-first infrastructure                 |
+| Infra2              | `#Infra2`        | Fully decentralized, censorship-resistant backend          |
+| Universal Login     | `#SignUp1` → `#SignUp2` | Web2-compatible logins → sovereign DIDs with zk-auth |
+| Smart Compliance    | `#SCRS`          | #SCRS = Smart Compliance & Resilient SaaS                    |
+| Decentralized UI    | `#D-UI`          | Sovereign frontends that visualize truth, consensus & well-being |
+| DAO Governance      | `#UIP-GOV`       | Staged proposal system, evolving from dev-led to autonomous |
 
 📘 Full breakdown: [docs/D-ARCHITECTURE-OVERVIEW.md](docs/D-ARCHITECTURE-OVERVIEW.md)
 
@@ -66,7 +66,7 @@ UNIVERSE is developed through modular infrastructure phases and a staged governa
 
 🗺️ Roadmap Milestone Overview ([docs/ROADMAP.md](docs/ROADMAP.md))
 
-UNIVERSE unfolds in symbolic phases, like lunar cycles — guiding its emergence as a decentralized, privacy-first protocol.
+UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized, privacy-first protocol.
 
 | Phase | Symbol | Name            | Description                                               |
 |-------|--------|------------------|-----------------------------------------------------------|
