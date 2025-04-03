@@ -1,80 +1,89 @@
 # 🗂 UNIVERSE Backup Naming Guide
 
-Naming patterns for backup snapshots, full `.git` mirrors, and remote shadows.
+Naming patterns for backing up the UNIVERSE repository — including branch snapshots, full `.git` mirrors, and mirrored private repositories (a.k.a. “shadow clones”).
 
 ---
 
 ## 🔖 Overview Table
 
-| Backup Type         | Naming Format                          | Contains                        | Use When                           |
-|---------------------|-----------------------------------------|----------------------------------|------------------------------------|
-| Shadow Repo Clone   | `universe-shadow-[provider]`            | All Git data via remote push    | Continuous off-site redundancy     |
-| Branch ZIP Snapshot | `UNIVERSE-v[ver]-[branch]-[note].zip`   | Files from one branch (no Git)  | Sharing, releasing, quick backup   |
-| Full Git Clone ZIP  | `UNIVERSE-full-repo-[date].zip`         | All branches, commits, tags     | Archival, migration, max safety    |
+| Backup Type               | Naming Format                          | Contains                        | Use When                           |
+|---------------------------|-----------------------------------------|----------------------------------|------------------------------------|
+| Branch ZIP Snapshot       | `UNIVERSE-v[ver]-[branch]-[note].zip`   | Files from one branch (no Git)  | Sharing, releasing, quick backup   |
+| Full Git Clone ZIP        | `UNIVERSE-full-repo-[date].zip`         | All branches, commits, tags     | Archival, migration, max safety    |
+| Mirrored Private Repo     | `universe-shadow-[provider]`            | All Git data via remote push    | Off-site redundancy & continuity   |
 
 ---
 
-## 🔒 Shadow Repo Clone Backups
+## 📦 1. Branch ZIP Snapshots
 
-**Purpose**: Remote `.git` mirrors for redundancy.
+**Purpose**: `.zip` archive of a single branch’s working directory (no commit history).
 
-**Naming Format**:  
-`universe-shadow-[account|provider]`
-
-Examples:  
-- `universe-shadow-gitlab` → GitLab backup  
-- `universe-shadow-selfhost` → Self-hosted mirror
-
-**Log in ARCHIVE.md**:  
-`2025-04-03 | Mirror Push | dev → shadow-gitlab | Post-v0.1.3 merge`
-
----
-
-## 📦 Branch ZIP Snapshots
-
-**Purpose**: `.zip` of one branch’s working directory (no `.git`).
-
-**Naming Format**:  
+**Naming Format**  
 `UNIVERSE-v[version]-[branch]-[note].zip`
 
-Examples:  
+**Examples**  
 - `UNIVERSE-v0.1.3-main.zip`  
 - `UNIVERSE-dev-backup-2025-04-03.zip`  
 - `UNIVERSE-v0.2.0-signup-alpha.zip`
 
-**Log in ARCHIVE.md**:  
+**Log in `ARCHIVE.md`**  
 `2025-04-03 | v0.1.3-main.zip | Infra1 Prep | Snapshot after changelog + structure fix`
 
 ---
 
-## 🧬 Full Git Clone ZIPs
+## 🧬 2. Full Git Clone ZIPs
 
-**Purpose**: Backup of all branches, tags, and history.
+**Purpose**: Archive of the full repository, including all branches, tags, and commit history.
 
-**Naming Format**:  
+**Naming Format**  
 `UNIVERSE-full-repo-[date].zip`
 
-Example:  
+**Example**  
 - `UNIVERSE-full-repo-2025-04-03.zip`
 
-**How to Create**:
-1. `git clone --mirror https://github.com/your/repo.git`
-2. `cd repo.git`
-3. `zip -r UNIVERSE-full-repo-2025-04-03.zip .`
+**How to Create**
 
-**Log in ARCHIVE.md**:  
+```bash
+git clone --mirror https://github.com/your/repo.git
+cd repo.git
+zip -r UNIVERSE-full-repo-2025-04-03.zip .
+```
+
+**Log in `ARCHIVE.md`**  
 `2025-04-03 | full-repo zip | Safe full backup | Includes all Git history and branches`
+
+---
+
+## 🔒 3. Mirrored Private Repositories (aka "Shadow Clones")
+
+**Purpose**: Redundant Git mirrors pushed to a separate platform or backup account for resilience and censorship resistance.
+
+**Naming Format**  
+`universe-shadow-[account|provider]`
+
+**Examples**  
+- `universe-shadow-gitlab` → GitLab-hosted mirror  
+- `universe-shadow-selfhost` → Gitea/self-hosted backup repo
+
+**Log in `ARCHIVE.md`**  
+`2025-04-03 | Mirror Push | dev → shadow-gitlab | Post-v0.1.3 merge`
+
+> Also referred to as: mirrored repositories, Git remotes, or “shadow clones” in internal UNIVERSE vocabulary. 🕶️
 
 ---
 
 ## ✅ Optional Enhancements
 
-- Shell script to auto-archive current branch  
-- `📦 Backup: Enabled` badge in README  
-- PR template for version logging
-
-> You’re not just saving code — you’re anchoring the Infinite Game 🌌
+- Add a `scripts/backup.sh` to automate snapshots
+- Include `📦 Backup: Enabled` badge in `README.md`
+- Update PR template to include backup version reference
 
 ---
 
-Let me know if you want this turned into a file — or dropped into your `/docs` folder with a simple commit.
+> You're not just backing up code — you're archiving intention.  
+> Each snapshot is a checkpoint in the Infinite Game 🌌
+```
+
+---
+
+Let me know if you'd like me to drop this into `/docs/BACKUP-NAMING-GUIDE.md` or include it in a commit template. You’ve now got a backup system that's as elegant as it is resilient.
