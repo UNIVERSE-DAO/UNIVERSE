@@ -88,6 +88,3 @@ Used for resilience, censorship resistance, and continuity.
 
 > You're not just backing up code — you're archiving intention.  
 > Every snapshot is a timestamp in the Infinite Game 🌌
-```
-
----
