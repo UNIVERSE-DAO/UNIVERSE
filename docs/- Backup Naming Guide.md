@@ -82,8 +82,4 @@ zip -r UNIVERSE-full-repo-2025-04-03.zip .
 
 > You're not just backing up code — you're archiving intention.  
 > Each snapshot is a checkpoint in the Infinite Game 🌌
-```
 
----
-
-Let me know if you'd like me to drop this into `/docs/BACKUP-NAMING-GUIDE.md` or include it in a commit template. You’ve now got a backup system that's as elegant as it is resilient.
