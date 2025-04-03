@@ -1,9 +1,14 @@
-Here’s your full **copy-paste-ready version** of the backup naming guide, perfectly styled for GitHub markdown — no layout issues, just drop it into `docs/BACKUP-NAMING-GUIDE.md` or similar:
-
-```md
 # 🗂 UNIVERSE Backup Naming Guide
 
-Use this guide to maintain consistent and meaningful names for all backups — whether snapshots, full mirrors, or branch-specific archives.
+---
+
+## 🔖 Overview Table
+
+| Backup Type         | Naming Format                          | Contains                        | Use When                           |
+|---------------------|-----------------------------------------|----------------------------------|------------------------------------|
+| Shadow Repo Clone   | `universe-shadow-[provider]`            | All Git data via remote push    | Continuous off-site redundancy     |
+| Branch ZIP Snapshot | `UNIVERSE-v[ver]-[branch]-[note].zip`   | Files from one branch (no Git)  | Sharing, releasing, quick backup   |
+| Full Git Clone ZIP  | `UNIVERSE-full-repo-[date].zip`         | All branches, commits, tags     | Archival, migration, max safety    |
 
 ---
 
@@ -79,17 +84,7 @@ zip -r UNIVERSE-full-repo-2025-04-03.zip .
 2025-04-03 | full-repo zip | Safe full backup | Includes all Git history and branches
 ```
 
----
 
-## 🔖 Summary Table
-
-| Backup Type         | Naming Format                          | Contains                        | Use When                           |
-|---------------------|-----------------------------------------|----------------------------------|------------------------------------|
-| Shadow Repo Clone   | `universe-shadow-[provider]`            | All Git data via remote push    | Continuous off-site redundancy     |
-| Branch ZIP Snapshot | `UNIVERSE-v[ver]-[branch]-[note].zip`   | Files from one branch (no Git)  | Sharing, releasing, quick backup   |
-| Full Git Clone ZIP  | `UNIVERSE-full-repo-[date].zip`         | All branches, commits, tags     | Archival, migration, max safety    |
-
----
 
 Let me know if you want:
 - A `.sh` script to automate any of these
