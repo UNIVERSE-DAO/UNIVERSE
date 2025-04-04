@@ -24,6 +24,7 @@ Crucial solutions emerge, elegantly it seems.<br>
 ---
 
 <br>
+
 ### 🌀 VERSE → UNI  
 
 <div align="center">
@@ -37,6 +38,7 @@ Guiding the way through the MetaVERSE.<br>
 ---
 
 <br>
+
 ## ✍️ Dilemma of the Ultimate Tech for Good  
 
 <div align="center">
