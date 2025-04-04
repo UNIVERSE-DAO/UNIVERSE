@@ -1,4 +1,4 @@
-### 📜 [THE UNIVERSE.DAO MANIFESTO](docs/DAO-MANIFESTO.md) <a name="dao-manifesto"></a>  
+### 📜 [UNIVERSE.DAO MANIFESTO](docs/DAO-MANIFESTO.md) <a name="dao-manifesto"></a>  
 _This protocol is not just code — it’s conviction._
 
 Once fully decentralized, **UNIVERSE.DAO** becomes a **guardian** — preserving the right conditions for:
@@ -13,7 +13,7 @@ Its governance role is to **protect freedom**, **encourage participation**, and 
 
 <br>
 
-## 📜 The Manifesto  
+## 📜 UNIVERSE.DAO MANIFESTO  
 **Core Principles for a Sovereignty-First Digital Infrastructure**
 
 > _No compromises. No surveillance. Just user empowerment._
