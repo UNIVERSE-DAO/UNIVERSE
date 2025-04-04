@@ -1,19 +1,18 @@
->### 📜 [UNIVERSE.DAO MANIFESTO](docs/DAO-MANIFESTO.md) <a name="dao-manifesto"></a>  
->_This protocol is not just code — it’s conviction._
->
->Once fully decentralized, **UNIVERSE.DAO** becomes a **guardian** — preserving the right conditions for:
->
->- ✅ Sovereignty  
->- ✅ Resilience  
->- ✅ Long-term Integrity  
->
->Its governance role is to **protect freedom**, **encourage participation**, and **sustain the Infinite Game** — >through upgrades that align with the highest moral and systemic responsibility.
+> 📜 **GOV – MANIFESTO** · Intro from README ([README – Portal to the Possible](../README.md#📜-the-universe.dao-manifesto))  
+>  
+> This protocol is not just code — it’s conviction.  
+>  
+> Once fully decentralized, **UNIVERSE.DAO** becomes a **guardian** — preserving the right conditions for:  
+> ✅ Sovereignty · ✅ Resilience · ✅ Long-term Integrity  
+>  
+> Its governance role is to protect freedom, encourage participation, and sustain the Infinite Game.
+
 
 ---
 
 <br>
 
-## 📜 UNIVERSE.DAO MANIFESTO  
+# 📜 UNIVERSE.DAO MANIFESTO  
 **Core Principles for a Sovereignty-First Digital Infrastructure**
 
 > _No compromises. No surveillance. Just user empowerment._
