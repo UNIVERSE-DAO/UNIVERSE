@@ -8,9 +8,9 @@
 >  
 > Participation isn't permissioned — it's principled.
 
-<br>
-
 ---
+
+<br>
 
 # 🧑‍🤝‍🧑 BUIDL4  
 **The Who Behind UNIVERSE**
