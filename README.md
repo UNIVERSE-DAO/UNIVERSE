@@ -16,7 +16,7 @@ Building, Decentralizing & Governing with Cipher Punk Ideology
 
 ---
 
-### 🧬 [VISION – The How](docs/VISION.md) 
+### 🧬 [VISION – The How](docs/VISION.md) <a name="🧬-vision--the-how"></a>
 
 To serve as the **Multiverse** — the greatest public good — by creating a self-reinforcing system that rewards, unites, and protects.
 
