@@ -16,12 +16,17 @@
 
 ## 🌌 Our Role in the Multiverse
 
-UNIVERSE exists to serve as the **greatest public good** in the Multiverse — a self-reinforcing system that rewards, unites, and protects.
+To envision UNIVERSE is to imagine a world where systems serve humanity — not control it.
 
-We build systems not to control, but to **clarify, align, and sustain**.
+Our role is not to dominate or optimize, but to **design frameworks that amplify trust, coherence, and moral responsibility**.  
+The protocol isn’t a destination — it’s a **living pattern** for how coordination, sovereignty, and ethics can scale together.
 
-Our vision is to construct **sovereignty-first digital infrastructure** that empowers societies to  
-**UNIte to find consensus through the MetaVERSE** — unlocking actionable solutions for well-being, prosperity, and long-term alignment.
+We believe the infrastructure of tomorrow must:
+- Be legible to humans  
+- Be accountable to values  
+- Invite participation through meaning, not manipulation
+
+UNIVERSE carries that mandate forward — embedding **philosophy into protocol**, and **vision into mechanism**.
 
 ---
 
