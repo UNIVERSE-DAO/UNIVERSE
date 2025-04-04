@@ -1,4 +1,4 @@
-> 🧬 **HOW – VISION** · _Intro from README_ ([README – Portal to the Possible](../README.md))  
+> 🧬 **HOW – VISION** · _Intro from README_ ([README – Portal to the Possible](../README.md#🧬-vision--the-how))  
 >  
 > To serve as the **Multiverse** — the greatest public good — by creating a self-reinforcing system that rewards, unites, and protects.  
 >  
