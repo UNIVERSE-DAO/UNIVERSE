@@ -31,6 +31,27 @@ Guiding the way through the MetaVERSE.
 
 ---
 
+## ✍️ Dilemma of the Ultimate Tech for Good  
+
+> A cautionary myth for ethical design.
+
+The key to master The Infinite Game,  
+A simple tool forged, yet risks aflame.  
+Crafting solutions, a most delicate art,  
+Falling in wrong hands, they tear apart.  
+
+Power and Trust, in a precarious dance,  
+Infinite potential, both fate and chance.  
+For in mastery lies both boon and bane,  
+Timeless struggle in this universe game.  
+
+Guided by Social Choice Theory’s hand,  
+It favours the good, where justice stand.  
+Challenges abound, and dangers loom,  
+Justified hope, wisdom clears the gloom.
+
+---
+
 ## 🌌 The Infinite Game  
 
 UNIVERSE is not a product. It’s a principle. A design for the Infinite Game.
@@ -63,27 +84,6 @@ Sovereignty means:
 - Not being coerced by code, capital, or culture  
 
 > A sovereign mind is the source of all good futures.
-
----
-
-## ✍️ Dilemma of the Ultimate Tech for Good  
-
-> A cautionary myth for ethical design.
-
-The key to master The Infinite Game,  
-A simple tool forged, yet risks aflame.  
-Crafting solutions, a most delicate art,  
-Falling in wrong hands, they tear apart.  
-
-Power and Trust, in a precarious dance,  
-Infinite potential, both fate and chance.  
-For in mastery lies both boon and bane,  
-Timeless struggle in this universe game.  
-
-Guided by Social Choice Theory’s hand,  
-It favours the good, where justice stand.  
-Challenges abound, and dangers loom,  
-Justified hope, wisdom clears the gloom.
 
 ---
 
