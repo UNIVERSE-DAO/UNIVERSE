@@ -77,7 +77,7 @@ Protecting freedom. Encouraging participation. Sustaining the Infinite Game.
 
 <br>
 
-### 🛠️ Architecture Overview
+### 🛠️ Architecture Overview(docs/D-ARCHITECTURE-OVERVIEW.md)
 
 The following modules are deployed in progressive, symbolic layers:
 
@@ -90,9 +90,11 @@ The following modules are deployed in progressive, symbolic layers:
 | Decentralized UI    | `#D-UI`                | Sovereign frontends that visualize truth, consensus & well-being            |
 | DAO Governance      | `#UIP-GOV`             | Staged proposal system, evolving from dev-led to autonomous                 |
 
-📘 Full breakdown: [docs/D-ARCHITECTURE-OVERVIEW.md](docs/D-ARCHITECTURE-OVERVIEW.md)
+
 
 --
+
+<br>
 
 ### 🗺️ Roadmap Milestone Overview
 
