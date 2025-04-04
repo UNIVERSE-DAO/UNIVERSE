@@ -5,7 +5,7 @@
 
 
 
-<br>
+<br><br>
  
 ## ✨ Discover 
 
@@ -21,9 +21,7 @@ Crucial solutions emerge, elegantly it seems.<br>
 </div>
 
 
-
-
-<br>
+<br><br>
 
 ## 🌀 VERSE → UNI  
 
@@ -35,9 +33,7 @@ Guiding the way through the MetaVERSE.<br>
 </div>
 
 
-
-
-<br>
+<br><br>
 
 ## ✍️ Dilemma of the Ultimate Tech for Good  
 
@@ -59,7 +55,7 @@ Justified hope, wisdom clears the gloom.<br>
 
 </div>
 
-<br>
+<br><br>
 
 ---
 
