@@ -3,7 +3,7 @@ All notable changes to this project will be documented here.
 
 ---
 
-## [0.1.5] – 2025-04-04
+## [0.1.5] – {date.today()}
 
 ### 📘 README Transformed into Symbolic Entry Point  
 - Rewrote `README.md` as a symbolic, ritualized introduction to the protocol  
@@ -19,7 +19,7 @@ All notable changes to this project will be documented here.
   - 🛡️ Governance & System  
   - 🧱 Infrastructure & Protocol Integrity  
   - 🤝 Contribution Pathways  
-- Finalized all naming conventions to balance symbolism and contributor usability
+- Finalized all naming conventions to balance symbolism and contributor usability  
 
 ### ✍️ New Content & Naming Decisions  
 - Created/linked:  
@@ -36,11 +36,18 @@ All notable changes to this project will be documented here.
 - Added symbolic doc: `CONNECT.md` for engagement, education, and discourse  
 - Unified contribution flow with links to `CONTRIBUTING.md`, `COMMIT-GUIDE.md`, and `CONNECT.md`  
 - Embedded contribution pathways directly in README for clarity  
+- Released `CONTRIBUTING.md v0.1.1` — structured into progressive layers (culture, docs, dev, governance)  
+- Defined governance as phase-gated: participation requires protocol usage via `#SignUp1`  
+- Teased upcoming modules:  
+  - `#SDK-selection/` – External stack integrations  
+  - `#CPI/` – Contributor reputation logic  
+  - `CONTRIBUTOR-ID.md` – Soulbound identity via protocol onboarding  
 
 > 🔄 Next step:  
 > - Draft `CONNECT.md` contents to match tone  
-> - Publish final README with symbolic index and contribution logic  
-> - Align headers across all core docs for tone consistency and navigability  
+> - Finalize initial CONTRIBUTING → GOVERNANCE pathway  
+> - Begin `WHITEPAPER.md` draft as a poetic complement to the README  
+> - Expand `CONTRIBUTOR-ID.md` as a zk-auth enabled onboarding passport  
 
 ---
 
@@ -172,3 +179,11 @@ All notable changes to this project will be documented here.
 
 > This marks the foundational structure of the UNIVERSE codebase:  
 > future-proofed, modular, and ready for the Infinite Game 🌌
+"""
+
+# Save to file
+with open("/mnt/data/CHANGELOG.md", "w") as file:
+    file.write(changelog_full)
+
+"/mnt/data/CHANGELOG.md"
+
