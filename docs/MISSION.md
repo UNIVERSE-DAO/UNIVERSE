@@ -7,8 +7,6 @@
 >  
 > UNIVERSE is more than ideals — it’s a mission grounded in mechanisms.
 
-<br>
-
 ---
 
 <br>
