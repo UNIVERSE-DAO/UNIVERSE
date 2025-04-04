@@ -3,7 +3,7 @@
 # ♾️ PHILOSOPHY
 **The Infinite Game, Sovereignty, and the Moral Architecture of UNIVERSE**
 
----
+
 
 <br>
  
@@ -21,7 +21,7 @@ Crucial solutions emerge, elegantly it seems.<br>
 </div>
 
 
----
+
 
 <br>
 
@@ -35,7 +35,7 @@ Guiding the way through the MetaVERSE.<br>
 </div>
 
 
----
+
 
 <br>
 
@@ -58,6 +58,8 @@ Challenges abound, and dangers loom,<br>
 Justified hope, wisdom clears the gloom.<br>
 
 </div>
+
+<br>
 
 ---
 
