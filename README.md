@@ -4,7 +4,8 @@
 ---
 
 🌌 **UNIVERSE.DAO**  
-**The Ultimate Tool for Good to Master the Infinite Game**  
+**The Ultimate Tool for Good to Master the Infinite Game**
+
 Building, Decentralizing & Governing with Cipher Punk Ideology
 
 ---
