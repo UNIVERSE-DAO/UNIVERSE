@@ -14,9 +14,9 @@ Building, Decentralizing & Governing with Cipher Punk Ideology
 
 **Building the ultimate Tech for Good to Master the Infinite Game — providing Hope, Prosperity, and Well-being — is the essence of a fulfilling life purpose.**
 
----
+---<a name="🧬-vision--the-how"></a>
 
-### 🧬 [VISION – The How](docs/VISION.md) <a name="🧬-vision--the-how"></a>
+### 🧬 [VISION – The How](docs/VISION.md) 
 
 To serve as the **Multiverse** — the greatest public good — by creating a self-reinforcing system that rewards, unites, and protects.
 
