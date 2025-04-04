@@ -1,4 +1,4 @@
-> 📜 **GOV – MANIFESTO** · Intro from README ([README – Portal to the Possible](../README.md#📜-the-universe.dao-manifesto))  
+> 📜 **UNIVERSE.DAO – MANIFESTO** · Intro from README ([README – Portal to the Possible](../README.md#📜-universe.dao-manifesto))  
 >  
 > This protocol is not just code — it’s conviction.  
 >  
@@ -12,7 +12,7 @@
 
 <br>
 
-# 📜 UNIVERSE.DAO MANIFESTO  
+# 📜 UNIVERSE.DAO - MANIFESTO  
 **Core Principles for a Sovereignty-First Digital Infrastructure**
 
 > _No compromises. No surveillance. Just user empowerment._
