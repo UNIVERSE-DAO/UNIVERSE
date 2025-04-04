@@ -1,4 +1,12 @@
-# 🛠️ D-Architecture Overview
+> 🛠️ **SYSTEMS – ARCHITECTURE** · Intro from README ([README – Portal to the Possible](../README.md#architecture-overview))  
+>  
+> The UNIVERSE protocol unfolds in **symbolic layers** — each module a principle encoded into infrastructure.  
+>  
+> From identity to compliance, from UI to DAO, each system reflects a moral intention.
+
+### 🛠️ Architecture Overview <a name="architecture-overview"></a>
+
+---
 
 This document outlines the key infrastructure components and the governance phases that guide UNIVERSE’s path toward full decentralization, privacy preservation, and user sovereignty.
 
