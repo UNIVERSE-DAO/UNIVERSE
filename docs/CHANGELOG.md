@@ -1,13 +1,9 @@
-from datetime import date
-
-# Full CHANGELOG content as a string
-changelog_full = f"""
 # 📜 CHANGELOG  
 All notable changes to this project will be documented here.
 
 ---
 
-## [0.1.5] – {date.today()}
+## [0.1.5] – 2025-04-01
 
 ### 📘 README Transformed into Symbolic Entry Point  
 - Rewrote `README.md` as a symbolic, ritualized introduction to the protocol  
@@ -185,9 +181,4 @@ All notable changes to this project will be documented here.
 > future-proofed, modular, and ready for the Infinite Game 🌌
 """
 
-# Save to file
-with open("/mnt/data/CHANGELOG.md", "w") as file:
-    file.write(changelog_full)
-
-"/mnt/data/CHANGELOG.md"
 
