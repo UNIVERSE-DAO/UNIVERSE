@@ -33,8 +33,7 @@ Guiding the way through the MetaVERSE.
 
 ## ✍️ Dilemma of the Ultimate Tech for Good  
 
-> A cautionary myth for ethical design.
-
+<div align="center">
 The key to master The Infinite Game,  
 A simple tool forged, yet risks aflame.  
 Crafting solutions, a most delicate art,  
@@ -49,7 +48,7 @@ Guided by Social Choice Theory’s hand,
 It favours the good, where justice stand.  
 Challenges abound, and dangers loom,  
 Justified hope, wisdom clears the gloom.
-
+</div>
 ---
 
 ## 🌌 The Infinite Game  
