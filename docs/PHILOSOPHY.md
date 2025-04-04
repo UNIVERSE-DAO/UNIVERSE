@@ -1,3 +1,5 @@
+<div align="center">
+
 ## PHILOSOPHY
 ### **The Infinite Game, Sovereignty, and the Moral Architecture of UNIVERSE**
 
@@ -5,7 +7,7 @@
 
 ## ✨ Discover 
 
-<div align="center">
+
 
 In the essential quest to see, we first must find,  
 The core issue that to all of us is blind.  
@@ -16,7 +18,7 @@ In unity and consensus, fears allayed.
 From the depths of 'impossible' streams,  
 Crucial solutions emerge, elegantly it seems.
 
-</div>
+
 
 ---
 
@@ -27,6 +29,8 @@ Saving humanity with all our might.
 Reverse-engineer society’s traverse,  
 Guiding the way through the MetaVERSE.
 
+
+</div>
 ---
 
 ## 🌌 The Infinite Game  
