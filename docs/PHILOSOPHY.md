@@ -5,7 +5,7 @@
 
 ---
 
-<br><br>
+<br>
  
 ### ✨ Discover 
 
@@ -23,7 +23,7 @@ Crucial solutions emerge, elegantly it seems.<br>
 
 ---
 
-<br><br>
+<br>
 ### 🌀 VERSE → UNI  
 
 <div align="center">
@@ -36,7 +36,7 @@ Guiding the way through the MetaVERSE.<br>
 
 ---
 
-<br><br>
+<br>
 ## ✍️ Dilemma of the Ultimate Tech for Good  
 
 <div align="center">
@@ -47,7 +47,7 @@ Falling in wrong hands, they tear apart.<br><br>
 
 Power and Trust, in a precarious dance,<br> 
 Infinite potential, both fate and chance.<br> 
-For in mastery lies both boon and bane,<br>  
+For in mastery lies both boon and bane,  
 Timeless struggle in this universe game.<br><br> 
 
 Guided by Social Choice Theory’s hand,<br>
@@ -59,7 +59,7 @@ Justified hope, wisdom clears the gloom.<br>
 
 ---
 
-<br><br>
+<br>
 
 ## 🌌 The Infinite Game  
 
