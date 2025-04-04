@@ -2,8 +2,10 @@
 
 # ♾️ PHILOSOPHY
 **The Infinite Game, Sovereignty, and the Moral Architecture of UNIVERSE**
-<br><br>
+
 ---
+
+<br><br>
  
 ### ✨ Discover 
 
@@ -17,10 +19,11 @@ In unity and consensus, fears allayed.<br>
 From the depths of 'impossible' streams,<br>  
 Crucial solutions emerge, elegantly it seems.<br>
 </div>
-<br><br>
+
 
 ---
 
+<br><br>
 ### 🌀 VERSE → UNI  
 
 <div align="center">
@@ -29,10 +32,11 @@ Saving&nbsp;&nbsp;humanity&nbsp;&nbsp;&nbsp;with&nbsp;&nbsp;all&nbsp;&nbsp;our&n
 Reverse - engineer&nbsp;&nbsp;&nbsp;society’s&nbsp;&nbsp;&nbsp;traverse,<br>
 Guiding the way through the MetaVERSE.<br>
 </div>
-<br><br>
+
 
 ---
 
+<br><br>
 ## ✍️ Dilemma of the Ultimate Tech for Good  
 
 <div align="center">
@@ -50,9 +54,12 @@ Guided by Social Choice Theory’s hand,<br>
 It favours the good, where justice stand.<br>
 Challenges abound, and dangers loom,<br> 
 Justified hope, wisdom clears the gloom.<br>
+
 </div>
 
 ---
+
+<br><br>
 
 ## 🌌 The Infinite Game  
 
