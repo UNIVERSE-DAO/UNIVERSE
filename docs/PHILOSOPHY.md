@@ -7,7 +7,7 @@
 
 <br>
  
-### ✨ Discover 
+## ✨ Discover 
 
 <div align="center">
 In the essential quest to see, we first must find,<br>  
@@ -25,7 +25,7 @@ Crucial solutions emerge, elegantly it seems.<br>
 
 <br>
 
-### 🌀 VERSE → UNI  
+## 🌀 VERSE → UNI  
 
 <div align="center">
 UNIte the minds, with brilliance alight,<br>
