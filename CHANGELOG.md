@@ -3,6 +3,47 @@ All notable changes to this project will be documented here.
 
 ---
 
+## [0.1.5] – 2025-04-04
+
+### 📘 README Transformed into Symbolic Entry Point  
+- Rewrote `README.md` as a symbolic, ritualized introduction to the protocol  
+- Integrated modular framing (WHY / HOW / WHAT / WHO) with poetic descriptions  
+- Renamed intro: **"UNIVERSE – The Portal to the Possible"**  
+- Unified tone across all sections to reflect Infinite Game ethos  
+- Embedded narrative-driven summary of modules, contributors, governance, and engagement  
+
+### 📂 Core Documentation Index Finalized  
+- Structured and indexed core documents with symbolic emojis + poetic subtitles  
+- Added index block under `README.md` with 4 thematic sections:  
+  - ✨ Foundational Philosophy  
+  - 🛡️ Governance & System  
+  - 🧱 Infrastructure & Protocol Integrity  
+  - 🤝 Contribution Pathways  
+- Finalized all naming conventions to balance symbolism and contributor usability
+
+### ✍️ New Content & Naming Decisions  
+- Created/linked:  
+  - `PHILOSOPHY.md` – Infinite Game framing  
+  - `VISION.md` – Systems vision and design  
+  - `MISSION.md` – Goals, tools, and impact  
+  - `BUIDL4.md` – Who it’s for and how to join  
+  - `MEMES.md` – Cultural meaning & symbolic substrate  
+  - `CONNECT.md` – Onboarding through dialogue, learning, and action  
+- Renamed “Manifesto” to `DAO-MANIFESTO.md` (focus: core protocol convictions)  
+- Reframed `WHITEPAPER.md` title as **"WHITEPAPER – A Beacon in the Void"**
+
+### 📎 Contribution System Extended  
+- Added symbolic doc: `CONNECT.md` for engagement, education, and discourse  
+- Unified contribution flow with links to `CONTRIBUTING.md`, `COMMIT-GUIDE.md`, and `CONNECT.md`  
+- Embedded contribution pathways directly in README for clarity  
+
+> 🔄 Next step:  
+> - Draft `CONNECT.md` contents to match tone  
+> - Publish final README with symbolic index and contribution logic  
+> - Align headers across all core docs for tone consistency and navigability  
+
+---
+
 ## [0.1.4] – 2025-04-03
 
 ### 🌕 Roadmap & Phase Glossary Formalized  
@@ -11,7 +52,7 @@ All notable changes to this project will be documented here.
   - 🌓 Pre Big-Bang  
   - 🌕 Big Bang  
   - 🌑 Black Hole  
-- Mapped key protected modules to phase entries (e.g. `#D-UI`, `#SignUp1`, `#CPI`)
+- Mapped key protected modules to phase entries (e.g. `#D-UI`, `#SignUp1`, `#CPI`)  
 - Introduced lunar progression as visual metaphor for roadmap transparency and decentralization thresholds
 
 ### 🔐 Protected Governance Anchor  
@@ -21,9 +62,9 @@ All notable changes to this project will be documented here.
 
 ### 🗃️ Backup Naming Protocol Finalized  
 - Added `BACKUP-NAMING-GUIDE.md` defining:
-  - Naming conventions for `.zip` snapshots, full repo clones, and shadow mirrors
+  - Naming conventions for `.zip` snapshots, full repo clones, and shadow mirrors  
   - Strategy for `ARCHIVE.md` logging with consistent format  
-  - Marked `universe-shadow-[provider]` as the convention for mirrored repositories
+  - Marked `universe-shadow-[provider]` as the convention for mirrored repositories  
 
 > 🔄 Next step:  
 > - Generate archive ZIPs from `main` and log in `ARCHIVE.md`  
@@ -37,21 +78,21 @@ All notable changes to this project will be documented here.
 ### 🧹 Structural Refinements & Documentation Alignment  
 - ✅ Renamed typo `4 indentity/` → `4 identity/` for professionalism and consistency  
 - ✅ Updated `PROJECT-STRUCTURE.md` to reflect:
-  - Correct folder numbering under `0 #DAO - The Layer Zero/` (`0.1`, `0.2`, `0.3`)
-  - Added `.github/workflows/` for CI awareness
-  - Added `ARCHIVE.md` to `docs/`
+  - Correct folder numbering under `0 #DAO - The Layer Zero/` (`0.1`, `0.2`, `0.3`)  
+  - Added `.github/workflows/` for CI awareness  
+  - Added `ARCHIVE.md` to `docs/`  
 
 ### 📜 Backup Strategy Documentation  
 - 🗃️ Added `ARCHIVE.md` describing:
-  - Shadow repo backup strategy
-  - Offline `.zip` versioning plan
-  - Archive snapshot log format (date, version, stage, notes)
+  - Shadow repo backup strategy  
+  - Offline `.zip` versioning plan  
+  - Archive snapshot log format (date, version, stage, notes)  
 - Reinforced privacy-first principles while preserving clarity for contributors
 
 ### 🧭 Alignment with Repo Philosophy  
 - Continued enforcing symbolic conventions (`#FOLDER/`, `-README.md`)  
 - Maintained clear distinction between active modules and protected zones  
-- Structured documentation for future onboarding and DAO transparency
+- Structured documentation for future onboarding and DAO transparency  
 
 > 🔄 Next step: Begin archive snapshot logging (`v0.1.0.zip`, etc.) and test shadow repo sync  
 > Optional: Script or automate local zip + push backup via `scripts/backup.sh`
@@ -79,7 +120,7 @@ All notable changes to this project will be documented here.
 ### 📦 Repository Hygiene  
 - Cleaned backend placeholder config (`package.json`)  
 - Maintained minimal valid structure for testing environment  
-- Re-tested pipeline after restructure and backend renaming
+- Re-tested pipeline after restructure and backend renaming  
 
 > 🚀 Next Step: Begin rolling out branch strategy (e.g. `scrs`, `identity`, `infra1`) as per `BRANCHING-STRATEGY.md`  
 > Plan MVP logic in `backend`, populate `#SignUp1`, `#KPI`, and finalize GitHub CI config for full modular test support
