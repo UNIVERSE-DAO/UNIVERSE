@@ -9,6 +9,8 @@
 
 ---
 
+<br>
+
 # 🧬 VISION  
 **Systemic Intention and Strategy of UNIVERSE**
 
