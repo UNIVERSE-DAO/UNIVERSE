@@ -7,8 +7,11 @@
 >  
 > UNIVERSE is more than ideals — it’s a mission grounded in mechanisms.
 
-<br><br>
+<br>
 
+---
+
+<br>
 
 # 🔍 MISSION  
 **The Strategic Output of UNIVERSE**
@@ -17,15 +20,19 @@
 
 ## 🎯 What We Are Building
 
-UNIVERSE is a protocol designed to turn **intention into infrastructure**.  
-Its mission is to build systems that reveal truth, reward responsibility, and scale collective intelligence.
+UNIVERSE is not built around features — it’s built around **ethical responsibilities** encoded into protocol.  
 
-We are creating **a new civic layer** — one that enables people and communities to:
+This mission isn't about shipping a product.  
+It’s about **engineering a civic layer** that aligns incentives with values, and meaning with mechanism.
 
-- Make **rational, ethical choices**  
-- Discover **truth through consensus**  
-- Coordinate **without coercion**  
-- Align **incentives with values**
+Each part of the system serves a shared purpose:
+
+- To empower ethical decision-making  
+- To reveal truth through feedback, not force  
+- To unlock coordination without coercion  
+- To protect the integrity of individuals and collectives
+
+In short: we’re designing the world’s most principled infrastructure — and it must function, reflect, and evolve.
 
 ---
 
