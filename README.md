@@ -105,25 +105,25 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 ### 📂 Core Documentation Index
 
-🪐 **README** – The Portal to the Possible
+🪐 **README.md** – The Portal to the Possible  
 
 ---
 
-#### ✨ Foundation
+#### ✨ Foundational Principles
 
 - 🧠 [PHILOSOPHY – The Why](docs/PHILOSOPHY.md)  
 - 🧬 [VISION – The How](docs/VISION.md)  
 - 🔍 [MISSION – The What](docs/MISSION.md)  
 - 🧑‍🤝‍🧑 [BUIDL4 – The Who](docs/BUIDL4.md)  
-- 🌀 [MEMES – Cultural Meaning](docs/MEMES.md)  
+- 🌀 [MEMES – Cultural Meaning & Symbolic Substrate](docs/MEMES.md)  
 
 ---
 
-#### 🛡️ Protocol Commitments
+#### 🛡️ Governance & Protocol Commitments
 
 - 🛡️ [DAO-MANIFESTO – What We Defend](docs/DAO-MANIFESTO.md)  
 - 📘 [WHITEPAPER – A Beacon in the Void](docs/WHITEPAPER.md)  
-- 🧬 [UIP-GOVERNANCE – Proposal System & Evolution](docs/#UIP-GOVERNANCE.md)  
+- 🧬 [UIP-GOVERNANCE – Proposal System & Evolution](0%20%23DAO%20-%20The%20Layer%20Zero/0.2%20proposals/#UIP-GOVERNANCE.md)  
 
 ---
 
@@ -131,20 +131,21 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 - 🛠️ [ARCHITECTURE – Modular Systems Overview](docs/D-ARCHITECTURE-OVERVIEW.md)  
 - 🌕 [ROADMAP – The Journey *Is* the Goal](docs/ROADMAP.md)  
+- 🧱 [PROJECT STRUCTURE – Symbolic Folder Map](docs/PROJECT-STRUCTURE.md)  
 - 📦 [BACKUPS – Versioning & Archive Strategy](docs/ARCHIVE.md)  
 - 🧾 [BACKUP-NAMING – Ritual Snapshot Naming](docs/BACKUP-NAMING-GUIDE.md)  
-- 🧱 [PROJECT STRUCTURE – Symbolic Folder Map](docs/PROJECT-STRUCTURE.md)  
 - 🪢 [BRANCHING – Git Flow Strategy](docs/BRANCHING-STRATEGY.md)  
+- 📄 [COMMITS – Symbolic Commit Guide](docs/COMMIT-GUIDE.md)  
 - 🧬 [CHANGELOG – Protocol Evolution Log](docs/CHANGELOG.md)  
-- 📜 [LICENSE – Freedom Preserved](.github/LICENSE)  
+- 📜 [LICENSE – Freedom Preserved](LICENSE)  
 
 ---
 
 #### 🤝 Contribution Pathways
 
 - 🤝 [CONTRIBUTING – How to Join & Participate](CONTRIBUTING.md)  
-- 📄 [COMMITS – Symbolic Commit Guide](docs/COMMIT-GUIDE.md)  
 - 🌐 [CONNECT – Discuss, Learn, Teach & BUIDL](docs/CONNECT.md)  
+ 
 
 ---
 
