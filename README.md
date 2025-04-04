@@ -77,7 +77,7 @@ Protecting freedom. Encouraging participation. Sustaining the Infinite Game.
 
 <br>
 
-### 🛠️ Architecture Overview(docs/D-ARCHITECTURE-OVERVIEW.md)
+### [🛠️ Architecture Overview](docs/D-ARCHITECTURE-OVERVIEW.md) <a name="architecture-overview"></a>
 
 The following modules are deployed in progressive, symbolic layers:
 
