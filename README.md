@@ -115,7 +115,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 - 🧬 [VISION – The How](docs/VISION.md)  
 - 🔍 [MISSION – The What](docs/MISSION.md)  
 - 🧑‍🤝‍🧑 [BUIDL4 – The Who](docs/BUIDL4.md)  
-- 🌀 [MEMES – Cultural Meaning & Symbolic Substrate](docs/MEMES.md)  
+- 🌀 [MEMES – Cultural Meaning](docs/MEMES.md)  
 
 ---
 
