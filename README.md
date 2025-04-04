@@ -138,7 +138,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 - 🪢 [BRANCHING – Git Flow Strategy](docs/BRANCHING-STRATEGY.md)  
 - 📄 [COMMITS – Symbolic Commit Guide](docs/COMMIT-GUIDE.md)  
 - 🧬 [CHANGELOG – Protocol Evolution Log](docs/CHANGELOG.md)  
-- 📜 [LICENSE – Freedom Preserved](LICENSE)  
+- 📜 [LICENSE – Freedom Preserved](.github/LICENSE)  
 
 ---
 
