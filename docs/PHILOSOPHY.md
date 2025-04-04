@@ -1,5 +1,5 @@
-#PHILOSOPHY# 
-**The Infinite Game, Sovereignty, and the Moral Architecture of UNIVERSE**
+## PHILOSOPHY
+### **The Infinite Game, Sovereignty, and the Moral Architecture of UNIVERSE**
 
 ---
 
