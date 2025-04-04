@@ -21,7 +21,7 @@ These branches reflect key modules of the UNIVERSE stack. Each one maps 1:1 to a
 | `identity`     | `4 identity/`              | 🆔 Onboarding, auth flows, zk-proofs, login UX                          |
 | `infra1`       | `5.1 #infra1/`             | 🏗️ Bootstrapped hosted infrastructure (early phase)                    |
 | `infra2`       | `5.2 #infra2/`             | 🛡️ Fully decentralized, censorship-resistant infra                     |
-| `kpi` (optional)| `5.3 #KPI/`               | 📊 KPI logic (if separated from `scrs`)                                |
+| `kpi`          | `5.3 #KPI/`                | 📊 KPI logic (if separated from `scrs`)                                |
 | `scripts`      | `6 scripts/`               | 🛠️ Dev automation scripts, tooling, governance support                 |
 | `ui/nextjs`    | `7 nextjs-app/`            | 🎨 UI shell (Next.js app), voting, dashboards, onboarding frontends     |
 
@@ -37,10 +37,10 @@ These are temporary and created from core branches. They are merged back when co
 | `feature/signup2-did`       | `identity`   | Sovereign login with zk and DIDs                               |
 | `feature/scrs-zk-kpi`       | `scrs`       | KPI ZK-verification logic and privacy implementation           |
 | `feature/meme-engine`       | `momentum`   | Meme vault, virality kits, strategic cultural experiments      |
-| `feature/kpi-dashboard`     | `scrs` or `kpi` | Visualization of metrics (if separated)                     |
+| `feature/kpi-dashboard`     | `kpi`        | Visualization of metrics if separated from `scrs`              |
 | `feature/infra1-logging`    | `infra1`     | Logging and audit tools for hosted infra                       |
 | `feature/ui-polishing`      | `ui/nextjs`  | Visual tweaks, animations, responsive layout                   |
-| `feature/dao-voting-ui`     | `ui/nextjs`  | Frontend components for DAO proposal voting                   |
+| `feature/dao-voting-ui`     | `ui/nextjs`  | Frontend components for DAO proposal voting                    |
 | `bugfix/dao-smartcontract`  | `dao-core`   | Patch to smart contract governance logic                       |
 
 ---
@@ -103,4 +103,4 @@ Some branches or modules are intentionally private or external. These are:
 ---
 
 > _UNIVERSE is not a product — it’s a philosophy on-chain.  
-> Branch with purpose. Build the Infinite Game._
+> Branch with purpose. Build the Infinite Game.
