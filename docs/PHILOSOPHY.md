@@ -4,10 +4,10 @@
 ### **The Infinite Game, Sovereignty, and the Moral Architecture of UNIVERSE**
 
 ---
-<div align="center">
+ 
 ## ✨ Discover 
 
-
+<div align="center">
 In the essential quest to see, we first must find,  
 The core issue that to all of us is blind.  
 Acknowledgment starts the trail,  
@@ -22,10 +22,10 @@ Crucial solutions emerge, elegantly it seems.
 
 ## 🌀 VERSE → UNI  
 
-**UNIte the minds, with brilliance alight,**  
-Saving humanity with all our might.  
-Reverse-engineer society’s traverse,  
-Guiding the way through the MetaVERSE.
+##UNIte the minds, with brilliance alight,  
+##Saving  humanity  with  all  our  might.  
+##Reverse - engineer  society’s  traverse,  
+##Guiding  the way through the  MetaVERSE.
 
 
 </div>
