@@ -1,7 +1,3 @@
-from pathlib import Path
-
-# Vision.md content with the teaser intro added at the top
-vision_with_teaser = """\
 > 🧬 _This is **VISION – The How**._  
 > _Part of the [UNIVERSE Docs Suite](../README.md). Start with the [README – Portal to the Possible](../README.md) for full context._
 
@@ -86,10 +82,3 @@ You are already part of this.
 **UNIVERSE**  
 A vision is only real when shared.  
 Let’s build the infrastructure of intention.
-"""
-
-# Save the updated VISION.md with teaser
-vision_teased_path = Path("/mnt/data/VISION.md")
-vision_teased_path.write_text(vision_with_teaser)
-
-vision_teased_path
