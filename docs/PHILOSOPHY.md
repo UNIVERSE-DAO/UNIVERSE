@@ -13,7 +13,8 @@ philosophy_md = f"""# 🧠 PHILOSOPHY – The Why
 In the essential quest to see, we first must find,  
 The core issue that to all of us is blind.  
 Acknowledgment starts the trail,  
-Where synthesis will prevail.  
+Where synthesis will prevail.
+
 Piece by piece, the puzzle laid,  
 In unity and consensus, fears allayed.  
 From the depths of 'impossible' streams,  
