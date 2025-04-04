@@ -1,12 +1,11 @@
-<div align="center">
+
 
 ## PHILOSOPHY
 ### **The Infinite Game, Sovereignty, and the Moral Architecture of UNIVERSE**
 
 ---
-
+<div align="center">
 ## ✨ Discover 
-
 
 
 In the essential quest to see, we first must find,  
@@ -17,7 +16,6 @@ Piece by piece, the puzzle laid,
 In unity and consensus, fears allayed.  
 From the depths of 'impossible' streams,  
 Crucial solutions emerge, elegantly it seems.
-
 
 
 ---
@@ -31,6 +29,7 @@ Guiding the way through the MetaVERSE.
 
 
 </div>
+
 ---
 
 ## 🌌 The Infinite Game  
