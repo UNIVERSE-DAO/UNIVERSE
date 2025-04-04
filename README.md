@@ -103,9 +103,51 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 ---
 
-📂 Core Documentation Index
+### 📂 Core Documentation Index
 
-🪐 README – The Portal to the Possible
+🪐 **README** – The Portal to the Possible
+
+---
+
+#### ✨ Symbolic Foundation
+
+- 🧠 [PHILOSOPHY – The Why](docs/PHILOSOPHY.md)  
+- 🧬 [VISION – The How](docs/VISION.md)  
+- 🔍 [MISSION – The What](docs/MISSION.md)  
+- 🧑‍🤝‍🧑 [BUIDL4 – The Who](docs/BUIDL4.md)  
+- 🌀 [MEMES – Cultural Meaning & Symbolic Substrate](docs/MEMES.md)  
+
+---
+
+#### 🛡️ Protocol Commitments
+
+- 🛡️ [DAO-MANIFESTO – What We Defend](docs/DAO-MANIFESTO.md)  
+- 📘 [WHITEPAPER – A Beacon in the Void](docs/WHITEPAPER.md)  
+- 🧬 [GOVERNANCE – Proposal System & Evolution](proposals/UIP-GOVERNANCE.md)  
+
+---
+
+#### 🛠 Systems & Infrastructure
+
+- 🛠️ [ARCHITECTURE – Modular Systems Overview](docs/D-ARCHITECTURE-OVERVIEW.md)  
+- 🌕 [ROADMAP – The Journey *Is* the Goal](docs/ROADMAP.md)  
+- 📦 [BACKUPS – Versioning & Archive Strategy](docs/ARCHIVE.md)  
+- 🧾 [BACKUP-NAMING – Ritual Snapshot Naming](docs/BACKUP-NAMING-GUIDE.md)  
+- 🧱 [PROJECT STRUCTURE – Symbolic Folder Map](docs/PROJECT-STRUCTURE.md)  
+- 🪢 [BRANCHING – Git Flow Strategy](docs/BRANCHING-STRATEGY.md)  
+- 🧬 [CHANGELOG – Protocol Evolution Log](docs/CHANGELOG.md)  
+- 📜 [LICENSE – Freedom Preserved](LICENSE)  
+
+---
+
+#### 🤝 Contribution Pathways
+
+- 🤝 [CONTRIBUTING – How to Join & Participate](CONTRIBUTING.md)  
+- 📄 [COMMITS – Symbolic Commit Guide](docs/COMMIT-GUIDE.md)  
+- 🌐 [CONNECT – Discuss, Learn, Teach & BUIDL](docs/CONNECT.md)  
+
+---
+
 
 **UNIVERSE**  
 More than just a MEME. It’s a revolutionary paradigm shift.
