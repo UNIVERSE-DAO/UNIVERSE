@@ -123,7 +123,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 - 🛡️ [DAO-MANIFESTO – What We Defend](docs/DAO-MANIFESTO.md)  
 - 📘 [WHITEPAPER – A Beacon in the Void](docs/WHITEPAPER.md)  
-- 🧬 [GOVERNANCE – Proposal System & Evolution](proposals/UIP-GOVERNANCE.md)  
+- 🧬 [UIP-GOVERNANCE – Proposal System & Evolution](0\ #DAO\ -\ The\ Layer\ Zero/0.2\ proposals/#UIP-GOVERNANCE.md)  
 
 ---
 
@@ -136,7 +136,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 - 🧱 [PROJECT STRUCTURE – Symbolic Folder Map](docs/PROJECT-STRUCTURE.md)  
 - 🪢 [BRANCHING – Git Flow Strategy](docs/BRANCHING-STRATEGY.md)  
 - 🧬 [CHANGELOG – Protocol Evolution Log](docs/CHANGELOG.md)  
-- 📜 [LICENSE – Freedom Preserved](LICENSE)  
+- 📜 [LICENSE – Freedom Preserved](.github/LICENSE)  
 
 ---
 
