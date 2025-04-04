@@ -1,4 +1,4 @@
-# 🤝 #CONTRIBUTING to ＵＮＩＶＥＲＳＥ   v0.1.1   
+# 🤝 #CONTRIBUTING v0.1.1 to ＵＮＩＶＥＲＳＥ  
 **Join the Infinite Game — not just to build code, but to co-create a paradigm shift.**
 
 ---
@@ -35,22 +35,14 @@ You don’t need to code to contribute — the first step is to **enter the conv
 ---
 
 ### 🛠 3. Development  
-- Contribute inside symbolic modules: `4 identity/`, `5 infra/`, `3 #SCRS/`  
-- Start here: [PROJECT-STRUCTURE.md](docs/PROJECT-STRUCTURE.md)  
-- Use symbolic commits: [COMMIT-GUIDE.md](docs/COMMIT-GUIDE.md)  
-- Follow Git rituals: [BRANCHING-STRATEGY.md](docs/BRANCHING-STRATEGY.md)
+🔧 *Full dev guide coming soon*  
+> From symbolic branches to zk-modules — this is where architecture meets ethics.
 
 ---
 
-### 🛡 4. Protocol Governance *(Phase-Gated)*
-
-To propose a `UIP` (UNIVERSE Improvement Proposal) or cast a governance signal:  
-- You’ll need a verified Contributor ID via `#SignUp1`  
-- Proposals live in [`0.2 proposals/`](0%20%23DAO%20-%20The%20Layer%20Zero/0.2%20proposals/)  
-- Governance logic defined in: [`#UIP-GOVERNANCE.md`](0%20%23DAO%20-%20The%20Layer%20Zero/0.2%20proposals/%23UIP-GOVERNANCE.md)
-
-> We **use** the protocol to govern the protocol.  
-> Sovereignty is not theory — it's praxis.
+### 🛡 4. Protocol Governance *(Phase-Gated)*  
+🧬 *Full governance guide coming soon*  
+> Participation is earned through contribution, not capital. Sovereignty is a protocol you live.
 
 ---
 
@@ -58,11 +50,14 @@ To propose a `UIP` (UNIVERSE Improvement Proposal) or cast a governance signal:
 
 | Module                | Description                                                        |
 |-----------------------|--------------------------------------------------------------------|
-| `#SDK-selection/`     | Extend UNIVERSE into new stacks, platforms, and tools              |
-| `#CPI/`               | Cipher Punk Ideology Index — contributor trust & reputation logic  |
-| `CONTRIBUTOR-ID.md`   | SBT-style passport powered by `#SignUp1` zk-auth onboarding        |
+| `#SDK-selection/`     | Extend UNIVERSE into new stacks, tools, and decentralized systems  |
+| `#CPI/`               | Cipher Punk Ideology Index — contributor trust + reputation engine |
+| `CONTRIBUTOR-ID.md`   | Soulbound contributor passport powered by `#SignUp1`               |
+
+> We **use** the protocol to govern the protocol.  
+> Sovereignty is not theory — it’s praxis.  
 
 ---
-
+ 
 > _This isn’t just open source. It’s open **sovereignty**._  
 > _Every commit, every proposal, every meme — is a vote for the future._ 🌌
