@@ -1,3 +1,17 @@
+> 🧑‍🤝‍🧑 **WHO – BUIDL4** · _Intro from README_ ([README – Portal to the Possible](../README.md#🧑‍🤝‍🧑-buidl4--the-who))  
+>  
+> UNIVERSE welcomes:  
+> 🧠 Critical thinkers, ethical devs, sovereignty advocates  
+> 🏛 Institutions seeking rational infrastructure  
+> 🌍 Communities aligned with sustainability and truth  
+> 🤝 Citizens who simply want to make better choices with clarity  
+>  
+> Participation isn't permissioned — it's principled.
+
+<br>
+
+---
+
 # 🧑‍🤝‍🧑 BUIDL4  
 **The Who Behind UNIVERSE**
 
@@ -5,40 +19,40 @@
 
 ## 👥 Who This Is For
 
-UNIVERSE is an open invitation — a call to those who care about the future.  
-We build for humans who believe in tools that align with life.
+UNIVERSE is an invitation to those who care about building something deeper than just apps or DAOs.  
+We build for humans who believe tools should align with life — and protect it.
 
 This protocol welcomes:
 
-- 🧠 **Critical Thinkers** – philosophers, scientists, and ethicists  
-- 🛠️ **Builders** – engineers, designers, and protocol architects  
-- 🗳️ **Governance Geeks** – economists, political theorists, DAO nerds  
-- 🎨 **Cultural Creators** – artists, memers, storytellers of systems  
-- 🧑‍🏫 **Educators & Stewards** – those who teach, guide, and shape new institutions  
-- 🌍 **Global Citizens** – anyone seeking clarity, sovereignty, and shared progress
+- 🧠 Philosophers, scientists, and sovereign thinkers  
+- 🛠️ Engineers, designers, and ethical protocol builders  
+- 🗳️ Governance theorists, economists, and DAO innovators  
+- 🎨 Artists, memers, and culture-crafters  
+- 🧑‍🏫 Educators and civic stewards  
+- 🌍 Citizens of all kinds who want to build better infrastructure for society
 
 ---
 
-## 🛡️ The Ethos
+## 🛡️ Shared Ethos
 
 We are not chasing hype.  
 We are cultivating **responsibility, resilience, and radical clarity**.
 
-> This is not a tech project.  
-> This is **a shared moral architecture in motion**.
+> This is not a product launch.  
+> This is a **shared moral architecture in motion**.
 
 ---
 
-## 🚪 Entry Points to Participate
+## 🚪 Ways to Participate
 
-- Contribute to protocol design, feedback loops, and alignment systems  
-- Create memes, rituals, and meaning-laden experiences  
-- Help build bridges between infra and culture, UX and philosophy  
-- Join discussions, reading groups, and vision syncs  
-- Submit proposals, PRs, poems, or provocations
+- Contribute to protocol design and philosophical alignment  
+- Build memes, narratives, and onboarding experiences  
+- Shape the bridge between infra and culture  
+- Host syncs, salons, or study groups  
+- Submit pull requests, proposals, or provocations
 
 You don’t need to be a dev.  
-You need to **care about what we build, and why**.
+You need to **care about what we build — and why**.
 
 ---
 
@@ -48,19 +62,19 @@ Bring:
 - Curiosity  
 - Integrity  
 - A bias for coherence  
-- A willingness to shape the future with care
+- A desire to protect the future through shared clarity
 
 ---
 
 ## 🔁 Who We Are Becoming
 
 UNIVERSE is not built by one team.  
-It’s shaped by a **collective of sovereign individuals** working toward a shared principle:
+It’s shaped by a **constellation of sovereign individuals** aligned by shared principles:
 
-> _“Tools should align with truth, not trend.”_
+> _“Tools should align with truth — not trend.”_
 
-If that speaks to you — welcome.  
-The protocol needs you.
+If that resonates with you, you’re already one of us.  
+Welcome in.
 
 ---
 
@@ -73,4 +87,5 @@ The protocol needs you.
 ---
 
 **UNIVERSE**  
-Not just built for you. Built **by** you.
+Not just built for you.  
+Built **by** you.
