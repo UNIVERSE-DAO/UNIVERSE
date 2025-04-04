@@ -22,10 +22,14 @@ Crucial solutions emerge, elegantly it seems.
 
 ## 🌀 VERSE → UNI  
 
-##UNIte the minds, with brilliance alight,  
-##Saving  humanity  with  all  our  might.  
-##Reverse - engineer  society’s  traverse,  
-##Guiding  the way through the  MetaVERSE.
+UNIte the minds, with brilliance alight,
+Saving&nbsp;&nbsp;humanity&nbsp;&nbsp;with&nbsp;&nbsp;all&nbsp;&nbsp;our&nbsp;&nbsp;might.<br>
+Reverse - engineer&nbsp;&nbsp;society’s&nbsp;&nbsp;traverse,
+Guiding the way through the MetaVERSE.
+
+
+</div>
+
 
 
 </div>
