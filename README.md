@@ -3,6 +3,8 @@
 
 ---
 
+<br>
+
 🌌 **UNIVERSE.DAO**  
 **The Ultimate Tool for Good to Master the Infinite Game**
 
@@ -10,13 +12,17 @@ Building, Decentralizing & Governing with Cipher Punk Ideology
 
 ---
 
-### 🧠 [PHILOSOPHY – The Why](docs/PHILOSOPHY.md) <a name="🧠-philosophy--the-why"></a>
+<br>
+
+### 🧠 [PHILOSOPHY – The WHY](docs/PHILOSOPHY.md) <a name="🧠-philosophy--the-why"></a>
 
 **Building the ultimate Tech for Good to Master the Infinite Game — providing Hope, Prosperity, and Well-being — is the essence of a fulfilling life purpose.**
 
 ---
 
-### 🧬 [VISION – The How](docs/VISION.md) <a name="🧬-vision--the-how"></a>
+<br>
+
+### 🧬 [VISION – The HOW](docs/VISION.md) <a name="🧬-vision--the-how"></a>
 
 To serve as the **Multiverse** — the greatest public good — by creating a self-reinforcing system that rewards, unites, and protects.
 
@@ -27,7 +33,9 @@ UNIVERSE is not just a system — it's a **search engine for solutions**, a **mi
 
 ---
 
-### 🔍 [MISSION – The What](docs/MISSION.md) <a name="🔍-mission--the-what"></a>
+<br>
+
+### 🔍 [MISSION – The WHAT](docs/MISSION.md) <a name="🔍-mission--the-what"></a>
 
 - **The Truth Engine** → Enables rational choices in AI alignment & governance  
 - **The Holy Grail** → Visualizes human progress and consensus in crucial problem solving  
@@ -36,7 +44,9 @@ UNIVERSE is not just a system — it's a **search engine for solutions**, a **mi
 
 ---
 
-### 🧑‍🤝‍🧑 [BUIDL4 – The Who](docs/BUIDL4.md) <a name="🧑‍🤝‍🧑-buidl4--the-who"></a>
+<br>
+
+### 🧑‍🤝‍🧑 [BUIDL4 – The WHO](docs/BUIDL4.md) <a name="🧑‍🤝‍🧑-buidl4--the-who"></a>
 
 UNIVERSE welcomes:
 
@@ -48,6 +58,8 @@ UNIVERSE welcomes:
 > 100% inclusive. Value-aligned. Action-ready.
 
 ---
+
+<br>
 
 ### 📜 [THE UNIVERSE.DAO MANIFESTO](docs/DAO-MANIFESTO.md) <a name="dao-manifesto"></a>  
 _This protocol is not just code — it’s conviction._
@@ -62,6 +74,8 @@ Its governance role is to **support upgrades** that align with the highest respo
 Protecting freedom. Encouraging participation. Sustaining the Infinite Game.
 
 ---
+
+<br>
 
 ### 🛠️ Architecture Overview
 
