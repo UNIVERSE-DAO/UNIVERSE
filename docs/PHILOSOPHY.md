@@ -6,6 +6,10 @@
 >  
 > UNIVERSE begins with this flame.
 
+---
+
+<br>
+
 # ♾️ PHILOSOPHY
 **The Infinite Game, Sovereignty, and the Moral Architecture of UNIVERSE**
 
