@@ -18,6 +18,7 @@ From the depths of 'impossible' streams,<br>
 Crucial solutions emerge, elegantly it seems.<br>
 </div>
 <br><br>
+
 ---
 
 ### 🌀 VERSE → UNI  
@@ -29,6 +30,7 @@ Reverse - engineer&nbsp;&nbsp;&nbsp;society’s&nbsp;&nbsp;&nbsp;traverse,<br>
 Guiding the way through the MetaVERSE.<br>
 </div>
 <br><br>
+
 ---
 
 ## ✍️ Dilemma of the Ultimate Tech for Good  
@@ -39,16 +41,17 @@ A simple tool forged, yet risks aflame.<br>
 Crafting solutions, a most delicate art,<br>  
 Falling in wrong hands, they tear apart.<br><br>  
 
-Power and Trust, in a precarious dance, 
-Infinite potential, both fate and chance. 
-For in mastery lies both boon and bane,  
-Timeless struggle in this universe game.<br> 
+Power and Trust, in a precarious dance,<br> 
+Infinite potential, both fate and chance.<br> 
+For in mastery lies both boon and bane,<br>  
+Timeless struggle in this universe game.<br><br> 
 
-Guided by Social Choice Theory’s hand,
-It favours the good, where justice stand.
-Challenges abound, and dangers loom, 
-Justified hope, wisdom clears the gloom.
+Guided by Social Choice Theory’s hand,<br>
+It favours the good, where justice stand.<br>
+Challenges abound, and dangers loom,<br> 
+Justified hope, wisdom clears the gloom.<br>
 </div>
+
 ---
 
 ## 🌌 The Infinite Game  
