@@ -1,10 +1,21 @@
 > 🛠️ **SYSTEMS – ARCHITECTURE** · Intro from README ([README – Portal to the Possible](../README.md#architecture-overview))  
 >  
-> The UNIVERSE protocol unfolds in **symbolic layers** — each module a principle encoded into infrastructure.  
+> The following modules are deployed in **progressive, symbolic layers** — each one intentional, layered, and value-aligned.  
 >  
-> From identity to compliance, from UI to DAO, each system reflects a moral intention.
+> From sovereign login to resilient compliance, these modules represent UNIVERSE's strategic infrastructure design.
 
 ### 🛠️ Architecture Overview <a name="architecture-overview"></a>
+
+---
+
+| **Module**           | **Identifier**         | **Description**                                                                 |
+|----------------------|------------------------|---------------------------------------------------------------------------------|
+| Infra1               | `#Infra1`              | Bootstrapping privacy-first infrastructure                                      |
+| Infra2               | `#Infra2`              | Fully decentralized, censorship-resistant backend                              |
+| Universal Login      | `#SignUp1 → #SignUp2`  | Web2-compatible logins → sovereign DIDs with zk-auth                           |
+| Smart Compliance     | `#SCRS`                | Smart Compliance & Resilient SaaS                                              |
+| Decentralized UI     | `#D-UI`                | Sovereign frontends that visualize truth, consensus & well-being               |
+| DAO Governance       | `#UIP-GOV`             | Staged proposal system, evolving from dev-led to autonomous governance         |
 
 ---
 
@@ -65,3 +76,32 @@ This document outlines the key infrastructure components and the governance phas
 - Intervenes only in existential threats or to approve critical feature expansions  
 
 ✅ **Goal**: Maintain the DAO as a long-term steward ensuring perpetual decentralization
+
+---
+
+## 🧭 What's Next?
+
+This document is part of the evolving **UNIVERSE protocol**.  
+If you resonate with sovereignty, coherence, and truth-aligned systems — you're already part of it.
+
+### 🔗 Continue Exploring
+
+- [VISION – The How](VISION.md)  
+- [MISSION – The What](MISSION.md)  
+- [PHILOSOPHY – The Why](PHILOSOPHY.md)  
+- [DAO MANIFESTO – What We Defend](DAO-MANIFESTO.md)  
+- [ROADMAP – The Journey Is the Goal](ROADMAP.md)  
+
+### 🤝 Participate in the Build
+
+- Propose improvements via Pull Requests  
+- Drop insights into `1 #MOMENTUM/`  
+- Join a reading jam or protocol refinement call  
+- Help shape the next symbolic layer
+
+> _A system becomes real the moment you contribute to it._
+
+**UNIVERSE**  
+Tools for clarity. Infrastructure for meaning.  
+An open protocol for those who choose to build the Infinite Game.
+"""
