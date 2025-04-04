@@ -16,18 +16,17 @@ Piece by piece, the puzzle laid,<br>
 In unity and consensus, fears allayed.<br>  
 From the depths of 'impossible' streams,<br>  
 Crucial solutions emerge, elegantly it seems.
-
+</div>
 
 ---
 
 ### 🌀 VERSE → UNI  
 
+<div align="center">
 UNIte the minds, with brilliance alight,<br>
 Saving&nbsp;&nbsp;humanity&nbsp;&nbsp;&nbsp;with&nbsp;&nbsp;all&nbsp;&nbsp;our&nbsp;&nbsp;might.<br><br>
 Reverse - engineer&nbsp;&nbsp;&nbsp;society’s&nbsp;&nbsp;&nbsp;traverse,<br>
 Guiding the way through the MetaVERSE.
-
-
 </div>
 
 ---
