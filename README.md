@@ -49,24 +49,17 @@ UNIVERSE welcomes:
 
 ---
 
-Once fully decentralized, **UNIVERSE.DAO** becomes a **guardian** — preserving the right conditions for truth, coordination, and collective growth.
+### 📜 [THE UNIVERSE.DAO MANIFESTO](docs/DAO-MANIFESTO.md) <a name="dao-manifesto"></a>  
+_This protocol is not just code — it’s conviction._
 
-✅ Sovereignty  
-✅ Resilience  
-✅ Long-term Integrity
+Once fully decentralized, **UNIVERSE.DAO** becomes a **guardian** — preserving the right conditions for:
 
-📢 **Governance Role**: Support protocol upgrades that align with the highest responsibility — protecting freedom, encouraging participation, and sustaining the Infinite Game.
+- ✅ Sovereignty  
+- ✅ Resilience  
+- ✅ Long-term Integrity  
 
-🧭 Full mission & philosophy: [docs/MISSION.md](docs/MISSION.md)
-
----
-
-### 📜 The UNIVERSE.DAO Manifesto
-
-The foundation of this protocol is not just code — it’s conviction.  
-Read the guiding principles behind privacy-first design, decentralization, and the Infinite Game:
-
-➡️ [docs/DAO-MANIFESTO.md](docs/DAO-MANIFESTO.md)
+Its governance role is to **support upgrades** that align with the highest responsibility:  
+Protecting freedom. Encouraging participation. Sustaining the Infinite Game.
 
 ---
 
