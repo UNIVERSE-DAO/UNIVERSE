@@ -5,15 +5,16 @@
 > From sovereign login to resilient compliance, these modules represent UNIVERSE's strategic infrastructure design.
 
 
+| **Module**           | **Identifier**         | **Description**                                                                 |
+|----------------------|------------------------|---------------------------------------------------------------------------------|
+| Infra1               | `#Infra1`              | Bootstrapping privacy-first infrastructure                                      |
+| Infra2               | `#Infra2`              | Fully decentralized, censorship-resistant backend                              |
+| Universal Login      | `#SignUp1 → #SignUp2`  | Web2-compatible logins → sovereign DIDs with zk-auth                           |
+| Smart Compliance     | `#SCRS`                | Smart Compliance & Resilient SaaS                                              |
+| Decentralized UI     | `#D-UI`                | Sovereign frontends that visualize truth, consensus & well-being               |
+| DAO Governance       | `#UIP-GOV`             | Staged proposal system, evolving from dev-led to autonomous governance         |
 
->| **Module**           | **Identifier**         | **Description**                                                 >                |
->|----------------------|------------------------|----------------------------------------------------------------->----------------|
->| Infra1               | `#Infra1`              | Bootstrapping privacy-first infrastructure                      >                |
->| Infra2               | `#Infra2`              | Fully decentralized, censorship-resistant backend               >               |
->| Universal Login      | `#SignUp1 → #SignUp2`  | Web2-compatible logins → sovereign DIDs with zk-auth            >               |
->| Smart Compliance     | `#SCRS`                | Smart Compliance & Resilient SaaS                               >               |
->| Decentralized UI     | `#D-UI`                | Sovereign frontends that visualize truth, consensus & well->being               |
->| DAO Governance       | `#UIP-GOV`             | Staged proposal system, evolving from dev-led to autonomous >governance         |
+
 
 ---
 
