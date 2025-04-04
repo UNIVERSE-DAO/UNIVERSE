@@ -1,3 +1,7 @@
+from datetime import date
+
+# Full CHANGELOG content as a string
+changelog_full = f"""
 # 📜 CHANGELOG  
 All notable changes to this project will be documented here.
 
