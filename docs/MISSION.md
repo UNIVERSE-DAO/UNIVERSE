@@ -1,3 +1,15 @@
+> 🔍 **WHAT – MISSION** · _Intro from README_ ([README – Portal to the Possible](../README.md#🔍-mission--the-what))  
+>  
+> The **Truth Engine** → Enables rational choices in AI alignment & governance  
+> The **Holy Grail** → Visualizes human progress and consensus in crucial problem solving  
+> **GLOBIND** → Globally Aligned in Morals and Ethics  
+> **Protection Protocol** → Safeguards society’s most valuable asset  
+>  
+> UNIVERSE is more than ideals — it’s a mission grounded in mechanisms.
+
+<br><br>
+
+
 # 🔍 MISSION  
 **The Strategic Output of UNIVERSE**
 
