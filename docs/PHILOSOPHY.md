@@ -1,4 +1,4 @@
-> 🧠 **WHY – PHILOSOPHY** · _Intro from README_ ([README – Portal to the Possible](../README.md))  
+> 🧬 **HOW – VISION** · _Intro from README_ ([README – Portal to the Possible](../README.md#🧬-vision--the-how))  
 >  
 > Building the ultimate Tech for Good to Master the Infinite Game — providing **Hope**, **Prosperity**, and **Well-being** — is the essence of a fulfilling life purpose.  
 >  
