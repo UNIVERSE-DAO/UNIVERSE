@@ -84,7 +84,7 @@ The following modules are deployed in progressive, symbolic layers:
 
 📘 Full breakdown: [docs/D-ARCHITECTURE-OVERVIEW.md](docs/D-ARCHITECTURE-OVERVIEW.md)
 
----
+--
 
 ### 🗺️ Roadmap Milestone Overview
 
@@ -103,56 +103,9 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 ---
 
-### 📂 Core Documentation Index
+📂 Core Documentation Index
 
-
-- 🪐 **README** – The Portal to the Possible  
-
----
-
-#### ✨ Foundational Philosophy
-
-- 🧠 [**PHILOSOPHY** – The Why](docs/PHILOSOPHY.md)  
-- 🧬 [**VISION** – The How](docs/VISION.md)  
-- 🔍 [**MISSION** – The What](docs/MISSION.md)  
-- 🧑‍🤝‍🧑 [**BUIDL4** – The Who](docs/BUIDL4.md)  
-- 🌀 [**MEMES** – Cultural Meaning & Symbolic Substrate](docs/MEMES.md)  
-
----
-
-#### 🛡️ Sovereign System & Governance
-
-- 🛡️ [**DAO-MANIFESTO** – Core Commitments](docs/DAO-MANIFESTO.md)  
-- 📘 [**WHITEPAPER** – A Beacon in the Void](docs/WHITEPAPER.md)  
-- 🛠️ [**ARCHITECTURE** – Modular Systems Overview](docs/D-ARCHITECTURE-OVERVIEW.md)  
-- 🌕 [**ROADMAP** – The Journey *Is* the Goal](docs/ROADMAP.md)  
-- 🧬 [**GOVERNANCE** – Proposal System & Evolution](proposals/UIP-GOVERNANCE.md)  
-
----
-
-#### 🧱 Infrastructure & Protocol Integrity
-
-- 📦 [**BACKUPS** – Versioning & Archival Logic](docs/ARCHIVE.md)  
-- 🧾 [**BACKUP-NAMING** – Ritual Naming Convention](docs/BACKUP-NAMING-GUIDE.md)  
-- 🧱 [**PROJECT STRUCTURE** – Symbolic Folder Map](docs/PROJECT-STRUCTURE.md)  
-- 🪢 [**BRANCHING** – Git Flow Strategy](docs/BRANCHING-STRATEGY.md)  
-- 🧬 [**CHANGELOG** – Protocol Evolution Log](docs/CHANGELOG.md)  
-- 📜 [**LICENSE** – Freedom Preserved](LICENSE)  
-- 🐚 [**.gitignore** – Signal Over Noise](.gitignore)  
-
----
-
-#### 🤝 Contribution Pathways
-
-- 🤝 [**CONTRIBUTING** – How to Join & Participate](CONTRIBUTING.md)  
-- 📄 [**COMMITS** – Symbolic Commit Guide](docs/COMMIT-GUIDE.md)
-#### 🤝 Contribution Pathways
-
-- 🤝 [**CONTRIBUTING** – How to Join & Participate](CONTRIBUTING.md)  
-- 📄 [**COMMITS** – Symbolic Commit Guide](docs/COMMIT-GUIDE.md)  
-- 🌐 [**CONNECT** – Discuss, Learn, Teach & BUIDL](docs/CONNECT.md)
-
----
+🪐 README – The Portal to the Possible
 
 **UNIVERSE**  
 More than just a MEME. It’s a revolutionary paradigm shift.
