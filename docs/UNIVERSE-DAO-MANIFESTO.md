@@ -1,4 +1,4 @@
-> 📜 **UNIVERSE.DAO – MANIFESTO** · Intro from README ([README – Portal to the Possible](../README.md#📜-universe-dao-manifesto))  
+> 📜 **UNIVERSE.DAO – MANIFESTO** · Intro from README ([README – Portal to the Possible](../README.md#universedao--manifesto))  
 >  
 > This protocol is not just code — it’s conviction.  
 >  
