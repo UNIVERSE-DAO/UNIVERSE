@@ -1,6 +1,6 @@
 # 🌌 ＵＮＩＶＥＲＳＥ . D A O 
 
-##UNIte to find consensus through the MetaVERSE##
+## UNIte to find consensus through the MetaVERSE ##
 
 <br>
 
