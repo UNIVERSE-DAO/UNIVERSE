@@ -1,6 +1,6 @@
 
 
-## PHILOSOPHY
+## ♾️ PHILOSOPHY
 ### **The Infinite Game, Sovereignty, and the Moral Architecture of UNIVERSE**
 
 ---
@@ -26,10 +26,6 @@ UNIte the minds, with brilliance alight,<br>
 Saving&nbsp;&nbsp;humanity&nbsp;&nbsp;&nbsp;with&nbsp;&nbsp;all&nbsp;&nbsp;our&nbsp;&nbsp;might.<br><br>
 Reverse - engineer&nbsp;&nbsp;&nbsp;society’s&nbsp;&nbsp;&nbsp;traverse,<br>
 Guiding the way through the MetaVERSE.
-
-
-</div>
-
 
 
 </div>
