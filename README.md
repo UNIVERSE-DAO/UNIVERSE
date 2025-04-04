@@ -13,8 +13,8 @@ Building, Decentralizing & Governing with Cipher Punk Ideology
 ### 🧠 [PHILOSOPHY – The Why](docs/PHILOSOPHY.md)
 
 **Building the ultimate Tech for Good to Master the Infinite Game — providing Hope, Prosperity, and Well-being — is the essence of a fulfilling life purpose.**
-
----<a name="🧬-vision--the-how"></a>
+<a name="🧬-vision--the-how"></a>
+---
 
 ### 🧬 [VISION – The How](docs/VISION.md) 
 
