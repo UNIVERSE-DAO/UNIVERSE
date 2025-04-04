@@ -1,3 +1,21 @@
+# 📂 UNIVERSE – Project Structure  
+This document outlines the current folder and file structure of the UNIVERSE repository, including symbolic modules, protected folders, development placeholders, and system documentation.
+
+---
+
+
+## Naming Conventions
+
+| Symbol / Pattern           | Meaning                                                                 |
+|----------------------------|-------------------------------------------------------------------------|
+| #FOLDER/ or #file.md   | 🛡️ Protected — logic gated by symbolic phase or governance unlock       |
+| - README.md              | 📎 Placeholder — structure exists, implementation pending                |
+| README.md                | 📘 Active — content live & indexed                                       |
+
+
+---
+
+
 | Path                           | Purpose                                                                 |
 |--------------------------------|-------------------------------------------------------------------------|
 | .github/                       | GitHub configuration and automation                                     |
@@ -51,3 +69,9 @@
 | ├── ROADMAP.md                 | Lunar phase-based project roadmap 🌒 → 🌕 → 🌑                          |
 | ├── README.md                  | Optional GitHub Pages doc index                                         |
 | └── CONNECT.md                 | Contributor & ecosystem onboarding (in progress)                        |
+
+
+---
+
+> _UNIVERSE is a protocol of purpose — a structure of sovereignty and shared responsibility.  
+> You don’t just contribute. You shape a piece of the infinite._ 🌌
