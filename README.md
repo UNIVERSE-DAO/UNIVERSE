@@ -109,13 +109,13 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 ---
 
-#### ✨ Symbolic Foundation
+#### ✨ Foundation
 
 - 🧠 [PHILOSOPHY – The Why](docs/PHILOSOPHY.md)  
 - 🧬 [VISION – The How](docs/VISION.md)  
 - 🔍 [MISSION – The What](docs/MISSION.md)  
 - 🧑‍🤝‍🧑 [BUIDL4 – The Who](docs/BUIDL4.md)  
-- 🌀 [MEMES – Cultural Meaning & Symbolic Substrate](docs/MEMES.md)  
+- 🌀 [MEMES – Cultural Meaning](docs/MEMES.md)  
 
 ---
 
@@ -123,7 +123,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 - 🛡️ [DAO-MANIFESTO – What We Defend](docs/DAO-MANIFESTO.md)  
 - 📘 [WHITEPAPER – A Beacon in the Void](docs/WHITEPAPER.md)  
-- 🧬 [UIP-GOVERNANCE – Proposal System & Evolution](0\ #DAO\ -\ The\ Layer\ Zero/0.2\ proposals/#UIP-GOVERNANCE.md)  
+- 🧬 [UIP-GOVERNANCE – Proposal System & Evolution](docs/#UIP-GOVERNANCE.md)  
 
 ---
 
