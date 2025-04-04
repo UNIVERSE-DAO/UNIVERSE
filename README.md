@@ -10,13 +10,13 @@ Building, Decentralizing & Governing with Cipher Punk Ideology
 
 ---
 
-### 🧠 [PHILOSOPHY – The Why](PHILOSOPHY.md)
+### 🧠 [PHILOSOPHY – The Why](docs/PHILOSOPHY.md)
 
 **Building the ultimate Tech for Good to Master the Infinite Game — providing Hope, Prosperity, and Well-being — is the essence of a fulfilling life purpose.**
 
 ---
 
-### 🧬 [VISION – The How](VISION.md) 
+### 🧬 [VISION – The How](docs/VISION.md) 
 
 To serve as the **Multiverse** — the greatest public good — by creating a self-reinforcing system that rewards, unites, and protects.
 
@@ -27,7 +27,7 @@ UNIVERSE is not just a system — it's a **search engine for solutions**, a **mi
 
 ---
 
-### 🔍 [MISSION – The What](MISSION.md) 
+### 🔍 [MISSION – The What](docs/MISSION.md) 
 
 - **The Truth Engine** → Enables rational choices in AI alignment & governance  
 - **The Holy Grail** → Visualizes human progress and consensus in crucial problem solving  
@@ -36,7 +36,7 @@ UNIVERSE is not just a system — it's a **search engine for solutions**, a **mi
 
 ---
 
-### 🧑‍🤝‍🧑 [BUIDL4 – The Who](BUIDL4.md)
+### 🧑‍🤝‍🧑 [BUIDL4 – The Who](docs/BUIDL4.md)
 
 UNIVERSE welcomes:
 
