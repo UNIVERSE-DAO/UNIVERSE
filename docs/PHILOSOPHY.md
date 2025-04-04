@@ -1,4 +1,4 @@
-🧠 PHILOSOPHY – The Why  
+#PHILOSOPHY# 
 **The Infinite Game, Sovereignty, and the Moral Architecture of UNIVERSE**
 
 ---
