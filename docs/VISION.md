@@ -1,12 +1,11 @@
-> 🧬 **HOW – VISION**  
+> 🧬 **HOW – VISION** · _Intro from README_ ([README – Portal to the Possible](../README.md))  
+>  
 > To serve as the **Multiverse** — the greatest public good — by creating a self-reinforcing system that rewards, unites, and protects.  
 >  
 > To build sovereignty-first digital infrastructure that empowers societies to  
 > **UNIte to find consensus through the MetaVERSE** — unlocking solutions for well-being, prosperity, and long-term alignment.  
 >  
-> UNIVERSE is not just a system — it's a **search engine for solutions**, a **mirror of societal progress**, and a **framework for shared responsibility**.  
->  
-> _Start with the [README – Portal to the Possible](../README.md) for full context._
+> UNIVERSE is not just a system — it's a **search engine for solutions**, a **mirror of societal progress**, and a **framework for shared responsibility**.
 
 ---
 
