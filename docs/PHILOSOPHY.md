@@ -15,7 +15,7 @@ Where synthesis will prevail.<br><br>
 Piece by piece, the puzzle laid,<br>  
 In unity and consensus, fears allayed.<br>  
 From the depths of 'impossible' streams,<br>  
-Crucial solutions emerge, elegantly it seems.
+Crucial solutions emerge, elegantly it seems.<br>
 </div>
 
 ---
@@ -26,7 +26,7 @@ Crucial solutions emerge, elegantly it seems.
 UNIte the minds, with brilliance alight,<br>
 Saving&nbsp;&nbsp;humanity&nbsp;&nbsp;&nbsp;with&nbsp;&nbsp;all&nbsp;&nbsp;our&nbsp;&nbsp;might.<br><br>
 Reverse - engineer&nbsp;&nbsp;&nbsp;society’s&nbsp;&nbsp;&nbsp;traverse,<br>
-Guiding the way through the MetaVERSE.
+Guiding the way through the MetaVERSE.<br>
 </div>
 
 ---
@@ -34,20 +34,20 @@ Guiding the way through the MetaVERSE.
 ## ✍️ Dilemma of the Ultimate Tech for Good  
 
 <div align="center">
-The key to master The Infinite Game,  
-A simple tool forged, yet risks aflame.  
-Crafting solutions, a most delicate art,  
-Falling in wrong hands, they tear apart.  
+The key to master The Infinite Game,<br>  
+A simple tool forged, yet risks aflame.<br>  
+Crafting solutions, a most delicate art,<br>  
+Falling in wrong hands, they tear apart.<br><br>  
 
-Power and Trust, in a precarious dance,  
-Infinite potential, both fate and chance.  
-For in mastery lies both boon and bane,  
-Timeless struggle in this universe game.  
+Power and Trust, in a precarious dance,<br>  
+Infinite potential, both fate and chance.<br>  
+For in mastery lies both boon and bane,<br>  
+Timeless struggle in this universe game.<br><br>  
 
-Guided by Social Choice Theory’s hand,  
-It favours the good, where justice stand.  
-Challenges abound, and dangers loom,  
-Justified hope, wisdom clears the gloom.
+Guided by Social Choice Theory’s hand,<br>  
+It favours the good, where justice stand.<br>  
+Challenges abound, and dangers loom,<br>  
+Justified hope, wisdom clears the gloom.<br>
 </div>
 ---
 
