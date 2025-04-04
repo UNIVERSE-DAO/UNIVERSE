@@ -3,7 +3,7 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 
 ---
 
-## 🧠 Naming Conventions
+## Naming Conventions
 
 | Symbol / Pattern           | Meaning                                                                 |
 |----------------------------|-------------------------------------------------------------------------|
