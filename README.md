@@ -110,17 +110,13 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 ---
 
-#### ✨ Foundational Principles
-
-| Doc              | Role                              | Depth   | Emotion                   | Function                      |
-|------------------|-----------------------------------|---------|----------------------------|-------------------------------|
-| `README.md`      | Orientation Portal                | Medium  | ⚖️ Clear + Inspiring      | Navigation, Snapshot          |
-| `PHILOSOPHY.md`  | Foundation & Flame                | Deep    | 🔥 High                   | Source code of values         |
-| `VISION.md`      | Systemic Intention                | Medium  | 🌌 Aspirational           | Strategy & Design Ethos       |
-| `MISSION.md`     | Tactical Translation              | Medium  | 🧩 Purposeful             | Outputs, Tools                |
-| `BUIDL4.md`      | Invitation & Community Compass    | Light   | 🤝 Uplifting              | Who, Why You Matter           |
+### ✨ Foundational Principles  
+- 🧠 [PHILOSOPHY – The Why](docs/PHILOSOPHY.md)  
+- 🧬 [VISION – The How](docs/VISION.md)  
+- 🔍 [MISSION – The What](docs/MISSION.md)  
+- 🧑‍🤝‍🧑 [BUIDL4 – The Who](docs/BUIDL4.md)  
+- 🌀 [MEMES – Cultural Meaning](docs/MEMES.md) 
  
-
 ---
 
 #### 🛡️ Governance & Protocol Commitments
