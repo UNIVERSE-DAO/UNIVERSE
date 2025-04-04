@@ -1,4 +1,4 @@
-# 🤝 #CONTRIBUTING v0.1.1 to ＵＮＩＶＥＲＳＥ  
+# 🤝 #CONTRIBUTING to ＵＮＩＶＥＲＳＥ   v0.1.1   
 **Join the Infinite Game — not just to build code, but to co-create a paradigm shift.**
 
 ---
