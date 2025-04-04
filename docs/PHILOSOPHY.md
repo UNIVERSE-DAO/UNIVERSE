@@ -1,20 +1,20 @@
 
 
 # ♾️ PHILOSOPHY
-## **The Infinite Game, Sovereignty, and the Moral Architecture of UNIVERSE**
+**The Infinite Game, Sovereignty, and the Moral Architecture of UNIVERSE**
 
 ---
  
 ### ✨ Discover 
 
 <div align="center">
-In the essential quest to see, we first must find,  
-The core issue that to all of us is blind.  
-Acknowledgment starts the trail,  
-Where synthesis will prevail.  
-Piece by piece, the puzzle laid,  
-In unity and consensus, fears allayed.  
-From the depths of 'impossible' streams,  
+In the essential quest to see, we first must find,<br>  
+The core issue that to all of us is blind.<br>  
+Acknowledgment starts the trail,<br>  
+Where synthesis will prevail.<br><br>  
+Piece by piece, the puzzle laid,<br>  
+In unity and consensus, fears allayed.<br>  
+From the depths of 'impossible' streams,<br>  
 Crucial solutions emerge, elegantly it seems.
 
 
