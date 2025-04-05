@@ -1,4 +1,4 @@
-> ♾️ PHILOSOPHY · <sub>[← Return to README : WHI Intro](../README.md#🧠-philosophy--the-why)</sub>
+> [♾️ PHILOSOPHY](../README.md#🧠-philosophy--the-why) · <sub>← Return to README : WHI Intro</sub>
 >  
 > Building the ultimate Tech for Good to Master the Infinite Game — providing **Hope**, **Prosperity**, and **Well-being** — is the essence of a fulfilling life purpose. 
 
