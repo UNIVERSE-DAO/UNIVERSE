@@ -1,4 +1,4 @@
-# 🌌 ＵＮＩＶＥＲＳＥ . D A O 
+# ＵＮＩＶＥＲＳＥ . D A O 
 
 ## UNIte to find consensus through the MetaVERSE ##
 
@@ -14,7 +14,7 @@ Building, Decentralizing & Governing with Cipher Punk Ideology
 
 <br>
 
-### 🧠 [PHILOSOPHY – The WHY](docs/PHILOSOPHY.md) <a name="🧠-philosophy--the-why"></a>
+### [PHILOSOPHY – WHY](docs/PHILOSOPHY.md) <a name="philosophy--the-why"></a>
 
 **Building the ultimate Tech for Good to Master the Infinite Game — providing Hope, Prosperity, and Well-being — is the essence of a fulfilling life purpose.**
 
@@ -22,7 +22,7 @@ Building, Decentralizing & Governing with Cipher Punk Ideology
 
 <br>
 
-### 🧬 [VISION – The HOW](docs/VISION.md) <a name="🧬-vision--the-how"></a>
+### [VISION – HOW](docs/VISION.md) <a name="vision--the-how"></a>
 
 To serve as the **Multiverse** — the greatest public good — by creating a self-reinforcing system that rewards, unites, and protects.
 
@@ -35,7 +35,7 @@ UNIVERSE is not just a system — it's a **search engine for solutions**, a **mi
 
 <br>
 
-### 🔍 [MISSION – The WHAT](docs/MISSION.md) <a name="🔍-mission--the-what"></a>
+### [MISSION – WHAT](docs/MISSION.md) <a name="mission--the-what"></a>
 
 - **The Truth Engine** → Enables rational choices in AI alignment & governance  
 - **The Holy Grail** → Visualizes human progress and consensus in crucial problem solving  
@@ -46,7 +46,7 @@ UNIVERSE is not just a system — it's a **search engine for solutions**, a **mi
 
 <br>
 
-### 🧑‍🤝‍🧑 [BUIDL4 – The WHO](docs/BUIDL4.md) <a name="🧑‍🤝‍🧑-buidl4--the-who"></a>
+### [BUIDL4 – WHO](docs/BUIDL4.md) <a name="buidl4--the-who"></a>
 
 UNIVERSE welcomes:
 
@@ -61,7 +61,7 @@ UNIVERSE welcomes:
 
 <br>
 
-### 📜 [UNIVERSE.DAO - MANIFESTO](docs/UNIVERSE-DAO-MANIFESTO.md) <a name="universe-dao-manifesto"></a>  
+### [UNIVERSE.DAO - MANIFESTO](docs/UNIVERSE-DAO-MANIFESTO.md) <a name="universe-dao-manifesto"></a>  
 _This protocol is not just code — it’s conviction._
 
 Once fully decentralized, **UNIVERSE.DAO** becomes a **guardian** — preserving the right conditions for:
@@ -77,7 +77,7 @@ Protecting freedom. Encouraging participation. Sustaining the Infinite Game.
 
 <br>
 
-### [🛠️ Architecture Overview](docs/D-ARCHITECTURE-OVERVIEW.md) <a name="architecture-overview"></a>
+### [Architecture Overview](docs/D-ARCHITECTURE-OVERVIEW.md) <a name="architecture-overview"></a>
 
 The following modules are deployed in progressive, symbolic layers:
 
@@ -96,7 +96,7 @@ The following modules are deployed in progressive, symbolic layers:
 
 <br>
 
-### 🗺️ Roadmap Milestone Overview
+### Roadmap Milestone Overview
 
 UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized, privacy-first protocol:
 
@@ -108,49 +108,49 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 | 3     | 🌑     | Black Hole       | AI truth engine, deep protocol work, DAO feature evolution         |
 
 > 🔐 Protected logic is intentionally hidden until the right phase.  
-> 🛰️ Current Stage: **Phase 1 – Pre Big-Bang** 🌓 `#PreBigBang`  
-> 🛡️ [Request Access](https://universe.org/github) if you’re ready to build sovereignty.
+> Current Stage: **Phase 1 – Pre Big-Bang** 🌓 `#PreBigBang`  
+> [Request Access](https://universe.org/github) if you’re ready to build sovereignty.
 
 ---
 
-### 📂 Core Documentation Index
+### Core Documentation Index
 
-🪐 **README.md** – The Portal to the Possible  
+**README.md** – The Portal to the Possible  
 
 ---
 
-### ✨ Foundational Principles  
-- 🧠 [PHILOSOPHY – The Why](docs/PHILOSOPHY.md)  
-- 🧬 [VISION – The How](docs/VISION.md)  
-- 🔍 [MISSION – The What](docs/MISSION.md)  
-- 🧑‍🤝‍🧑 [BUIDL4 – The Who](docs/BUIDL4.md)  
-- 🌀 [MEMES – Cultural Meaning](docs/MEMES.md) 
+### Foundational Principles  
+- [PHILOSOPHY – The Why](docs/PHILOSOPHY.md)  
+- [VISION – The How](docs/VISION.md)  
+- [MISSION – The What](docs/MISSION.md)  
+- [BUIDL4 – The Who](docs/BUIDL4.md)  
+- [MEMES – Cultural Meaning](docs/MEMES.md) 
  
 ---
 
-#### 🛡️ Governance & Protocol Commitments
+#### Governance & Protocol Commitments
 
-- 🛡️ [DAO-MANIFESTO – What We Defend](docs/DAO-MANIFESTO.md)  
-- 📘 [WHITEPAPER – A Beacon in the Void](docs/WHITEPAPER.md)  
-- 🧬 [UIP-GOVERNANCE – Proposal System & Evolution](0%20%23DAO%20-%20The%20Layer%20Zero/0.2%20proposals/#UIP-GOVERNANCE.md)  
-
----
-
-#### 🛠 Systems & Infrastructure
-
-- 🛠️ [ARCHITECTURE – Modular Systems Overview](docs/D-ARCHITECTURE-OVERVIEW.md)  
-- 🌕 [ROADMAP – The Journey *Is* the Goal](docs/ROADMAP.md)  
-- 🧱 [PROJECT STRUCTURE – Symbolic Folder Map](docs/PROJECT-STRUCTURE.md)  
-- 📦 [BACKUPS – Versioning & Archive Strategy](docs/ARCHIVE.md)  
-- 🧾 [BACKUP-NAMING – Ritual Snapshot Naming](docs/BACKUP-NAMING-GUIDE.md)  
-- 🪢 [BRANCHING – Git Flow Strategy](docs/BRANCHING-STRATEGY.md)  
-- 📄 [COMMITS – Symbolic Commit Guide](docs/COMMIT-GUIDE.md)  
-- 🧬 [CHANGELOG – Protocol Evolution Log](docs/CHANGELOG.md)  
-- 📜 [LICENSE – Freedom Preserved](.github/LICENSE)  
+- [DAO-MANIFESTO – What We Defend](docs/DAO-MANIFESTO.md)  
+- [WHITEPAPER – A Beacon in the Void](docs/WHITEPAPER.md)  
+- [UIP-GOVERNANCE – Proposal System & Evolution](0%20%23DAO%20-%20The%20Layer%20Zero/0.2%20proposals/#UIP-GOVERNANCE.md)  
 
 ---
 
-#### 🤝 Contribution Pathways
+#### Systems & Infrastructure
+
+- [ARCHITECTURE – Modular Systems Overview](docs/D-ARCHITECTURE-OVERVIEW.md)  
+- [ROADMAP – The Journey *Is* the Goal](docs/ROADMAP.md)  
+- [PROJECT STRUCTURE – Symbolic Folder Map](docs/PROJECT-STRUCTURE.md)  
+- [BACKUPS – Versioning & Archive Strategy](docs/ARCHIVE.md)  
+- [BACKUP-NAMING – Ritual Snapshot Naming](docs/BACKUP-NAMING-GUIDE.md)  
+- [BRANCHING – Git Flow Strategy](docs/BRANCHING-STRATEGY.md)  
+- [COMMITS – Symbolic Commit Guide](docs/COMMIT-GUIDE.md)  
+- [CHANGELOG – Protocol Evolution Log](docs/CHANGELOG.md)  
+- [LICENSE – Freedom Preserved](.github/LICENSE)  
+
+---
+
+#### Contribution Pathways
 
 - 🤝 [CONTRIBUTING – How to Join & Participate](CONTRIBUTING.md)  
 - 🌐 [CONNECT – Discuss, Learn, Teach & BUIDL](docs/CONNECT.md)  
