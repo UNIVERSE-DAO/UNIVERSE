@@ -10,7 +10,7 @@
 
 <br><br>
  
-## ✨ Discover 
+## Discover 
 
 <div align="center">
 In the essential quest to see, we first must find,<br>  
@@ -26,7 +26,7 @@ Crucial solutions emerge, elegantly it seems.<br>
 
 <br><br>
 
-## 🌀 VERSE → UNI  
+## VERSE → UNI  
 
 <div align="center">
 UNIte the minds, with brilliance alight,<br>
@@ -38,7 +38,7 @@ Guiding the way through the MetaVERSE.<br>
 
 <br><br>
 
-## ✍️ Dilemma of the Ultimate Tech for Good  
+## Dilemma of the Ultimate Tech for Good  
 
 <div align="center">
 The key to master The Infinite Game,<br>  
@@ -76,7 +76,7 @@ UNIVERSE is designed to sustain this Infinite Game through:
 - Truth-discovery and consensus tools  
 - Community-based responsibility  
 
-> In a time of fragmentation, we build for coherence.
+> In a time of fragmentation, we build for unity.
 
 ---
 
