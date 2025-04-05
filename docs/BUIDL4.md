@@ -1,4 +1,4 @@
-> 🧑‍🤝‍🧑 **WHO – BUIDL4** · _Intro from README_ ([README – Portal to the Possible](../README.md#🧑‍🤝‍🧑-buidl4--the-who))  
+> [🧑‍🤝‍🧑 BUIDL4](../README.md#🧑‍🤝‍🧑-buidl4--the-who) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : WHO Intro</sub>
 >  
 > UNIVERSE welcomes:  
 > 🧠 Critical thinkers, ethical devs, sovereignty advocates  
