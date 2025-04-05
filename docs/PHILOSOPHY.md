@@ -1,10 +1,6 @@
 > **♾️ PHILOSOPHY** · _Intro from README_ ([README – Portal to the Possible](../README.md#🧠-philosophy--the-why))  
 >  
-> Building the ultimate Tech for Good to Master the Infinite Game — providing **Hope**, **Prosperity**, and **Well-being** — is the essence of a fulfilling life purpose.  
->  
-> Philosophy is not abstract here. It is the **root of design**, the **source of sovereignty**, and the **moral backbone of collective intelligence**.  
->  
-> UNIVERSE begins with this flame.
+> Building the ultimate Tech for Good to Master the Infinite Game — providing **Hope**, **Prosperity**, and **Well-being** — is the essence of a fulfilling life purpose. 
 
 ---
 
