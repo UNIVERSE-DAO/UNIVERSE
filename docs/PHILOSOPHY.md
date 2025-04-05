@@ -1,4 +1,4 @@
-> **♾️ PHILOSOPHY** · _Intro from README_ ([README – Portal to the Possible](../README.md#🧠-philosophy--the-why))  
+> **♾️ PHILOSOPHY** — [return to PHILOSOPHY Intro in README](../README.md#🧠-philosophy--the-why)
 >  
 > Building the ultimate Tech for Good to Master the Infinite Game — providing **Hope**, **Prosperity**, and **Well-being** — is the essence of a fulfilling life purpose. 
 
