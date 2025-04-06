@@ -108,11 +108,13 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 ---
 
+---
+
 ### Core Documentation Index
 
 **README.md** – The Portal to the Possible  
 
----
+<br>
 
 ### Foundational Principles  
 - [PHILOSOPHY – The Why](docs/PHILOSOPHY.md)  
@@ -121,7 +123,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 - [BUIDL4 – The Who](docs/BUIDL4.md)  
 - [MEMES – Cultural Meaning](docs/MEMES.md) 
  
----
+<br>
 
 #### Governance & Protocol Commitments
 
@@ -129,7 +131,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 - [WHITEPAPER – A Beacon in the Void](docs/WHITEPAPER.md)  
 - [UIP-GOVERNANCE – Proposal System & Evolution](0%20%23DAO%20-%20The%20Layer%20Zero/0.2%20proposals/#UIP-GOVERNANCE.md)  
 
----
+<br>
 
 #### Systems & Infrastructure
 
