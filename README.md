@@ -1,5 +1,6 @@
-<h1 style="color:#22DD09;">ＵＮＩＶＥＲＳＥ .ＤＡＯ</h1>
-> ## **UNIte to find consensus through the MetaVERSE**
+<h1 style="color:#22DD09;">ＵＮＩＶＥＲＳＥ . ＤＡＯ</h1>
+
+### **UNIte to find consensus through the MetaVERSE**
 
 ### **The Ultimate Tool for Good to Master the Infinite Game**
 > Building, Decentralizing & Governing with Cipher Punk Ideology
