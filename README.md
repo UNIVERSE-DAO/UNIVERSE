@@ -1,6 +1,5 @@
 # **ＵＮＩＶＥＲＳＥ . ＤＡＯ**
-
-## **UNIte to find consensus through the MetaVERSE**
+**UNI<sub>te to find consensus through the Meta</sub>VERSE**
 
 ### **The Ultimate Tool for Good to Master the Infinite Game**
 Building, Decentralizing & Governing with Cipher Punk Ideology
