@@ -80,6 +80,7 @@ UNIVERSE is designed to sustain this Infinite Game through:
 
 ---
 
+<br>
 ## Sovereignty First  
 
 Sovereignty is sacred.
