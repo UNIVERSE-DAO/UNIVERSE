@@ -81,6 +81,7 @@ UNIVERSE is designed to sustain this Infinite Game through:
 ---
 
 <br>
+
 ## Sovereignty First  
 
 Sovereignty is sacred.
@@ -100,6 +101,8 @@ Sovereignty means:
 
 ---
 
+<br>
+
 ## Moral Architecture & Collective Intelligence  
 
 UNIVERSE draws from:  
@@ -118,6 +121,8 @@ But synthesis — where the system helps us find shared clarity, not enforce uni
 
 ---
 
+<br>
+
 ## The Role of Memes & Culture  
 
 Memes are **not jokes** — they are units of meaning transmission.  
@@ -133,6 +138,9 @@ Symbol is strategy.
 Memes are the nervous system of the Infinite Game.
 
 ---
+
+
+<br>
 
 ## GLOBIND: Collective Ideology Matrix  
 **"What is your GLOBIND Rational Choice?"**
