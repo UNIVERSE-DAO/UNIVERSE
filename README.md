@@ -111,8 +111,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 <br>
 
 
-## [**README.md** – The Portal to the Possible](README.md) 
-Core Documentation Index
+## Core Documentation Index: – The Portal to the Possible
 
 #### Foundational Principles  
 - [PHILOSOPHY – WHY](docs/PHILOSOPHY.md)  
