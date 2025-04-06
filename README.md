@@ -1,18 +1,9 @@
 # ＵＮＩＶＥＲＳＥ . ＤＡＯ  
+> ## **UNIte to find consensus through the MetaVERSE**
 
-> _A protocol of purpose. A system of sovereignty._  
-> _Built for those who play the Infinite Game._
-
----
-
-### **UNIte to find consensus through the MetaVERSE**
-
-**The Ultimate Tool for Good**  
-To Master the Infinite Game — and sustain **Hope**, **Prosperity**, and **Well-being** for all.
-
-> Building, Decentralizing & Governing  
-> with Cipher Punk Ideology & Civic Intention
-
+### **The Ultimate Tool for Good to Master the Infinite Game**
+> Building, Decentralizing & Governing with Cipher Punk Ideology
+>provide **Hope**, **Prosperity**, and **Well-being**
 
 ---
 
