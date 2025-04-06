@@ -1,4 +1,4 @@
-> [♾️ PHILOSOPHY](../README.md#philosophy--the-why) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : WHI Intro</sub>
+> [PHILOSOPHY](../README.md#philosophy--the-why) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : WHI Intro</sub>
 >  
 > Building the ultimate Tech for Good to Master the Infinite Game — providing **Hope**, **Prosperity**, and **Well-being** — is the essence of a fulfilling life purpose.
 > 
@@ -6,7 +6,7 @@
 
 <br>
 
-# ♾️ PHILOSOPHY
+# PHILOSOPHY
 
 <br><br>
  
@@ -64,7 +64,7 @@ Justified hope, wisdom clears the gloom.<br>
 
 <br>
 
-## 🌌 The Infinite Game  
+## The Infinite Game  
 
 UNIVERSE is not a product. It’s a principle. A design for the Infinite Game.
 
@@ -80,7 +80,7 @@ UNIVERSE is designed to sustain this Infinite Game through:
 
 ---
 
-## 🛡️ Sovereignty First  
+## Sovereignty First  
 
 Sovereignty is sacred.
 
@@ -99,7 +99,7 @@ Sovereignty means:
 
 ---
 
-## 🧭 Moral Architecture & Collective Intelligence  
+## Moral Architecture & Collective Intelligence  
 
 UNIVERSE draws from:  
 - **Social Choice Theory** – to guide fair governance and consensus  
@@ -117,7 +117,7 @@ But synthesis — where the system helps us find shared clarity, not enforce uni
 
 ---
 
-## 🧠 The Role of Memes & Culture  
+## The Role of Memes & Culture  
 
 Memes are **not jokes** — they are units of meaning transmission.  
 They shape belief, emotion, and belonging.
@@ -133,23 +133,23 @@ Memes are the nervous system of the Infinite Game.
 
 ---
 
-## 📊 GLOBIND: Collective Ideology Matrix  
+## GLOBIND: Collective Ideology Matrix  
 **"What is your GLOBIND Rational Choice?"**
 
 ---
 
-### 🧠 WHY  
+### WHY  
 
 Philosophically and intellectually, creating a tool that embodies hope  
 and steers toward a future of prosperity, serenity, and well-being  
 and consensus is the cornerstone of a fulfilling life purpose.
 
-### 🛠️ HOW  
+### HOW  
 
 The best UI for the best UX  
 To empower daily rational choices.
 
-### 🌐 WHAT  
+### WHAT  
 
 - Protect society’s most valuable Asset  
 - The Truth Engine → The "Inflection Solution"  
@@ -159,7 +159,7 @@ To empower daily rational choices.
 
 ---
 
-## 🌿 Consensus is Society’s Greatest Asset  
+## Consensus is Society’s Greatest Asset  
 
 > "Together, there is no desert we can’t make bloom."
 
@@ -176,7 +176,7 @@ Consensus requires the clarity of collective insight — the weaving of roles, r
 
 ---
 
-## 🧠 MINDFORGER – The Six Layers of Collective Realization  
+## MINDFORGER – The Six Layers of Collective Realization  
 
 | Layer                         | Essence                                                                 |
 |------------------------------|-------------------------------------------------------------------------|
@@ -189,7 +189,7 @@ Consensus requires the clarity of collective insight — the weaving of roles, r
 
 ---
 
-## 🌱 Our North Stars  
+## Our North Stars  
 
 UNIVERSE is built on these principles:
 
@@ -203,7 +203,7 @@ UNIVERSE is built on these principles:
 
 ---
 
-## 🔮 A Living Philosophy  
+## A Living Philosophy  
 
 This document is never finished. It evolves as the protocol evolves.  
 It is a compass, not a contract. A set of ethical scaffolds — not laws.
@@ -216,7 +216,7 @@ Just open a pull request with a new `stanza`, `principle`, or `provocation`.
 
 ---
 
-## 🌀 Participate  
+## Participate  
 
 Want to shape the soul of the protocol?
 
