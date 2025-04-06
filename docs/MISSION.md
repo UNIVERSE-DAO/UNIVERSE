@@ -1,4 +1,4 @@
-> [🔍 MISSION](../README.md#🔍-mission--the-what) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : WHAT Intro</sub>  
+> [🔍 MISSION](../README.md#mission--the-what) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : WHAT Intro</sub>  
 >  
 > The **Truth Engine** → Enables rational choices in AI alignment & governance  
 > The **Holy Grail** → Visualizes human progress and consensus in crucial problem solving  
