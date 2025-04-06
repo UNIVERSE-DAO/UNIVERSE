@@ -1,5 +1,5 @@
 # **ＵＮＩＶＥＲＳＥ . ＤＡＯ**
-#### </sub>**UNIte to find consensus through the MetaVERSE**</sub>
+### </sub>**UNIte to find consensus through the MetaVERSE**</sub>
 <br>
 
 **The Ultimate Tool for Good to Master the Infinite Game**<br>
