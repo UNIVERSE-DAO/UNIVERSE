@@ -116,6 +116,8 @@ Not top-down control.
 Not mob consensus.  
 But synthesis — where the system helps us find shared clarity, not enforce uniformity.
 
+A system cannot synthesize truth without protecting the freedom to speak it.
+
 > Tools are not neutral. They’re ethical containers.  
 > UNIVERSE must be built with care, or not at all.
 
