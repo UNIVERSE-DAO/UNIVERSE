@@ -110,28 +110,25 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 <br>
 
-### Core Documentation Index
 
-**README.md** – The Portal to the Possible  
+## [**README.md** – The Portal to the Possible](README.md) 
+Core Documentation Index
 
-
-### Foundational Principles  
-- [PHILOSOPHY – The Why](docs/PHILOSOPHY.md)  
-- [VISION – The How](docs/VISION.md)  
-- [MISSION – The What](docs/MISSION.md)  
-- [BUIDL4 – The Who](docs/BUIDL4.md)  
+#### Foundational Principles  
+- [PHILOSOPHY – WHY](docs/PHILOSOPHY.md)  
+- [VISION – HOW](docs/VISION.md)  
+- [MISSION – WHAT](docs/MISSION.md)  
+- [BUIDL4 – WHO](docs/BUIDL4.md)  
 - [MEMES – Cultural Meaning](docs/MEMES.md) 
  
 
 #### Governance & Protocol Commitments
-
 - [DAO-MANIFESTO – What We Defend](docs/DAO-MANIFESTO.md)  
 - [WHITEPAPER – A Beacon in the Void](docs/WHITEPAPER.md)  
 - [UIP-GOVERNANCE – Proposal System & Evolution](0%20%23DAO%20-%20The%20Layer%20Zero/0.2%20proposals/#UIP-GOVERNANCE.md)  
 
 
 #### Systems & Infrastructure
-
 - [ARCHITECTURE – Modular Systems Overview](docs/D-ARCHITECTURE-OVERVIEW.md)  
 - [ROADMAP – The Journey *Is* the Goal](docs/ROADMAP.md)  
 - [PROJECT STRUCTURE – Symbolic Folder Map](docs/PROJECT-STRUCTURE.md)  
@@ -144,7 +141,6 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 
 #### Contribution Pathways
-
 - 🤝 [CONTRIBUTING – How to Join & Participate](CONTRIBUTING.md)  
 - 🌐 [CONNECT – Discuss, Learn, Teach & BUIDL](docs/CONNECT.md)  
  
