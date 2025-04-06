@@ -86,7 +86,7 @@ UNIVERSE is designed to sustain this Infinite Game through:
 
 Sovereignty is sacred.
 
-The UNIVERSE is committed to sovereignty-first infrastructure, where individuals are responsible for their data, identity, and choices — **no permission needed**.
+The UNIVERSE is committed to sovereignty-first infrastructure, where individuals are responsible for their data, identity, and choices.
 
 Why?  
 Because **freedom cannot be optimized**.  
