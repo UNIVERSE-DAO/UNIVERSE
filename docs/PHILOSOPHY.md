@@ -187,16 +187,30 @@ Consensus requires the clarity of collective insight — the weaving of roles, r
 
 ---
 
-## MINDFORGER – The Six Layers of Collective Realization  
+## MINDFORGER — Interactive Ethics for the Age of AI
 
-| Layer                         | Essence                                                                 |
-|------------------------------|-------------------------------------------------------------------------|
-| 1. Motivation                 | The Power of Stories, shaping beliefs and behaviors                    |
-| 2. Escalation                 | The Pillar of Society, when emotions overpower logic                    |
-| 3. Realization                | The Existential Question, confronting meaning in uncertainty            |
-| 4. Interpretation             | The Lesson of History, decoding civilization’s patterns                 |
-| 5. Clarification              | The Truth that Mirrors, understanding decentralized responsibility      |
-| 6. Determination              | The Rational Choice, synthesizing all factors for aligned action        |
+Where stories spark awareness — **MINDFORGER** shapes the question:  
+**What is your GLOBIND Rational Choice?**
+
+MINDFORGER is an interactive experience — not a product, and not part of the core platform.  
+It serves as a reflective appetizer to *The Truth Engine* — a core feature of the UNIVERSE.
+
+It explores six symbolic layers of moral realization:
+
+| Layer            | Reflection Prompt                                      |
+|------------------|--------------------------------------------------------|
+| **Motivation**   | What stories move you — and why?                       |
+| **Escalation**   | Are we evolving, or reacting?                          |
+| **Realization**  | Do you recognize influence — or follow it blindly?     |
+| **Interpretation** | What do we forget when we believe we’ve progressed? |
+| **Clarification**| Can we find truth *together*?                          |
+| **Determination**| Will you choose clarity — or convenience?             |
+
+It’s a mirror of moral cognition — a **teaser into alignment**,  
+and an invitation to explore what it means to be **GLOBIND**:  
+*Globally Aligned in Morals and Ethics.*
+
+> Try the experience: [`mindforger.html`](../2%20MINDFORGER/index.html)
 
 ---
 
