@@ -1,4 +1,4 @@
-# <u>**ＵＮＩＶＥＲＳＥ . ＤＡＯ**</u>
+# **ＵＮＩＶＥＲＳＥ . ＤＡＯ**
 ### </sub>**UNIte to find consensus through the MetaVERSE**</sub>
 <br>
 
@@ -113,7 +113,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 ## Core Documentation Index: – The Portal to the Possible
 
-#### Foundational Principles  
+#### <u>Foundational Principles</u>  
 - [PHILOSOPHY – WHY](docs/PHILOSOPHY.md)  
 - [VISION – HOW](docs/VISION.md)  
 - [MISSION – WHAT](docs/MISSION.md)  
