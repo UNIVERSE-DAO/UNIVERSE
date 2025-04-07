@@ -276,6 +276,8 @@ Memes are the nervous system of the Infinite Game.
 
 ---
 
+<br>
+
 
 ## MINDFORGER — Interactive Ethics for the Age of AI
 
@@ -304,6 +306,8 @@ and an invitation to explore what it means to be **GLOBIND**:
 
 ---
 
+<br>
+
 ## Our North Stars  
 
 UNIVERSE is built on these principles:
@@ -317,6 +321,8 @@ UNIVERSE is built on these principles:
 ✅ **Open Responsibility Over Open Source Alone**
 
 ---
+
+<br>
 
 ## A Living Philosophy  
 
