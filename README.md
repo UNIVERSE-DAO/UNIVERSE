@@ -142,7 +142,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 - [COMMITS – Symbolic Commit Guide](docs/COMMIT-GUIDE.md)  
 - [CHANGELOG – Protocol Evolution Log](docs/CHANGELOG.md)  
 - [LICENSE – Freedom Preserved](.github/LICENSE.md)
-- [GLOSSARY – Freedom Preserved](docs/GLOSSARY.md)  
+- [GLOSSARY – Core Terminology](docs/GLOSSARY.md)  
 
 
 #### Contribution Pathways
