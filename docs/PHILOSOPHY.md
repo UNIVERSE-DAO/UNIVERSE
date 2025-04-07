@@ -101,7 +101,7 @@ and protect the fragile miracle of shared intention.
 | 6 | **Humanity**  | Accepting global responsibilities for justice, peace, and survival. |
 | 7 | **UNIVERSE**  | Aligning with the sacred — moral clarity beyond borders or era. |
 
-> **Consensus is not uniformity** — it is the choreography of responsibility across scales.
+> **Consensus is not uniformity** — it is the choreography of recogniezed responsibility across scales.
 
 ---
 
