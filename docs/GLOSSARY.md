@@ -1,4 +1,4 @@
-## Glossary
+## GLOSSARY
 
 ### 🧾 Core Terminology
 
