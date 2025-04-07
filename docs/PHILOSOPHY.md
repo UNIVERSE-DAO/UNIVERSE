@@ -175,6 +175,7 @@ Together, we:
 
 ---
 
+<br>
 
 ## The Infinite Game  
 
