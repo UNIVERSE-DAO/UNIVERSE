@@ -4,7 +4,8 @@
 
 <br>
 
-## Start Here: Connect to the Big Bang
+## Connect to the Big Bang
+>Every spark of energy fuels our journey, igniting a Big Bang of collective progress and well-being
 
 You don’t need to code to contribute — the first step is to **enter the conversation.**
 
