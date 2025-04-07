@@ -307,17 +307,14 @@ and an invitation to explore what it means to be **GLOBIND**:
 
 <br>
 
-## Our North Stars  
+## Philosophy Beyond This Page
 
-UNIVERSE is built on these principles:
+The philosophy doesn’t live here alone.  
+It lives in the structure, in the memes, in the roles — and in the tools.
 
-✅ **Clarity Over Control**  
-✅ **Responsibility Over Rules**  
-✅ **Sovereignty Over Surveillance**  
-✅ **Long-Term Alignment Over Short-Term Metrics**  
-✅ **Coherence Over Consensus**  
-✅ **Signal Over Noise**  
-✅ **Open Responsibility Over Open Source Alone**
+Explore the [README](../README.md) — or enter directly through the **[Portal to the Possible](../README.md#index---the-portal-to-the-possible)**.
+
+> Philosophy is not a footnote. It’s the blueprint.
 
 ---
 
@@ -336,19 +333,6 @@ Philosophy lives in how we build, protect, and pass on what matters.
 > Philosophy is not what we say.  
 > It's how we live, signal, and align.
 
-
----
-
-<br>
-
-## Philosophy Beyond This Page
-
-The philosophy doesn’t live here alone.  
-It lives in the structure, in the memes, in the roles — and in the tools.
-
-Explore the [README](../README.md) — or enter directly through the **[Portal to the Possible](../README.md#index---the-portal-to-the-possible)**.
-
-> Philosophy is not a footnote. It’s the blueprint.
 
 ---
 
