@@ -70,7 +70,7 @@ Justified hope, wisdom clears the gloom.<br>
 
 Each of these sections is a lens — together, they form **a part** of the ethical backbone.  
 
-- [Consensus is Society’s Greatest Asset](#consensus-is-societys-greatest-asset)  
+- [Consensus is Society's Greatest Asset](#consensus-is-societys-greatest-asset)  
 - [The Layer of Responsibility](#the-layer-of-responsibility)  
 - [The Layer of Well-Being](#the-layer-of-well-being)  
 - [The Truth That Matters](#the-truth-that-matters)  
@@ -88,7 +88,7 @@ Each of these sections is a lens — together, they form **a part** of the ethic
 
 <br>
 
-## 🌐 Consensus is Society’s Greatest Asset
+## Consensus is Society's Greatest Asset
 
 > _“Together, there is no desert we can’t make bloom.”_
 
