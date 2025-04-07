@@ -74,7 +74,6 @@ In the spirit of **"Together We Are the Holy Grail,"** recognizing a hierarchy o
 
 Together, we prioritise well-being, collaboratively find solutions, and infuse our actions with meaning and purpose. In this shared journey, the Holy Grail emerges, as we cultivate unity, realize shared values, and pursue the greater good.
 
-Together, we:
 - Prioritize health and take responsibility  
 - Infuse systems with dignity and direction  
 - Realign freedom with societal care  
