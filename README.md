@@ -1,9 +1,10 @@
 # **ＵＮＩＶＥＲＳＥ . ＤＡＯ**
-### </sub> ***" UNIte to find consensus through the MetaVERSE "*** </sub>
+### </sub> ***UNIte to find consensus through the MetaVERSE*** </sub>
 <br>
 
 **The Ultimate Tool for Good to Master the Infinite Game**<br>
 <sub>Building, Decentralizing & Governing with Cipher Punk Ideology</sub>
+
 <br>
 
 >This is the living whitepaper “The Portal to the Possible” —  
