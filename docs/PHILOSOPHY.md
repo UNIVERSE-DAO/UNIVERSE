@@ -7,8 +7,6 @@
 <br>
 
 # PHILOSOPHY
-*“UNIte to find consensus through the MetaVERSE”*
-
 **Philosophy flows through the entire UNIVERSE — this page is just one lens.**  
 *What we build, how we signal, and why we choose... is how we protect and master the Infinite Game.*
 
