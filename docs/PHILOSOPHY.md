@@ -70,6 +70,8 @@ Justified hope, wisdom clears the gloom.<br>
 
 > _“Together, there is no desert we can’t make bloom.”_
 
+<br>
+
 In the spirit of **"Together We Are the Holy Grail,"** recognizing a hierarchy of responsibilities from the individual to the divine, we embrace the transformative power of collective effort.
 
 Together, we prioritise well-being, collaboratively find solutions, and infuse our actions with meaning and purpose. In this shared journey, the Holy Grail emerges, as we cultivate unity, realize shared values, and pursue the greater good.
@@ -87,6 +89,7 @@ It emerges when systems reward **transparency**, enable **participation**, and p
 
 ---
 
+<br>
 
 ## The Layer of Responsibility
 
@@ -118,19 +121,12 @@ To participate is to share the moral weight of coordination.
 
 ---
 
+<br>
+
 ## The Layer of Well-Being
-
-Well-being is not a KPI.  
-It’s the **goal beneath all goals** — the compass behind coordination.
-
-In UNIVERSE, infrastructure is judged not by throughput, but by uplift:  
-- Does it improve **awareness**?  
-- Does it reduce **suffering**?  
-- Does it strengthen **collective agency**?
 
 Well-being is multidimensional — it must reach body, mind, society, and soul.  
 Below are the symbolic layers we seek to honor:
-
 
 ### Dimensions of Well-Being and Bliss
 
