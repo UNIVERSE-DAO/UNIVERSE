@@ -5,7 +5,7 @@
 | Term          | Definition                                                                 |
 |---------------|-----------------------------------------------------------------------------|
 | **UNIVERSE**  | The protocol — a system of sovereignty, shared clarity, and moral tooling  |
-| **WHI / WHY** | The philosophical purpose — *Why this exists*                               |
+| **WHY** | The philosophical purpose — *Why this exists*                               |
 | **HOW**       | The architectural vision — *How it's designed to work*                      |
 | **WHAT**      | The mission — *What it aims to protect, solve, and align*                   |
 | **WHO**       | The contributors — *Who builds, governs, and protects the Infinite Game*    |
