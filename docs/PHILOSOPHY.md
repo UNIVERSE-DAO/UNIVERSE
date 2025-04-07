@@ -309,6 +309,8 @@ Just open a pull request with a new `stanza`, `principle`, or `provocation`.
 
 ---
 
+<br>
+
 ## Participate  
 
 Want to shape the soul of the protocol?
@@ -318,10 +320,26 @@ Want to shape the soul of the protocol?
 - Host a study group or reading jam based on this document  
 - Or just start building — this is philosophy in motion 🌌
 
+
+---
+
+<br>
+
+## Philosophy Beyond This Page
+
+The philosophy doesn’t live here alone.  
+It lives in the structure, in the memes, in the roles — and in the tools.
+
+Explore the [README](../README.md) —  
+or enter directly through the **[Portal to the Possible](../README.md#core-documentation-index--the-portal-to-the-possible)**.
+
+> Philosophy is not a footnote. It’s the blueprint.
+
 ---
 
 **UNIVERSE**  
 A system of shared clarity.  
 A map for moral tech.  
 A home for those who believe tools should align with life.
+
 
