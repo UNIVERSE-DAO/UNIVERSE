@@ -74,10 +74,10 @@ In the spirit of **"Together We Are the Holy Grail,"** recognizing a hierarchy o
 
 Together, we prioritise well-being, collaboratively find solutions, and infuse our actions with meaning and purpose. In this shared journey, the Holy Grail emerges, as we cultivate unity, realize shared values, and pursue the greater good.
 
-- Prioritize health and take responsibility  
-- Infuse systems with dignity and direction  
-- Realign freedom with societal care  
-- Shape laws and investments that elevate, not extract
+- Build systems that reward truth, not noise
+- Design incentives that nurture responsibility
+- Center health — physical, mental, societal
+- Align autonomy with collective care
 
 > The Holy Grail is not given — it is **cultivated**.
 
@@ -86,6 +86,19 @@ Its power is unlocked only when consensus is mature, responsibility is shared, a
 It emerges when systems reward **transparency**, enable **participation**, and protect the fragile miracle of shared intention.
 
 ---
+
+
+## The Layer of Responsibility
+
+UNIVERSE encodes responsibility into every protocol layer — not as enforcement, but as **invitation**.
+
+To be sovereign is not to opt out — it is to **opt in to care**.  
+To participate is to share the moral weight of coordination.
+
+**Responsibility means:**
+- Contributing, not just consuming  
+- Acting with clarity in complexity  
+- Resisting coercion — and recognizing when we *are* the coercion
 
 ### Hierarchy of Social Responsibilities
 
@@ -100,22 +113,7 @@ It emerges when systems reward **transparency**, enable **participation**, and p
 | 7 | **UNIVERSE**  | Aligning with the sacred — moral clarity beyond borders or era. |
 
 > **Consensus is not uniformity** — it is the choreography of recogniezed responsibility across scales.
-
----
-
-## The Layer of Responsibility
-
-UNIVERSE encodes responsibility into every protocol layer — not as enforcement, but as **invitation**.
-
-To be sovereign is not to opt out — it is to **opt in to care**.  
-To participate is to share the moral weight of coordination.
-
-**Responsibility means:**
-- Contributing, not just consuming  
-- Acting with clarity in complexity  
-- Resisting coercion — and recognizing when we *are* the coercion
-
-> Systems are never neutral.  
+> 
 > Responsibility is not a feature — it’s the foundation.
 
 ---
@@ -133,7 +131,6 @@ In UNIVERSE, infrastructure is judged not by throughput, but by uplift:
 Well-being is multidimensional — it must reach body, mind, society, and soul.  
 Below are the symbolic layers we seek to honor:
 
----
 
 ### Dimensions of Well-Being and Bliss
 
