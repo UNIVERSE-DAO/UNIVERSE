@@ -11,72 +11,62 @@
 
 <br>
 
-#  VISION  
+# 🧬 VISION  
 **How UNIVERSE Serves the Infinite Game**
 
 ---
 
-## What We Stand For
+## 🌌 Our Stand
 
-UNIVERSE exists to design systems that serve humanity — not control it.  
-It is a living pattern for trust, sovereignty, and long-term coordination.
+UNIVERSE is a **living design** —  
+not built to control people, but to coordinate them.  
+Not to centralize power, but to amplify clarity, care, and sovereignty.
 
-We believe infrastructure must:
+We believe systems should:
 - Be legible to humans  
 - Be aligned with values  
 - Invite participation through meaning, not manipulation
 
 ---
 
-##  What We Are
-
-UNIVERSE is:
-
-- A **search engine for solutions**  
-- A **civic mirror** of progress  
-- A **memetic OS** for governance  
-- A **framework for moral-scale infrastructure**
-
----
-
-## Design Tenets
+## 🏛️ Core Tenets
 
 1. **Philosophy First** — Strategy follows values  
 2. **Sovereignty-by-Default** — Privacy is power  
-3. **Coherence Over Consensus** — Truth first, agreement second  
+3. **Coherence Over Consensus** — Truth before agreement  
 4. **Signal Over Noise** — Direction over distraction  
-5. **Tool-as-Teacher** — Infra should elevate thought  
-6. **Memes-as-Protocol** — Culture is the carrier
+5. **Tool-as-Teacher** — Infrastructure should elevate  
+6. **Memes-as-Protocol** — Symbols carry structure
 
 ---
 
-## What We're Building
+## 🪐 What We're Composing
 
-- Ethical alignment by design  
-- Incentives for truth and trust  
-- Systems where meaning and math converge  
+UNIVERSE is a **civic protocol** —  
+where ethics, incentives, and intelligence are interwoven.
+
+We are building:
+- Truth-aligned infrastructure  
+- Systems that protect freedom through design  
+- Incentives that reward responsibility  
 - A foundation to sustain the Infinite Game
 
 > This isn’t a product.  
-> It’s a **protocol of responsibility**.
+> It’s a **long-term coordination engine** for people who care.
 
 ---
 
-## Open to Evolve
+## 🔁 A Vision That Evolves
 
-This vision is not final — it’s a shared beginning.  
-We welcome:
+This isn’t a final form.  
+It’s a **shared direction** — refined through participation.
 
-- Protocol architects  
-- Ethical builders  
-- Cultural systems designers  
-- Civic futurists
-
-> If this resonates, you’re already part of it.
+If you build with care, code with conscience, or think in systems —  
+**you’re already part of this.**
 
 ---
 
-## Related Docs
+## 🧠 Related Docs
 
 - [PHILOSOPHY – The Why](PHILOSOPHY.md)  
 - [MISSION – The What](MISSION.md)  
