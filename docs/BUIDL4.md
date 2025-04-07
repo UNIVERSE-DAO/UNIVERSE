@@ -12,12 +12,7 @@
 
 <br>
 
-# 🧑‍🤝‍🧑 BUIDL4  
-**The Who Behind UNIVERSE**
-
----
-
-## 👥 Who This Is For
+# BUIDL4 - Who This Is For
 
 UNIVERSE is an invitation to those who care about building something deeper than just apps or DAOs.  
 We build for humans who believe tools should align with life — and protect it.
@@ -33,7 +28,7 @@ This protocol welcomes:
 
 ---
 
-## 🛡️ Shared Ethos
+## Shared Ethos
 
 We are not chasing hype.  
 We are cultivating **responsibility, resilience, and radical clarity**.
@@ -43,7 +38,7 @@ We are cultivating **responsibility, resilience, and radical clarity**.
 
 ---
 
-## 🚪 Ways to Participate
+## Ways to Participate
 
 - Contribute to protocol design and philosophical alignment  
 - Build memes, narratives, and onboarding experiences  
@@ -56,7 +51,7 @@ You need to **care about what we build — and why**.
 
 ---
 
-## 💬 What We Ask
+## What We Ask
 
 Bring:
 - Curiosity  
@@ -66,7 +61,7 @@ Bring:
 
 ---
 
-## 🔁 Who We Are Becoming
+## Who We Are Becoming
 
 UNIVERSE is not built by one team.  
 It’s shaped by a **constellation of sovereign individuals** aligned by shared principles:
