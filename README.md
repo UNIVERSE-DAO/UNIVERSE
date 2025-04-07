@@ -92,7 +92,7 @@ The following modules are deployed in progressive, symbolic layers:
 
 <br>
 
-### Roadmap Milestone Overview
+### [ROADMAP Milestone Overview](docs/ROADMAP.md) 
 
 UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized, privacy-first protocol:
 
@@ -103,9 +103,8 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 | 2     | 🌕     | Big Bang         | MVP ignition, UI nodes, early contributor expansion                |
 | 3     | 🌑     | Black Hole       | AI truth engine, deep protocol work, DAO feature evolution         |
 
-> 🔐 Protected logic is intentionally hidden until the right phase.  
-> Current Stage: **Phase 1 – Pre Big-Bang** 🌓 `#PreBigBang`  
-> [Request Access](https://universe.org/github) if you’re ready to build sovereignty.
+> Current Stage: **Phase 1 – Pre Big-Bang** 🌓 
+
 
 ---
 
