@@ -358,7 +358,7 @@ Want to shape the soul of the protocol?
 The philosophy doesn’t live here alone.  
 It lives in the structure, in the memes, in the roles — and in the tools.
 
-Explore the [README](../README.md) — or enter directly through the **[Portal to the Possible](../README.md#index--the-portal-to-the-possible)**.
+Explore the [README](../README.md) — or enter directly through the **[Portal to the Possible](../README.md#index---the-portal-to-the-possible)**.
 
 > Philosophy is not a footnote. It’s the blueprint.
 
