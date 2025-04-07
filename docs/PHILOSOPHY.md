@@ -80,8 +80,7 @@ Each of these sections is a lens — together, they form **a part** of the ethic
 - [The Role of Memes & Culture](#the-role-of-memes--culture)  
 - [MINDFORGER — Interactive Ethics](#mindforger--interactive-ethics-for-the-age-of-ai)  
 - [Our North Stars](#our-north-stars)  
-- [A Living Philosophy](#a-living-philosophy)  
-- [Participate](#participate)  
+- [A Living Philosophy](#a-living-philosophy) 
 - [Philosophy Beyond This Page](#philosophy-beyond-this-page)
 
 ---
@@ -324,29 +323,18 @@ UNIVERSE is built on these principles:
 
 <br>
 
-## A Living Philosophy  
+## A Living Philosophy
 
-This document is never finished. It evolves as the protocol evolves.  
-It is a compass, not a contract. A set of ethical scaffolds — not laws.
+This document is not a conclusion — it's an invitation.  
+It evolves as the protocol evolves — shaped by participation, not prescription.
 
-Anyone can suggest additions, poems, citations, or reflections.  
-Just open a pull request with a new `stanza`, `principle`, or `provocation`.
+Want to contribute to the soul of the system?  
+Philosophy lives in how we build, protect, and pass on what matters.
+
+→ See [CONTRIBUTING.md](../CONTRIBUTING.md) to begin your path — through memes, code, culture, or coordination.
 
 > Philosophy is not what we say.  
-> It’s how we build, and what we protect.
-
----
-
-<br>
-
-## Participate  
-
-Want to shape the soul of the protocol?
-
-- Drop memes or symbols into `1 #MOMENTUM/`  
-- Propose new philosophical notes via PR or GitHub Discussions  
-- Host a study group or reading jam based on this document  
-- Or just start building — this is philosophy in motion 🌌
+> It's how we live, signal, and align.
 
 
 ---
