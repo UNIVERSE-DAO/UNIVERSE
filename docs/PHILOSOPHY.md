@@ -81,11 +81,9 @@ Together, we prioritise well-being, collaboratively find solutions, and infuse o
 
 > The Holy Grail is not given — it is **cultivated**.
 
-Its power is unlocked only when consensus is mature, responsibility is shared,  
-and truth has been **faithfully aggregated**.
+Its power is unlocked only when consensus is mature, responsibility is shared, and truth has been **faithfully aggregated**.
 
-It emerges when systems reward **transparency**, enable **participation**,  
-and protect the fragile miracle of shared intention.
+It emerges when systems reward **transparency**, enable **participation**, and protect the fragile miracle of shared intention.
 
 ---
 
