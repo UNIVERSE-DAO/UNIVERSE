@@ -69,7 +69,6 @@ Justified hope, wisdom clears the gloom.<br>
 ## Explore the Layers of UNIVERSE Philosophy
 
 Each of these sections is a lens — together, they form **a part** of the ethical backbone.  
-The full philosophy lives beyond this page — in every signal, system, and shared intention.
 
 - [Consensus is Society’s Greatest Asset](#consensus-is-societys-greatest-asset)  
 - [The Layer of Responsibility](#the-layer-of-responsibility)  
