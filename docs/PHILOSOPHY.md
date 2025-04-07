@@ -66,7 +66,7 @@ Justified hope, wisdom clears the gloom.<br>
 
 <br>
 
-## Explore the Layers of UNIVERSE Philosophy
+## Explore the Philosophy Layers of UNIVERSE
 
 Each of these sections is a lens — together, they form **a part** of the ethical backbone.  
 
