@@ -12,7 +12,8 @@
 
 <br>
 
-# BUIDL4 - Who This Is For
+# BUIDL4
+### Who This Is For
 
 UNIVERSE is an invitation to those who care about building something deeper than just apps or DAOs.  
 We build for humans who believe tools should align with life — and protect it.
