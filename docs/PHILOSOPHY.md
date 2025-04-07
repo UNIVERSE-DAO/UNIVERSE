@@ -79,9 +79,8 @@ Each of these sections is a lens — together, they form **a part** of the ethic
 - [Moral Architecture & Collective Intelligence](#moral-architecture--collective-intelligence)  
 - [The Role of Memes & Culture](#the-role-of-memes--culture)  
 - [MINDFORGER — Interactive Ethics](#mindforger--interactive-ethics-for-the-age-of-ai)  
-- [Our North Stars](#our-north-stars)  
-- [A Living Philosophy](#a-living-philosophy) 
 - [Philosophy Beyond This Page](#philosophy-beyond-this-page)
+- [A Living Philosophy](#a-living-philosophy) 
 
 ---
 
