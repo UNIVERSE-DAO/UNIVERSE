@@ -74,7 +74,7 @@ Justified hope, wisdom clears the gloom.<br>
 
 In the spirit of **"Together We Are the Holy Grail,"** recognizing a hierarchy of responsibilities from the individual to the divine, we embrace the transformative power of collective effort.
 
-Together, we prioritise well-being, collaboratively find solutions, and infuse our actions with meaning and purpose. In this shared journey, the Holy Grail emerges, as we cultivate unity, realize shared values, and pursue the greater good.
+Together, we prioritize well-being, collaboratively find solutions, and infuse our actions with meaning and purpose. In this shared journey, the Holy Grail emerges, as we cultivate unity, realize shared values, and pursue the greater good.
 
 - Build systems that reward truth, not noise
 - Design incentives that nurture responsibility
@@ -83,7 +83,7 @@ Together, we prioritise well-being, collaboratively find solutions, and infuse o
 
 > The Holy Grail is not given — it is **cultivated**.
 
-Its power is unlocked only when consensus is mature, responsibility is shared, and truth has been **faithfully aggregated**.
+Its power is unlocked only when consensus is mature, responsibility is shared, and truth is **faithfully aggregated**.
 
 It emerges when systems reward **transparency**, enable **participation**, and protect the fragile miracle of shared intention.
 
@@ -103,7 +103,10 @@ To participate is to share the moral weight of coordination.
 - Acting with clarity in complexity  
 - Resisting coercion — and recognizing when we *are* the coercion
 
+<br>
+
 ### Hierarchy of Social Responsibilities
+> Responsibility is not a feature — it’s the foundation.
 
 | # | Layer       | Responsibility Description |
 |--:|-------------|-----------------------------|
@@ -115,9 +118,9 @@ To participate is to share the moral weight of coordination.
 | 6 | **Humanity**  | Accepting global responsibilities for justice, peace, and survival. |
 | 7 | **UNIVERSE**  | Aligning with the sacred — moral clarity beyond borders or era. |
 
-> **Consensus is not uniformity** — it is the choreography of recogniezed responsibility across scales.
-> 
-> Responsibility is not a feature — it’s the foundation.
+> **Consensus is not uniformity** — it is the choreography of **recogniezed** responsibility across scales.
+
+
 
 ---
 
@@ -125,8 +128,8 @@ To participate is to share the moral weight of coordination.
 
 ## The Layer of Well-Being
 
-Well-being is multidimensional — it must reach body, mind, society, and soul.  
-Below are the symbolic layers we seek to honor:
+>Well-being is multidimensional —
+>it must reach body, mind, society, and soul.  
 
 ### Dimensions of Well-Being and Bliss
 
