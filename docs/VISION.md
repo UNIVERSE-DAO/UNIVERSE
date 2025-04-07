@@ -11,80 +11,72 @@
 
 <br>
 
-# 🧬 VISION  
-**Systemic Intention and Strategy of UNIVERSE**
+#  VISION  
+**How UNIVERSE Serves the Infinite Game**
 
 ---
 
-## 🌌 Our Role in the Multiverse
+## What We Stand For
 
-To envision UNIVERSE is to imagine a world where systems serve humanity — not control it.
+UNIVERSE exists to design systems that serve humanity — not control it.  
+It is a living pattern for trust, sovereignty, and long-term coordination.
 
-Our role is not to dominate or optimize, but to **design frameworks that amplify trust, coherence, and moral responsibility**.  
-The protocol isn’t a destination — it’s a **living pattern** for how coordination, sovereignty, and ethics can scale together.
-
-We believe the infrastructure of tomorrow must:
+We believe infrastructure must:
 - Be legible to humans  
-- Be accountable to values  
+- Be aligned with values  
 - Invite participation through meaning, not manipulation
 
-UNIVERSE carries that mandate forward — embedding **philosophy into protocol**, and **vision into mechanism**.
-
 ---
 
-## 🧭 From Philosophy to Design
-
-Our architecture is not arbitrary — it is **symbolically layered**, built with intention, and aligned to timeless principles.
+##  What We Are
 
 UNIVERSE is:
 
 - A **search engine for solutions**  
-- A **mirror of societal coherence**  
-- A **framework for shared responsibility**  
-- A **memetic operating system** for governance and growth
+- A **civic mirror** of progress  
+- A **memetic OS** for governance  
+- A **framework for moral-scale infrastructure**
 
 ---
 
-## 🏛️ Design Tenets
+## Design Tenets
 
-1. **Philosophy First** — Strategy must follow moral clarity  
-2. **Signal Over Noise** — Minimize distraction, maximize direction  
-3. **Sovereignty-by-Default** — Consent is sacred, privacy is power  
-4. **Coherence Over Consensus** — Truth precedes agreement  
-5. **Tool-as-Teacher** — Infrastructure should elevate insight  
-6. **Memes-as-Protocol** — Symbols are the logic of culture
-
----
-
-## 🪐 What We Are Really Building
-
-- A protocol that aligns **ethics with incentives**  
-- A culture that favors **truth, transparency, and trust**  
-- A system where **meaning and math** work together  
-- A living map for **long-term coordination**
-
-> We are not optimizing a product.  
-> We are **composing a system** to sustain the Infinite Game.
+1. **Philosophy First** — Strategy follows values  
+2. **Sovereignty-by-Default** — Privacy is power  
+3. **Coherence Over Consensus** — Truth first, agreement second  
+4. **Signal Over Noise** — Direction over distraction  
+5. **Tool-as-Teacher** — Infra should elevate thought  
+6. **Memes-as-Protocol** — Culture is the carrier
 
 ---
 
-## 🔁 Designed for Iteration
+## What We're Building
 
-This vision evolves with contribution.  
-It is a **starting pattern**, not a final answer.
+- Ethical alignment by design  
+- Incentives for truth and trust  
+- Systems where meaning and math converge  
+- A foundation to sustain the Infinite Game
 
+> This isn’t a product.  
+> It’s a **protocol of responsibility**.
+
+---
+
+## Open to Evolve
+
+This vision is not final — it’s a shared beginning.  
 We welcome:
-- Builders of ethical protocols  
-- Architects of digital freedom  
-- Artists of coherence  
-- Guardians of the future
 
-If that’s you, the path is open.  
-You are already part of this.
+- Protocol architects  
+- Ethical builders  
+- Cultural systems designers  
+- Civic futurists
+
+> If this resonates, you’re already part of it.
 
 ---
 
-## 🧠 Related Docs
+## Related Docs
 
 - [PHILOSOPHY – The Why](PHILOSOPHY.md)  
 - [MISSION – The What](MISSION.md)  
@@ -93,5 +85,5 @@ You are already part of this.
 ---
 
 **UNIVERSE**  
-A vision is only real when shared.  
-Let’s build the infrastructure of intention.
+Built to align clarity with power.  
+Built to protect what matters.
