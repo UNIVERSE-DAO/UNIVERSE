@@ -154,25 +154,23 @@ To participate is to share the moral weight of coordination.
 
 > _"In an age of noise, clarity is rebellion."_
 
-Truth is not just what *is* — it’s what *matters*.
+Acknowledging that each individual has their own truth, the highest priority of truth that matters is an objective, responsible consensus to find solutions for a prosperous society with overall well-being, aligned with the law of nature to avoid human extinction.
 
-In a networked society, the greatest challenge isn’t finding data —  
-it’s agreeing on **meaning**.
-
-UNIVERSE is not merely designed to store or validate information.  
-It exists to **elevate meaningful truth** — the kind that enables rational, moral, and aligned decisions.
-
-We call this: **The Truth That Matters**.  
-It is the foundation for everything — from GLOBIND to governance.
+UNIVERSE is not just built to store or verify facts.  
+It exists to **experience the truth that matters** —  
+shaping wise decisions, moral alignment, and long-term coordination.
 
 Together, we:
-- Prioritize truths that affect well-being and long-term coordination  
+- Prioritize truths that affect well-being and future survival  
 - Protect pluralism while cultivating shared understanding  
 - Design tools that distinguish wisdom from noise  
 - Build engines that reward accuracy, context, and care
 
 > Without trust in truth, there is no trust in choice.  
 > And without choice, there is no freedom.
+
+**The Truth Engine** (introduced in the GLOBIND section) is one of the key tools.
+
 
 
 ---
