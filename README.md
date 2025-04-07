@@ -5,7 +5,10 @@
 **The Ultimate Tool for Good to Master the Infinite Game**<br>
 <sub>Building, Decentralizing & Governing with Cipher Punk Ideology</sub>
 
->This is the living whitepaper “The Portal to the Possible” — a map of symbolic layers, protocol principles, and pathways into action.
+>This is the living whitepaper “The Portal to the Possible” —  
+a map of symbolic layers, protocol principles, and pathways into action.
+>
+>Each section is a lens into the whole — dive deeper by exploring the title links.
 
 
 <br>
