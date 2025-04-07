@@ -66,6 +66,29 @@ Justified hope, wisdom clears the gloom.<br>
 
 <br>
 
+## Explore the Layers of UNIVERSE Philosophy
+
+Each of these sections is a lens — together, they form **a part** of the ethical backbone.  
+The full philosophy lives beyond this page — in every signal, system, and shared intention.
+
+- [Consensus is Society’s Greatest Asset](#consensus-is-societys-greatest-asset)  
+- [The Layer of Responsibility](#the-layer-of-responsibility)  
+- [The Layer of Well-Being](#the-layer-of-well-being)  
+- [The Truth That Matters](#the-truth-that-matters)  
+- [The Infinite Game](#the-infinite-game)  
+- [Sovereignty First](#sovereignty-first)  
+- [Moral Architecture & Collective Intelligence](#moral-architecture--collective-intelligence)  
+- [The Role of Memes & Culture](#the-role-of-memes--culture)  
+- [MINDFORGER — Interactive Ethics](#mindforger--interactive-ethics-for-the-age-of-ai)  
+- [Our North Stars](#our-north-stars)  
+- [A Living Philosophy](#a-living-philosophy)  
+- [Participate](#participate)  
+- [Philosophy Beyond This Page](#philosophy-beyond-this-page)
+
+---
+
+<br>
+
 ## 🌐 Consensus is Society’s Greatest Asset
 
 > _“Together, there is no desert we can’t make bloom.”_
