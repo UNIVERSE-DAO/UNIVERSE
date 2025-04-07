@@ -17,7 +17,8 @@
 
 ### [PHILOSOPHY – WHY](docs/PHILOSOPHY.md) <a name="philosophy--the-why"></a>
 
-**Building the ultimate Tech for Good to Master the Infinite Game — providing Hope, Prosperity, and Well-being — is the essence of a fulfilling life purpose.**
+**Building the ultimate Tech for Good to Master the Infinite Game —
+providing Hope, Prosperity, and Well-being — is the essence of a fulfilling life purpose.**
 
 ---
 
