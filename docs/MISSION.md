@@ -18,7 +18,9 @@
 
 The **primary mission** of UNIVERSE right now is to deliver:
 
-### **The Best UI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Best UX**
+<br>
+
+## **The Best UI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Best UX**
 
 >A sovereign interface for The Truth That Matters — rooted in clarity, guided by shared responsibility, and designed to find consensus for humanity’s most crucial challenges.
 
@@ -31,6 +33,8 @@ and where its core — **The Truth Engine** and **The Holy Grail** — powers a 
 A compass and a mirror: clarity and progress made visible.
 
 ---
+
+<br>
 
 ## Where Vision Meets Action
 
@@ -50,6 +54,8 @@ Each system maps to a symbolic layer:
 
 ---
 
+<br>
+
 ## KPI's with SOUL
 
 We don’t measure growth for vanity.  
@@ -62,6 +68,8 @@ We track what moves us toward coherence.
 > Feedback exists to evolve the mission — not inflate it.
 
 ---
+
+<br>
 
 ## Summary
 
@@ -76,6 +84,8 @@ UNIVERSE is here to:
 
 ---
 
+<br>
+
 ## From Mission to Movement
 
 → [Architecture Overview](D-ARCHITECTURE-OVERVIEW.md)  
@@ -83,6 +93,8 @@ UNIVERSE is here to:
 → [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
+
+<br>
 
 **UNIVERSE**  
 Building the tools to guide us from **possibility** to **purpose**.
