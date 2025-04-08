@@ -1,4 +1,4 @@
-# 🤝 CONTRIBUTING to UNIVERSE
+- 🤝 CONTRIBUTING to UNIVERSE (currently under construction)
 
 > **Join the Infinite Game — not just to build code, but to co-create a paradigm shift.**
 
@@ -6,6 +6,8 @@ UNIVERSE is not a typical open source project. It’s a symbolic protocol — a 
 You don’t need to code to contribute. You just need to care, show up with clarity, and begin.
 
 ---
+
+<br>
 
 ## 🌐 Connect to the Big Bang
 
