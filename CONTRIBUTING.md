@@ -1,4 +1,4 @@
-- 🤝 CONTRIBUTING to UNIVERSE (currently under construction)
+# - 🤝 CONTRIBUTING to UNIVERSE (currently under construction)
 
 > **Join the Infinite Game — not just to build code, but to co-create a paradigm shift.**
 
