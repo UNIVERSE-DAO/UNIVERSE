@@ -18,12 +18,11 @@
 
 The **primary mission** of UNIVERSE right now is to deliver:
 
-<br>
-
 ## **The Best UI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Best UX**
 
 >A sovereign interface for The Truth That Matters — rooted in clarity, guided by shared responsibility, and designed to find consensus for humanity’s most crucial challenges.
 
+<br>
 
 This is the living layer —  
 where symbolic structure meets experience,  
