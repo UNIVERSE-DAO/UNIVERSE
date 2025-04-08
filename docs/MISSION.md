@@ -9,92 +9,54 @@
 
 ---
 
+
 <br>
 
-# 🔍 MISSION  
+# MISSION  
 **The Strategic Output of UNIVERSE**
 
 ---
 
-## 🎯 What We Are Building
+## What We Are Building
 
-UNIVERSE is not built around features — it’s built around **ethical responsibilities** encoded into protocol.  
+UNIVERSE encodes **ethical responsibility** into protocol — not to ship products, but to align values with incentives.
 
-This mission isn't about shipping a product.  
-It’s about **engineering a civic layer** that aligns incentives with values, and meaning with mechanism.
+The mission:  
+- Empower ethical decision-making  
+- Reveal truth through feedback, not force  
+- Coordinate without coercion  
+- Protect agency and trust
 
-Each part of the system serves a shared purpose:
-
-- To empower ethical decision-making  
-- To reveal truth through feedback, not force  
-- To unlock coordination without coercion  
-- To protect the integrity of individuals and collectives
-
-In short: we’re designing the world’s most principled infrastructure — and it must function, reflect, and evolve.
+> We’re building the infrastructure for the Infinite Game.
 
 ---
 
-## 🛠️ Core Components of the Mission
+## 🛠️ Core Components
 
-### 🧠 The Truth Engine  
-A distributed system that reveals societal clarity by synthesizing feedback, metrics, and consensus.
+### The Truth Engine  
+Synthesizes feedback and consensus to surface clarity.
 
-### 📊 GLOBIND (Globally Aligned in Morals & Ethics)  
-A collective moral matrix that aligns governance with ethical principles and accountability.
+### The Holy Grail  
+Visualizes progress and collective breakthroughs — a mirror of alignment.
 
-### 🔍 Smart Compliance & SCRS  
-A self-regulating framework for decentralized compliance — privacy-first, KPI-driven, and adaptable to evolving standards.
+### GLOBIND  
+A moral matrix for globally accountable, ethics-aligned governance.
 
-### 🛡️ The Protection Protocol  
-Designed to safeguard the most critical societal assets: identity, agency, and aligned trust.
+### The Protection Protocol  
+Defends identity, autonomy, and the integrity of shared systems.
 
-### 🌱 The Incentive Framework  
-Coherent structures that reward contribution, transparency, and coherence over manipulation and metrics.
-
----
-
-## 🧪 Where Vision Meets Action
-
-The mission is to **prototype sovereignty**, not just theorize it.
-
-Each component maps to a symbolic layer within the UNIVERSE architecture:
-- SignUp → Sovereign Identity  
-- SCRS → Accountability Infrastructure  
-- DAO → Governance Memes  
-- UI → Visualized Truth  
-- Memes → Onboarding and Meaning Transmission
+### The Incentive Framework  
+Rewards clarity, coherence, and contribution — not metrics or manipulation.
 
 ---
 
-## 📐 KPIs With Soul
+## From Vision to Action
 
-We are not building metrics for vanity.  
-We are building feedback for **evolution**.
+This mission lives through protocol.
 
-Our KPIs are:
-- Clarity over clicks  
-- Depth over daily active users  
-- Alignment over virality
-
----
-
-## 📌 Summary
-
-UNIVERSE is here to:
-
-✅ Protect truth  
-✅ Enable sovereignty  
-✅ Visualize progress  
-✅ Scale ethical infrastructure  
-✅ Master the Infinite Game
-
----
-
-## 🧠 Related Docs
-
-- [VISION – The How](VISION.md)  
-- [PHILOSOPHY – The Why](PHILOSOPHY.md)  
-- [BUIDL4 – The Who](BUIDL4.md)
+→ [Architecture Overview](D-ARCHITECTURE-OVERVIEW.md)  
+→ [ROADMAP](ROADMAP.md)  
+→ [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
