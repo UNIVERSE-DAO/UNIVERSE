@@ -11,7 +11,8 @@ Used for development milestones, releases, and external sharing.
 
 | Date       | Version              | Stage               | Notes                                     |
 |------------|----------------------|----------------------|--------------------------------------------|
-| 2025-04-03 | UNIVERSE-MAIN-v0.1.0.zip      | Infra1 Prep          | Snapshot after changelog + structure fix   |
+| 2025-04-03 | UNIVERSE-MAIN-v0.1.0.zip      | Pre Big Bang          | Snapshot after changelog + structure fix   |
+| 2025-04-08 | UNIVERSE-MAIN-v0.1.1.zip      | Pre Big Bang          | Snapshot core docs   |
 
 ---
 
