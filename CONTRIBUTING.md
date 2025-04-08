@@ -20,8 +20,8 @@ You don’t need permission to start — just presence.
 | Bring Culture & Knowledge     | [Jump to Culture & Conversation →](#1-culture--conversation)                                  |
 | Join the Conversation         | [GitHub Discussions](https://github.com/YOUR_REPO/discussions)                                |
 | Become a Key Contributor      | [Participate in building the core to master the Infinite Game →](0%20%23DAO%20-%20The%20Layer%20Zero/0.2%20proposals/#uip-governance) |
-| Facilitate the UNIVERSE       | [Run a node, mirror the truth engine, protect protocol resilience →](#5-facilitate-the-universe) |
-| Take Responsibility           | [Steward proposals, shape evolution, protect moral architecture →](#6-governance) |
+| Facilitate the UNIVERSE       | [Run The Holy Grail, mirror The Truth Engine, Protect Protocol →](#5-facilitate-the-universe) |
+| Take Responsibility           | Your actions will earn you a place in shaping **UNIVERSE.DAO** — where sovereignty becomes reality. |
 
 > UNIVERSE is a movement — not just a repo. Contribution begins with culture and deepens with clarity.
 
@@ -86,7 +86,7 @@ You don’t need permission to start — just presence.
 
 > The protocol is alive — but only if it can breathe across the network.
 
-- Run a node or host the sovereign D-UI
+- Run a node and host the sovereign D-UI
 - Mirror the Truth Engine or maintain decentralized backups
 - Extend UNIVERSE into new regions, cultures, or realities
 
@@ -118,13 +118,6 @@ It mirrors your contribution — whether through code, culture, infrastructure, 
 
 ---
 
-## 🌀 Coming Modules
-
-| Module                | Description                                                                 |
-|-----------------------|-----------------------------------------------------------------------------|
-| `#SDK-selection/`     | Extend UNIVERSE into new stacks, tools, or decentralized ecosystems         |
-| `#CPI/`               | Cipher Punk Ideology Index — contributor trust & symbolic reputation        |
-| `CONTRIBUTOR-ID.md`   | Soulbound contributor passport — powered by `#SignUp1`                      |
 
 > We **use** the protocol to **amplify** the protocol.  
 > This isn’t just open source. It’s open **sovereignty**.  
