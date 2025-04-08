@@ -20,14 +20,14 @@ You don’t need permission to start — just presence.
 | Bring Culture & Knowledge     | [Jump to Culture & Conversation →](#1-culture--conversation)                                  |
 | Join the Conversation         | [GitHub Discussions](https://github.com/YOUR_REPO/discussions)                                |
 | Become a Key Contributor      | [Participate in building the core to master the Infinite Game →](0%20%23DAO%20-%20The%20Layer%20Zero/0.2%20proposals/#uip-governance) |
-| Facilitate the UNIVERSE       | [Run The Holy Grail, mirror The Truth Engine, Protect Protocol →](#5-facilitate-the-universe) |
+| Facilitate the UNIVERSE       | [Run The Holy Grail, mirror The Truth Engine, Protect the Protocol →](#6-facilitate-the-universe) |
 | Take Responsibility           | Your actions will earn you a place in shaping **UNIVERSE.DAO** — where sovereignty becomes reality. |
 
 > UNIVERSE is a movement — not just a repo. Contribution begins with culture and deepens with clarity.
 
 ---
 
-## Progressive Contribution Pathways
+## 🧭 Progressive Contribution Pathways
 
 > Contribution is a journey — from discovery to responsibility, from meme to mechanism.  
 > Whether you share a symbol, write a line of code, or run a node — you're helping shape the UNIVERSE.
@@ -82,7 +82,7 @@ You don’t need permission to start — just presence.
 
 ---
 
-### 6. **Facilitate the UNIVERSE** <a name="5-facilitate-the-universe"></a>
+### 6. **Facilitate the UNIVERSE** <a name="6-facilitate-the-universe"></a>
 
 > The protocol is alive — but only if it can breathe across the network.
 
@@ -94,7 +94,7 @@ You don’t need permission to start — just presence.
 
 ---
 
-### 7. **Take Responsibility — Govern the Protocol** <a name="6-governance"></a>
+### 7. **Take Responsibility — Govern the Protocol** <a name="7-governance"></a>
 
 > Governance is not control — it is care at scale.
 
@@ -117,7 +117,6 @@ It mirrors your contribution — whether through code, culture, infrastructure, 
 > A compass. A catalyst. A signal booster for shared clarity.
 
 ---
-
 
 > We **use** the protocol to **amplify** the protocol.  
 > This isn’t just open source. It’s open **sovereignty**.  
