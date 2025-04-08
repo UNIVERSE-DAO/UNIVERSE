@@ -1,4 +1,4 @@
-> [🧬 VISION](../README.md#vision--the-how) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : HOW Intro</sub> 
+> [VISION](../README.md#vision--the-how) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : HOW Intro</sub> 
 >  
 > To serve as the **Multiverse** — the greatest public good — by creating a self-reinforcing system that rewards, unites, and protects.  
 >  
@@ -11,12 +11,12 @@
 
 <br>
 
-# 🧬 VISION  
+# VISION  
 **How UNIVERSE Serves the Infinite Game**
 
 ---
 
-## 🌌 Our Stand
+## Our Stand
 
 UNIVERSE is a **living design** —  
 not built to control people, but to coordinate them.  
@@ -29,7 +29,7 @@ We believe systems should:
 
 ---
 
-## 🏛️ Core Tenets
+## Core Tenets
 
 1. **Philosophy First** — Strategy follows values  
 2. **Sovereignty-by-Default** — Privacy is power  
@@ -40,7 +40,7 @@ We believe systems should:
 
 ---
 
-## 🪐 What We're Composing
+## What We're Composing
 
 UNIVERSE is a **civic protocol** —  
 where ethics, incentives, and intelligence are interwoven.
@@ -56,7 +56,7 @@ We are building:
 
 ---
 
-## 🔁 A Vision That Evolves
+## A Vision That Evolves
 
 This isn’t a final form.  
 It’s a **shared direction** — refined through participation.
@@ -66,13 +66,23 @@ If you build with care, code with conscience, or think in systems —
 
 ---
 
-## 🧠 Related Docs
+## Contributing to the Vision
 
-- [PHILOSOPHY – The Why](PHILOSOPHY.md)  
-- [MISSION – The What](MISSION.md)  
-- [BUIDL4 – The Who](BUIDL4.md)
+This vision lives through participation.  
+If it resonates — build, write, share, or protect.
+
+→ [Start here → CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
+
+## Related Docs
+
+- [PHILOSOPHY – WHY](PHILOSOPHY.md)  
+- [MISSION – WHAT](MISSION.md)  
+- [BUIDL4 – WHO](BUIDL4.md)
+
+---
+
 
 **UNIVERSE**  
 Built to align clarity with power.  
