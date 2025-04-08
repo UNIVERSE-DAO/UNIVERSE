@@ -2,12 +2,12 @@
 ### </sub> ***UNIte to find consensus through the MetaVERSE*** </sub>
 <br>
 
-**The Ultimate Tool for Good to Master the Infinite Game**<br>
+**The Ultimate Tool for Good &nbsp;&nbsp;&nbsp;to &nbsp;&nbsp;&nbsp;Master the Infinite Game**<br>
 <sub>Building, Decentralizing & Governing with Cipher Punk Ideology</sub>
 
 <br>
 
->This is the living whitepaper **The Portal to the Possible** <br> 
+>This is the living whitepaper&nbsp; **Portal to the Possible** <br> 
 <sub>a map of symbolic layers, protocol principles, and pathways into action.</sub>
 >
 >Each section is a lens into the whole — dive deeper by exploring the title links.
