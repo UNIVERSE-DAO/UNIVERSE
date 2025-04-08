@@ -286,7 +286,9 @@ Where stories spark awareness — **MINDFORGER** shapes the question:
 MINDFORGER is an interactive experience — not a product, and not part of the core platform.  
 It serves as a reflective appetizer to *The Truth Engine* — a core feature of the UNIVERSE.
 
-It explores six symbolic layers of moral realization:
+> **It lets you feel your choices before you make them.**
+
+Explores six symbolic layers of moral realization:
 
 | Layer            | Reflection Prompt                                      |
 |------------------|--------------------------------------------------------|
@@ -301,7 +303,7 @@ It’s a mirror of moral cognition — a **teaser into alignment**,
 and an invitation to explore what it means to be **GLOBIND**:  
 *Globally Aligned in Morals and Ethics.*
 
-> Try the experience: [`mindforger.html`](../2%20MINDFORGER/index.html)
+> Try the experience: [`MINDFORGER.html`](../2%20MINDFORGER/MINDFORGER.html) — where alignment begins within.
 
 ---
 
