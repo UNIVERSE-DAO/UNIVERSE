@@ -1,6 +1,7 @@
 > [BUIDL4](../README.md#buidl4--the-who) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : WHO Intro</sub>
 >  
-> UNIVERSE welcomes:  
+> **UNIVERSE welcomes:**
+> 
 > 🧠 Critical thinkers, ethical devs, sovereignty advocates  
 > 🏛 Institutions seeking rational infrastructure  
 > 🌍 Communities aligned with sustainability and truth  
