@@ -7,7 +7,7 @@
 
 <br>
 
->This is the living whitepaper&nbsp; **Portal to the Possible** <br> 
+>### This is the interactive white paper : &nbsp;&nbsp;&nbsp; ***Portal to the Possible***
 <sub>a map of symbolic layers, protocol principles, and pathways into action.</sub>
 >
 >Each section is a lens into the whole — dive deeper by exploring the title links.
