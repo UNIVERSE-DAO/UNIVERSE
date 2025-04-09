@@ -1,20 +1,25 @@
+> [BUIDL4](../README.md#buidl4--the-who) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : WHO Intro</sub>
+>  
+> UNIVERSE welcomes:  
+> 🧠 Critical thinkers, ethical devs, sovereignty advocates  
+> 🏛 Institutions seeking rational infrastructure  
+> 🌍 Communities aligned with sustainability and truth  
+> 🤝 Citizens who simply want to **learn, express themselves, find soulmates, and make better choices**  
+>  
+> Participation isn’t permissioned — it’s guided by purpose.
+
+---
+
+<br>
+
 # BUIDL4
-### Who This Is *Really* For
+### Beyond Builders — This Is for Dreamers, Stewards, and Soulmates
 
-**UNIVERSE** is more than a protocol — it’s a platform for meaning, discovery, and soul-aligned connection.
+This isn’t just about who codes.  
+It’s about who **cares** — and dares to build systems that align with truth, sovereignty, and something sacred.
 
-This Multiverse is a home for:
-
-- 🧠 **Philosophers and rationalists**  
-- 🧑‍🚀 **Hackers and holy rebels**  
-- 🎨 **Artists and memetic architects**  
-- 🧘 **Mystics and modern monks**  
-- 📿 **Believers of every faith** — and seekers of every question
-
-We believe that some truth and wisdom can be found in every religion, and that each tradition holds keys worth respecting.
-
-Our minds resonate with many tribes.  
-This is a place where *all of them* can speak.
+UNIVERSE is for those who see tech as tool **and** temple —  
+a shared project for humanity, not just a product for markets.
 
 ---
 
@@ -126,7 +131,7 @@ you’re helping shape a system designed for **the highest purpose**:
 
 <div align="center">
 
-### **ＵＮＩＶＥＲＳＥ**  
+### ＵＮＩＶＥＲＳＥ  
 **UNIte to find essential solutions with consensus through the MetaVERSE**
 
 </div>
