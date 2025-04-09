@@ -146,7 +146,7 @@ Whether you’re here to build, reflect, signal, or govern — there’s a path 
 
 > Start where you are. Go as deep as you dare.
 
-→ [Explore the CONTRIBUTING guide →](CONTRIBUTING.md)  
+→ [Explore the CONTRIBUTING guide →](../CONTRIBUTING.md)  
 _A symbolic map from culture to code to consensus._
 
 > Contribution is not just technical.  
