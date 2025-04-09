@@ -15,8 +15,7 @@
 
 # BUIDL4
 
-> **The "BUIDL4" Ethos:** "build for" dreamers, stewards, and soulmates —<br>
-> with purpose, meaning, resonance, and collective clarity.
+> **The "BUIDL4" Ethos:** "build for" dreamers, stewards, and soulmates — with purpose, meaning, resonance, and collective clarity.
 
 <br>
 
