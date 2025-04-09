@@ -131,12 +131,12 @@ you’re helping shape a system designed for **the highest purpose**:
 
 <div align="center">
 
-### ＵＮＩＶＥＲＳＥ  
+# ＵＮＩＶＥＲＳＥ  
 **UNIte to find essential solutions with consensus through the MetaVERSE**
 
-</div>
-
 > If this resonates — you’re already part of it.
+
+</div>
 
 ---
 
