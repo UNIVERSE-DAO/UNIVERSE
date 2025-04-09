@@ -7,7 +7,7 @@
 > 🌍 Communities aligned with sustainability and truth  
 > 🤝 Citizens who simply want to **learn, express themselves, find soulmates, and make better choices**  
 >  
-> Participation isn’t permissioned — it’s guided by purpose.
+>100% inclusive. Value-aligned. Action-ready.
 
 ---
 
@@ -15,7 +15,8 @@
 
 # BUIDL4
 
-> **The “BUIDL4” Ethos** — to *build for* dreamers, stewards, and soulmates — with purpose, meaning, resonance, and collective clarity.
+> **The “BUIDL4” Ethos** — to *build for* dreamers, stewards, and soulmates —
+> with purpose, meaning, resonance, and collective clarity.
 
 <br>
 
