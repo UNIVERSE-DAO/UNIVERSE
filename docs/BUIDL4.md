@@ -13,14 +13,15 @@
 
 <br>
 
-# BUIDL4 : Dreamers, Stewards & Soulmates
+# BUIDL4
 
-> **The “BUIDL4” Ethos** — to *build for* purpose, meaning, resonance, and collective clarity.
+> **The “BUIDL4” Ethos** — to *build for* dreamers, stewards, and soulmates — with purpose, meaning, resonance, and collective clarity.
 
 <br>
 
 This isn’t just about who codes.  
 It’s about who **cares** — and dares to build systems that align with truth, sovereignty, and something sacred.
+
 
 
 ---
