@@ -125,7 +125,6 @@ You don’t need credentials — just care.
 Whether you're contributing memes, protocols, rituals, code, or clarity —  
 you’re helping shape a system designed for **the highest purpose**:
 
----
 
 <br>
 
