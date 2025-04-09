@@ -14,19 +14,16 @@
 <br>
 
 # BUIDL4
-### Beyond Builders — This Is for Dreamers, Stewards, and Soulmates
+### "Build for":  Dreamers, Stewards, and Soulmates
 
 This isn’t just about who codes.  
 It’s about who **cares** — and dares to build systems that align with truth, sovereignty, and something sacred.
-
-UNIVERSE is for those who see tech as tool **and** temple —  
-a shared project for humanity, not just a product for markets.
 
 ---
 
 <br>
 
-## UNIVERSE is for Expression
+## BUIDL4: Expression
 
 UNIVERSE is not here to flatten difference — it’s here to **host** it.  
 To become a **MultiVerse of Beliefs** — where anyone can:
@@ -45,9 +42,9 @@ From VR temples to meme churches, from ancestral remixes to AI-guided soulwork �
 
 <br>
 
-## A Platform for Soulmates
+## BUIDL4: Soulmates
 
-At its deepest level, this is a place to find **resonance**.  
+At its deepest level, this is the platform to find **resonance**.  
 Not just collaborators — but **soulmates**.
 
 Whether romantic, intellectual, or spiritual —  
@@ -60,7 +57,7 @@ We invite them to **build together**, signal clearly, and find one another **by 
 
 <br>
 
-## A Place for All Wokeness — Anchored in Wisdom
+## BUIDL4: All Wokeness — Anchored in Wisdom
 
 Yes, **all narratives are welcome**.  
 Yes, this is a place for radical self-expression and diverse identities.
@@ -76,7 +73,7 @@ UNIVERSE is not built to enforce — it’s built to enable.
 
 <br>
 
-## Shared Ethos
+## BUIDL4: Shared Ethos
 
 We are not chasing hype.  
 We are cultivating **responsibility, resonance, and real sovereignty**.
