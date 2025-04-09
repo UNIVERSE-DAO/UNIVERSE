@@ -26,10 +26,10 @@ a shared project for humanity, not just a product for markets.
 
 <br>
 
-## The Multiverse is for Expression
+## UNIVERSE is for Expression
 
 UNIVERSE is not here to flatten difference — it’s here to **host** it.  
-To become a **MetaVerse of Beliefs** — where anyone can:
+To become a **MultiVerse of Beliefs** — where anyone can:
 
 - Speak freely  
 - Represent themselves in any symbolic or technological form  
@@ -132,9 +132,9 @@ you’re helping shape a system designed for **the highest purpose**:
 <div align="center">
 
 # ＵＮＩＶＥＲＳＥ  
-**UNIte to find essential solutions with consensus through the MetaVERSE**
+### **UNIte to find essential solutions with consensus through the MetaVERSE**
 
-> If this resonates — you’re already part of it.
+_If this resonates — you’re already part of it._
 
 </div>
 
