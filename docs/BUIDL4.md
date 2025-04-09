@@ -90,18 +90,6 @@ We are cultivating **responsibility, resonance, and real sovereignty**.
 
 <br>
 
-## Ways to Participate
-
-- Build protocols for belief, culture, and connection  
-- Express yourself in code, in ritual, or in meme  
-- Design identities that evolve with your values  
-- Shape worlds where free speech and deep truth coexist  
-- Host syncs, gather tribes, remix ancient wisdoms
-
----
-
-<br>
-
 ## Who We Are Becoming
 
 UNIVERSE is being built by a **constellation of sovereign beings**  
@@ -140,11 +128,19 @@ you’re helping shape a system designed for **the highest purpose**:
 
 </div>
 
----
+___
 
 <br>
 
-## Ready to Contribute?
+## Ways to Participate
+
+- Build protocols for belief, culture, and connection  
+- Express yourself in code, in ritual, or in meme  
+- Design identities that evolve with your values  
+- Shape worlds where free speech and deep truth coexist  
+- Host syncs, gather tribes, remix ancient wisdoms  
+
+<br>
 
 Whether you’re here to build, reflect, signal, or govern — there’s a path for you.
 
@@ -155,6 +151,7 @@ _A symbolic map from culture to code to consensus._
 
 > Contribution is not just technical.  
 > It's **spiritual infrastructure** — helping sustain the Infinite Game.
+
 
 ---
 
