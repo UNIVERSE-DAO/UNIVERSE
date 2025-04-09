@@ -13,19 +13,19 @@
 
 <br>
 
-# BUIDL4  
-### “Build for”: Dreamers, Stewards, and Soulmates
+# BUIDL4 : Dreamers, Stewards & Soulmates
 
 > **The “BUIDL4” Ethos** — to *build for* purpose, meaning, resonance, and collective clarity.
 
 This isn’t just about who codes.  
 It’s about who **cares** — and dares to build systems that align with truth, sovereignty, and something sacred.
 
+
 ---
 
 <br>
 
-## BUIDL4: Expression
+## BUIDL4 : Expression
 
 UNIVERSE is not here to flatten difference — it’s here to **host** it.  
 To become a **MultiVerse of Beliefs** — where anyone can:
@@ -44,7 +44,7 @@ From VR temples to meme churches, from ancestral remixes to AI-guided soulwork �
 
 <br>
 
-## BUIDL4: Soulmates
+## BUIDL4 : Soulmates
 
 At its deepest level, this is the platform to find **resonance**.  
 Not just collaborators — but **soulmates**.
@@ -59,7 +59,7 @@ We invite them to **build together**, signal clearly, and find one another **by 
 
 <br>
 
-## BUIDL4: All Wokeness — Anchored in Wisdom
+## BUIDL4 : All Wokeness — Anchored in Wisdom
 
 Yes, **all narratives are welcome**.  
 Yes, this is a place for radical self-expression and diverse identities.
@@ -75,7 +75,7 @@ UNIVERSE is not built to enforce — it’s built to enable.
 
 <br>
 
-## BUIDL4: Shared Ethos
+## BUIDL4 : Shared Ethos
 
 We are not chasing hype.  
 We are cultivating **responsibility, resonance, and real sovereignty**.
