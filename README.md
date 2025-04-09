@@ -55,7 +55,7 @@ UNIVERSE welcomes:
 - 🧠 Critical thinkers, ethical devs, sovereignty advocates  
 - 🏛 Institutions seeking rational infrastructure  
 - 🌍 Communities aligned with sustainability and truth  
-- 🤝 Citizens who simply want to make **better choices with clarity**
+🤝 Citizens who simply want to **learn, express themselves, find soulmates, and make better choices** 
 
 > 100% inclusive. Value-aligned. Action-ready.
 
