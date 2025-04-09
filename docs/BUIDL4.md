@@ -1,4 +1,4 @@
-# 🧬 BUIDL4
+# BUIDL4
 ### Who This Is *Really* For
 
 **UNIVERSE** is more than a protocol — it’s a platform for meaning, discovery, and soul-aligned connection.
@@ -18,7 +18,9 @@ This is a place where *all of them* can speak.
 
 ---
 
-## 🌐 The Multiverse is for Expression
+<br>
+
+## The Multiverse is for Expression
 
 UNIVERSE is not here to flatten difference — it’s here to **host** it.  
 To become a **MetaVerse of Beliefs** — where anyone can:
@@ -35,7 +37,9 @@ From VR temples to meme churches, from ancestral remixes to AI-guided soulwork �
 
 ---
 
-## 💠 A Platform for Soulmates
+<br>
+
+## A Platform for Soulmates
 
 At its deepest level, this is a place to find **resonance**.  
 Not just collaborators — but **soulmates**.
@@ -48,7 +52,9 @@ We invite them to **build together**, signal clearly, and find one another **by 
 
 ---
 
-## 🧭 A Place for All Wokeness — Anchored in Wisdom
+<br>
+
+## A Place for All Wokeness — Anchored in Wisdom
 
 Yes, **all narratives are welcome**.  
 Yes, this is a place for radical self-expression and diverse identities.
@@ -62,6 +68,8 @@ UNIVERSE is not built to enforce — it’s built to enable.
 
 ---
 
+<br>
+
 ## Shared Ethos
 
 We are not chasing hype.  
@@ -72,6 +80,8 @@ We are cultivating **responsibility, resonance, and real sovereignty**.
 
 ---
 
+<br>
+
 ## Ways to Participate
 
 - Build protocols for belief, culture, and connection  
@@ -81,6 +91,8 @@ We are cultivating **responsibility, resonance, and real sovereignty**.
 - Host syncs, gather tribes, remix ancient wisdoms
 
 ---
+
+<br>
 
 ## Who We Are Becoming
 
@@ -93,7 +105,9 @@ If that resonates — you already belong.
 
 ---
 
-## 🌟 Open to All — Aligned with the Highest Purpose
+<br>
+
+## Open to All — Aligned with the Highest Purpose
 
 No one is excluded.  
 No belief system is too strange. No background too different.
@@ -108,6 +122,8 @@ you’re helping shape a system designed for **the highest purpose**:
 
 ---
 
+<br>
+
 <div align="center">
 
 ### **ＵＮＩＶＥＲＳＥ**  
@@ -119,7 +135,9 @@ you’re helping shape a system designed for **the highest purpose**:
 
 ---
 
-## 🌀 Ready to Contribute?
+<br>
+
+## Ready to Contribute?
 
 Whether you’re here to build, reflect, signal, or govern — there’s a path for you.
 
@@ -133,8 +151,9 @@ _A symbolic map from culture to code to consensus._
 
 ---
 
+<br>
 
-## 🧠 Related Docs
+## Related Docs
 
 - [PHILOSOPHY – The Why](PHILOSOPHY.md)  
 - [VISION – The How](VISION.md)  
@@ -142,8 +161,8 @@ _A symbolic map from culture to code to consensus._
 
 ---
 
+<br>
+
 **UNIVERSE**  
 Not just built for you.  
 Built **by** you.
-
-
