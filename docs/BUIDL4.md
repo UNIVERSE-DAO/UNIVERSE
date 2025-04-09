@@ -130,3 +130,20 @@ _A symbolic map from culture to code to consensus._
 
 > Contribution is not just technical.  
 > It's **spiritual infrastructure** — helping sustain the Infinite Game.
+
+---
+
+
+## 🧠 Related Docs
+
+- [PHILOSOPHY – The Why](PHILOSOPHY.md)  
+- [VISION – The How](VISION.md)  
+- [MISSION – The What](MISSION.md)
+
+---
+
+**UNIVERSE**  
+Not just built for you.  
+Built **by** you.
+
+
