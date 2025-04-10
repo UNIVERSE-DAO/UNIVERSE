@@ -87,9 +87,9 @@ UNIVERSE is here to:
 
 ## From Mission to Movement
 
-→ [Architecture Overview](D-ARCHITECTURE-OVERVIEW.md)  
+→ [ARCHITECTURE](ARCHITECTURE.md)  
 → [ROADMAP](ROADMAP.md)  
-→ [CONTRIBUTING.md](CONTRIBUTING.md)
+→ [CONTRIBUTING](../CONTRIBUTING.md)
 
 ---
 
