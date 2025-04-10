@@ -1,7 +1,7 @@
 >### [ROADMAP – MILESTONES](../README.md#intro-roadmap) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : ROADMAP</sub>  
 >UNIVERSE unfolds in symbolic phases — each representing a layer of infrastructure, alignment, and collective responsibility.  
 >
->Some stages are public. Others remain protected until trust thresholds are met — such as decentralized UI operation and contributor federation.  
+ 
 >
 >| Phase     | Name             | Description                                                        |
 >|-----------|------------------|--------------------------------------------------------------------|
@@ -19,7 +19,10 @@
 
 # ROADMAP – MILESTONES
 
-> ### UNIVERSE – Development Phases · Glossary
+### UNIVERSE – Development Phases · Glossary
+
+>Some stages are public. Others remain protected until trust thresholds are met — such as decentralized UI operation and contributor federation. 
+
 
 ---
 <br>
