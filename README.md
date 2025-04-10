@@ -81,18 +81,13 @@ _This protocol is not just code — it’s conviction._
 
 <br>
 
-### [Architecture Overview](docs/D-ARCHITECTURE-OVERVIEW.md) <a name="architecture-overview"></a>
+### [ARCHITECTURE Overview](docs/D-ARCHITECTURE-OVERVIEW.md) <a name="architecture-overview"></a>
 
-The following modules are deployed in progressive, symbolic layers:
+UNIVERSE’s systems are intentionally deployed in progressive modules — aligned, interdependent, and layered to Master the Infinite Game.
 
-| Module              | Identifier            | Description                                                                 |
-|---------------------|------------------------|-----------------------------------------------------------------------------|
-| Infra1              | `#Infra1`              | Bootstrapping privacy-first infrastructure                                  |
-| Infra2              | `#Infra2`              | Fully decentralized, censorship-resistant backend                           |
-| Universal Login     | `#SignUp1` → `#SignUp2`| Web2-compatible logins → sovereign DIDs with zk-auth                        |
-| Smart Compliance    | `#SCRS`                | Smart Compliance & Resilient SaaS                                           |
-| Decentralized UI    | `#D-UI`                | Sovereign frontends that visualize truth, consensus & well-being            |
-| DAO Governance      | `#UIP-GOV`             | Staged proposal system, evolving from dev-led to autonomous                 |
+Together, they form the backbone of a moral infrastructure built for clarity, sovereignty, and long-term coordination.
+
+>_This is not just architecture — it’s alignment in motion._
 
 
 
