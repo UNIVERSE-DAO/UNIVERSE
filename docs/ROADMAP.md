@@ -1,7 +1,6 @@
 >### [ROADMAP – MILESTONES](../README.md#intro-roadmap) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : ROADMAP</sub>  
 >UNIVERSE unfolds in symbolic phases — each representing a layer of infrastructure, alignment, and collective responsibility.  
 >
- 
 >
 >| Phase     | Name             | Description                                                        |
 >|-----------|------------------|--------------------------------------------------------------------|
@@ -10,7 +9,7 @@
 >| 2 - 🌕    | Big Bang         | Ignition, UI nodes, early contributor expansion                    |
 >| 3 - 🌑    | Black Hole       | AI truth engine, deep protocol work, DAO feature evolution         |
 >
-> _Current Stage: **Phase 1 – Pre Big-Bang** 🌓_
+> _Current Stage: **Phase 1 – 🌓 Pre Big-Bang**_
 
 ---
 
