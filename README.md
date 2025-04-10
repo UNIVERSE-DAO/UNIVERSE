@@ -43,7 +43,7 @@ To build sovereignty-first digital infrastructure that empowers societies to
 ### [MISSION – WHAT](docs/MISSION.md) <a name="mission--the-what"></a>
 
 - **The Truth Engine** → Enables rational choices in AI alignment & governance  
-- **The Holy Grail** → Visualizes human progress and consensus in crucial problem solving  
+- **The Holy Grail** → Find solutions through consensus in crucial problem solving  
 - **GLOBIND** → *Globally Aligned in Morals and Ethics* to foster acountability, prosperity & well-being  
 - **Protection Protocol** → Safeguards society’s most valuable Asset
 
