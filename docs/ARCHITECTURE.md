@@ -24,7 +24,7 @@ Overview of the modules and governance structure that compose UNIVERSE.
 | [`#SCRS`](#scrs) | Smart Compliance through zk-proofs — enabling verifiability without exposure |
 | [`#UIP`](#uip) | UNIVERSE Improvement Proposal — from dev-led updates to autonomous governance |
 
-> Each module can be explored at the right time.
+> _Each module can be explored at the right time._
 
 
 ---
@@ -45,7 +45,7 @@ _- Shift governance to federated decision-making & decentralized smart contracts
 
 <br>
 
-**Phase 3: DAO as a Guardian  — Proposes, Aligns, Protects** 
+**Phase 3: DAO as a Guardian  — Proposes, Aligns, Protects** <br> 
 _- UNIVERSE.DAO does not control operations but votes on and implements key upgrades_ <br> 
 _- Ensures alignment with decentralization & privacy principles_ <br>   
 _- Intervenes only in existential threats or to approve critical feature expansions_ <br> 
