@@ -46,9 +46,7 @@ _- Shift governance to federated decision-making & decentralized smart contracts
 <br>
 
 **Phase 3: DAO as a Guardian  — Proposes, Aligns, Protects** <br> 
-_- UNIVERSE.DAO does not control operations but votes on and implements key upgrades_ <br> 
-_- Ensures alignment with decentralization & privacy principles_ <br>   
-_- Intervenes only in existential threats or to approve critical feature expansions_ <br> 
+_- The UNIVERSE.DAO aligns intent, signals consent, and upvotes proposals._ <br> 
 
 <br>
 
