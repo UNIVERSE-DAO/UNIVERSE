@@ -16,7 +16,7 @@
 
 <br>
 
-### [PHILOSOPHY – WHY](docs/PHILOSOPHY.md) <a name="intro-why"></a>
+### [PHILOSOPHY – WHY](docs/PHILOSOPHY.md) <a name="intro-philosophy"></a>
 
 **Building the ultimate Tech for Good to Master the Infinite Game —
 providing Hope, Prosperity, and Well-being — is the essence of a fulfilling life purpose.**
@@ -27,7 +27,7 @@ providing Hope, Prosperity, and Well-being — is the essence of a fulfilling li
 
 <br>
 
-### [VISION – HOW](docs/VISION.md) <a name="intro-how"></a>
+### [VISION – HOW](docs/VISION.md) <a name="intro-vision"></a>
 
 To serve as the **Multiverse** — the greatest public good — by creating a self-reinforcing system that rewards, unites, and protects.
 
@@ -40,7 +40,7 @@ To build sovereignty-first digital infrastructure that empowers societies to
 
 <br>
 
-### [MISSION – WHAT](docs/MISSION.md) <a name="intro-what"></a>
+### [MISSION – WHAT](docs/MISSION.md) <a name="intro-mission"></a>
 
 - **The Truth Engine** → Enables rational choices in AI alignment & governance  
 - **The Holy Grail** → Find solutions through consensus in crucial problem solving  
@@ -95,7 +95,7 @@ Together, they form the backbone of a moral infrastructure built for clarity, so
 
 <br>
 
-### [ROADMAP Milestone Overview](docs/ROADMAP.md) <a name="intro-roadmap"></a>
+### [ROADMAP - MILESTONES](docs/ROADMAP.md) <a name="intro-roadmap"></a>
 
 UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized, privacy-first protocol:
 
