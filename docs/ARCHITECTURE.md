@@ -9,9 +9,9 @@
 
 <br>
 
-### ARCHITECTURE – SYSTEMS <a name="architecture-overview"></a>
+### ARCHITECTURE – SYSTEMS
 
-This document outlines the key infrastructure components and the governance phases that guide UNIVERSE’s path toward full decentralization, privacy preservation, and user sovereignty.
+Overview of the modules and governance structure that compose UNIVERSE.
 
 
 | **Module**           | **Identifier**         | **Description**                                                                 |
