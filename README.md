@@ -106,7 +106,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 | 2     | 🌕     | Big Bang         | MVP ignition, UI nodes, early contributor expansion                |
 | 3     | 🌑     | Black Hole       | AI truth engine, deep protocol work, DAO feature evolution         |
 
-> Current Stage: **Phase 1 – Pre Big-Bang** 🌓 
+> _Current Stage: **Phase 1 – Pre Big-Bang** 🌓_
 
 
 ---
