@@ -46,7 +46,7 @@ Guiding the way through the MetaVERSE.<br>
 ## Dilemma of the Ultimate Tech for Good  
 
 <div align="center">
-The key to master The Infinite Game,<br>  
+The key to Master The Infinite Game,<br>  
 A simple tool forged, yet risks aflame.<br>  
 Crafting solutions, a most delicate art,<br>  
 Falling in wrong hands, they tear apart.<br><br>  
