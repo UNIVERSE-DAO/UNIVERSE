@@ -14,15 +14,15 @@
 Overview of the modules and governance structure that compose UNIVERSE.
 
 
-| **Module**           | **Identifier**         | **Description**                                                                 |
-|----------------------|------------------------|---------------------------------------------------------------------------------|
-| Infra1               | [`#Infra1`](#infra1)              | Bootstrapping privacy-first infrastructure                                      |
-| Universal Login      | [`#SignUp1`](#signup1)             | Web2-compatible logins with privacy-first architecture                          |
-| Sovereign Identity   | [`#SignUp2`](#signup2)             | Sovereign DIDs, zk-auth, and self-hosted identity protocols                     |
-| Infra2               | [`#Infra2`](#infra2)              | Fully decentralized, censorship-resistant backend                              |
-| Decentralized UI     | [`#D-UI`](#d-ui)                | Sovereign frontends that visualize truth, consensus & well-being               |
-| Smart Compliance     | [`#SCRS`](#scrs)                | Smart Compliance & Resilient SaaS — verifiability without surveillance         |
-| DAO Governance       | [`#UIP-GOV`](#uip-gov)             | Staged proposal system, evolving from dev-led to autonomous governance         |
+| **Module** | **Description** |
+|------------|-----------------|
+| [`Infra1`](#infra1) | Bootstrapping privacy-first infrastructure for early adoption |
+| [`Universal Login`](#signup1) | Web2-compatible access with privacy-preserving foundations |
+| [`Sovereign Identity`](#signup2) | Self-hosted identity with zk-auth and sovereign DIDs |
+| [`Infra2`](#infra2) | Fully decentralized, censorship-resistant infrastructure |
+| [`Decentralized UI`](#d-ui) | Frontends that visualize truth, consensus & symbolic clarity |
+| [`Smart Compliance`](#scrs) | Resilient, transparent systems — without surveillance |
+| [`DAO Governance`](#uip-gov) | A guardian layer for alignment, evolution & integrity |
 
 ---
 
