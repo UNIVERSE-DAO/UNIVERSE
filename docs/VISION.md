@@ -1,4 +1,4 @@
-> [VISION](../README.md#vision--the-how) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : HOW Intro</sub> 
+> [VISION](../README.md#intro-how) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : HOW Intro</sub> 
 >  
 > To serve as the **Multiverse** — the greatest public good — by creating a self-reinforcing system that rewards, unites, and protects.  
 >  
