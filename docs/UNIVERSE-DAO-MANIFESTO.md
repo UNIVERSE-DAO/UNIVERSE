@@ -117,7 +117,7 @@ Of care in the age of collapse.
 Mastering the Infinite Game needs infrastructure.  
 **You are that infrastructure.**
 
-→ [Explore CONTRIBUTING.md →](CONTRIBUTING.md)
+→ [Explore CONTRIBUTING→](../CONTRIBUTING.md)
 
 
 ---
