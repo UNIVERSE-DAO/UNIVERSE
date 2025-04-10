@@ -1,4 +1,4 @@
->[**UNIVERSE.DAO – MANIFESTO**](../README.md#universe-dao-manifesto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : MANIFESTO</sub>  
+>[**MANIFESTO - UNIVERSE.DAO**](../README.md#universe-dao-manifesto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : MANIFESTO</sub>  
 >  
 > This protocol is not just code — it’s conviction.  
 >  
@@ -12,7 +12,7 @@
 
 <br>
 
-# UNIVERSE.DAO – MANIFESTO  
+# MANIFESTO - UNIVERSE.DAO   
 **Core Principles for a Sovereignty-First Digital Infrastructure**
 
 > _No compromises. No surveillance. Just user empowerment._
