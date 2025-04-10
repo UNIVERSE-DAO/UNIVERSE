@@ -1,14 +1,21 @@
-# UNIVERSE – Development Phases · Glossary
-
-UNIVERSE unfolds through intentional development phases.  
-Some stages are public, others remain protected until key thresholds are met —  
-such as decentralized UI operation and contributor federation.
+>### [ROADMAP – MILESTONES](../README.md#intro-roadmap) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : ROADMAP</sub>  
+>UNIVERSE unfolds in symbolic phases — each representing a layer of infrastructure, alignment, and collective responsibility.  
+>
+>Some stages are public. Others remain protected until trust thresholds are met — such as decentralized UI operation and contributor federation.  
+>
+>_This is not just a timeline — it’s an unfolding._
 
 ---
 
-## Phase Overview
+<br>
 
-### 🌒 Phase 0 — Backbone BUIDL  
+### UNIVERSE – Development Phases · Glossary
+
+Overview of key development phases and symbolic module activations.
+
+---
+
+## 🌒 Phase 0 — Backbone BUIDL  
 Foundational scaffolding, symbolic structure, and system initialization.
 
 - `#DAO` — Governance initiation  
@@ -17,7 +24,7 @@ Foundational scaffolding, symbolic structure, and system initialization.
 
 ---
 
-### 🌓 Phase 1 — Pre Big-Bang  
+## 🌓 Phase 1 — Pre Big-Bang  
 Protected ideation, modular deployment, and internal synchronization.
 
 - `#Infra1` — Hosted backbone  
@@ -26,7 +33,7 @@ Protected ideation, modular deployment, and internal synchronization.
 
 ---
 
-### 🌕 Phase 2 — Big Bang  
+## 🌕 Phase 2 — Big Bang  
 Public ignition of key modules and contributor expansion.  
 The moment UNIVERSE begins to operate beyond its origin node.
 
@@ -37,14 +44,14 @@ The moment UNIVERSE begins to operate beyond its origin node.
 
 ---
 
-### 🌑 Phase 3 — Black Hole  
+## 🌑 Phase 3 — Black Hole  
 Core protocol deepening, advanced privacy tools, and AI-aligned infrastructure.
 
 - `#D-UI` — Decentralized UI / Distributed nodes  
 - `#THG` — The Holy Grail  
 - `#PP` — Protection Protocol  
 - `#DSM` — Dark Side of the Moon (*fixing social media*)  
-- `#CPI` — Cipher Punk Ideologyindex
+- `#CPI` — Cipher Punk Ideology Index
 
 ---
 
