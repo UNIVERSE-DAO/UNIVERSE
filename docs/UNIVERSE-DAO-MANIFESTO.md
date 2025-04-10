@@ -6,7 +6,7 @@
 > 
 > ✅ Sovereignty · ✅ Resilience · ✅ Long-term Integrity  
 >  
-> _A guide to protect freedom, encourage participation, and sustain the Infinite Game._
+> _A Guide to protect freedom, encourage participation, and sustain the Infinite Game._
 
 ---
 
