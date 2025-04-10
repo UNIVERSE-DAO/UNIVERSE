@@ -62,6 +62,8 @@
 
 ---
 
+<br>
+
 >Each symbol marks a living module —  
 >Some already unfolding in public view, others still protected, awaiting shared authorship.  
 >
