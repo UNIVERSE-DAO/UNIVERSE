@@ -81,7 +81,7 @@ _This protocol is not just code — it’s conviction._
 
 <br>
 
-### [ARCHITECTURE - SYSTEMS](docs/D-ARCHITECTURE-OVERVIEW.md) <a name="architecture-overview"></a>
+### [ARCHITECTURE - SYSTEMS](docs/ARCHITECTURE.md) <a name="architecture-systems"></a>
 
 UNIVERSE’s systems are intentionally deployed in progressive modules — aligned, interdependent, and layered to Master the Infinite Game.
 
