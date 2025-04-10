@@ -5,7 +5,7 @@
 > To build sovereignty-first digital infrastructure that empowers societies to  
 > **UNIte to find consensus through the MetaVERSE** — unlocking solutions for well-being, prosperity, and long-term alignment.  
 >  
-> UNIVERSE is not just a system — it's a **search engine for solutions**, a **mirror of societal progress**, and a **framework for shared responsibility**.
+>_A Visualization of **Human Progress** — and a Framework for **Shared Responsibility**._
 
 ---
 
