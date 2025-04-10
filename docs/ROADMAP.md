@@ -52,7 +52,7 @@
 <br>
 
 ## 🌑 Phase 3 — Black Hole  
-Core protocol deepening, advanced privacy tools, and AI-aligned infrastructure.
+>Core protocol deepening, advanced privacy tools, and AI-aligned infrastructure.
 
 - `#D-UI` — Decentralized UI / Distributed nodes  
 - `#THG` — The Holy Grail  
