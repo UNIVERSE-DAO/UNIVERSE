@@ -33,17 +33,19 @@ Overview of the modules and governance structure that compose UNIVERSE.
 
 ## Governance Phases: The DAO’s Role in the Infinite Game
 
-### Phase 1: DAO-Led Development  
+<br>
+
+**Phase 1: DAO-Led Development**  
 - Build and govern the privacy-first infrastructure
 
 <br>
 
-### Phase 2: Progressive Decentralization  
+**Phase 2: Progressive Decentralization**  
 - Shift governance to federated decision-making & decentralized smart contracts
 
 <br>
 
-### Phase 3: DAO as a Guardian  — Proposes, Aligns, Protects 
+**Phase 3: DAO as a Guardian  — Proposes, Aligns, Protects** 
 - UNIVERSE.DAO does not control operations but votes on and implements key upgrades  
 - Ensures alignment with decentralization & privacy principles  
 - Intervenes only in existential threats or to approve critical feature expansions
