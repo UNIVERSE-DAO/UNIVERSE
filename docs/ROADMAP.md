@@ -8,48 +8,43 @@ such as decentralized UI operation and contributor federation.
 
 ## Phase Overview
 
----
-
 ### 🌒 Phase 0 — Backbone BUIDL  
-Foundational structure, symbolic systems, and initialization.
+Foundational scaffolding, symbolic structure, and system initialization.
 
-- `#DAO`  
-- `#MOMENTUM`  
-- `#MINDFORGER`
+- `#DAO` — Governance initiation  
+- `#MOMENTUM` — Participation flow  
+- `#MINDFORGER` — Interactive ethics and alignment reflection
 
 ---
 
 ### 🌓 Phase 1 — Pre Big-Bang  
-Protected ideation, modular implementation, and internal alignment.
+Protected ideation, modular deployment, and internal synchronization.
 
-- `#infra1`  
-- `#SignUp1`  
-- `#KPI-1`
+- `#Infra1` — Hosted backbone  
+- `#SignUp1` — Entry-level sovereign access  
+- `#KPI-1` — Initial key metrics
 
 ---
 
 ### 🌕 Phase 2 — Big Bang  
-Public ignition of key modules and contributor onboarding.  
-The moment UNIVERSE begins to operate beyond its original vessel.
+Public ignition of key modules and contributor expansion.  
+The moment UNIVERSE begins to operate beyond its origin node.
 
-- `#CCC`  
-- `#D-UI` ← Distributed UI system (nodes begin serving interface modules)  
-- `#SCRS`  
-- `#THG`  
-- `#DDI`
-
-> First public MVP release, contributor ignition, and UI node federation begins.
+- `#Infra2` — Fully decentralized backend infrastructure  
+- `#SignUp2` — Full sovereign identity (DIDs + zk-auth)  
+- `#SCRS` — Smart Compliance and Resilient Services  
+- `#TTE` — The Truth Engine
 
 ---
 
 ### 🌑 Phase 3 — Black Hole  
-Deep protocol expansion, privacy tooling, and AI-aligned infrastructure.
+Core protocol deepening, advanced privacy tools, and AI-aligned infrastructure.
 
-- `#SignUp2`  
-- `#PP`  
-- `#DSM`  
-- `#CPI`  
-- `#TTE`
+- `#D-UI` — Decentralized UI / Distributed nodes  
+- `#THG` — The Holy Grail  
+- `#PP` — Protection Protocol  
+- `#DSM` — Dark Side of the Moon (*fixing social media*)  
+- `#CPI` — Cipher Punk Ideologyindex
 
 ---
 
