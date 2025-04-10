@@ -36,19 +36,19 @@ Overview of the modules and governance structure that compose UNIVERSE.
 <br>
 
 **Phase 1: DAO-Led Development**  
-- Build and govern the privacy-first infrastructure
+_- Build and govern the protected, privacy-first infrastructure_
 
 <br>
 
 **Phase 2: Progressive Decentralization**  
-- Shift governance to federated decision-making & decentralized smart contracts
+_- Shift governance to federated decision-making & decentralized smart contracts_
 
 <br>
 
 **Phase 3: DAO as a Guardian  — Proposes, Aligns, Protects** 
-- UNIVERSE.DAO does not control operations but votes on and implements key upgrades  
-- Ensures alignment with decentralization & privacy principles  
-- Intervenes only in existential threats or to approve critical feature expansions
+_- UNIVERSE.DAO does not control operations but votes on and implements key upgrades_ <br> 
+_- Ensures alignment with decentralization & privacy principles_ <br>   
+_- Intervenes only in existential threats or to approve critical feature expansions_ <br> 
 
 <br>
 
