@@ -26,6 +26,8 @@ Foundational scaffolding, symbolic structure, and system initialization.
 
 ---
 
+<br>
+
 ## 🌓 Phase 1 — Pre Big-Bang  
 Protected ideation, modular deployment, and internal synchronization.
 
@@ -35,9 +37,10 @@ Protected ideation, modular deployment, and internal synchronization.
 
 ---
 
+<br>
+
 ## 🌕 Phase 2 — Big Bang  
 Public ignition of key modules and contributor expansion.  
-The moment UNIVERSE begins to operate beyond its origin node.
 
 - `#Infra2` — Fully decentralized backend infrastructure  
 - `#SignUp2` — Full sovereign identity (DIDs + zk-auth)  
@@ -45,6 +48,8 @@ The moment UNIVERSE begins to operate beyond its origin node.
 - `#TTE` — The Truth Engine
 
 ---
+
+<br>
 
 ## 🌑 Phase 3 — Black Hole  
 Core protocol deepening, advanced privacy tools, and AI-aligned infrastructure.
