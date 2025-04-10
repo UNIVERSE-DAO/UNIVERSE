@@ -3,7 +3,14 @@
 >
 >Some stages are public. Others remain protected until trust thresholds are met — such as decentralized UI operation and contributor federation.  
 >
->_This is not just a timeline — it’s an unfolding._
+>| Phase     | Name             | Description                                                        |
+>|-----------|------------------|--------------------------------------------------------------------|
+>| 0 - 🌒    | Backbone BUIDL   | Infrastructure scaffolding, commit standards, backup system        |
+>| 1 - 🌓    | Pre Big-Bang     | Protected logic, governance prototypes, invite-only dev            |
+>| 2 - 🌕    | Big Bang         | Ignition, UI nodes, early contributor expansion                    |
+>| 3 - 🌑    | Black Hole       | AI truth engine, deep protocol work, DAO feature evolution         |
+>
+> _Current Stage: **Phase 1 – Pre Big-Bang** 🌓_
 
 ---
 
