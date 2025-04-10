@@ -68,7 +68,7 @@ UNIVERSE welcomes:
 
 <br>
 
-### [MANIFESTO - UNIVERSE.DAO](docs/UNIVERSE-DAO-MANIFESTO.md) <a name="universe-dao-manifesto"></a>  
+### [MANIFESTO - UNIVERSE.DAO](docs/MANIFESTO.md) <a name="manifesto"></a>  
 _This protocol is not just code — it’s conviction._
 
  Once fully decentralized, **UNIVERSE.DAO** becomes a **guardian** of its founding ethos:
