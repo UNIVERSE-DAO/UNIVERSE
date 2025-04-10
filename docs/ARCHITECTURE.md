@@ -7,7 +7,11 @@
 
 ---
 
+<br>
 
+### ARCHITECTURE – SYSTEMS <a name="architecture-overview"></a>
+
+This document outlines the key infrastructure components and the governance phases that guide UNIVERSE’s path toward full decentralization, privacy preservation, and user sovereignty.
 
 
 | **Module**           | **Identifier**         | **Description**                                                                 |
@@ -20,14 +24,6 @@
 | DAO Governance       | `#UIP-GOV`             | Staged proposal system, evolving from dev-led to autonomous governance         |
 
 
-
----
-
-<br>
-
-### 🛠️ Architecture Overview <a name="architecture-overview"></a>
-
-This document outlines the key infrastructure components and the governance phases that guide UNIVERSE’s path toward full decentralization, privacy preservation, and user sovereignty.
 
 ---
 
