@@ -1,4 +1,4 @@
->[**MANIFESTO - UNIVERSE.DAO**](../README.md#universe-dao-manifesto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : MANIFESTO</sub>  
+>[**MANIFESTO - UNIVERSE.DAO**](../README.md#manifesto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : MANIFESTO</sub>  
 >  
 > This protocol is not just code — it’s conviction.  
 >  
