@@ -50,7 +50,7 @@ _- The UNIVERSE.DAO aligns intent, signals consent, and upvotes proposals._ <br>
 
 <br>
 
->✅ **The DAO’s Role**: To steward decentralization, align upgrades, and protect the protocol’s purpose.
+> _This protocol lives through participation — not control. Step in where it calls you._
 
 ---
 
