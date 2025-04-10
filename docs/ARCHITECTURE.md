@@ -34,40 +34,38 @@ Overview of the modules and governance structure that compose UNIVERSE.
 ## 📌 Governance Phases: The DAO’s Role in the Infinite Game
 
 ### 🔹 Phase 1: DAO-Led Development  
-- Build, fund, and govern the privacy-first infrastructure
+- Build and govern the privacy-first infrastructure
+
+<br>
 
 ### 🔹 Phase 2: Progressive Decentralization  
 - Shift governance to federated decision-making & decentralized smart contracts
 
-### 🔹 Phase 3: DAO as a Guardian & Feature Gatekeeper  
+<br>
+
+### 🔹 Phase 3: DAO as a Guardian  — Proposes, Aligns, Protects 
 - UNIVERSE.DAO does not control operations but votes on and implements key upgrades  
 - Ensures alignment with decentralization & privacy principles  
-- Intervenes only in existential threats or to approve critical feature expansions  
+- Intervenes only in existential threats or to approve critical feature expansions
 
-✅ **Goal**: Maintain the DAO as a long-term steward ensuring perpetual decentralization
+<br>
+
+✅ **The DAO’s Role**: To steward decentralization, align upgrades, and protect the protocol’s purpose.
 
 ---
 
 <br>
 
-## 🧭 What's Next?
+## 🔗 Continue Exploring
 
-This document is part of the evolving **UNIVERSE protocol**.  
-If you resonate with sovereignty, coherence, and truth-aligned systems — you're already part of it.
+UNIVERSE is an evolving protocol — built for those who resonate with sovereignty, coherence, and truth-aligned systems.
 
-### 🔗 Continue Exploring
+> If it speaks to you — you’re already part of it.
 
-- [VISION – The How](VISION.md)  
-- [MISSION – The What](MISSION.md)  
-- [PHILOSOPHY – The Why](PHILOSOPHY.md)  
-- [DAO MANIFESTO – What We Defend](DAO-MANIFESTO.md)  
-- [ROADMAP – The Journey Is the Goal](ROADMAP.md)  
 
-### 🤝 Participate in the Build
-
-- Propose improvements via Pull Requests  
-- Drop insights into `1 #MOMENTUM/`  
-- Join a reading jam or protocol refinement call  
+- Contribute proposals  
+- Share insight  
+- Join reading jams  
 - Help shape the next symbolic layer
 
 > _A system becomes real the moment you contribute to it._
