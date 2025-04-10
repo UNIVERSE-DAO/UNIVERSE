@@ -27,7 +27,7 @@ providing Hope, Prosperity, and Well-being — is the essence of a fulfilling li
 
 <br>
 
-### [VISION – HOW](docs/VISION.md) <a name="vision--the-how"></a>
+### [VISION – HOW](docs/VISION.md) <a name="intro-how"></a>
 
 To serve as the **Multiverse** — the greatest public good — by creating a self-reinforcing system that rewards, unites, and protects.
 
@@ -40,7 +40,7 @@ To build sovereignty-first digital infrastructure that empowers societies to
 
 <br>
 
-### [MISSION – WHAT](docs/MISSION.md) <a name="mission--the-what"></a>
+### [MISSION – WHAT](docs/MISSION.md) <a name="intro-what"></a>
 
 - **The Truth Engine** → Enables rational choices in AI alignment & governance  
 - **The Holy Grail** → Find solutions through consensus in crucial problem solving  
@@ -53,7 +53,7 @@ To build sovereignty-first digital infrastructure that empowers societies to
 
 <br>
 
-### [BUIDL4 – WHO](docs/BUIDL4.md) <a name="buidl4--the-who"></a>
+### [BUIDL4 – WHO](docs/BUIDL4.md) <a name="intro-buidl4"></a>
 
 UNIVERSE welcomes:
 
@@ -68,7 +68,7 @@ UNIVERSE welcomes:
 
 <br>
 
-### [MANIFESTO - UNIVERSE.DAO](docs/MANIFESTO.md) <a name="manifesto"></a>  
+### [MANIFESTO - UNIVERSE.DAO](docs/MANIFESTO.md) <a name="intro-manifesto"></a>  
 _This protocol is not just code — it’s conviction._
 
  Once fully decentralized, **UNIVERSE.DAO** becomes a **guardian** of its founding ethos:
@@ -95,7 +95,7 @@ Together, they form the backbone of a moral infrastructure built for clarity, so
 
 <br>
 
-### [ROADMAP Milestone Overview](docs/ROADMAP.md) 
+### [ROADMAP Milestone Overview](docs/ROADMAP.md) <a name="intro-roadmap"></a>
 
 UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized, privacy-first protocol:
 
