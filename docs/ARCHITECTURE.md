@@ -16,55 +16,17 @@ Overview of the modules and governance structure that compose UNIVERSE.
 
 | **Module**           | **Identifier**         | **Description**                                                                 |
 |----------------------|------------------------|---------------------------------------------------------------------------------|
-| Infra1               | `#Infra1`              | Bootstrapping privacy-first infrastructure                                      |
-| Infra2               | `#Infra2`              | Fully decentralized, censorship-resistant backend                              |
-| Universal Login      | `#SignUp1 → #SignUp2`  | Web2-compatible logins → sovereign DIDs with zk-auth                           |
-| Smart Compliance     | `#SCRS`                | Smart Compliance & Resilient SaaS                                              |
-| Decentralized UI     | `#D-UI`                | Sovereign frontends that visualize truth, consensus & well-being               |
-| DAO Governance       | `#UIP-GOV`             | Staged proposal system, evolving from dev-led to autonomous governance         |
-
-
-
----
-
-## 1️⃣ Infra1: The Bridge to Full Decentralization (Bootstrapping Phase)
-
-- Hosted, privacy-first infrastructure for early adoption & usability  
-- Ensures smooth user onboarding before full decentralization  
-- Cryptographic integrity secures data against manipulation  
-
-✅ **Goal**: Establish adoption, refine core systems, and prepare for Infra2
+| Infra1               | [`#Infra1`](#infra1)              | Bootstrapping privacy-first infrastructure                                      |
+| Universal Login      | [`#SignUp1`](#signup1)             | Web2-compatible logins with privacy-first architecture                          |
+| Sovereign Identity   | [`#SignUp2`](#signup2)             | Sovereign DIDs, zk-auth, and self-hosted identity protocols                     |
+| Infra2               | [`#Infra2`](#infra2)              | Fully decentralized, censorship-resistant backend                              |
+| Decentralized UI     | [`#D-UI`](#d-ui)                | Sovereign frontends that visualize truth, consensus & well-being               |
+| Smart Compliance     | [`#SCRS`](#scrs)                | Smart Compliance & Resilient SaaS — verifiability without surveillance         |
+| DAO Governance       | [`#UIP-GOV`](#uip-gov)             | Staged proposal system, evolving from dev-led to autonomous governance         |
 
 ---
 
-## 2️⃣ Infra2: Fully Decentralized, Censorship-Resistant Infrastructure (The Ultimate Evolution)
-
-- Self-sovereign authentication & governance — no central control  
-- Censorship-proof, privacy-enforcing infrastructure  
-- Immutable, decentralized KPI data for verifiable truth  
-
-✅ **Goal**: Achieve full autonomy with cryptographically enforced privacy & resilience
-
----
-
-## 3️⃣ Universal Login (SignUp1 → SignUp2) – Progressive Digital Sovereignty
-
-- **SignUp1**: Web2-compatible logins with a privacy-first foundation  
-- **SignUp2**: Full migration to DIDs, zk-proofs, and decentralized authentication  
-
-✅ **Goal**: Transition users from mainstream logins to full sovereignty
-
----
-
-## 4️⃣ Smart Compliance & Resilient SaaS (SCRS) – Transparency Without Surveillance
-
-- Zero-Knowledge KPI verification — verifiable insights without user tracking  
-- Federated data storage — no single authority controls access  
-- User-controlled transparency — opt-in regulatory compliance without exposure  
-
-✅ **Goal**: Balance transparency & compliance while maintaining privacy-first principles
-
----
+<br>
 
 ## 📌 Governance Phases: The DAO’s Role in the Infinite Game
 
@@ -82,6 +44,8 @@ Overview of the modules and governance structure that compose UNIVERSE.
 ✅ **Goal**: Maintain the DAO as a long-term steward ensuring perpetual decentralization
 
 ---
+
+<br>
 
 ## 🧭 What's Next?
 
@@ -104,6 +68,10 @@ If you resonate with sovereignty, coherence, and truth-aligned systems — you'r
 - Help shape the next symbolic layer
 
 > _A system becomes real the moment you contribute to it._
+
+---
+
+<br>
 
 **UNIVERSE**  
 Tools for clarity. Infrastructure for meaning.  
