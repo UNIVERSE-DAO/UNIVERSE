@@ -17,9 +17,9 @@ Overview of the modules and governance structure that compose UNIVERSE.
 | **Module** | **Description** |
 |------------|-----------------|
 | [`#Infra1`](#infra1) | Privately hosted infrastructure to enable efficient adoption and usability |
+| [`#Infra2`](#infra2) | Fully decentralized, censorship-resistant backend for resilient coordination |
 | [`#SignUp1`](#signup1) | Web2-compatible login flow that bridges users into sovereign systems |
 | [`#SignUp2`](#signup2) | Transition to full Sovereign Identity using DIDs and zk-auth protocols |
-| [`#Infra2`](#infra2) | Fully decentralized, censorship-resistant backend for resilient coordination |
 | [`#D-UI`](#d-ui) | Decentralized frontends that visualize truth, alignment, and shared well-being |
 | [`#SCRS`](#scrs) | Smart Compliance through zk-proofs — enabling verifiability without exposure |
 | [`#UIP`](#uip) | UNIVERSE Improvement Proposal — from dev-led updates to autonomous governance |
