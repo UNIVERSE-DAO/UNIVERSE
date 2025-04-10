@@ -69,7 +69,7 @@ UNIVERSE is an evolving protocol — built for those who resonate with sovereign
 - Contribute Proposals 
 - Help shape the next symbolic Layer
 
-→ See [CONTRIBUTING](../CONTRIBUTING.md)
+→ Explore [CONTRIBUTING](../CONTRIBUTING.md) — discover [Portal to the Possible](../README.md#portal)
 
 
 > _A system becomes real the moment you contribute to it._
