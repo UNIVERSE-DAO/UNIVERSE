@@ -1,4 +1,4 @@
-> [PHILOSOPHY](../README.md#intro-why) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : WHY Intro</sub>
+> [PHILOSOPHY](../README.md#intro-philosophy) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : WHY Intro</sub>
 >  
 > Building the ultimate Tech for Good to Master the Infinite Game — providing **Hope**, **Prosperity**, and **Well-being** — is the essence of a fulfilling life purpose.
 > 
