@@ -2,7 +2,8 @@
 >  
 > This protocol is not just code — it’s conviction.  
 >  
-> Once fully decentralized, **UNIVERSE.DAO** becomes a **guardian** of its founding ethos:  
+> Once fully decentralized, **UNIVERSE.DAO** becomes a **guardian** of its founding ethos:
+> 
 > ✅ Sovereignty · ✅ Resilience · ✅ Long-term Integrity  
 >  
 > _A guide to protect freedom, encourage participation, and sustain the Infinite Game._
