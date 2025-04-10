@@ -18,7 +18,7 @@
 <br>
 
 ## 🌒 Phase 0 — Backbone BUIDL  
-Foundational scaffolding, symbolic structure, and system initialization.
+>Foundational scaffolding, symbolic structure, and system initialization.
 
 - `#DAO` — Governance initiation  
 - `#MOMENTUM` — Participation flow  
@@ -29,7 +29,7 @@ Foundational scaffolding, symbolic structure, and system initialization.
 <br>
 
 ## 🌓 Phase 1 — Pre Big-Bang  
-Protected ideation, modular deployment, and internal synchronization.
+>Protected ideation, modular deployment, and internal synchronization.
 
 - `#Infra1` — Hosted backbone  
 - `#SignUp1` — Entry-level sovereign access  
@@ -40,7 +40,7 @@ Protected ideation, modular deployment, and internal synchronization.
 <br>
 
 ## 🌕 Phase 2 — Big Bang  
-Public ignition of key modules and contributor expansion.  
+>Public ignition of key modules and contributor expansion.  
 
 - `#Infra2` — Fully decentralized backend infrastructure  
 - `#SignUp2` — Full sovereign identity (DIDs + zk-auth)  
