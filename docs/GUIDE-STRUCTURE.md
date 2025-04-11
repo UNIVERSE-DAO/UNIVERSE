@@ -85,7 +85,7 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | └── `- README.md`          | -                                                                    |
 |                            |                                                                      |
 | `backend/`                 | Backend service runner and API logic                                 |
-|               |                                |
+|                            |                                                                      |
 | `docs/`                    | Living system documentation and governance structure                 |
 | ├── `ARCHITECTURE.md`      | System layers and symbolic module overview                           |
 | ├── `ARCHIVE.md`           | Backup log and snapshot registry                                     |
@@ -101,8 +101,9 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | ├── `CHANGELOG.md`         | Version log and protocol history                                     |
 | ├── `GLOSSARY.md`          | Key terminology and symbolic vocabulary                              |
 | ├── `CONNECT.md`           | Contributor & ecosystem onboarding                                   |
-| ├── `CONTRIBUTING.md`      | How to contribute — roles, flow, values                              |
-| └── `README.md`            | Optional GitHub Pages doc index                                      |
+|                            |                                                                      |
+| `CONTRIBUTING.md`      | How to contribute — roles, flow, values                              |
+| `README.md`            | Optional GitHub Pages doc index                                      |
 
 
 ---
