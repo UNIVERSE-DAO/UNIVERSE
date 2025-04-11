@@ -11,7 +11,7 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 
 | Symbol / Pattern        | Meaning                                                                 |
 |-------------------------|-------------------------------------------------------------------------|
-| `#FOLDER/` or `#file.md`| 🛡️ Protected — logic gated by symbolic phase or governance unlock       |
+| `#FOLDER/` or `#file.md`| 🔐 Protected — logic gated by symbolic phase or governance unlock       |
 | `- README.md`           | 📎 Placeholder — structure exists, implementation pending                |
 | `README.md`             | 📘 Active — content live & indexed                                       |
 
@@ -46,26 +46,26 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 |--------------------------------|-------------------------------------------------------------------------|
 | `.github/`                     | GitHub configuration and automation                                     |
 | └── `workflows/`              | CI/CD workflows                                                         |
-| `0 #DAO – The Layer Zero/`     | 🏛️ Governance layer — contracts, proposals, voting logic                |
+| `0 #DAO – The Layer Zero/`     | Governance layer — contracts, proposals, voting logic                |
 | ├── `0.1 contracts/`           | Smart contracts (protected or external)                                 |
 | ├── `0.2 proposals/`           | DAO proposals, symbolic governance flows                                |
 | ├── `0.3 voting/`              | Voting integration and mechanism design                                 |
 | ├── `0.4 treasury/`            | Funding flows and treasury logic                                        |
-| `1 #MOMENTUM/`                 | 🔥 Cultural ignition — virality, onboarding emotion                     |
-| └── `- README.md`              | Placeholder overview                                                    |
-| `2 MINDFORGER/`                | 🧠 Ideology layer — vision, PMF insight, narrative refinement           |
+| `1 #MOMENTUM/`                 | Cultural ignition — virality, onboarding emotion                     |
+| └── `- README.md`              | -                                                    |
+| `2 MINDFORGER/`                | Ideology layer — vision, PMF insight, narrative refinement           |
 | ├── `README.md`                | Intro to Mindforger layer                                               |
 | ├── `index.html`               | Reflective prototype or story draft                                     |
 | ├── `main.js`, `content.js`    | Interaction logic (placeholder)                                         |
-| `3 #INFRA/`                    | 🏗️ Infrastructure systems for sovereignty                              |
+| `3 #INFRA/`                    | Infrastructure systems for sovereignty                              |
 | ├── `3.1 #INFRA1/`             | Hosted infra (bootstrapping)                                            |
 | ├── `3.2 #INFRA2/`             | Fully decentralized infra (future)                                      |
-| └── `- README.md`              | Infra roadmap placeholder                                               |
-| `4 #S-ID/`                     | 🆔 Sovereign Identity modules                                            |
+| └── `- README.md`              | -                                               |
+| `4 #S-ID/`                     | Sovereign Identity modules                                            |
 | ├── `4.1 #SignUp1/`            | Web2-style login bridging into sovereignty                              |
 | ├── `4.2 #SignUp2/`            | zk-login, DIDs, fully sovereign onboarding                              |
-| └── `- README.md`              | Placeholder overview                                                    |
-| `5 #FEATURES/`                 | 🔍 Verifiable service layers — metrics, logic, privacy                  |
+| └── `- README.md`              |-                                                   |
+| `5 #FEATURES/`                 | Verifiable service layers — metrics, logic, privacy                  |
 | ├── `5.1 #KPI/`                | Alignment metrics — zk-KPIs, telemetry                                  |
 | ├── `5.2 #TTE/`                | The Truth Engine — rational decision layer                              |
 | ├── `5.3 #THG/`                | The Holy Grail — solver for human coordination problems                 |
@@ -73,12 +73,12 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | ├── `5.5 #SCRS/`               | Smart Compliance — verifiable, privacy-preserving compliance            |
 | ├── `5.6 #DSM/`                | Dark Side of the Moon — social media reconstruction                     |
 | ├── `5.7 #CPI/`                | Cipher Punk Ideology Index — roots and rationale                        |
-| └── `- README.md`              | Placeholder overview                                                    |
-| `6 #D-UI/`                     | 🌐 Decentralized frontend shell                                         |
-| └── `- README.md`              | Placeholder or design draft                                             |
-| `backend/`                     | ⚙️ Backend service runner and API logic                                 |
-| `contracts/`                   | 🔐 Smart contract aggregation or exports                                |
-| `docs/`                        | 📚 Living system documentation and governance structure                 |
+| └── `- README.md`              | -                                                   |
+| `6 #D-UI/`                     | Decentralized frontend shell                                         |
+| └── `- README.md`              | -                                            |
+| `backend/`                     | Backend service runner and API logic                                 |
+| `contracts/`                   | Smart contract aggregation or exports                                |
+| `docs/`                        | Living system documentation and governance structure                 |
 | ├── `ARCHITECTURE.md`          | System layers and symbolic module overview                              |
 | ├── `ARCHIVE.md`               | Backup log and snapshot registry                                        |
 | ├── `GUIDE-BACKUP.md`          | Ritual naming and snapshot strategy                                     |
