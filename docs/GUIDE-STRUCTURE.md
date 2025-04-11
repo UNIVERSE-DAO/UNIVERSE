@@ -44,7 +44,7 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 
 | Path                       | Purpose                                                              |
 |----------------------------|----------------------------------------------------------------------|
-| `.github/`                 | GitHub configuration and automation                                 |
+| `.github/`                 | GitHub configuration and automation                                  |
 | └── `workflows/`           | CI/CD workflows                                                      |
 |                            |                                                                      |
 | `0 #DAO – The Layer Zero/` | Governance layer — contracts, proposals, voting logic                |
@@ -67,8 +67,8 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | └── `- README.md`          | -                                                                    |
 |                            |                                                                      |
 | `4 #S-ID/`                 | Sovereign Identity modules                                           |
-| ├── `4.1 #SignUp1/`        | Web2-style login bridging into sovereignty                          |
-| ├── `4.2 #SignUp2/`        | zk-login, DIDs, fully sovereign onboarding                          |
+| ├── `4.1 #SignUp1/`        | Web2-style login bridging into sovereignty                           |
+| ├── `4.2 #SignUp2/`        | zk-login, DIDs, fully sovereign onboarding                           |
 | └── `- README.md`          | -                                                                    |
 |                            |                                                                      |
 | `5 #FEATURES/`             | Verifiable service layers — metrics, logic, privacy                  |
@@ -100,10 +100,10 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | ├── `MANIFESTO.md`         | Foundational principles and social contract                          |
 | ├── `MISSION.md`           | The “What” — purpose, goals, and activation intent                   |
 | ├── `PHILOSOPHY.md`        | The “Why” — ethics, motivation, and narrative truth                  |
-| ├── `ROADMAP.md`           | Lunar phase-based evolution map: 🌒 → 🌓 → 🌕 → 🌑                      |
+| ├── `ROADMAP.md`           | Lunar phase-based evolution map: 🌒 → 🌓 → 🌕 → 🌑                  |
 | └── `VISION.md`            | The “How” — clarity, systems, and infinite game mindset              |
 |                            |                                                                      |
-| [`CONTRIBUTING.md`](../CONTRIBUTING.md) | How to contribute — roles, flow, values                    |
+| `CONTRIBUTING.md`          | How to contribute — roles, flow, values                              |
 | [`README.md`](../README.md)           | Entry point and portal index (root-level) 
 
 
