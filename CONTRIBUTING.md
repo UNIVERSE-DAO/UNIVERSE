@@ -114,7 +114,7 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 > Governance is not control — it is care at scale.
 
-- Read [`#UIP "UNIVERSE IMPROVEMENT PROPOSAL"`](0%20%23DAO%20-%20Layer%20Zero/0.2%20proposals/#uip.md)  
+- Read [`#UIP "UNIVERSE IMPROVEMENT PROPOSAL"`](0%20%23DAO%20-%20Layer%20Zero/0.2%20proposals/#uip-governance)  
 - Propose, co-sign, or steward protocol logic and decisions  
 - Protect alignment across phases  
 
