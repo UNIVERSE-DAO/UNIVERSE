@@ -104,7 +104,7 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | └── `VISION.md`            | The “How” — clarity, systems, and infinite game mindset              |
 |                            |                                                                      |
 | `CONTRIBUTING.md`          | How to contribute — roles, flow, values                              |
-| [`README.md`](../README.md)           | Entry point and portal index (root-level) 
+| [`README.md`](../README.md)           | Entry point and ***Portal to the Possible*** (root-level)  |
 
 
 ---
