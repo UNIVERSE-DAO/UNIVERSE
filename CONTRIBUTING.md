@@ -16,7 +16,7 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 | Action                        | Where to Go                                                                                   |
 |-------------------------------|------------------------------------------------------------------------------------------------|
-| 1. Find Your Community           | [X](https://example.com/x) ↗ • [Insta](https://example.com/instagram) ↗ • [YouTube](https://example.com/youtube) ↗ • [TikTok](https://example.com/tiktok) ↗ • (external ↗)|
+| 1. Find Your Community           | [X](https://example.com/x) ↗ [Insta](https://example.com/instagram) ↗ [YouTube](https://example.com/youtube) ↗ [TikTok](https://example.com/tiktok) • (external ↗)|
 | 2. Understand the Bigger Picture | [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md)     |
 | 3. Bring Culture & Knowledge     | [Jump to Culture & Conversation section below ⬇](#3-bring-culture-knowledge-and-poetry)                     |
 | 4. Join the Conversation         | [GitHub Welcome Discussion →](https://github.com/UNIVERSE-DAO/UNIVERSE/discussions/7)         |
