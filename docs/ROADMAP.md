@@ -40,9 +40,9 @@
 ## 🌓 Phase 1 — Pre Big-Bang  
 >Protected ideation, modular deployment, and internal synchronization.
 
-- `#Infra1` — Hosted backbone  
+- `#INFRA1` — Hosted backbone  
 - `#SignUp1` — Entry-level sovereign access  
-- `#KPI-1` — Initial key metrics
+- `#KPI` — Initial key metrics
 
 ---
 
@@ -51,7 +51,7 @@
 ## 🌕 Phase 2 — Big Bang  
 >Public ignition of key modules and contributor expansion.  
 
-- `#Infra2` — Fully decentralized backend infrastructure  
+- `#INFRA2` — Fully decentralized backend infrastructure  
 - `#SignUp2` — Full sovereign identity (DIDs + zk-auth)  
 - `#SCRS` — Smart Compliance and Resilient Services  
 - `#TTE` — The Truth Engine
