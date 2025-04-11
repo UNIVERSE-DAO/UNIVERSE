@@ -41,8 +41,8 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 ### 1. 🧠 Understand the Bigger Picture
 
-- Read [PHILOSOPHY.md](docs/PHILOSOPHY.md), [VISION.md](docs/VISION.md), [MISSION.md](docs/MISSION.md)  
-- Explore the motivations, ethics, and systems of alignment  
+- Get a feal for motivations, ethics, and systems of alignment: [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md)  
+- Explore the [WHITEPAPER](README.md)  
 
 > _Clarity is the beginning of contribution._
 
