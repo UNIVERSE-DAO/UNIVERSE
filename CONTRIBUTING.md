@@ -16,13 +16,13 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 | Action                        | Where to Go                                                                                   |
 |-------------------------------|------------------------------------------------------------------------------------------------|
-| Find Your Community           | [X](https://example.com/x) • [Insta](https://example.com/instagram) • [YouTube](https://example.com/youtube) • [TikTok](https://example.com/tiktok) |
-| Understand the Bigger Picture | [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md)     |
-| Bring Culture & Knowledge     | [Jump to Culture & Conversation →](#3-bring-culture-knowledge-and-poetry)                     |
-| Join the Conversation         | [GitHub Welcome Discussion →](https://github.com/UNIVERSE-DAO/UNIVERSE/discussions/7)         |
-| Become a Key Contributor      | [Propose ideas →](0%20%23DAO%20-%20Layer%20Zero/0.2%20proposals/#uip.md)                      |
-| Facilitate the UNIVERSE       | [Run #D-UI, mirror #TTE, or defend #PP →](#6-facilitate-the-universe)                         |
-| Govern the Protocol           | [Help shape UNIVERSE.DAO →](#7-govern-the-protocol)                                           |
+| 1. Find Your Community           | [X](https://example.com/x) • [Insta](https://example.com/instagram) • [YouTube](https://example.com/youtube) • [TikTok](https://example.com/tiktok) |
+| 2. Understand the Bigger Picture | [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md)     |
+| 3. Bring Culture & Knowledge     | [Jump to Culture & Conversation ⬇](#3-bring-culture-knowledge-and-poetry)                     |
+| 4. Join the Conversation         | [GitHub Welcome Discussion →](https://github.com/UNIVERSE-DAO/UNIVERSE/discussions/7)         |
+| 5. Become a Key Contributor      | [Propose ideas ⬇](0%20%23DAO%20-%20Layer%20Zero/0.2%20proposals/#uip.md)                      |
+| 6. Facilitate the UNIVERSE       | [Run #D-UI, mirror #TTE, or defend #PP ⬇](#6-facilitate-the-universe)                         |
+| 7. Govern the Protocol           | [Help shape UNIVERSE.DAO ⬇](#7-govern-the-protocol)                                           |
 
 > UNIVERSE is a movement — not just a repo. Contribution begins with culture and deepens with clarity.
 
@@ -39,18 +39,7 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 <br>
 
-### 1. Understand the Bigger Picture
-
-- Get a feel for motivations, ethics, and systems of alignment: [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md)  
-- Explore the [WHITEPAPER](README.md)  
-
-> _Clarity is the beginning of contribution._
-
----
-
-<br>
-
-### 2. Find Your People
+### 1. Find Your Community
 
 Observe the values, energy, symbolic language and interact:
 
@@ -60,6 +49,18 @@ Observe the values, energy, symbolic language and interact:
 - [TikTok](https://example.com/tiktok)  
 
 > _Culture begins by listening._
+---
+
+<br>
+
+### 2. Understand the Bigger Picture
+
+- Get a feel for motivations, ethics, and systems of alignment: [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md)  
+- Explore the [WHITEPAPER](README.md)  
+
+> _Clarity is the beginning of contribution._
+
+
 
 ---
 
@@ -107,7 +108,7 @@ A coordination system that listens to your intent — and amplifies it across th
 
 <br>
 
-### 5. Build or Extend the Protocol
+### 5. Build or Extend the Protocol - coming soon
 
 - Contribute to modules like `INFRA`, `D-UI`, `MINDFORGER`  
 - Build symbolic branches, zk-systems, governance logic  
@@ -118,7 +119,7 @@ A coordination system that listens to your intent — and amplifies it across th
 
 <br>
 
-### 6. Facilitate the UNIVERSE
+### 6. Facilitate the UNIVERSE - coming soon
 
 > The protocol is alive — but only if it can breathe across the network.
 
@@ -132,7 +133,7 @@ A coordination system that listens to your intent — and amplifies it across th
 
 <br>
 
-### 7. Govern the Protocol
+### 7. Govern the Protocol - coming soon
 
 > Governance is not control — it is care at scale.
 
