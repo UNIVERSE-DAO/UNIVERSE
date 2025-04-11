@@ -79,7 +79,7 @@ And poetry is not style — it’s precision of soul.
 >Culture is a protocol layer — and you are a message.
 
 
-### The Multiplayer Engine — coming soon
+### [The Multiplayer Engine](#the-multiplayer-engine--coming-soon) — coming soon
 
 Not a task board. A resonance interface.  
 A coordination system that listens to your intent — and amplifies it across the network.
