@@ -130,17 +130,17 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 - [UIP-GOVERNANCE – Proposal System & Evolution](0%20%23DAO%20-%20The%20Layer%20Zero/0.2%20proposals/#UIP-GOVERNANCE.md)  
 
 
-#### Systems & Infrastructure
-- [ARCHITECTURE – Modular Systems Overview](docs/D-ARCHITECTURE-OVERVIEW.md)  
-- [ROADMAP – The Journey *Is* the Goal](docs/ROADMAP.md)  
-- [PROJECT STRUCTURE – Symbolic Folder Map](docs/PROJECT-STRUCTURE.md)  
-- [BACKUPS – Versioning & Archive Strategy](docs/ARCHIVE.md)  
-- [BACKUP-NAMING – Ritual Snapshot Naming](docs/BACKUP-NAMING-GUIDE.md)  
-- [BRANCHING – Git Flow Strategy](docs/BRANCHING-STRATEGY.md)  
-- [COMMITS – Symbolic Commit Guide](docs/COMMIT-GUIDE.md)  
-- [CHANGELOG – Protocol Evolution Log](docs/CHANGELOG.md)  
-- [LICENSE – Freedom Preserved](.github/LICENSE.md)
-- [GLOSSARY – Core Terminology](docs/GLOSSARY.md)  
+#### **Systems & Infrastructure**
+- [ARCHITECTURE – Modular Systems Overview](ARCHITECTURE.md)  
+- [ROADMAP – The Journey *Is* the Goal](ROADMAP.md)  
+- [PROJECT STRUCTURE – Symbolic Folder Map](GUIDE-STRUCTURE.md)  
+- [BACKUPS – Versioning & Archive Strategy](ARCHIVE.md)  
+- [BACKUP-NAMING – Ritual Snapshot Naming](GUIDE-BACKUP.md)  
+- [BRANCHING – Git Flow Strategy](GUIDE-BRANCHING.md)  
+- [COMMITS – Symbolic Commit Guide](GUIDE-COMMIT.md)  
+- [CHANGELOG – Protocol Evolution Log](CHANGELOG.md)  
+- [LICENSE – Freedom Preserved](LICENSE.md)  
+- [GLOSSARY – Core Terminology](GLOSSARY.md) 
 
 
 #### Contribution Pathways
