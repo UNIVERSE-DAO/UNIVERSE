@@ -78,6 +78,7 @@ Observe the values, energy, symbolic language and interact
 
 >_Culture is a protocol layer — and you are a message._
 
+<br>
 
 ### [The Multiplayer Engine](#the-multiplayer-engine--coming-soon) — coming soon
 
