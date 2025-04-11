@@ -16,6 +16,26 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 ---
 
 
+## UNIVERSE – Layered Project Map
+
+> Each folder is a living module, unfolding in sync with symbolic phases.  
+> This structure is not static — it is ritual, roadmap, and responsibility.
+
+| Layer | Folder         | Phase         | Meaning / Activation Layer                                               |
+|-------|----------------|---------------|---------------------------------------------------------------------------|
+| 0     | `#DAO – Layer Zero`         | 🌒 Phase 0    |Basic Social Consensus Layer — Root Governance                       |
+| 1     | `#MOMENTUM`    | 🌒 Phase 0    | Virality ignition, community rituals, memetic onboarding                 |
+| 2     | `MINDFORGER`   | 🌒 Phase 0    | Ideological refinement, PMF insight, narrative architecture              |
+| 3     | `#INFRA`       | 🌓 → 🌕        | Infra1 (hosted bootstrapping), Infra2 (decentralized infra modules)      |
+| 4     | `#IDENTITY`    | 🌓 → 🌕        | SignUp1 → Web2 login, SignUp2 → zk-login, DIDs, full sovereignty         |
+| 5     | `#FEATURES`    | 🌕 → 🌑        | Modular systems: SCRS, KPI-1, TTE — verifiable services, protocol logic  |
+| 6     | `#D-UI`        | 🌑 Phase 3    | Decentralized UI layer — node-powered frontend, revealed upon federation |
+| —     | `backend/`     | —             | Service logic, API runners, background ops                               |
+| —     | `docs/`        | —             | Living documentation, contributor grammar, system rituals                |
+
+---
+
+
 | Path                           | Purpose                                                                 |
 |--------------------------------|-------------------------------------------------------------------------|
 | .github/                       | GitHub configuration and automation                                     |
