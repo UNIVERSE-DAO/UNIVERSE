@@ -16,7 +16,7 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 | Action                        | Where to Go                                                                                   |
 |-------------------------------|------------------------------------------------------------------------------------------------|
-| Find Your Community           | [🕊 X](https://example.com/x) • [📸 Insta](https://example.com/instagram) • [📺 YouTube](https://example.com/youtube) • [🎵 TikTok](https://example.com/tiktok)                                                           |
+| Find Your Community           | [X](https://example.com/x) • [Insta](https://example.com/instagram) • [YouTube](https://example.com/youtube) • [TikTok](https://example.com/tiktok)                                                           |
 | Understand the Bigger Picture | [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md) |
 | Bring Culture & Knowledge     | Jump to Culture & Conversation → coming soon                               |
 | Join the Conversation         | GitHub Discussions coming soon                                 |
@@ -76,11 +76,10 @@ And poetry is not style — it’s precision of soul.
 - Host alignment jams, salons, or immersive gatherings  
 - Translate ideas into your own language, mythos, or medium
 
-Culture is a protocol layer — and you are a message.
+>Culture is a protocol layer — and you are a message.
 
-<br>
 
-#### The Multiplayer Engine — coming soon
+### The Multiplayer Engine — coming soon
 
 Not a task board. A resonance interface.  
 A coordination system that listens to your intent — and amplifies it across the network.
@@ -89,7 +88,7 @@ A coordination system that listens to your intent — and amplifies it across th
 - Signals your symbolic layer  
 - Aligns your contribution with the protocol’s pulse
 
-A compass. A catalyst. A coordination amplifier.
+>A compass. A catalyst. A coordination amplifier.
 
 
 ---
