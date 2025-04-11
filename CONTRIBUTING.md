@@ -67,8 +67,8 @@ Observe the values, energy, symbolic language and interact
 
 ### 3. Bring Culture, Knowledge and Poetry
 
-Culture is not aesthetic decoration — it’s the scaffolding of meaning.  
-And poetry is not style — it’s precision of soul.
+>_Culture is not aesthetic decoration — it’s the scaffolding of meaning._  
+>_And poetry is not style — it’s precision of soul._
 
 - Share memes, metaphors, and symbolic stories  
 - Propose rituals, seasonal rhythms, or cultural frames  
@@ -76,7 +76,7 @@ And poetry is not style — it’s precision of soul.
 - Host alignment jams, salons, or immersive gatherings  
 - Translate ideas into your own language, mythos, or medium
 
->Culture is a protocol layer — and you are a message.
+>_Culture is a protocol layer — and you are a message._
 
 
 ### [The Multiplayer Engine](#the-multiplayer-engine--coming-soon) — coming soon
@@ -88,7 +88,7 @@ A coordination system that listens to your intent — and amplifies it across th
 - Signals your symbolic layer  
 - Aligns your contribution with the protocol’s pulse
 
->A compass. A catalyst. A coordination amplifier.
+>_A compass. A catalyst. A coordination amplifier._
 
 
 ---
