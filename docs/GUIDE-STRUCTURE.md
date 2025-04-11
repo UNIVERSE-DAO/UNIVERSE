@@ -89,18 +89,19 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | `docs/`                    | Living system documentation and governance structure                 |
 | ├── `ARCHITECTURE.md`      | System layers and symbolic module overview                           |
 | ├── `ARCHIVE.md`           | Backup log and snapshot registry                                     |
+| ├── `BUIDL4.md`            | Who we build for — ethos, expression, soulmates                      |
+| ├── `CHANGELOG.md`         | Version log and protocol history                                     |
+| ├── `CONNECT.md`           | Contributor & ecosystem onboarding                                   |
+| ├── `GLOSSARY.md`          | Key terminology and symbolic vocabulary                              |
 | ├── `GUIDE-BACKUP.md`      | Ritual naming and snapshot strategy                                  |
 | ├── `GUIDE-BRANCHING.md`   | Git flow: symbolic branches and fork logic                           |
 | ├── `GUIDE-COMMIT.md`      | Symbolic commit structure and message grammar                        |
 | ├── `GUIDE-STRUCTURE.md`   | Symbolic folder map and modular layout                               |
-| ├── `MISSION.md`           | The “What” — purpose, goals, and activation intent                   |
-| ├── `VISION.md`            | The “How” — clarity, systems, and infinite game mindset              |
-| ├── `PHILOSOPHY.md`        | The “Why” — ethics, motivation, and narrative truth                  |
 | ├── `MANIFESTO.md`         | Foundational principles and social contract                          |
+| ├── `MISSION.md`           | The “What” — purpose, goals, and activation intent                   |
+| ├── `PHILOSOPHY.md`        | The “Why” — ethics, motivation, and narrative truth                  |
 | ├── `ROADMAP.md`           | Lunar phase-based evolution map: 🌒 → 🌓 → 🌕 → 🌑                      |
-| ├── `CHANGELOG.md`         | Version log and protocol history                                     |
-| ├── `GLOSSARY.md`          | Key terminology and symbolic vocabulary                              |
-| ├── `CONNECT.md`           | Contributor & ecosystem onboarding                                   |
+| └── `VISION.md`            | The “How” — clarity, systems, and infinite game mindset              |
 |                            |                                                                      |
 | [`CONTRIBUTING.md`](../CONTRIBUTING.md) | How to contribute — roles, flow, values                    |
 | [`README.md`](../README.md)           | Entry point and portal index (root-level) 
