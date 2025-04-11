@@ -20,7 +20,7 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 | Understand the Bigger Picture | [PHILOSOPHY](docs/PHILOSOPHY.md), [VISION](docs/VISION.md), [MISSION](docs/MISSION.md) |
 | Bring Culture & Knowledge     | [Jump to Culture & Conversation →](#3-bring-culture--knowledge)                               |
 | Join the Conversation         | [GitHub Discussions](https://github.com/YOUR_REPO/discussions)                                |
-| Become a Key Contributor      | [Propose ideas →](0%20%23DAO%20-%20The%20Layer%20Zero/0.2%20proposals/#uip-governance)        |
+| Become a Key Contributor      | [Propose ideas →](0%20%23DAO%20-%20Layer%20Zero/0.2%20proposals/#uip.md)        |
 | Facilitate the UNIVERSE       | [Run D-UI, mirror TTE, or scale cultural ops →](#6-facilitate-the-universe)                   |
 | Govern the Protocol           | Help shape **UNIVERSE.DAO** through symbolic governance                                       |
 
@@ -114,7 +114,7 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 > Governance is not control — it is care at scale.
 
-- Read [`#UIP "UNIVERSE IMPROVEMENT PROPOSAL"`](0%20%23DAO%20-%20Layer%20Zero/0.2%20proposals/#uip-governance)  
+- Read [`#UIP "UNIVERSE IMPROVEMENT PROPOSAL"`](0%20%23DAO%20-%20Layer%20Zero/0.2%20proposals/#uip.md)  
 - Propose, co-sign, or steward protocol logic and decisions  
 - Protect alignment across phases  
 
