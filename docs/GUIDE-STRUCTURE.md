@@ -1,19 +1,22 @@
-# 📂 UNIVERSE – Project Structure  
+# 📂 STRUCTURE of UNIVERSE
+
 This document outlines the current folder and file structure of the UNIVERSE repository, including symbolic modules, protected folders, development placeholders, and system documentation.
 
 ---
 
+<br>
+
 
 ## Naming Conventions
 
-| Symbol / Pattern           | Meaning                                                                 |
-|----------------------------|-------------------------------------------------------------------------|
-| #FOLDER/ or #file.md   | 🛡️ Protected — logic gated by symbolic phase or governance unlock       |
-| - README.md              | 📎 Placeholder — structure exists, implementation pending                |
-| README.md                | 📘 Active — content live & indexed                                       |
-
+| Symbol / Pattern        | Meaning                                                                 |
+|-------------------------|-------------------------------------------------------------------------|
+| `#FOLDER/` or `#file.md`| 🛡️ Protected — logic gated by symbolic phase or governance unlock       |
+| `- README.md`           | 📎 Placeholder — structure exists, implementation pending                |
+| `README.md`             | 📘 Active — content live & indexed                                       |
 
 ---
+<br>
 
 
 ## UNIVERSE – Layered Project Map
@@ -21,77 +24,81 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 > Each folder is a living module, unfolding in sync with symbolic phases.  
 > This structure is not static — it is ritual, roadmap, and responsibility.
 
-| Layer | Folder         | Phase         | Meaning / Activation Layer                                               |
-|-------|----------------|---------------|---------------------------------------------------------------------------|
-| 0     | `#DAO – Layer Zero`         | 🌒 Phase 0    |Basic Social Consensus Layer — Root Governance                       |
-| 1     | `#MOMENTUM`    | 🌒 Phase 0    | Virality ignition, community rituals, memetic onboarding                 |
-| 2     | `MINDFORGER`   | 🌒 Phase 0    | Ideological refinement, PMF insight, narrative architecture              |
-| 3     | `#INFRA`       | 🌓 → 🌕        | Infra1 (hosted bootstrapping), Infra2 (decentralized infra modules)      |
-| 4     | `#IDENTITY`    | 🌓 → 🌕        | SignUp1 → Web2 login, SignUp2 → zk-login, DIDs, full sovereignty         |
-| 5     | `#FEATURES`    | 🌕 → 🌑        | Modular systems: SCRS, KPI-1, TTE — verifiable services, protocol logic  |
-| 6     | `#D-UI`        | 🌑 Phase 3    | Decentralized UI layer — node-powered frontend, revealed upon federation |
-| —     | `backend/`     | —             | Service logic, API runners, background ops                               |
-| —     | `docs/`        | —             | Living documentation, contributor grammar, system rituals                |
+| Layer | Folder           | Phase         | Meaning / Activation Layer                                               |
+|-------|------------------|---------------|---------------------------------------------------------------------------|
+| 0     | `#DAO – Layer Zero` | 🌒 Phase 0    | Basic Social Consensus Layer — Root Governance                            |
+| 1     | `#MOMENTUM`      | 🌒 Phase 0    | Virality ignition, community rituals, memetic onboarding                  |
+| 2     | `MINDFORGER`     | 🌒 Phase 0    | Ideological refinement, PMF insight, narrative architecture               |
+| 3     | `#INFRA`         | 🌓 → 🌕        | Infra1 (hosted bootstrapping), Infra2 (decentralized infra modules)       |
+| 4     | `#S-ID`          | 🌓 → 🌕        | Sovereign Identity — from Web2 login to zk-auth & DIDs                    |
+| 5     | `#FEATURES`      | 🌕 → 🌑        | Modular systems: KPI, TTE, SCRS — verifiable services, protocol logic     |
+| 6     | `#D-UI`          | 🌑 Phase 3    | Decentralized UI layer — node-powered frontend, revealed upon federation  |
+| —     | `backend/`       | —             | Service logic, API runners, background ops                                |
+| —     | `docs/`          | —             | Living documentation, contributor grammar, system rituals                 |
 
 ---
 
+<br>
+
+## Folder-by-Folder Overview
 
 | Path                           | Purpose                                                                 |
 |--------------------------------|-------------------------------------------------------------------------|
-| .github/                       | GitHub configuration and automation                                     |
-| └── workflows/                 | CI/CD workflows                                                         |
-| 0 #DAO – The Layer Zero/       | 🏛️ Root consensus layer — DAO governance, contracts, proposals          |
-| ├── 0.1 contracts/             | Smart contracts (protected or external)                                 |
-| ├── 0.2 proposals/             | DAO proposal templates and governance flows                             |
-| │   └── #UIP-GOVERNANCE.md     | 🛡️ Protected core governance mechanics                                  |
-| └── 0.3 voting/                | Voting logic and UI integration                                         |
-| 1 #MOMENTUM/                   | 🔥 Cultural ignition — virality, onboarding emotion                     |
-| └── - README.md                | Placeholder or overview                                                 |
-| 2 MINDFORGER/                  | 🧠 Ideology layer — vision, PMF insight, narrative refinement           |
-| ├── README.md                  | Introduction to the Mindforger layer                                    |
-| ├── content.js                 | Placeholder content logic (future)                                      |
-| ├── index.html                 | Prototype or storytelling draft                                         |
-| └── main.js                    | Placeholder for interface interaction                                   |
-| 3 #SCRS/                       | 🔍 Smart Compliance & Resilient SaaS — privacy-first KPI infrastructure |
-| └── #SCRS.md                   | 🛡️ Protected description or architecture overview                       |
-| 4 identity/                    | 🆔 Self-sovereign identity and onboarding systems                        |
-| ├── 4.1 #SignUp1/              | Web2-style login with privacy-first foundation                          |
-| │   └── #SignUp1.md            | 🛡️ Protected logic or private documentation                             |
-| ├── 4.2 #SignUp2/              | zk-login, DIDs, decentralized identity                                  |
-| │   └── #SignUp2.md            | 🛡️ Protected logic or private documentation                             |
-| └── - README.md                | Identity system overview (placeholder)                                  |
-| 5 infra/                       | 🏗️ Infrastructure modules for decentralization                          |
-| ├── 5.1 #infra1/               | Hosted infra (bootstrapping)                                            |
-| │   └── #infra1.md             | Protected or internal implementation                                    |
-| ├── 5.2 #infra2/               | Fully decentralized infrastructure                                      |
-| │   └── #infra2.md             | Future infra spec                                                       |
-| ├── 5.3 #KPI/                  | zk-KPI and verifiable telemetry                                         |
-| │   └── #KPI.md                | KPI spec & metric strategy                                              |
-| └── - README.md                | Infra module roadmap                                                    |
-| 6 scripts/                     | 🛠️ Automation scripts, dev tools, backup helpers                        |
-| └── - README.md                | Placeholder                                                             |
-| 7 nextjs-app/                  | 🌐 Public-facing frontend (decentralized shell)                         |
-| └── - README.md                | Placeholder                                                             |
-| backend/                       | ⚙️ API logic, service runner                                            |
-| └── package.json               | Config with test placeholder                                            |
-| contracts/                     | 🔐 Smart contract aggregation or deployment exports                     |
-| └── - README.md                | Placeholder or purpose description                                      |
-| docs/                          | 📚 System documentation and governance logic                            |
-| ├── ARCHIVE.md                 | Backup log and snapshot registry                                        |
-| ├── BACKUP-NAMING-GUIDE.md     | Ritual naming rules for backups                                         |
-| ├── BRANCHING-STRATEGY.md      | Git workflow and naming conventions                                     |
-| ├── CHANGELOG.md               | Log of all project updates                                              |
-| ├── COMMIT-GUIDE.md            | Symbolic commit structure                                               |
-| ├── D-ARCHITECTURE-OVERVIEW.md | Modular design and layering explanation                                 |
-| ├── LICENSE                    | Open-source license (MIT/GPL/custom)                                    |
-| ├── MISSION.md                 | The “What” — core purpose and impact goals                              |
-| ├── PROJECT-STRUCTURE.md       | You are here — symbolic modular layout                                  |
-| ├── ROADMAP.md                 | Lunar phase-based project roadmap 🌒 → 🌕 → 🌑                          |
-| ├── README.md                  | Optional GitHub Pages doc index                                         |
-| └── CONNECT.md                 | Contributor & ecosystem onboarding (in progress)                        |
-
+| `.github/`                     | GitHub configuration and automation                                     |
+| └── `workflows/`              | CI/CD workflows                                                         |
+| `0 #DAO – The Layer Zero/`     | 🏛️ Governance layer — contracts, proposals, voting logic                |
+| ├── `0.1 contracts/`           | Smart contracts (protected or external)                                 |
+| ├── `0.2 proposals/`           | DAO proposals, symbolic governance flows                                |
+| ├── `0.3 voting/`              | Voting integration and mechanism design                                 |
+| ├── `0.4 treasury/`            | Funding flows and treasury logic                                        |
+| `1 #MOMENTUM/`                 | 🔥 Cultural ignition — virality, onboarding emotion                     |
+| └── `- README.md`              | Placeholder overview                                                    |
+| `2 MINDFORGER/`                | 🧠 Ideology layer — vision, PMF insight, narrative refinement           |
+| ├── `README.md`                | Intro to Mindforger layer                                               |
+| ├── `index.html`               | Reflective prototype or story draft                                     |
+| ├── `main.js`, `content.js`    | Interaction logic (placeholder)                                         |
+| `3 #INFRA/`                    | 🏗️ Infrastructure systems for sovereignty                              |
+| ├── `3.1 #INFRA1/`             | Hosted infra (bootstrapping)                                            |
+| ├── `3.2 #INFRA2/`             | Fully decentralized infra (future)                                      |
+| └── `- README.md`              | Infra roadmap placeholder                                               |
+| `4 #S-ID/`                     | 🆔 Sovereign Identity modules                                            |
+| ├── `4.1 #SignUp1/`            | Web2-style login bridging into sovereignty                              |
+| ├── `4.2 #SignUp2/`            | zk-login, DIDs, fully sovereign onboarding                              |
+| └── `- README.md`              | Placeholder overview                                                    |
+| `5 #FEATURES/`                 | 🔍 Verifiable service layers — metrics, logic, privacy                  |
+| ├── `5.1 #KPI/`                | Alignment metrics — zk-KPIs, telemetry                                  |
+| ├── `5.2 #TTE/`                | The Truth Engine — rational decision layer                              |
+| ├── `5.3 #THG/`                | The Holy Grail — solver for human coordination problems                 |
+| ├── `5.4 #PP/`                 | Protection Protocol — ethical defense mechanisms                        |
+| ├── `5.5 #SCRS/`               | Smart Compliance — verifiable, privacy-preserving compliance            |
+| ├── `5.6 #DSM/`                | Dark Side of the Moon — social media reconstruction                     |
+| ├── `5.7 #CPI/`                | Cipher Punk Ideology Index — roots and rationale                        |
+| └── `- README.md`              | Placeholder overview                                                    |
+| `6 #D-UI/`                     | 🌐 Decentralized frontend shell                                         |
+| └── `- README.md`              | Placeholder or design draft                                             |
+| `backend/`                     | ⚙️ Backend service runner and API logic                                 |
+| `contracts/`                   | 🔐 Smart contract aggregation or exports                                |
+| `docs/`                        | 📚 Living system documentation and governance structure                 |
+| ├── `ARCHITECTURE.md`          | System layers and symbolic module overview                              |
+| ├── `ARCHIVE.md`               | Backup log and snapshot registry                                        |
+| ├── `GUIDE-BACKUP.md`          | Ritual naming and snapshot strategy                                     |
+| ├── `GUIDE-BRANCHING.md`       | Git flow: symbolic branches and fork logic                              |
+| ├── `GUIDE-COMMIT.md`          | Symbolic commit structure and message grammar                           |
+| ├── `GUIDE-STRUCTURE.md`       | You are here — symbolic folder map and modular layout                   |
+| ├── `MISSION.md`               | The “What” — purpose, goals, and activation intent                      |
+| ├── `VISION.md`                | The “How” — clarity, systems, and infinite game mindset                 |
+| ├── `PHILOSOPHY.md`            | The “Why” — ethics, motivation, and narrative truth                     |
+| ├── `MANIFESTO.md`             | Foundational principles and social contract                             |
+| ├── `ROADMAP.md`               | Lunar phase-based evolution map: 🌒 → 🌓 → 🌕 → 🌑                       |
+| ├── `CHANGELOG.md`             | Version log and protocol history                                        |
+| ├── `GLOSSARY.md`              | Key terminology and symbolic vocabulary                                 |
+| ├── `CONNECT.md`               | Contributor & ecosystem onboarding                                      |
+| ├── `CONTRIBUTING.md`          | How to contribute — roles, flow, values                                 |
+| └── `README.md`                | Optional GitHub Pages doc index                                         |
 
 ---
 
+<br>
+
 > _UNIVERSE is a protocol of purpose — a structure of sovereignty and shared responsibility.  
-> You don’t just contribute. You shape a piece of the infinite._ 🌌
+> You don’t just contribute. You shape a piece of the infinite._
