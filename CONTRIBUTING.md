@@ -19,7 +19,7 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 | Find Your Community           | [X](https://example.com/x) • [Insta](https://example.com/instagram) • [YouTube](https://example.com/youtube) • [TikTok](https://example.com/tiktok)                                                           |
 | Understand the Bigger Picture | [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md) |
 | Bring Culture & Knowledge     | Jump to Culture & Conversation → coming soon                               |
-| Join the Conversation         | GitHub Discussions coming soon                                 |
+| Join the Conversation         | [GITHUB Welcome Discussion →](https://github.com/UNIVERSE-DAO/UNIVERSE/discussions/7)                              |
 | Become a Key Contributor      | [Propose ideas →](0%20%23DAO%20-%20Layer%20Zero/0.2%20proposals/#UIP.md)        |
 | Facilitate the UNIVERSE       | [Run #D-UI, mirror #TTE, or defend #PP            |
 | Govern the Protocol           | Help shape **UNIVERSE.DAO** through symbolic governance                                       |
@@ -98,7 +98,7 @@ A coordination system that listens to your intent — and amplifies it across th
 
 ### 4. Join the Conversation
 
-- Engage in [GitHub Discussions](https://github.com/YOUR_REPO/discussions)  
+- Engage in [GitHub Discussions](https://github.com/UNIVERSE-DAO/UNIVERSE/discussions/7)  
 - Comment on proposals, offer insight, ask questions  
 
 > _Conversation is how collective intelligence finds its rhythm._
