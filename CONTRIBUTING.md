@@ -30,7 +30,7 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 <br>
 
-## 🧭 Contribution Pathways
+## Contribution Pathways
 
 > Contribution is a journey — from discovery to responsibility, from meme to mechanism.  
 > Whether you share a symbol, write a line of code, **add poetry**, or run a node — you're helping shape the UNIVERSE.
@@ -39,7 +39,7 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 <br>
 
-### 1. 🧠 Understand the Bigger Picture
+### 1. Understand the Bigger Picture
 
 - Get a feal for motivations, ethics, and systems of alignment: [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md)  
 - Explore the [WHITEPAPER](README.md)  
@@ -50,14 +50,14 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 <br>
 
-### 2. 🌍 Find Your People
+### 2. Find Your People
  
-Observe the values, energy, and symbolic language 
+Observe the values, energy, symbolic language and interact
 
-- [🕊 X (Twitter)](https://example.com/x)  
-- [📸 Instagram](https://example.com/instagram)  
-- [📺 YouTube](https://example.com/youtube)  
-- [🎵 TikTok](https://example.com/tiktok) 
+- [X (Twitter)](https://example.com/x)  
+- [Instagram](https://example.com/instagram)  
+- [YouTube](https://example.com/youtube)  
+- [TikTok](https://example.com/tiktok) 
 
 > _Culture begins by listening._
 
@@ -65,7 +65,7 @@ Observe the values, energy, and symbolic language
 
 <br>
 
-### 3. 🎭 Bring Culture & Knowledge <a name="3-bring-culture--knowledge"></a>
+### 3. Bring Culture & Knowledge <a name="3-bring-culture--knowledge"></a>
 
 - Share memes, metaphors, and symbolic stories 
 - Propose rituals or cultural frames
@@ -89,7 +89,7 @@ it’s a **signal mirror** for aligned co-creation.
 
 <br>
 
-### 4. 🗣️ Join the Conversation
+### 4. Join the Conversation
 
 - Engage in [GitHub Discussions](https://github.com/YOUR_REPO/discussions)  
 - Comment on proposals, offer insight, ask questions  
@@ -100,7 +100,7 @@ it’s a **signal mirror** for aligned co-creation.
 
 <br>
 
-### 5. 🛠 Build or Extend the Protocol
+### 5. Build or Extend the Protocol
 
 - Contribute to modules like `INFRA`, `D-UI`, `MINDFORGER`  
 - Build symbolic branches, zk-systems, governance logic  
@@ -111,7 +111,7 @@ it’s a **signal mirror** for aligned co-creation.
 
 <br>
 
-### 6. 🌐 Facilitate the UNIVERSE <a name="6-facilitate-the-universe"></a>
+### 6. Facilitate the UNIVERSE <a name="6-facilitate-the-universe"></a>
 
 > The protocol is alive — but only if it can breathe across the network.
 
@@ -125,7 +125,7 @@ it’s a **signal mirror** for aligned co-creation.
 
 <br>
 
-### 7. 🏛 Govern the Protocol
+### 7. Govern the Protocol
 
 > Governance is not control — it is care at scale.
 
