@@ -6,7 +6,7 @@
 UNIVERSE is not a typical open source project.  
 It is a **symbolic protocol** — a living system for clarity, sovereignty, and collective alignment.
 
->You don’t need to code to contribute.  You just need to care, show up with clarity, and begin.
+> You don’t need to code to contribute. You just need to care, show up with clarity, and begin.
 
 ---
 
@@ -16,13 +16,13 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 | Action                        | Where to Go                                                                                   |
 |-------------------------------|------------------------------------------------------------------------------------------------|
-| Find Your Community           | [X](https://example.com/x) • [Insta](https://example.com/instagram) • [YouTube](https://example.com/youtube) • [TikTok](https://example.com/tiktok)                                                           |
-| Understand the Bigger Picture | [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md) |
-| Bring Culture & Knowledge     | Jump to Culture & Conversation → coming soon                               |
-| Join the Conversation         | [GitHub Welcome Discussion →](https://github.com/UNIVERSE-DAO/UNIVERSE/discussions/7)                              |
-| Become a Key Contributor      | [Propose ideas →](0%20%23DAO%20-%20Layer%20Zero/0.2%20proposals/#UIP.md)        |
-| Facilitate the UNIVERSE       | [Run #D-UI, mirror #TTE, or defend #PP            |
-| Govern the Protocol           | Help shape **UNIVERSE.DAO** through symbolic governance                                       |
+| Find Your Community           | [X](https://example.com/x) • [Insta](https://example.com/instagram) • [YouTube](https://example.com/youtube) • [TikTok](https://example.com/tiktok) |
+| Understand the Bigger Picture | [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md)     |
+| Bring Culture & Knowledge     | [Jump to Culture & Conversation →](#3-bring-culture-knowledge-and-poetry)                     |
+| Join the Conversation         | [GitHub Welcome Discussion →](https://github.com/UNIVERSE-DAO/UNIVERSE/discussions/7)         |
+| Become a Key Contributor      | [Propose ideas →](0%20%23DAO%20-%20Layer%20Zero/0.2%20proposals/#uip.md)                      |
+| Facilitate the UNIVERSE       | [Run #D-UI, mirror #TTE, or defend #PP →](#6-facilitate-the-universe)                         |
+| Govern the Protocol           | [Help shape UNIVERSE.DAO →](#7-govern-the-protocol)                                           |
 
 > UNIVERSE is a movement — not just a repo. Contribution begins with culture and deepens with clarity.
 
@@ -41,7 +41,7 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 ### 1. Understand the Bigger Picture
 
-- Get a feal for motivations, ethics, and systems of alignment: [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md)  
+- Get a feel for motivations, ethics, and systems of alignment: [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md)  
 - Explore the [WHITEPAPER](README.md)  
 
 > _Clarity is the beginning of contribution._
@@ -51,13 +51,13 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 <br>
 
 ### 2. Find Your People
- 
-Observe the values, energy, symbolic language and interact
+
+Observe the values, energy, symbolic language and interact:
 
 - [X (Twitter)](https://example.com/x)  
 - [Instagram](https://example.com/instagram)  
 - [YouTube](https://example.com/youtube)  
-- [TikTok](https://example.com/tiktok) 
+- [TikTok](https://example.com/tiktok)  
 
 > _Culture begins by listening._
 
@@ -67,18 +67,19 @@ Observe the values, energy, symbolic language and interact
 
 ### 3. Bring Culture, Knowledge and Poetry
 
->_Culture is not aesthetic decoration — it’s the scaffolding of meaning._  
->_And poetry is not style — it’s precision of soul._
+> _Culture is not aesthetic decoration — it’s the scaffolding of meaning._  
+> _And poetry is not style — it’s precision of soul._
 
 - Share memes, metaphors, and symbolic stories  
 - Propose rituals, seasonal rhythms, or cultural frames  
 - Write poetry, craft prose, or remix philosophy into expressive formats  
 - Host alignment jams, salons, or immersive gatherings  
-- Translate ideas into your own language, mythos, or medium
+- Translate ideas into your own language, mythos, or medium  
 
->_Culture is a protocol layer — and you are a message._
+> _Culture is a protocol layer — and you are a message._
 
-<br>
+---
+
 
 ### [The Multiplayer Engine](#the-multiplayer-engine--coming-soon) — coming soon
 
@@ -87,10 +88,9 @@ A coordination system that listens to your intent — and amplifies it across th
 
 - Mirrors your energy  
 - Signals your symbolic layer  
-- Aligns your contribution with the protocol’s pulse
+- Aligns your contribution with the protocol’s pulse  
 
->_A compass. A catalyst. A coordination amplifier._
-
+> _A compass. A catalyst. A coordination amplifier._
 
 ---
 
@@ -118,7 +118,7 @@ A coordination system that listens to your intent — and amplifies it across th
 
 <br>
 
-### 6. Facilitate the UNIVERSE <a name="6-facilitate-the-universe"></a>
+### 6. Facilitate the UNIVERSE
 
 > The protocol is alive — but only if it can breathe across the network.
 
