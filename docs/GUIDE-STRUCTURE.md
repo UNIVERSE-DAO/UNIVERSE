@@ -102,8 +102,8 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | ├── `GLOSSARY.md`          | Key terminology and symbolic vocabulary                              |
 | ├── `CONNECT.md`           | Contributor & ecosystem onboarding                                   |
 |                            |                                                                      |
-| `CONTRIBUTING.md`      | How to contribute — roles, flow, values                              |
-| `README.md`            | Optional GitHub Pages doc index                                      |
+| [`CONTRIBUTING.md`](../CONTRIBUTING.md) | How to contribute — roles, flow, values                    |
+| [`README.md`](../README.md)           | Entry point and portal index (root-level) 
 
 
 ---
