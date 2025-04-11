@@ -1,13 +1,12 @@
 # 🤝 CONTRIBUTING to UNIVERSE  
 <sub><sup>(This section is evolving — like the protocol itself)</sup></sub>
 
-> **Join the Infinite Game — not just to build code, but to co-create a paradigm shift.**
+### **Join the Infinite Game — not just to build code, but to co-create a paradigm shift.**
 
 UNIVERSE is not a typical open source project.  
 It is a **symbolic protocol** — a living system for clarity, sovereignty, and collective alignment.
 
-You don’t need to code to contribute.  
-You just need to care, show up with clarity, and begin.
+>You don’t need to code to contribute.  You just need to care, show up with clarity, and begin.
 
 ---
 
