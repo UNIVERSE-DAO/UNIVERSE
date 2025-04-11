@@ -23,7 +23,7 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 
 | Layer | Folder         | Phase         | Meaning / Activation Layer                                               |
 |-------|----------------|---------------|---------------------------------------------------------------------------|
-| 0     | `#DAO – Layer Zero`         | 🌒 Basic Social Consensus Layer — Root Governance                       |
+| 0     | `#DAO – Layer Zero`         | 🌒 Phase 0    |Basic Social Consensus Layer — Root Governance                       |
 | 1     | `#MOMENTUM`    | 🌒 Phase 0    | Virality ignition, community rituals, memetic onboarding                 |
 | 2     | `MINDFORGER`   | 🌒 Phase 0    | Ideological refinement, PMF insight, narrative architecture              |
 | 3     | `#INFRA`       | 🌓 → 🌕        | Infra1 (hosted bootstrapping), Infra2 (decentralized infra modules)      |
