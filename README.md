@@ -125,8 +125,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
  
 
 #### Governance & Protocol Commitments
-- [DAO-MANIFESTO – What We Defend](docs/DAO-MANIFESTO.md)  
-- [WHITEPAPER – A Beacon in the Void](docs/WHITEPAPER.md)  
+- [DAO-MANIFESTO – What We Defend](docs/DAO-MANIFESTO.md)   
 - [UIP-GOVERNANCE – Proposal System & Evolution](0%20%23DAO%20-%20The%20Layer%20Zero/0.2%20proposals/#UIP-GOVERNANCE.md)  
 
 
