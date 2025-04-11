@@ -16,7 +16,7 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 | Action                        | Where to Go                                                                                   |
 |-------------------------------|------------------------------------------------------------------------------------------------|
-| Find Your Community           | Social media channels — coming soon                                                           |
+| Find Your Community           | [🕊 X](https://example.com/x) • [📸 Insta](https://example.com/instagram) • [📺 YouTube](https://example.com/youtube) • [🎵 TikTok](https://example.com/tiktok)                                                           |
 | Understand the Bigger Picture | [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md) |
 | Bring Culture & Knowledge     | Jump to Culture & Conversation → coming soon                               |
 | Join the Conversation         | GitHub Discussions coming soon                                 |
@@ -51,9 +51,13 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 <br>
 
 ### 2. 🌍 Find Your People
+ 
+Observe the values, energy, and symbolic language 
 
-- Follow signals on social media (coming soon)  
-- Observe the values, energy, and symbolic language  
+- [🕊 X (Twitter)](https://example.com/x)  
+- [📸 Instagram](https://example.com/instagram)  
+- [📺 YouTube](https://example.com/youtube)  
+- [🎵 TikTok](https://example.com/tiktok) 
 
 > _Culture begins by listening._
 
