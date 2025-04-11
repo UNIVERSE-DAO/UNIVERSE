@@ -85,7 +85,7 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | └── `- README.md`          | -                                                                    |
 |                            |                                                                      |
 | `backend/`                 | Backend service runner and API logic                                 |
-| ``               |                                |
+|               |                                |
 | `docs/`                    | Living system documentation and governance structure                 |
 | ├── `ARCHITECTURE.md`      | System layers and symbolic module overview                           |
 | ├── `ARCHIVE.md`           | Backup log and snapshot registry                                     |
