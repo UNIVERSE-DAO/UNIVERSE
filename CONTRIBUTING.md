@@ -67,12 +67,23 @@ Observe the values, energy, and symbolic language
 
 ### 3. 🎭 Bring Culture & Knowledge <a name="3-bring-culture--knowledge"></a>
 
-- Share memes, metaphors, and symbolic stories in `1 #MOMENTUM/`  
-- Propose rituals or cultural frames in `MEMES.md`  
+- Share memes, metaphors, and symbolic stories 
+- Propose rituals or cultural frames
 - Host alignment jams, salons, or create expressive art  
-- Translate documents or ideas into other languages or mediums  
+- Translate documents or ideas into other languages or mediums
 
 > _Culture is a protocol layer — and you are a message._
+
+** The Multiplayer Engine**  coming soon
+
+A coordination interface that mirrors your intent  
+and amplifies your contribution across the protocol.
+
+The **Multiplayer Engine** isn’t a task board —  
+it’s a **signal mirror** for aligned co-creation.
+
+> _A compass. A catalyst. A coordination amplifier._ 
+
 
 ---
 
@@ -123,20 +134,6 @@ Observe the values, energy, and symbolic language
 - Protect alignment across phases  
 
 > _Sovereignty is expressed through aligned action._
-
----
-
-<br>
-
-## 🚀 Multiplayer Engine — Coming Soon
-
-A coordination interface that mirrors your intent  
-and amplifies your contribution across the protocol.
-
-The **Multiplayer Engine** isn’t a task board —  
-it’s a **signal mirror** for aligned co-creation.
-
-> _A compass. A catalyst. A coordination amplifier._
 
 ---
 
