@@ -17,11 +17,11 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 | Action                        | Where to Go                                                                                   |
 |-------------------------------|------------------------------------------------------------------------------------------------|
 | Find Your Community           | Social media channels — coming soon                                                           |
-| Understand the Bigger Picture | [PHILOSOPHY](docs/PHILOSOPHY.md), [VISION](docs/VISION.md), [MISSION](docs/MISSION.md) |
-| Bring Culture & Knowledge     | [Jump to Culture & Conversation →](#3-bring-culture--knowledge)                               |
-| Join the Conversation         | [GitHub Discussions](https://github.com/YOUR_REPO/discussions)                                |
+| Understand the Bigger Picture | [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md) |
+| Bring Culture & Knowledge     | Jump to Culture & Conversation → coming soon                               |
+| Join the Conversation         | GitHub Discussions coming soon                                 |
 | Become a Key Contributor      | [Propose ideas →](0%20%23DAO%20-%20Layer%20Zero/0.2%20proposals/#UIP.md)        |
-| Facilitate the UNIVERSE       | [Run D-UI, mirror TTE, or scale cultural ops →](#6-facilitate-the-universe)                   |
+| Facilitate the UNIVERSE       | [Run #D-UI, mirror #TTE, or defend #PP            |
 | Govern the Protocol           | Help shape **UNIVERSE.DAO** through symbolic governance                                       |
 
 > UNIVERSE is a movement — not just a repo. Contribution begins with culture and deepens with clarity.
