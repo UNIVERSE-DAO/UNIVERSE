@@ -41,13 +41,16 @@ This mission is not theoretical — it’s being encoded into protocol.
 
 Each system maps to a symbolic layer:
 
-- `#INFRA` → Privacy-Preserving Foundations  
-- `#SignUp` → Sovereign Identity  
-- `#D-UI` → Visualized Truth  
 - `#DAO` → Collective Intelligence & Aligned Governance  
-- `#SCRS` → Accountability Infrastructure  
-- `#KPI` → Evolutionary Signal & Alignment Metrics  
 - `#MEMES` → Meaning Transmission  
+- `#INFRA` → Privacy-Preserving Foundations  
+- `#S-ID` → Sovereign Identity  
+- `#KPI` → Evolutionary Signal & Alignment Metrics  
+- `#D-UI` → Decentralized User Interface  
+- `#TTE` → The Truth Engine – The Rational Choice Maker  
+- `#THG` → The Holy Grail – The Crucial Problem Solver  
+- `#SCRS` → Smart Accountability Infrastructure  
+- `#PP` → Protection Protocol – The Human Guarantor  
 
 > These aren’t just tools — they’re expressions of alignment.
 
