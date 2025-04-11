@@ -5,6 +5,46 @@ All notable changes to this project will be documented here.
 
 Absolutely — here's the latest log entry formatted to match your existing `CHANGELOG.md`:
 
+---
+
+[0.1.8] – 2025-04-11
+
+🧱 Project Structure Fully Formalized
+Finalized and cleaned PROJECT-STRUCTURE.md with layered table format
+Alphabetized internal docs/ files to match actual repo state
+Consolidated protected modules under numbered layers (#DAO, #INFRA, #S-ID, etc.)
+Flattened symbolic names and phased activations into clear, modular overview
+🌀 CONTRIBUTING.md Rewritten & Symbolically Aligned
+Refactored into progressive contribution pathway:
+From listening → poetry → proposals → governance
+Linked all major flows:
+Discussions, GitHub, proposals, phase navigation
+Created anchorable internal links for sections (#6-facilitate-the-universe, etc.)
+Hinted inactive links as “coming soon” (e.g. social media, Multiplayer Engine)
+🧭 GitHub Discussions Bootstrapped
+Enabled Discussions in private repo (to prep for public launch)
+Opened Welcome Thread:
+Title: UNIte to find consensus through the MetaVERSE
+Includes image, symbolic language, and contribution prompts
+Tested anchor link jump behavior and direct Discussion linking
+🖼️ Media Integration + Symbolic Imagery
+Added /media/INTRO.png for welcome visual (to be compressed if needed)
+Linked properly via: ![Welcome to UNIVERSE](/media/INTRO.png)
+Confirmed best practice: keep media out of .github/ for public visibility
+📘 Copy & Narrative Refinement Across Docs
+Unified footer message across key docs:
+"We use the protocol to amplify the protocol..."
+Rewrote poetry, prompts, and intro to CONTRIBUTING for greater emotional clarity
+Added external ↗ markers to off-platform resources (X, YouTube, etc.)
+🧾 Glossary Expanded
+New entries:
+Collective Integrity, Responsibility, Signal Mirror, Multiplayer Engine
+Clarified the role of poetry, memes, and philosophical scaffolding in protocol design
+🔄 Next Steps:
+Compress INTRO.png and other visuals for web perf
+Fill out initial MEMES.md and #MOMENTUM/ rituals
+Continue early contributor onboarding (for first wave testing)
+Define symbolic unlock logic for Multiplayer Engine → v0.2
 
 
 ---
