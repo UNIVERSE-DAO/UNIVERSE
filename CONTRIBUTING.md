@@ -17,7 +17,7 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 | Action                        | Where to Go                                                                                   |
 |-------------------------------|------------------------------------------------------------------------------------------------|
 | Find Your Community           | Social media channels — coming soon                                                           |
-| Understand the Bigger Picture | [PHILOSOPHY.md](docs/PHILOSOPHY.md), [VISION.md](docs/VISION.md), [MISSION.md](docs/MISSION.md) |
+| Understand the Bigger Picture | [PHILOSOPHY](docs/PHILOSOPHY.md), [VISION](docs/VISION.md), [MISSION](docs/MISSION.md) |
 | Bring Culture & Knowledge     | [Jump to Culture & Conversation →](#3-bring-culture--knowledge)                               |
 | Join the Conversation         | [GitHub Discussions](https://github.com/YOUR_REPO/discussions)                                |
 | Become a Key Contributor      | [Propose ideas →](0%20%23DAO%20-%20The%20Layer%20Zero/0.2%20proposals/#uip-governance)        |
