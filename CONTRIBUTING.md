@@ -43,10 +43,10 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 Observe the values, energy, symbolic language and interact:
 
-- [X(Twitter)](https://example.com/x) ↗  
-- [Instagram](https://example.com/instagram) ↗  
+- [X(Twitter)]([https://x.com/uni_meme_verse?s=21) ↗  
+- [Instagram](https://www.instagram.com/uni_meme_verse?igsh=M2MxMzI4OWNncnhz&utm_source=qr) ↗  
 - [YouTube](https://example.com/youtube) ↗  
-- [TikTok](https://example.com/tiktok) ↗  
+- [TikTok](https://www.tiktok.com/@universe.dao?_t=ZN-8vS6Y7oA1NG&_r=1) ↗  
 
 > _Culture begins by listening._
 ---
