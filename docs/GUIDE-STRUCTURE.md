@@ -46,6 +46,7 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 |--------------------------------|-------------------------------------------------------------------------|
 | `.github/`                     | GitHub configuration and automation                                     |
 | └── `workflows/`              | CI/CD workflows                                                         |
+|                            |                                                                      |
 | `0 #DAO – The Layer Zero/`     | Governance layer — contracts, proposals, voting logic                |
 | ├── `0.1 contracts/`           | Smart contracts (protected or external)                                 |
 | ├── `0.2 proposals/`           | DAO proposals, symbolic governance flows                                |
