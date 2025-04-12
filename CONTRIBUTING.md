@@ -1,5 +1,4 @@
-# 🤝 CONTRIBUTING to UNIVERSE  
-<sub><sup>(This section is evolving — like the protocol itself)</sup></sub>
+# 🤝 CONTRIBUTING to UNIVERSE
 
 ### **Join the Infinite Game — not just to build code, but to co-create a paradigm shift.**
 
