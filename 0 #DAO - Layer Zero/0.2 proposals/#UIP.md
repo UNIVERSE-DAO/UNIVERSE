@@ -1,4 +1,4 @@
-# 🏛️ #UIP-GOVERNANCE
+# #UIP - UNNIVERSE IMPROVEMENT PROPOSAL
 
 This document is developed under protection  
 and will be published after **Phase 1: Pre Big-Bang**.
