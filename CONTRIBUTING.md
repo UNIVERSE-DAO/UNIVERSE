@@ -21,8 +21,8 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 | 3. Bring Culture & Knowledge     | [Jump to Culture & Conversation section below ⬇](#3-bring-culture-knowledge-and-poetry)                     |
 | 4. Join the Conversation         | [GitHub Welcome Discussion →](https://github.com/UNIVERSE-DAO/UNIVERSE/discussions/7)         |
 | 5. Become a Key Contributor      | [Propose #UIP " UNIVERSE IMPROVEMENT PROPOSAL" →](0%20%23DAO%20-%20Layer%20Zero/0.2%20proposals/#uip.md)                      |
-| 6. Facilitate the UNIVERSE       | [Run #D-UI, mirror #TTE, or defend #PP ⬇](#6-facilitate-the-universe)                         |
-| 7. Govern the Protocol           | [Help shape UNIVERSE.DAO ⬇](#7-govern-the-protocol)                                           |
+| 6. Facilitate the UNIVERSE       | [Run #D-UI, mirror #TTE, or defend #PP ⬇](#6-facilitate-the-universe-coming-soon)                         |
+| 7. Govern the Protocol           | [Help shape UNIVERSE.DAO ⬇](#7-govern-the-protocol-coming-soon)                                           |
 
 > UNIVERSE is a movement — not just a repo. Contribution begins with culture and deepens with clarity.
 
