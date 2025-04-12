@@ -16,7 +16,7 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 | Action                        | Where to Go                                                                                   |
 |-------------------------------|------------------------------------------------------------------------------------------------|
 | 1. Find Your Community           | [X](https://x.com/uni_meme_verse?s=21) • [Insta](https://www.instagram.com/uni_meme_verse?igsh=M2MxMzI4OWNncnhz&utm_source=qr) • [YouTube](https://www.youtube.com/channel/UCNa5noUULGbxP4YnpoOYoDA) • [TikTok](https://www.tiktok.com/@universe.dao?_t=ZN-8vS6Y7oA1NG&_r=1) • (external ↗)|
-| 2. Understand the Bigger Picture | [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md)     |
+| 2. Understand the Bigger Picture | [WHITEPAPER](README.md) - [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION  →](docs/MISSION.md)     |
 | 3. Bring Culture & Knowledge     | [Jump to Culture & Conversation section below ⬇](#3-bring-culture-knowledge-and-poetry)                     |
 | 4. Join the Conversation         | [GitHub Welcome Discussion →](https://github.com/UNIVERSE-DAO/UNIVERSE/discussions/7)         |
 | 5. Become a Key Contributor      | [Propose #UIP " UNIVERSE IMPROVEMENT PROPOSAL" →](0%20%23DAO%20-%20Layer%20Zero/0.2%20proposals/%23UIP.md)                      |
