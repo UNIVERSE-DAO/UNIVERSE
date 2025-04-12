@@ -21,8 +21,8 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 | 3. Bring Culture & Knowledge     | [Jump to Culture & Conversation section below ⬇](#3-bring-culture-knowledge-and-poetry)                     |
 | 4. Join the Conversation         | [GitHub Welcome Discussion →](https://github.com/UNIVERSE-DAO/UNIVERSE/discussions/7)         |
 | 5. Become a Key Contributor      | [Propose #UIP " UNIVERSE IMPROVEMENT PROPOSAL" →](0%20%23DAO%20-%20Layer%20Zero/0.2%20proposals/#uip.md)                      |
-| 6. Facilitate the UNIVERSE       | [Run #D-UI, mirror #TTE, or defend #PP ⬇](#6-facilitate-the-universe-coming-soon)                         |
-| 7. Govern the Protocol           | [Help shape UNIVERSE.DAO ⬇](#7-govern-the-protocol-coming-soon)                                           |
+| 6. Facilitate the UNIVERSE       | [Run #D-UI, mirror #TTE, or defend #PP ⬇](#6-facilitate-the-universe)                         |
+| 7. Govern the Protocol           | [Help shape UNIVERSE.DAO ⬇](#7-govern-the-protocol)                                           |
 
 > UNIVERSE is a movement — not just a repo. Contribution begins with culture and deepens with clarity.
 
@@ -66,7 +66,7 @@ Observe the values, energy, symbolic language and interact:
 
 <br>
 
-### 3. Bring Culture, Knowledge and Poetry
+### 3. Bring Culture, Knowledge and Poetry <a name="3-bring-culture-knowledge-and-poetry"></a>
 
 > _Culture is not aesthetic decoration — it’s the scaffolding of meaning._  
 > _And poetry is not style — it’s precision of soul._
@@ -108,7 +108,7 @@ A coordination system that listens to your intent — and amplifies it across th
 
 <br>
 
-### 5. Build or Extend the Protocol - coming soon
+### 5. Build or Extend the Protocol - coming soon <a name="6-facilitate-the-universe"></a>
 
 - Contribute to modules like `INFRA`, `D-UI`, `MINDFORGER`  
 - Build symbolic branches, zk-systems, governance logic  
@@ -133,7 +133,7 @@ A coordination system that listens to your intent — and amplifies it across th
 
 <br>
 
-### 7. Govern the Protocol - coming soon
+### 7. Govern the Protocol - coming soon <a name="7-govern-the-protocol"></a>
 
 > Governance is not control — it is care at scale.
 
