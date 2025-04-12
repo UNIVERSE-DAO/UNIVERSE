@@ -143,7 +143,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 
 #### Contribution Pathways
-- 🤝 [CONTRIBUTING – How to Join & Participate](CONTRIBUTING.md)  
+- [CONTRIBUTING – How to Join & Participate](CONTRIBUTING.md)  
  
 
 ---
