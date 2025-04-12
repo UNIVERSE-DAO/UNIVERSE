@@ -1,5 +1,4 @@
-# CONTRIBUTING to UNIVERSE
-<sub>→ Return to the [README – Portal to the Possible](README.md)</sub>
+# CONTRIBUTING to UNIVERSE <sub><sub>→ Return to the [README – Portal to the Possible](README.md)</sub></sub>
 
 ### **Join the Infinite Game — not just to build code, but to co-create a paradigm shift.**
 
