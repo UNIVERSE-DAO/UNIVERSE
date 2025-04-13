@@ -12,5 +12,3 @@ UNIVERSE is free — but it is not directionless.
 Use it with responsibility.  
 Act with clarity.  
 Build for eternity.
-
-— UNIVERSE.DAO
