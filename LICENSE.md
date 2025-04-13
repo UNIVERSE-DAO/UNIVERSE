@@ -44,10 +44,23 @@ Will find the mirror does not remain.
 - Act with clarity.  
 - Build for eternity.
 
+<br>
+
+<sub><sup>
+This license is not a standard legal instrument.  
+It is a **symbolic declaration** of open intent and protected authorship.  
+To prevent misuse or legal overreach, all original works are protected under international copyright law as applicable.  
+All moral rights are retained. All aligned use is welcomed.
+
+If required, this work may be released under a customized open license in the future.  
+Until then — this verse is the license.
+</sup></sub>
+
 ---
+
 
 <br>
 
 >_**Understand the Vision**: [README.md](./README.md)_ <br>
-> _**Verification-SIGNATURE coming soon**: [`#SIGNATURE.md`](./0%20%23DAO%20-%20Layer%20Zero/0.5%20signature/%23SIGNATURE.md)_
+>_**Verification-SIGNATURE coming soon**: [`#SIGNATURE.md`](./0%20%23DAO%20-%20Layer%20Zero/0.5%20signature/%23SIGNATURE.md)_
 
