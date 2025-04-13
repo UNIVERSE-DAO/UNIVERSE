@@ -138,7 +138,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 - [BRANCHING – Git Flow Strategy](docs/GUIDE-BRANCHING.md)  
 - [COMMITS – Symbolic Commit Guide](docs/GUIDE-COMMIT.md)  
 - [CHANGELOG – Protocol Evolution Log](docs/CHANGELOG.md)  
-- [LICENSE – Freedom Preserved](docs/LICENSE.md)  
+- [LICENSE – UNIVERSE.4ALL](LICENSE.md)  
 - [GLOSSARY – Core Terminology](docs/GLOSSARY.md)  
 
 
@@ -151,3 +151,6 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 **UNIVERSE**  
 More than just a MEME. It’s a revolutionary paradigm shift.
+
+>_🔓 Licensed under UNIVERSE.4ALL — use with responsibility, act with clarity, build for eternity._
+
