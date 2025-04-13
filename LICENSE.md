@@ -16,7 +16,5 @@ Build for eternity.
 
 ---
 
-### 🧭 Links
-
-🔮 **Understand the Vision**: [README.md](./README.md)  
-🔐 **Verify the Authenticity**: [`#SIGNATURE.md`](./0%20%23DAO%20-%20Layer%20Zero/0.5%20signature/%23SIGNATURE.md)
+>_**Understand the Vision**: [README.md](./README.md)_ 
+>_**Verify the Authenticity**: [`#SIGNATURE.md`](./0%20%23DAO%20-%20Layer%20Zero/0.5%20signature/%23SIGNATURE.md)_
