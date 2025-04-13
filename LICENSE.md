@@ -23,4 +23,5 @@ Those who seek to control it are not in resonance.
 <br>
 
 >_**Understand the Vision**: [README.md](./README.md)_ <br>
->_**Verify the Authenticity**: [`#DOC-HASH.md`](./0%20%23DAO%20-%20Layer%20Zero/0.5%20signature/%23SIGNATURE.md) - coming soon_
+> _**Verification-SIGNATURE coming soon**: [`#SIGNATURE.md`](./0%20%23DAO%20-%20Layer%20Zero/0.5%20signature/%23SIGNATURE.md)_
+
