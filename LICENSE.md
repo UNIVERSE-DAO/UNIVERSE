@@ -1,5 +1,10 @@
- # UNIVERSE.4ALL – LICENSE  
+<div align="center">
+
+# UNIVERSE.4ALL – LICENSE  
+
 _A Ritual License for Symbolic Protocols_
+
+<br><br>
 
 This Gift is offered, soul-aligned,  
 To serve all beings — free in mind.  
@@ -26,7 +31,10 @@ Are welcome here to tend the flame.
 But those who seek control or gain  
 Will find the mirror does not remain.
 
+</div>
+
 <br>
+
 
 ## UNIVERSE is free — but it is not directionless.  
 - Use it with responsibility.  
