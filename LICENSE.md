@@ -1,15 +1,30 @@
-# #UNIVERSE.4ALL – LICENSE
+ # UNIVERSE.4ALL – LICENSE  
+_A Ritual License for Symbolic Protocols_
 
-<sub>_A Ritual License for Symbolic Protocols_</sub>
+This Gift is offered, soul-aligned,  
+To serve all beings — free in mind.  
+
+Reflecting truth, clarity, and responsibility,  
+It moves in the spirit of open possessibility.  
 
 <br>
 
-This protocol is a gift to all beings, in service of truth and alignment.
+You may remix, expand, and share,  
+But origin echoes beyond all snare.  
 
-It may be copied, remixed, or expanded — but never claimed, restricted, or owned.
+No fork or clone, no masked design,  
+Can bend the truth or break the line.  
 
-Those who align with its mission are invited to build with it.  
-Those who seek to control it are not in resonance.
+> Should others try to steal or spin,  
+> This is — and will remain — the origin.  
+
+<br>
+
+Those who build with heart and aim  
+Are welcome here to tend the flame.  
+
+But those who seek control or gain  
+Will find the mirror does not remain.
 
 <br>
 
