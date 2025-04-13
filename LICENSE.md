@@ -1,14 +1,14 @@
 <div align="center">
 
-# UNIVERSE.4ALL – LICENSE  
+# UNIVERSE.4ALL
 
-_A Ritual License for Symbolic Protocols_
+<sub>_A Ritual LICENSE for Symbolic Protocols_</sub>
 
 <br><br>
 
 This Gift is offered, soul-aligned,  
 To serve all beings — free in mind.  
-
+<sub></sub>
 Reflecting truth, clarity, and responsibility,  
 It moves in the spirit of open possessibility.  
 
