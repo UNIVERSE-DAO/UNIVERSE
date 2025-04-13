@@ -2,8 +2,6 @@
 
 # UNIVERSE.4ALL
 
-<sub>_A Ritual LICENSE for Symbolic Protocols_</sub>
-
 <br>
 
 This Gift is offered, soul-aligned,  
@@ -25,11 +23,16 @@ This is — and will remain — the origin.
 
 <br>
 
-Those who build with heart and aim  
+Those who build with heart and aim,  
 Are welcome here to tend the flame.  
 
-But those who seek control or gain  
+But those who seek control or gain,  
 Will find the mirror does not remain.
+
+<br>
+
+<sub>_A Ritual LICENSE for Symbolic Protocols_</sub>
+
 
 </div>
 
