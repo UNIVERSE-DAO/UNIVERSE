@@ -21,7 +21,7 @@ Can bend the truth or break the line.
 Should others try to steal or spin,  
 This is — and will remain — the origin.  
 
-♾️
+<sub>♾️</sub>
 
 Those who build with heart and aim,  
 Are welcome here to tend the flame.  
@@ -29,9 +29,9 @@ Are welcome here to tend the flame.
 But those who seek control or gain,  
 Will find the mirror does not remain.
 
-<br>
+<sub>♾️</sub>
 
-<sub>_A Ritual LICENSE for Symbolic Protocols_</sub>
+><sub>_A Ritual LICENSE for Symbolic Protocols_</sub>
 
 
 </div>
