@@ -1,6 +1,6 @@
 <div align="center">
 
-# UNIVERSE.4ALL
+# UNIVERSE - 4ALL
 
 <br>
 
