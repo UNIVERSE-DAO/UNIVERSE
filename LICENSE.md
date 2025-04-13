@@ -4,11 +4,11 @@
 
 <sub>_A Ritual LICENSE for Symbolic Protocols_</sub>
 
-<br><br>
+<br>
 
 This Gift is offered, soul-aligned,  
 To serve all beings — free in mind.  
-<sub></sub>
+
 Reflecting truth, clarity, and responsibility,  
 It moves in the spirit of open possessibility.  
 
@@ -20,8 +20,8 @@ But origin echoes beyond all snare.
 No fork or clone, no masked design,  
 Can bend the truth or break the line.  
 
-> Should others try to steal or spin,  
-> This is — and will remain — the origin.  
+Should others try to steal or spin,  
+This is — and will remain — the origin.  
 
 <br>
 
