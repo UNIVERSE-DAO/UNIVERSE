@@ -1,4 +1,4 @@
-# UNIVERSE.4ALL – LICENSE
+# #UNIVERSE.4ALL – LICENSE
 
 _A Ritual License for Symbolic Protocols_
 
@@ -16,5 +16,5 @@ Build for eternity.
 
 ---
 
->_**Understand the Vision**: [README.md](./README.md)_ 
+>_**Understand the Vision**: [README.md](./README.md)_ <br>
 >_**Verify the Authenticity**: [`#SIGNATURE.md`](./0%20%23DAO%20-%20Layer%20Zero/0.5%20signature/%23SIGNATURE.md)_
