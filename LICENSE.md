@@ -10,7 +10,7 @@ To serve all beings — free in mind.
 Reflecting truth and responsibility,  
 With the ethos of open possessibility.  
 
-<br>
+<sub>♾️</sub>
 
 You may remix, expand, and share,  
 But origin echoes beyond all snare.  
@@ -21,7 +21,7 @@ Can bend the truth or break the line.
 Should others try to steal or spin,  
 This is — and will remain — the origin.  
 
-<br>
+♾️
 
 Those who build with heart and aim,  
 Are welcome here to tend the flame.  
