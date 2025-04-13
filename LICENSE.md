@@ -7,8 +7,8 @@
 This Gift is offered, soul-aligned,  
 To serve all beings — free in mind.  
 
-Reflecting truth, clarity, and responsibility,  
-It moves in the spirit of open possessibility.  
+Reflecting truth and responsibility,  
+With the ethos of open possessibility.  
 
 <br>
 
