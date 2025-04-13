@@ -44,6 +44,11 @@ Will find the mirror does not remain.
 - Act with clarity.  
 - Build for eternity.
 
+>_**Understand the Vision**: [README.md](./README.md)_ <br>
+>_**Verification-SIGNATURE coming soon**: [`#SIGNATURE.md`](./0%20%23DAO%20-%20Layer%20Zero/0.5%20signature/%23SIGNATURE.md)_
+
+---
+
 <br>
 
 <sub><sup>
@@ -56,11 +61,4 @@ If required, this work may be released under a customized open license in the fu
 Until then — this verse is the license.
 </sup></sub>
 
----
-
-
-<br>
-
->_**Understand the Vision**: [README.md](./README.md)_ <br>
->_**Verification-SIGNATURE coming soon**: [`#SIGNATURE.md`](./0%20%23DAO%20-%20Layer%20Zero/0.5%20signature/%23SIGNATURE.md)_
 
