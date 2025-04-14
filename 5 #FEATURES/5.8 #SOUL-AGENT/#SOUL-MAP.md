@@ -49,6 +49,8 @@ Every line reflects a vow to clarity, a pattern of truth, and a living record of
 
 ---
 
+<br>
+
 ### Status
 
 | Symbol         | Meaning |
