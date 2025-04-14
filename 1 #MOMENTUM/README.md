@@ -1,4 +1,4 @@
-# #MOMENTUM
+# MOMENTUM
 
 _Where Culture Meets Protocol_  
 _Where Memes Become Movement_
@@ -11,6 +11,8 @@ It is not a campaign — it’s a **memetic field of alignment**.
 
 ---
 
+<br>
+
 ## Purpose
 
 To transmit clarity through symbols.  
@@ -21,6 +23,8 @@ MOMENTUM makes philosophy viral —
 And makes contribution a cultural instinct.
 
 ---
+
+<br>
 
 ## Meme as OS
 
@@ -35,6 +39,8 @@ They are **semiotic carriers of alignment**.
 
 ---
 
+<br>
+
 ## UNIVERSE.MEME
 
 The portal to the protocol's soul.  
@@ -46,6 +52,8 @@ through story, humor, clarity, and care.
 
 ---
 
+<br>
+
 ## The Multiplayer Engine (coming soon)
 
 A resonance interface for symbolic coordination.  
@@ -56,6 +64,7 @@ and ripples it toward where it matters most.
 
 ---
 
+<br>
+
 **Make memes like they matter.**  
 Because in UNIVERSE — they do.
-
