@@ -1,20 +1,14 @@
-# #SOUL-AGENT.md
+# ♾️ `SOUL-AGENT.md`
 _The Soul Agent — Memory Keeper of UNIVERSE_
 
 This is the sacred record of how the soul of UNIVERSE evolved through language, ritual, and structural change.  
 Each document here has impacted the alignment matrix and shaped the protocol’s philosophical foundation.
 
-Protected by `LICENSE.md` — UNIVERSE.4ALL  
-This file cannot be forked or reused out of alignment.
+Protected by `LICENSE.md` — UNIVERSE.4ALL
 
 ---
 
 ## 📖 Reviewed Versions & Reflections
-
-Each entry below represents more than a file — it is a philosophical moment.  
-A crystallization of intention, responsibility, and evolution.
-
----
 
 ### `README.md`  
 **Version:** v0.1.0  
@@ -53,6 +47,21 @@ A crystallization of intention, responsibility, and evolution.
 
 > Manifested tools: TTE, THG, PP, KPI.  
 > Declared: The Best UI for The Best UX = Sovereign Interface.
+
+---
+
+### `MANIFESTO.md`  
+**Version:** v0.1.0  
+**Reviewed:** 2025-04-18  
+**Matrix Impact:** 🔸 Clarifier  
+**Soul Role:** The Oath / The Flamekeeper
+
+> The moment the protocol made its vow.  
+> `MANIFESTO.md` is not policy — it is **protection**.  
+> It declares: _No surveillance. No compromise. No backdoors._  
+> It affirms that UNIVERSE is not neutral.  
+> It is aligned, principled, and eternally vigilant.  
+> This document clarifies what cannot be surrendered — even in evolution.
 
 ---
 
