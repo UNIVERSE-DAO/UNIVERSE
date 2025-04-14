@@ -51,7 +51,8 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | ├── `0.1 contracts/`       | Smart contracts (protected or external)                              |
 | ├── `0.2 proposals/`       | DAO proposals, symbolic governance flows                             |
 | ├── `0.3 voting/`          | Voting integration and mechanism design                              |
-| └── `0.4 treasury/`        | Funding flows and treasury logic                                     |
+| ├── `0.4 treasury/`        | Funding flows and treasury logic                                     |
+| └── `0.5 signature/`       |                                      |
 |                            |                                                                      |
 | `1 #MOMENTUM/`             | Cultural ignition — virality, onboarding emotion                     |
 | └── `- README.md`          | -                                                                    |
@@ -104,7 +105,8 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | └── `VISION.md`            | The “How” — clarity, systems, and infinite game mindset              |
 |                            |                                                                      |
 | `CONTRIBUTING.md`          | How to contribute — roles, flow, values                              |
-| [`README.md`](../README.md)           | Entry point and ***Portal to the Possible*** (root-level)  |
+| `LICENSE.md`               | UNIVERSE.4ALL - A Ritual LICENSE for Symbolic Protocols              |
+| [`README.md`](../README.md)           | Entry point and ***Portal to the Possible*** (root-level) |
 
 
 ---
