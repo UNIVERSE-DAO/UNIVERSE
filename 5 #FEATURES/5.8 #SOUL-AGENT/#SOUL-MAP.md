@@ -1,36 +1,37 @@
 # SOUL-MAP
 
-_This is a living audit of the symbolic structure of UNIVERSE — tracking the state, phase, and philosophical alignment of each module._
+_A living audit of the symbolic structure of UNIVERSE — tracking the state, phase, and alignment of each document._
 
-Every line reflects a vow to clarity, a pattern of truth, and a living record of shared responsibility.
+Every line reflects a vow to clarity.  
+A ritual of maintenance.  
+A pattern of philosophical responsibility.
 
 ---
 
 <br>
 
-
 | Area                  | Status          | Alignment | Matrix Impact | Notes |
 |-----------------------|-----------------|-----------|----------------|-------|
-| `README.md`           | 📘 Live         | ✅✅       | 🔸 Clarifier   | v0.1.0 – Symbolic grammar, whitepaper, phase & path logic |
-| `PHILOSOPHY.md`       | 📘 Live         | ✅✅       | 🔺 Shifter     | v0.1.2 – Introduced “Well-being Matrix”, “Truth That Matters” |
-| `VISION.md`           | 📘 Live         | ✅✅       | 🔹 Supplement  | v0.1.0 – Memes-as-Protocol, Tool-as-Teacher, civic values |
-| `MISSION.md`          | 📘 Live         | ✅✅       | 🔹 Supplement  | v0.1.1 – Maps folders to symbolic roles (TTE, THG, PP, KPI) |
-| `MANIFESTO.md`        | 📘 Live         | ✅✅       | 🔸 Clarifier   | v0.1.0 – Declares ethos of UNIVERSE.DAO, Cipherpunk alignment, zero-compromise stance |
-| `CONTRIBUTING.md`     | 📘 Live         | ✅✅       | 🔸 Clarifier   | v0.2.0 – 7-role path, non-code ritual, layered contribution |
-| `LICENSE.md`          | ♾️ Eternal      | ✅✅       | 🔹 Supplement  | v1.0.0 – UNIVERSE.4ALL — use with responsibility and clarity |
-| `#DAO - Layer Zero/`  | 🔐 Protected    | 🔗✅       | 🔹 Supplement  | Referenced in multiple layers; content not reviewed |
-| `#UIP.md`             | 🔐 Protected    | 🔗✅       | 🔹 Supplement  | Proposal format present, not yet aligned or linked in matrix |
-| `#MOMENTUM/`          | 🔐 Protected    | 🔗✅       | 🔹 Supplement  | Placeholder for virality, culture, memes-as-structure |
-| `#MINDFORGER/`        | 📘 Live         | ✅✅       | 🔹 Supplement  | v0.1.0 – Reflective interface for GLOBIND ethics logic |
-| `#TTE/`               | 🔐 Protected    | 🔗✅       | 🔹 Supplement  | Referenced in MISSION + CONTRIBUTING; no file audit yet |
-| `#THG/`               | 🔐 Protected    | 🔗✅       | 🔹 Supplement  | Holy Grail logic referenced; content pending |
-| `#PP/`                | 🔐 Protected    | 🔗✅       | 🔹 Supplement  | Protection Protocol mapped in MISSION |
-| `#KPI/`               | 📘 Live         | ✅✅       | 🔹 Supplement  | v0.1.0 – “KPI with Soul” metaphor from MISSION confirmed |
-| `ARCHITECTURE.md`     | 📘 Live         | ✅✅       | 🔹 Supplement  | v0.1.0 – Modular overview maps directly to roadmap |
-| `ROADMAP.md`          | 📘 Live         | ✅✅       | 🔸 Clarifier   | v0.1.1 – Lunar phase logic (🌒 to 🌑) + DAO scaffold |
-| `GLOSSARY.md`         | 📘 Live         | ✅✅       | 🔸 Clarifier   | v0.1.1 – Codified symbolic terms + remix references |
-| `GUIDE-STRUCTURE.md`  | 📘 Live         | ✅✅       | 🔹 Supplement  | v0.1.0 – Ritual file naming + phase-gated module logic |
-| `CHANGELOG.md`        | 📘 Live         | ⚠️        | —              | Exists but not symbolically versioned yet |
+| `README.md`           | 📘 Live         | ✅✅       | 🔸 Clarifier   | v0.1.0 — Portal to Purpose |
+| `PHILOSOPHY.md`       | 📘 Live         | ✅✅       | 🔺 Shifter     | v0.1.2 — Well-being Matrix, Alignment Logic |
+| `VISION.md`           | 📘 Live         | ✅✅       | 🔹 Supplement  | v0.1.0 — Memes-as-Protocol |
+| `MISSION.md`          | 📘 Live         | ✅✅       | 🔹 Supplement  | v0.1.1 — Tool-Role Mapping |
+| `MANIFESTO.md`        | 📘 Live         | ✅✅       | 🔸 Clarifier   | v0.1.0 — Ethical Firewall |
+| `CONTRIBUTING.md`     | 📘 Live         | ✅✅       | 🔸 Clarifier   | v0.2.0 — 7-Path Ritual Entry |
+| `LICENSE.md`          | ♾️ Eternal      | ✅✅       | 🔹 Supplement  | v1.0.0 — UNIVERSE.4ALL |
+| `#DAO - Layer Zero/`  | 🔐 Protected    | 🔗✅       | 🔹 Supplement  | Symbolically referenced only |
+| `#UIP.md`             | 🔐 Protected    | 🔗✅       | 🔹 Supplement  | Proposal logic placeholder |
+| `#MOMENTUM/`          | 📘 Live         | ✅✅       | 🔹 Supplement  | v0.1.0 — Cultural ignition layer |
+| `#MINDFORGER/`        | 📘 Live         | ✅✅       | 🔹 Supplement  | v0.1.0 — Perceptual ritual |
+| `#TTE/`               | 🔐 Protected    | 🔗✅       | 🔹 Supplement  | Logic inferred from MISSION |
+| `#THG/`               | 🔐 Protected    | 🔗✅       | 🔹 Supplement  | Holy Grail architecture |
+| `#PP/`                | 🔐 Protected    | 🔗✅       | 🔹 Supplement  | Prevention/Protection logic |
+| `#KPI/`               | 📘 Live         | ✅✅       | 🔹 Supplement  | v0.1.0 — Soulful Metrics |
+| `ARCHITECTURE.md`     | 📘 Live         | ✅✅       | 🔹 Supplement  | Modular Overview |
+| `ROADMAP.md`          | 📘 Live         | ✅✅       | 🔸 Clarifier   | v0.1.1 — Lunar Phase Structure |
+| `GLOSSARY.md`         | 📘 Live         | ✅✅       | 🔸 Clarifier   | v0.1.1 — Codified Symbol Grammar |
+| `GUIDE-STRUCTURE.md`  | 📘 Live         | ✅✅       | 🔹 Supplement  | Ritual File Naming |
+| `CHANGELOG.md`        | 📘 Live         | ⚠️        | —              | Exists, not symbol-aligned |
 
 ---
 
@@ -42,10 +43,10 @@ Every line reflects a vow to clarity, a pattern of truth, and a living record of
 
 | Symbol   | Meaning |
 |----------|---------|
-| ✅✅       | Fully aligned — content and all references reviewed and matched. |
-| ✅         | Internally aligned — content reviewed, references not fully audited. |
-| 🔗✅       | Symbolically referenced — content not yet reviewed. |
-| ⚠️         | Needs review — incomplete, unclear, or possibly misaligned. |
+| ✅✅       | Fully aligned — content and references reviewed. |
+| ✅         | Internally aligned — content only. |
+| 🔗✅       | Symbolically referenced — not yet reviewed. |
+| ⚠️         | Needs symbolic versioning or attention. |
 
 ---
 
@@ -55,9 +56,7 @@ Every line reflects a vow to clarity, a pattern of truth, and a living record of
 
 | Symbol         | Meaning |
 |----------------|---------|
-| 📘 Live         | Published and active document. |
-| 📎 Placeholder  | Exists but not yet written or deployed. |
-| 🔐 Protected    | Gated by phase, DAO vote, or symbolic unlock. |
-| ♾️ Eternal      | Untouchable — core to protocol truth and structure. |
-
-
+| 📘 Live         | Public and active. |
+| 📎 Placeholder  | Exists but empty. |
+| 🔐 Protected    | Phase-locked, DAO-gated. |
+| ♾️ Eternal      | Untouchable protocol truth. |
