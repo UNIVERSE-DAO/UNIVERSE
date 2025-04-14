@@ -1,4 +1,4 @@
-# 🌐 UNIVERSE ALIGNMENT MAP
+# SOUL-MAP
 
 _This is a living audit of the symbolic structure of UNIVERSE — tracking the state, phase, and philosophical alignment of each module._
 
