@@ -8,6 +8,8 @@ It’s not just a storytelling engine — it’s a perceptual ritual, designed t
 
 ---
 
+<br>
+
 ## Purpose
 
 To help users reflect before they decide.  
@@ -23,6 +25,8 @@ MINDFORGER explores how interpretation is shaped by:
 - Framing / Manipulation Style
 
 ---
+
+<br>
 
 ## Narrative Experience
 
@@ -46,6 +50,8 @@ without judgment, but with intentional contrast.
 
 ---
 
+<br>
+
 ## Content Philosophy
 
 Each adaptation is written to reflect its emotional truth —  
@@ -58,6 +64,8 @@ This isn’t about “right” or “wrong” —
 it’s about witnessing the architecture of belief.
 
 ---
+
+<br>
 
 ## Licensing & Ethics
 
@@ -73,6 +81,8 @@ This tool exists to liberate cognition — not to be turned into manipulation.
 Use with care. Remix with clarity. Guard the soul of the signal.
 
 ---
+
+<br>
 
 ## Final Thought
 
