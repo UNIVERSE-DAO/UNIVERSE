@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>UNIVERSE</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="UNIVERSE – A cosmic narrative of unity, energy, and meaning in the digital age." />
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background: url('your-background.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #eee;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+      line-height: 1.6;
+      text-align: center;
+      padding: 30px 16px;
+    }
+
+    .nav-bar {
+      padding: 8px 0;
+    }
+
+    .nav-bar ul {
+      list-style: none;
+      display: flex;
+      justify-content: center;
+      gap: 36px;
+      margin: 0;
+      padding: 0;
+      font-size: 0.75rem;
+      letter-spacing: 6px;
+    }
+
+    .nav-bar a {
+      color: #bbb;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      text-transform: uppercase;
+    }
+
+    .nav-bar a:hover {
+      color: #22DD09;
+      transform: scale(1.08);
+    }
+
+    /* === UNIVERSE to VERSE TRANSITION BLOCK === */
+
+    .poem-container {
+      max-width: 750px;
+      margin: 80px auto;
+      padding: 40px 24px;
+      background: rgba(0,0,0,0.6);
+      border-radius: 24px;
+      backdrop-filter: blur(4px);
+    }
+
+    #main-title {
+      font-size: 2.8rem;
+      letter-spacing: 16px;
+      color: #22DD09;
+      opacity: 1;
+      transition: opacity 1s ease;
+    }
+
+    #poem-block {
+      opacity: 0;
+      transition: opacity 1.2s ease;
+    }
+
+    #poem-block.visible {
+      opacity: 1;
+    }
+
+    #poem-block h2 {
+      font-size: 1.6rem;
+      margin-bottom: 24px;
+      letter-spacing: 8px;
+      color: #22DD09;
+    }
+
+    .poem-line {
+      font-size: 1.2rem;
+      margin: 18px 0;
+      color: #4da6ff;
+      opacity: 0;
+      transition: opacity 0.8s ease;
+    }
+
+    .poem-line.visible {
+      opacity: 1;
+    }
+
+    .green {
+      color: #22DD09;
+      font-weight: bold;
+    }
+
+    /* === FOOTER === */
+    .dao-section {
+      text-align: center;
+      margin-top: 50px;
+      padding-bottom: 40px;
+      color: #777;
+    }
+
+    .dao-title {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #666;
+      margin-bottom: 10px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+
+    .dao-section p {
+      font-size: 0.75rem;
+      line-height: 1.3;
+      color: #555;
+      margin-bottom: 3px;
+    }
+
+    .dao-section .emphasis {
+      color: #bbb;
+      font-weight: bold;
+    }
+
+    @media (max-width: 500px) {
+      .nav-bar ul {
+        flex-direction: column;
+        gap: 12px;
+        font-size: 0.7rem;
+        letter-spacing: 4px;
+      }
+
+      #main-title {
+        font-size: 2rem;
+        letter-spacing: 8px;
+      }
+
+      #poem-block h2 {
+        font-size: 1.3rem;
+        letter-spacing: 4px;
+      }
+
+      .poem-line {
+        font-size: 1rem;
+      }
+
+      .poem-container {
+        padding: 24px 12px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- NAVIGATION -->
+  <div class="nav-bar">
+    <ul>
+      <li><a href="index.html">UNIVERSE</a></li>
+      <li><a href="philosophy.html">PHILOSOPHY</a></li>
+      <li><a href="mindforger.html">MINDFORGER</a></li>
+      <li><a href="memology.html">MEMOLOGY</a></li>
+    </ul>
+  </div>
+
+  <!-- UNIVERSE → VERSE TO UNI POEM SECTION -->
+  <div class="poem-container">
+    <h1 id="main-title">UNIVERSE</h1>
+    <div id="poem-block">
+      <h2><span class="green">VERSE</span> of <span class="green">UNI</span></h2>
+      <p class="poem-line">UNIte the minds, with brilliance alight,</p>
+      <p class="poem-line">Saving humanity with all our might.</p>
+      <p class="poem-line">Reverse-engineer society’s traverse,</p>
+      <p class="poem-line">Guiding the way, through the <span class="green">MetaVERSE</span>.</p>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="dao-section">
+    <h2 class="dao-title">UNIVERSE.DAO</h2>
+    <p>With cypherpunk ideology, the IP is publicly <span class="emphasis">SECURED</span></p>
+    <p>In the current hardest network, protection is <span class="emphasis">ASSURED</span></p>
+  </div>
+
+  <script>
+    window.addEventListener("load", () => {
+      const mainTitle = document.getElementById("main-title");
+      const poemBlock = document.getElementById("poem-block");
+      const lines = document.querySelectorAll(".poem-line");
+
+      // Step 1: fade out "UNIVERSE"
+      setTimeout(() => {
+        mainTitle.style.opacity = 0;
+      }, 2500);
+
+      // Step 2: show "VERSE of UNI"
+      setTimeout(() => {
+        poemBlock.classList.add("visible");
+      }, 3500);
+
+      // Step 3: reveal poem lines one by one
+      lines.forEach((line, i) => {
+        setTimeout(() => {
+          line.classList.add("visible");
+        }, 4500 + i * 1800);
+      });
+    });
+  </script>
+</body>
+</html>
+
