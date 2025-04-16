@@ -14,8 +14,7 @@
     }
 
     body {
-      background: url('your-background.jpg') no-repeat center center fixed;
-      background-size: cover;
+      background-color: #000;
       color: #eee;
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
       line-height: 1.6;
@@ -50,62 +49,50 @@
       transform: scale(1.08);
     }
 
-    /* === UNIVERSE to VERSE TRANSITION BLOCK === */
-
-    .poem-container {
-      max-width: 750px;
-      margin: 80px auto;
-      padding: 40px 24px;
-      background: rgba(0,0,0,0.6);
-      border-radius: 24px;
-      backdrop-filter: blur(4px);
+    .universe-container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 30px 0 40px;
     }
 
-    #main-title {
-      font-size: 2.8rem;
-      letter-spacing: 16px;
-      color: #22DD09;
-      opacity: 1;
-      transition: opacity 1s ease;
-    }
-
-    #poem-block {
-      opacity: 0;
-      transition: opacity 1.2s ease;
-    }
-
-    #poem-block.visible {
-      opacity: 1;
-    }
-
-    #poem-block h2 {
-      font-size: 1.6rem;
-      margin-bottom: 24px;
-      letter-spacing: 8px;
+    .page-title {
+      font-size: 2rem;
+      font-weight: 900;
+      letter-spacing: 12px;
+      margin-bottom: 30px;
       color: #22DD09;
     }
 
-    .poem-line {
-      font-size: 1.2rem;
-      margin: 18px 0;
-      color: #4da6ff;
-      opacity: 0;
-      transition: opacity 0.8s ease;
+    .video-meme {
+  max-width: 650px;
+  height: 180px; /* the visible area */
+  overflow: hidden;
+  border-radius: 12px;
+  margin: 0 auto 40px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
+  position: relative;
+  margin-top: 20px;
+}
+
+.video-meme video {
+  width: 100%;
+  height: auto;
+  transform: translateY(-55px); /* This moves the video up */
+  display: block;
+}
+
+    .verse-uni-image img {
+      max-width: 100%;
+      height: auto;
+      max-width: 650px;
+      border-radius: 12px;
+      margin-top: 0px;
+      box-shadow: 0 0 12px rgba(0, 0, 0, 0.4);
     }
 
-    .poem-line.visible {
-      opacity: 1;
-    }
-
-    .green {
-      color: #22DD09;
-      font-weight: bold;
-    }
-
-    /* === FOOTER === */
     .dao-section {
       text-align: center;
-      margin-top: 50px;
+      margin-top: 30px;
       padding-bottom: 40px;
       color: #777;
     }
@@ -139,29 +126,18 @@
         letter-spacing: 4px;
       }
 
-      #main-title {
-        font-size: 2rem;
-        letter-spacing: 8px;
+      .page-title {
+        font-size: 1.5rem;
       }
 
-      #poem-block h2 {
-        font-size: 1.3rem;
-        letter-spacing: 4px;
-      }
-
-      .poem-line {
-        font-size: 1rem;
-      }
-
-      .poem-container {
-        padding: 24px 12px;
+      .universe-container {
+        padding: 20px 0;
       }
     }
   </style>
 </head>
 
 <body>
-
   <!-- NAVIGATION -->
   <div class="nav-bar">
     <ul>
@@ -172,17 +148,19 @@
     </ul>
   </div>
 
-  <!-- UNIVERSE → VERSE TO UNI POEM SECTION -->
-  <div class="poem-container">
-    <h1 id="main-title">UNIVERSE</h1>
-    <div id="poem-block">
-      <h2><span class="green">VERSE</span> of <span class="green">UNI</span></h2>
-      <p class="poem-line">UNIte the minds, with brilliance alight,</p>
-      <p class="poem-line">Saving humanity with all our might.</p>
-      <p class="poem-line">Reverse-engineer society’s traverse,</p>
-      <p class="poem-line">Guiding the way, through the <span class="green">MetaVERSE</span>.</p>
+    <!-- VIDEO BLOCK -->
+    <div class="video-meme" onclick="playVideoOnce()">
+      <video id="memeVideo" poster="memology.png">
+        <source src="UNIVERSE.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
     </div>
   </div>
+
+  <div class="verse-uni-image">
+    <img src="verse-uni.png" alt="Cultural Meaning of Memes">
+  </div>
+</div>
 
   <!-- FOOTER -->
   <div class="dao-section">
@@ -192,29 +170,17 @@
   </div>
 
   <script>
+    function playVideoOnce() {
+      const video = document.getElementById("memeVideo");
+      video.currentTime = 0;
+      video.play();
+    }
+
+    // Auto-play once on load
     window.addEventListener("load", () => {
-      const mainTitle = document.getElementById("main-title");
-      const poemBlock = document.getElementById("poem-block");
-      const lines = document.querySelectorAll(".poem-line");
-
-      // Step 1: fade out "UNIVERSE"
-      setTimeout(() => {
-        mainTitle.style.opacity = 0;
-      }, 2500);
-
-      // Step 2: show "VERSE of UNI"
-      setTimeout(() => {
-        poemBlock.classList.add("visible");
-      }, 3500);
-
-      // Step 3: reveal poem lines one by one
-      lines.forEach((line, i) => {
-        setTimeout(() => {
-          line.classList.add("visible");
-        }, 4500 + i * 1800);
-      });
+      const video = document.getElementById("memeVideo");
+      video.play();
     });
   </script>
 </body>
 </html>
-
