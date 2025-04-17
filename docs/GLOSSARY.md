@@ -34,11 +34,10 @@
 
 ---
 
-### 💡 **Helpful to Know**
+### **Helpful to Know**
 
 | Term or Pattern | Meaning                                                                 |
 |------------------|-------------------------------------------------------------------------|
-| `🌒 → 🌓 → 🌕 → 🌑` | Lunar phase roadmap — symbolic unfolding of project stages            |
 | `docs/`          | Living documentation layer — each file is part of the ritual structure |
 | `0 #DAO/`        | Root governance layer — contains voting, proposals, contracts, treasury |
 | `GLOSSARY.md`    | This symbolic vocabulary file                                           |
