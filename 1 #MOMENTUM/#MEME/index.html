@@ -2,8 +2,14 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>UNIVERSE</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>U N I V E R S E</title>
+
+  <!-- Favicon -->
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" type="image/x-icon" href="media/universe-favicon.ico">
+
+  <!-- Fixed Layout & No Zoom -->
+  <meta name="viewport" content="width=650, user-scalable=no" />
   <meta name="description" content="UNIVERSE – A cosmic narrative of unity, energy, and meaning in the digital age." />
 
   <style>
@@ -14,6 +20,9 @@
     }
 
     body {
+      width: 650px;
+      margin: 0 auto;
+      overflow-x: hidden;
       background-color: #000;
       color: #eee;
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
@@ -31,9 +40,7 @@
       display: flex;
       justify-content: center;
       gap: 36px;
-      margin: 0;
-      padding: 0;
-      font-size: 0.75rem;
+      font-size: 12px;
       letter-spacing: 6px;
     }
 
@@ -49,44 +56,43 @@
       transform: scale(1.08);
     }
 
-    .universe-container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 30px 0 40px;
-    }
-
-    .page-title {
-      font-size: 2rem;
-      font-weight: 900;
-      letter-spacing: 12px;
-      margin-bottom: 30px;
-      color: #22DD09;
-    }
-
     .video-meme {
-  max-width: 650px;
-  height: 180px; /* the visible area */
-  overflow: hidden;
-  border-radius: 12px;
-  margin: 0 auto 40px;
-  box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
-  position: relative;
-  margin-top: 20px;
-}
+      max-width: 650px;
+      height: 180px;
+      overflow: hidden;
+      border-radius: 12px;
+      margin: 0 auto 40px;
+      box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
+      position: relative;
+      margin-top: 20px;
+      background-image: url('media/intro-universe.png');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
 
-.video-meme video {
-  width: 100%;
-  height: auto;
-  transform: translateY(-55px); /* This moves the video up */
-  display: block;
-}
+    .video-meme video {
+      width: 100%;
+      height: auto;
+      transform: translateY(-55px);
+      display: block;
+    }
+
+    .verse-uni-image {
+      max-width: 650px;
+      margin: 0 auto 40px;
+      opacity: 0.1;
+      transition: opacity 2s ease-in-out;
+      cursor: pointer;
+    }
+
+    .verse-uni-image.show {
+      opacity: 1;
+    }
 
     .verse-uni-image img {
-      max-width: 100%;
-      height: auto;
-      max-width: 650px;
+      width: 100%;
       border-radius: 12px;
-      margin-top: 0px;
       box-shadow: 0 0 12px rgba(0, 0, 0, 0.4);
     }
 
@@ -98,7 +104,7 @@
     }
 
     .dao-title {
-      font-size: 0.75rem;
+      font-size: 12px;
       font-weight: 600;
       color: #666;
       margin-bottom: 10px;
@@ -106,8 +112,19 @@
       text-transform: uppercase;
     }
 
+    .dao-title a {
+      color: inherit;
+      text-decoration: underline;
+      transition: all 0.3s ease;
+    }
+
+    .dao-title a:hover {
+      color: #22DD09;
+      text-decoration: none;
+    }
+
     .dao-section p {
-      font-size: 0.75rem;
+      font-size: 12px;
       line-height: 1.3;
       color: #555;
       margin-bottom: 3px;
@@ -117,27 +134,11 @@
       color: #bbb;
       font-weight: bold;
     }
-
-    @media (max-width: 500px) {
-      .nav-bar ul {
-        flex-direction: column;
-        gap: 12px;
-        font-size: 0.7rem;
-        letter-spacing: 4px;
-      }
-
-      .page-title {
-        font-size: 1.5rem;
-      }
-
-      .universe-container {
-        padding: 20px 0;
-      }
-    }
   </style>
 </head>
 
 <body>
+
   <!-- NAVIGATION -->
   <div class="nav-bar">
     <ul>
@@ -148,39 +149,51 @@
     </ul>
   </div>
 
-    <!-- VIDEO BLOCK -->
-    <div class="video-meme" onclick="playVideoOnce()">
-      <video id="memeVideo" poster="memology.png">
-        <source src="UNIVERSE.mp4" type="video/mp4" />
-        Your browser does not support the video tag.
-      </video>
-    </div>
+  <!-- VIDEO BLOCK -->
+  <div class="video-meme" onclick="playVideoOnce()">
+    <video id="memeVideo" autoplay muted playsinline preload="auto">
+      <source src="media/universe.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
   </div>
 
-  <div class="verse-uni-image">
-    <img src="verse-uni.png" alt="Cultural Meaning of Memes">
+  <!-- VERSE IMAGE -->
+  <div class="verse-uni-image" id="verseImage">
+    <img src="verse-uni.png" alt="VERSE to UNI" />
   </div>
-</div>
 
   <!-- FOOTER -->
   <div class="dao-section">
-    <h2 class="dao-title">UNIVERSE.DAO</h2>
+    <h2 class="dao-title">
+      <a href="https://github.com/UNIVERSE-DAO/UNIVERSE/blob/main/README.md" target="_blank">
+        UNIVERSE.DAO
+      </a>
+    </h2>
     <p>With cypherpunk ideology, the IP is publicly <span class="emphasis">SECURED</span></p>
     <p>In the current hardest network, protection is <span class="emphasis">ASSURED</span></p>
   </div>
 
   <script>
+    const video = document.getElementById("memeVideo");
+    const verseImage = document.getElementById("verseImage");
+
+    function revealVerse() {
+      verseImage.classList.add("show");
+    }
+
     function playVideoOnce() {
-      const video = document.getElementById("memeVideo");
       video.currentTime = 0;
       video.play();
     }
 
-    // Auto-play once on load
     window.addEventListener("load", () => {
-      const video = document.getElementById("memeVideo");
-      video.play();
+      video.addEventListener("ended", revealVerse);
+    });
+
+    verseImage.addEventListener("click", () => {
+      verseImage.classList.add("show");
     });
   </script>
+
 </body>
 </html>
