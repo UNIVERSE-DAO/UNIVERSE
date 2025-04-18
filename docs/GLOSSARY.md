@@ -36,15 +36,18 @@
 
 ### **Helpful to Know**
 
+
 | Term or Pattern | Meaning                                                                 |
 |------------------|-------------------------------------------------------------------------|
 | `docs/`          | Living documentation layer — each file is part of the ritual structure |
+| `SOULETHOS/`     | BRAN-DBIREF |
+| `GUIDE/`         | HOW TO |
 | `0 #DAO/`        | Root governance layer — contains voting, proposals, contracts, treasury |
 | `GLOSSARY.md`    | This symbolic vocabulary file                                           |
 | `LICENSE.md`     | The moral & legal declaration: *UNIVERSE.4ALL*                         |
-| **#FOLDER/**   | Symbolic marker for protected, phase-gated, or modular directories          |
-| **README.md**  | Active node — published entry point for that symbolic module                |
-| **- README.md**| Placeholder — structure exists, content not yet live                        |
+| **#FOLDER/**     | Symbolic marker for protected, phase-gated, or modular directories          |
+| **README.md**    | Active node — published entry point for that symbolic module                |
+| **- README.md**  | Placeholder — structure exists, content not yet live                        |
 ---
 
 Want a visual version next? Or icons/logos added inline?
