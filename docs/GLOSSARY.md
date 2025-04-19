@@ -40,9 +40,11 @@
 | Term or Pattern | Meaning                                                                 |
 |------------------|-------------------------------------------------------------------------|
 | `docs/`          | Living documentation layer — each file is part of the ritual structure |
+| `0 #DAO/`        | Root governance layer — contains voting, proposals, contracts, treasury |
+| **DAOIST**     | Ritual contributor — aligns with truth, structure, and sovereignty        |
+| **Layer Zero** | Social consensus root — identity, governance, and shared intent layer    |
 | `SOULETHOS/`     | BRAN-DBIREF |
 | `GUIDE/`         | HOW TO |
-| `0 #DAO/`        | Root governance layer — contains voting, proposals, contracts, treasury |
 | `GLOSSARY.md`    | This symbolic vocabulary file                                           |
 | `LICENSE.md`     | The moral & legal declaration: *UNIVERSE.4ALL*                         |
 | **#FOLDER/**     | Symbolic marker for protected, phase-gated, or modular directories          |
