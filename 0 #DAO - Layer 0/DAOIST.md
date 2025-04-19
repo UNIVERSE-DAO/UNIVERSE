@@ -6,7 +6,8 @@ the layer beneath the code, where identity, trust, and shared intent are formed.
 Participation doesn’t begin with smart contracts.  
 It begins with alignment.
 
----
+---  
+<br>
 
 ## What is Layer 0?
 
@@ -14,26 +15,29 @@ In Web3, **Layer 0** is the base layer that everything else builds on.
 In UNIVERSE, it is the **ritual foundation** —  
 where we define why the system exists, and who is aligned to shape it.
 
----
+---  
+<br>
 
 ## DAOIST
 
 - **DAO** → From Chinese philosophy: the natural order, the cosmic flow, the way things harmonize without force  
 - **-IST** → One who practices, embodies, or lives a way  
 
-**DAOIST** = **The Journey Is the UNIVERSE Goal**  
----
+**DAOIST** = **The Journey Is the UNIVERSE Goal**
+
+---  
+<br>
 
 In UNIVERSE, a DAOIST is more than a follower.  
 They are a **ritualized contributor** to a symbolic protocol —  
 one who acts with intention, contributes through story and structure,  
 and participates in governance without domination.
 
----
+---  
+<br>
 
 ## DAOIST — Acronym  
 _A ritual identity for those who help to provide the Path to master the Infinite Game_
-
 
 | Letter | Meaning                                                                 |
 |--------|-------------------------------------------------------------------------|
@@ -44,7 +48,8 @@ _A ritual identity for those who help to provide the Path to master the Infinite
 | S      | **Sovereign** — participate freely, without coercion or compromise      |
 | T      | **Transmit** — carry truth into form, code, culture, and collective flow|
 
----
+---  
+<br>
 
 ## Hidden in Plain Sight
 
