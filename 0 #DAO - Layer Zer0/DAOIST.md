@@ -1,6 +1,6 @@
-# DAOIST — Layer 0
+# DAOIST — Layer Zer0
 
-**Layer 0** is the root of social consensus in the UNIVERSE protocol —  
+**Layer Zer0** is the root of social consensus in the UNIVERSE protocol —  
 the layer beneath the code, where identity, trust, and shared intent are formed.
 
 Participation doesn’t begin with smart contracts.  
@@ -9,7 +9,7 @@ It begins with alignment.
 ---  
 <br>
 
-## What is Layer 0?
+## What is Layer Zer0?
 
 In Web3, **Layer 0** is the base layer that everything else builds on.  
 In UNIVERSE, it is the **ritual foundation** —  
