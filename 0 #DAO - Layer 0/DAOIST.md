@@ -1,4 +1,4 @@
-# DAOIST — Layer0
+# DAOIST — Layer 0
 
 **Layer 0** is the root of social consensus in the UNIVERSE protocol —  
 the layer beneath the code, where identity, trust, and shared intent are formed.
