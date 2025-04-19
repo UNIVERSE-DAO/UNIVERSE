@@ -1,49 +1,56 @@
-# DAOIST
+# DAOIST — Layer0
+
+**Layer 0** is the root of social consensus in the UNIVERSE protocol —  
+the layer beneath the code, where identity, trust, and shared intent are formed.
+
+Participation doesn’t begin with smart contracts.  
+It begins with alignment.
 
 ---
 
-## Linguistic Breakdown
+## What is Layer 0?
 
-**DAOIST**  
-A person who follows or embodies the DAO (道) — the “Way” or the “Path.”
-
-- **DAO** — From classical Chinese philosophy: the natural order, the cosmic flow, the way things align without force  
-- **-IST** — A suffix meaning “one who practices or embodies”
-
-**Literally:**  
-DAOIST = “One who walks the Way”
+In Web3, **Layer 0** is the base layer that everything else builds on.  
+In UNIVERSE, it is the **ritual foundation** —  
+where we define why the system exists, and who is aligned to shape it.
 
 ---
 
-## Symbolic Meaning in the UNIVERSE Protocol
+## DAOIST
+
+- **DAO** → From Chinese philosophy: the natural order, the cosmic flow, the way things harmonize without force  
+- **-IST** → One who practices, embodies, or lives a way  
+
+**DAOIST** = **The Journey Is the UNIVERSE Goal**  
+---
 
 In UNIVERSE, a DAOIST is more than a follower.  
-They are a ritualized contributor — an intentional actor within a symbolic protocol.
-
-A DAOIST:
-
-- Acts with intention  
-- Contributes through structure, story, and symbol  
-- Participates with responsibility and self-governance  
-- Holds sovereignty as sacred  
-- Upholds truth as a non-negotiable foundation  
-
-To be a DAOIST is to shape the protocol — not just through code, but through clarity.
+They are a **ritualized contributor** to a symbolic protocol —  
+one who acts with intention, contributes through story and structure,  
+and participates in governance without domination.
 
 ---
 
-## DAOIST — Acronym Breakdown
+## DAOIST — Acronym  
+_A ritual identity for those who help to provide the Path to master the Infinite Game_
+
 
 | Letter | Meaning                                                                 |
 |--------|-------------------------------------------------------------------------|
-| D      | Decentralized — distributed by design, trustless by nature              |
-| A      | Autonomous — self-operating, driven by logic and intention              |
-| O      | Organization — structure with shared purpose, not hierarchy             |
-| I      | Integrity — alignment between action, ethics, and symbolic truth        |
-| S      | Sovereignty-first — every actor is a self-guided, non-coerced node      |
-| T      | Truth — the guiding principle, the core protocol layer                  |
+| D      | **Discover** — seek the truth behind the structure                      |
+| A      | **Align** — bring values, vision, and contribution into coherence       |
+| O      | **Organize** — shape shared meaning, not through power, but clarity     |
+| I      | **Integrate** — walk your words, merge philosophy with practice         |
+| S      | **Sovereign** — participate freely, without coercion or compromise      |
+| T      | **Transmit** — carry truth into form, code, culture, and collective flow|
 
 ---
 
-DAOIST is a title you earn by the way you walk the protocol.  
-Not by permission — but by presence.
+## Hidden in Plain Sight
+
+DAOIST rhymes with **Taoist** — and that’s no accident.  
+It reminds us that this protocol isn’t just technical.  
+It’s philosophical, ethical, and even spiritual.
+
+To walk this path is to **align before you build**.  
+To shape the system is to first understand its soul.
