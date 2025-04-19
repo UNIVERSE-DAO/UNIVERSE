@@ -53,6 +53,7 @@ _A ritual identity for those who help to provide the Path to master the Infinite
 
 ## Hidden in Plain Sight
 
+And of course, the joke...
 DAOIST rhymes with **Taoist** — and that’s no accident.  
 It reminds us that this protocol isn’t just technical.  
 It’s philosophical, ethical, and even spiritual.
