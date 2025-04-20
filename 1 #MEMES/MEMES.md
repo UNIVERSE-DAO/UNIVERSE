@@ -1,4 +1,4 @@
-# MEME
+# MEMES
 
 _Where Culture Meets Protocol_  
 _Where Memes Become Movement_
