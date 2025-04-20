@@ -18,12 +18,10 @@ where we define why the system exists, and who is aligned to shape it.
 ---  
 <br>
 
-## DAOIST
+## DAOIST = **The Journey Is the UNIVERSE Goal**
 
-- **DAO** → From Chinese philosophy: 
+- **DAO** → 道 (Dao) – The Way in Chinese philosophy
 - **-IST** → One who practices, embodies, or lives a way  
-
-**DAOIST** = **The Journey Is the UNIVERSE Goal**
 
 ---  
 <br>
