@@ -4,54 +4,42 @@
 the layer beneath the code, where identity, trust, and shared intent are formed.
 
 Participation doesn’t begin with smart contracts.  
-It begins with alignment.
+It begins with **alignment**.
 
----  
-<br>
+---
 
 ## What is Layer Zer0?
 
-In Web3, **Layer 0** is the base layer that everything else builds on.  
+In Web3, Layer 0 is the foundational layer everything else builds upon.  
 In UNIVERSE, it is the **ritual foundation** —  
-where we define why the system exists, and who is aligned to shape it.
+where we define *why* the system exists, and *who* is aligned to shape it.
 
----  
-<br>
+> Layer Zer0 isn’t just technical — it’s about meaning.  
+> It’s the shared soul before shared structure.
 
-## DAOIST = **The Journey Is the UNIVERSE Goal**
+---
 
-- **DAO** → 道 (Dao) – The Way in Chinese philosophy
-- **-IST** → One who practices, embodies, or lives a way  
+## DAOIST = The Journey Is the UNIVERSE Goal  
+_to master the Infinite Game_
 
----  
-<br>
+- **DAO** → *The Path* — alignment, nature, and inner flow  
+- **-IST** → One who practices or lives a way, with intention and integrity  
 
-In UNIVERSE, a DAOIST is more than a follower.  
-They are a **ritualized contributor** to a symbolic protocol —  
-one who acts with intention, contributes through story and structure,  
-and participates in governance without domination.
+---
 
----  
-<br>
-
-## DAOIST — Acronym  
-_A ritual identity for those who help to provide the Path to master the Infinite Game_
+## DAOIST — A Living Acronym  
+_A ritual identity for those who walk the Path and shape the Infinite Game_
 
 | Letter | Meaning                                                                 |
 |--------|-------------------------------------------------------------------------|
-| D      | **Discover** — seek the truth behind the structure                      |
-| A      | **Align** — bring values, vision, and contribution into coherence       |
-| O      | **Organize** — shape shared meaning, not through power, but clarity     |
-| I      | **Integrate** — walk your words, merge philosophy with practice         |
-| S      | **Sovereign** — participate freely, without coercion or compromise      |
-| T      | **Transmit** — carry truth into form, code, culture, and collective flow|
+| D      | **Discover** — seek truth behind the structure                          |
+| A      | **Align** — bring vision and values into coherence                      |
+| O      | **Organize** — clarify meaning without coercion                         |
+| I      | **Integrate** — merge philosophy with action                            |
+| S      | **Sovereign** — act freely, without compromise                          |
+| T      | **Transmit** — shape truth into form, code, and culture                 |
 
----  
-<br>
+---
 
-
->It reminds us that this protocol isn’t just technical.  
->It’s philosophical, ethical, and even spiritual.
-
->To walk this path is to **align before you build**.  
->To shape the system is to first understand its soul.
+> This protocol isn’t just technical — it’s a practice of meaning.  
+> To contribute is to **become part of its soul**, and to **BUIDL a future 4ALL**.
