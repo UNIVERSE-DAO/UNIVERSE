@@ -1,16 +1,15 @@
-# MOMENTUM
+# MEME
 
 _Where Culture Meets Protocol_  
 _Where Memes Become Movement_
 
-MOMENTUM is the cultural ignition layer of UNIVERSE.  
-It is not a campaign — it’s a **memetic field of alignment**.
+MEME is the cultural ignition layer of UNIVERSE.  
+It’s not a campaign — it’s a **field of memetic alignment**.
 
 > This is where curiosity is sparked, not instructed.  
 > Where the soul of the protocol is felt — before it is understood.
 
----
-
+---  
 <br>
 
 ## Purpose
@@ -19,11 +18,10 @@ To transmit clarity through symbols.
 To reflect truth through humor, rhythm, and resonance.  
 To seed participation without coercion.
 
-MOMENTUM makes philosophy viral —  
-And makes contribution a cultural instinct.
+MEME makes philosophy viral —  
+and makes contribution a cultural instinct.
 
----
-
+---  
 <br>
 
 ## Meme as OS
@@ -35,10 +33,9 @@ They are **semiotic carriers of alignment**.
 - They translate structure into symbol  
 - They awaken memory — not just inform the mind
 
-> A meme is a mirror, a signal, a spark.
+> A meme is not a joke — it’s a **mirror**, a **signal**, a **spark**.
 
----
-
+---  
 <br>
 
 ## UNIVERSE.MEME
@@ -50,21 +47,22 @@ through story, humor, clarity, and care.
 > You don’t follow a meme.  
 > You resonate with it.
 
----
-
+---  
 <br>
 
-## The Multiplayer Engine (coming soon)
+## The MOMENTUM Engine (coming soon)
 
-A resonance interface for symbolic coordination.  
+A resonance engine for memetic coordination.  
 Not a task board — a pulse amplifier.
 
-It listens to your energy  
-and ripples it toward where it matters most.
+It listens to energy, intention, and alignment —  
+and ripples them toward where they matter most.
 
----
-
+---  
 <br>
 
 **Make memes like they matter.**  
 Because in UNIVERSE — they do.
+
+> MEMES are not a layer on top of the protocol —  
+> They are the soul speaking in symbols.
