@@ -1,5 +1,4 @@
-# HIGHLIGHTS — UNIVERSE DAO  
-## 10 Sacred Signals + Bonus Clarity
+# HIGHLIGHTS — UNIVERSE DAO 
 
 _A curated constellation of quotes and core ideas that unlock the soul of the protocol._  
 _This is not just a summary — it’s a mirror for alignment._
