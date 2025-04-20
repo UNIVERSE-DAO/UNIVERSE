@@ -1,6 +1,6 @@
 # HIGHLIGHTS
 
----  
+
 <br>
 
 ### 1. Mastering the Infinite Game  
