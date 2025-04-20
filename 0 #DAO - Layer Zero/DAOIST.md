@@ -24,7 +24,7 @@ where we define *why* the system exists, and *who* is aligned to shape it.
 <br>
 
 ## DAOIST = The Journey Is the UNIVERSE Goal  
-_to master the Infinite Game_
+_to Master the Infinite Game_
 
 - **DAO** → *The Path* — alignment, nature, and inner flow  
 - **-IST** → One who practices or lives a way, with intention and integrity  
