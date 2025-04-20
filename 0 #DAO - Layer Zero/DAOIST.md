@@ -20,7 +20,7 @@ where we define why the system exists, and who is aligned to shape it.
 
 ## DAOIST
 
-- **DAO** → From Chinese philosophy: the natural order, the cosmic flow, the way things harmonize without force  
+- **DAO** → From Chinese philosophy: 
 - **-IST** → One who practices, embodies, or lives a way  
 
 **DAOIST** = **The Journey Is the UNIVERSE Goal**
@@ -51,12 +51,9 @@ _A ritual identity for those who help to provide the Path to master the Infinite
 ---  
 <br>
 
-## Hidden in Plain Sight
 
-And of course, the joke...<br>
-DAOIST rhymes with **Taoist** — and that’s no accident.  
-It reminds us that this protocol isn’t just technical.  
-It’s philosophical, ethical, and even spiritual.
+>It reminds us that this protocol isn’t just technical.  
+>It’s philosophical, ethical, and even spiritual.
 
-To walk this path is to **align before you build**.  
-To shape the system is to first understand its soul.
+>To walk this path is to **align before you build**.  
+>To shape the system is to first understand its soul.
