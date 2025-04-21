@@ -6,7 +6,7 @@
 <h3 align="center">The Ultimate Tech for Good &nbsp;&nbsp;&nbsp;to&nbsp;&nbsp;&nbsp;Master the Infinite Game</h3>
 <p align="center"><strong>Building, Decentralizing & Governing with Cipher Punk Ideology</strong></p>
 
-
+<br>
 <br>
 
 >This is the interactive WHITEPAPER : &nbsp;&nbsp;&nbsp; ***Portal to the Possible***<br>
