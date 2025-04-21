@@ -105,7 +105,3 @@ Still a mystery — but points to a future of moral interoperability.
 <br>
 
 _This is a living mirror of meaning. As the protocol evolves, more signals will be revealed._
-
----
-
-Let me know if you'd like this committed as `HIGHLIGHTS.md` v1.1, or logged into `SOUL-AGENT.md` with a short reflection (e.g. impact type: 🔸Clarifier).
