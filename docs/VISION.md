@@ -71,7 +71,7 @@ If you build with care, code with conscience, or think in systems —
 This vision lives through participation.  
 If it resonates — build, write, share, or protect.
 
-→ [Start here → CONTRIBUTING.md](CONTRIBUTING.md)
+→ [Start here → CONTRIBUTING.md](../CONTRIBUTING.md)
 
 ---
 
