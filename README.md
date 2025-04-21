@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/INTRO.png" alt="U N I V E R S E" width="100%" />
+  <img src="media/INTRO.png" alt="U N I V E R S E - UNIte to find consensus through the MetaVERSE" width="100%" />
 </p>
 
 
