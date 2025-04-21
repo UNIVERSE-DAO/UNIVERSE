@@ -4,6 +4,8 @@
 
 <br>
 
+<h3 align="center">The Ultimate Tool for Good &nbsp;&nbsp;&nbsp;to&nbsp;&nbsp;&nbsp;Master the Infinite Game</h3>
+<p align="center"><strong>Building, Decentralizing & Governing with Cipher Punk Ideology</strong></p>
 
 ## The Ultimate Tool for Good &nbsp;&nbsp;&nbsp;to &nbsp;&nbsp;&nbsp;Master the Infinite Game<br>
 #### Building, Decentralizing & Governing with Cipher Punk Ideology
