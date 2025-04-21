@@ -4,6 +4,22 @@ All notable changes to this project will be documented here.
 
 ---
 
+## [0.1.9] – 2025-04-21
+
+### ✅ CI Tooling Enhancement: Link Integrity Checker
+
+- 🧪 Added **GitHub Action for Markdown link validation** using [`lycheeverse/lychee-action`](https://github.com/lycheeverse/lychee-action)  
+- New file: `.github/workflows/link-check.yml`  
+- Automatically checks **all internal & external links** in Markdown files on every Pull Request  
+- Validates:
+  - Broken internal paths (e.g. missing `.md`, images, or folders)
+  - Dead external URLs (`404`, `400`, etc.)
+  - Local anchor references and HTML targets  
+- Clean output in GitHub Actions log with **per-file errors**  
+- Designed to support symbolic project logic while maintaining structural hygiene
+
+---
+
 [0.1.8] – 2025-04-11
 
 🔧 Structural & Content Enhancements
