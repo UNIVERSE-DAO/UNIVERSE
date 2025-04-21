@@ -39,7 +39,7 @@ Not just sovereignty — nested responsibility.
 ### 5. Layer Zer0 – Become the DAOIST  
 **“The journey is the UNIVERSE goal.”**  
 Participation isn’t permissionless code — it’s conscious alignment.  
-📍 [DAOIST.md](../0%20%23DAO%20-%20Layer%20Zero/DAOIST.md)
+📍 [DAOIST.md](../0%20DAO%20-%20Layer%20Zero/DAOIST.md)
 
 ---  
 <br>
@@ -87,7 +87,7 @@ Memes aren’t jokes. They’re symbolic vectors of moral energy.
 ### 11. GLOBIND  
 **“Globally Aligned in Morals and Ethics.”**  
 Still a mystery — but points to a future of moral interoperability.  
-📍 [MINDFORGER/](../2%2MINDFORGER/MINDFORGER.md)
+📍 [MINDFORGER/](../2%20MINDFORGER/MINDFORGER.md)
 
 ---  
 <br>
