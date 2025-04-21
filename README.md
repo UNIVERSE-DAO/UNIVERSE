@@ -6,7 +6,7 @@
 
 
 ## The Ultimate Tool for Good &nbsp;&nbsp;&nbsp;to &nbsp;&nbsp;&nbsp;Master the Infinite Game<br>
-### Building, Decentralizing & Governing with Cipher Punk Ideology
+#### Building, Decentralizing & Governing with Cipher Punk Ideology
 
 <br>
 
