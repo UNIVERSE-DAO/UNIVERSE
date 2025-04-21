@@ -79,7 +79,7 @@ Metrics reimagined — not for ego, but for ethical evolution.
 ### 10. Memes as Alignment  
 **“A meme is a mirror, a signal, a spark.”**  
 Memes aren’t jokes. They’re symbolic vectors of moral energy.  
-📍 [MEME.md](../1%20%23MEMES/MEMES.md)
+📍 [MEME.md](../1%20MEMES/MEMES.md)
 
 ---  
 <br>
@@ -87,7 +87,7 @@ Memes aren’t jokes. They’re symbolic vectors of moral energy.
 ### 11. GLOBIND  
 **“Globally Aligned in Morals and Ethics.”**  
 Still a mystery — but points to a future of moral interoperability.  
-📍 [MINDFORGER/](../MINDFORGER/MINDFORGER.md)
+📍 [MINDFORGER/](../2%2MINDFORGER/MINDFORGER.md)
 
 ---  
 <br>
