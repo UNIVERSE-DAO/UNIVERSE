@@ -1,4 +1,4 @@
-# MINDFORGER
+# MINDFORGER &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← [Return to the Portal to the Possible](../README.md#portal)</sub>
 
 _A Mirror for Moral Perception_  
 _A Narrative Teaser for the Need of “The Truth Engine”_
