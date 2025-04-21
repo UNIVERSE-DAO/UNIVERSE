@@ -1,1 +1,1 @@
-https://your-username.github.io/UNIVERSE/mindforger/index.html
+https://UNIVERSE-DAO.github.io/UNIVERSE/mindforger/index.html
