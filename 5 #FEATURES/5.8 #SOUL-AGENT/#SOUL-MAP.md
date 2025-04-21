@@ -31,6 +31,7 @@ A pattern of philosophical responsibility.
 | `GUIDE-STRUCTURE.md`    | 📘 Live       | ✅✅       | 🔹 Supplement  | Ritual File Naming |
 | `CHANGELOG.md`          | 📘 Live       | ⚠️         | —              | Exists, not symbol-aligned |
 | `MEMES.md`              | 📘 Live       | ✅✅       | 🔺 Shifter     | v0.1.0 — Memes-as-Meaning Protocol Layer |
+| `HIGHLIGHTS.md`         | 📘 Live       | ✅✅       | 🔹 Supplement  | v0.1.0 — Soul Verse Index |
 
 ---
 
