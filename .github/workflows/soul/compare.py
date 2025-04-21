@@ -1,53 +1,35 @@
 import json
-import sys
+from pathlib import Path
 
-# --- Load controlled list (from SOUL-AGENT)
+# Load controlled docs
 with open(".github/workflows/soul/.soul-controlled.json") as f:
-    controlled = json.load(f)["controlled"]
+    controlled = set(json.load(f)["controlled"])
 
-# --- Load changed files from git diff
+# Read changed files
 try:
     with open("changed.txt") as f:
-        changed = [line.strip() for line in f if line.strip()]
+        changed = set(line.strip() for line in f if line.strip())
 except FileNotFoundError:
-    changed = []
+    changed = set()
 
-# --- Check what's not yet tracked in SOUL-AGENT
-uncontrolled = [f for f in changed if f not in controlled]
+# Compare lists
+new_files = changed - controlled
+removed_from_control = controlled - changed
 
-if uncontrolled:
-    print("⚠️ Files changed but not tracked in SOUL-AGENT:")
-    for u in uncontrolled:
-        print(" -", u)
+# Output results
+print("\n📄 Changed Markdown Files:")
+print("\n".join(f" - {f}" for f in changed) if changed else " - None")
+
+print("\n📘 Controlled Files:")
+print("\n".join(f" - {f}" for f in controlled))
+
+if new_files:
+    print("\n⚠️ New/Untracked Files (not in SOUL-AGENT):")
+    for file in sorted(new_files):
+        print(f" - {file}")
 else:
-    print("✅ All updated .md files are already tracked in SOUL-AGENT.")
+    print("\n✅ All changed files are tracked in SOUL-AGENT.")
 
-# --- Check what's not reflected in SOUL-MAP.md
-# Manual list based on current SOUL-MAP.md entries
-soul_map_tracked = [
-    "README.md",
-    "MISSION.md",
-    "VISION.md",
-    "PHILOSOPHY.md",
-    "CONTRIBUTING.md",
-    "MANIFESTO.md",
-    "ROADMAP.md",
-    "GLOSSARY.md",
-    "LICENSE.md",
-    "MEMES.md",
-    "ARCHITECTURE.md",
-    "GUIDE-STRUCTURE.md",
-    "CHANGELOG.md"
-]
-
-missing_from_map = [f for f in changed if f not in soul_map_tracked]
-
-if missing_from_map:
-    print("\n📌 These changed files are not listed in `SOUL-MAP.md`:")
-    for m in missing_from_map:
-        print(" -", m)
-    print("📎 Consider updating the SOUL-MAP to reflect the symbolic state.\n")
-
-# Exit with error only if controlled check fails
-if uncontrolled:
-    sys.exit(1)
+# Exit with warning if untracked files exist
+if new_files:
+    exit(1)
