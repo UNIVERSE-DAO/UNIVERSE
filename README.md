@@ -116,12 +116,14 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 ## `WHITEPAPER Index - Portal to the Possible` <a name="portal"></a>
 
+> ### [HIGHLIGHTS – UNIque SOULSHAPER quotes, gems, poems and VERSE](docs/HIGHLIGHTS.md)  
+
 #### <u>Foundational Principles</u>  
 - [PHILOSOPHY – WHY](docs/PHILOSOPHY.md)  
 - [VISION – HOW](docs/VISION.md)  
 - [MISSION – WHAT](docs/MISSION.md)  
 - [BUIDL4 – WHO](docs/BUIDL4.md)  
-- [MEMES – Cultural Meaning](1%20%23MEMES/MEMES.md) 
+- [MEMES –  MEANING](1%20%23MEMES/MEMES.md) 
  
 
 #### Governance & Protocol Commitments
