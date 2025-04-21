@@ -68,7 +68,7 @@ it’s about witnessing the architecture of belief.
 
 ## Experience What GLOBIND Can Mean
 
-[Launch MINDFORGER — APP ↗](https://your-app-url.com](https://www.4rk.at/mindforger.html)
+[Launch MINDFORGER — APP ↗](https://www.4rk.at/mindforger.html)
 
 ---
 
