@@ -1,5 +1,4 @@
-# [MINDFORGER](../README.md#mindforger) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub><sub>← Return to the INDEX - PORTAL</sub></sub>
-
+# MINDFORGER
 
 _A Mirror for Moral Perception_  
 _A Narrative Teaser for the Need of “The Truth Engine”_
@@ -69,7 +68,7 @@ it’s about witnessing the architecture of belief.
 
 ## Experience What GLOBIND Can Mean
 
-[Launch MINDFORGER — APP ↗]([https://your-app-url.com](https://www.4rk.at/mindforger.html))
+[Launch MINDFORGER — APP ↗](https://your-app-url.com](https://www.4rk.at/mindforger.html)
 
 ---
 
