@@ -2,7 +2,7 @@
   <img src="media/UNIVERSE-DAO.png" alt="U N I V E R S E - UNIte to find consensus through the MetaVERSE" width="100%" />
 </p>
 
-
+<br>
 
 
 # **The Ultimate Tool for Good &nbsp;&nbsp;&nbsp;to &nbsp;&nbsp;&nbsp;Master the Infinite Game**<br>
