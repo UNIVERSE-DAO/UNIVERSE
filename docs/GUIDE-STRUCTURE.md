@@ -1,14 +1,8 @@
-Here is the updated full `STRUCTURE.md` reflecting the correct folder structure and naming:
-
----
-
 # 📂 STRUCTURE of UNIVERSE
 
 This document outlines the current folder and file structure of the UNIVERSE repository, including symbolic modules, protected folders, development placeholders, and system documentation.
 
 ---
-
-<br>
 
 ## Naming Conventions
 
@@ -19,8 +13,6 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | `README.md`             | 📘 Active — content live & indexed                                      |
 
 ---
-
-<br>
 
 ## UNIVERSE – Layered Project Map
 
@@ -41,82 +33,81 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 
 ---
 
-<br>
-
 ## Folder-by-Folder Overview
 
 | Path                           | Purpose                                                              |
 |--------------------------------|----------------------------------------------------------------------|
-| `.github/`                     | GitHub configuration and automation                                  |
-| └── `workflows/`               | CI/CD workflows                                                      |
+| `.github/workflows/`          | CI/CD, symbolic checks, link-verification                            |
 |                                |                                                                      |
-| `0 #DAO – Layer Zero/`         | Governance layer — identity, proposals, treasury, symbolic alignment |
-| ├── `0.1 contracts/`           | Smart contracts (protected or external)                              |
-| ├── `0.2 proposals/`           | DAO proposals, symbolic governance flows                             |
-| ├── `0.3 voting/`              | Voting integration and mechanism design                              |
-| ├── `0.4 treasury/`            | Funding flows and treasury logic                                     |
-| ├── `0.5 signature/`           | Contributor keys, co-sign logic, attestation rituals                 |
-| └── `DAOIST.md`                | Identity entry-point — alignment before contribution                 |
+| `0 DAO - Layer Zero/`         | Governance — identity, proposals, treasury, DAOIST alignment         |
+| ├── `0.1 contracts/`           | Smart contracts & symbolic core logic                                |
+| ├── `0.2 proposals/`           | Proposal archive and #UIP submissions                                |
+| ├── `0.3 voting/`              | Voting systems and mechanism logic                                   |
+| ├── `0.4 treasury/`            | Funding flows, allocations, treasury signal                          |
+| ├── `0.5 signature/`           | Signing intent, contributors, rituals                                |
+| └── `DAOIST.md`                | Ritual identity layer — the soul of contribution                     |
 |                                |                                                                      |
-| `1 #MEMES/`                    | Cultural ignition — memetic logic, symbolic onboarding               |
-| ├── `1.1 #MEMES/`              | Meme archive and symbolic assets                                     |
-| ├── `1.2 #MOMENTUM/`           | Virality, emotional alignment, rituals                               |
-| └── `MEMES.md`                 | Layer overview                                                       |
+| `1 MEMES/`                    | Cultural ignition and memetic field                                  |
+| ├── `1.1 MEMES/`               | Symbolic assets and resonance payloads (media, .html, .png)          |
+| │   ├── `media/`, `index.html`, `memology.html`, `memology.png`      |
+| │   ├── `mindforger.html`, `philosophy.html`, `verse-uni.png`        |
+| ├── `1.2 MOMENTUM/`           | Emotional tempo, viral clarity, onboarding rituals                   |
+| └── `MEMES.md`                 | Layer overview and memetic theory                                    |
 |                                |                                                                      |
-| `2 #MINDFORGER/`               | Ideology layer — vision, PMF insight, narrative refinement           |
-| └── `README.md`                | Intro to Mindforger layer                                            |
+| `2 MINDFORGER/`               | Ideological layer — from clarity to conviction                       |
+| ├── `MINDFORGER.md`           | Narrative primer and philosophical rehearsal                         |
+| ├── `MINDFORGER.html`, `main.js`, `content.js`                      |
 |                                |                                                                      |
-| `3 #INFRA/`                    | Infrastructure systems for sovereignty                               |
-| ├── `3.1 #INFRA1/`             | Hosted infra (bootstrapping)                                         |
-| ├── `3.2 #INFRA2/`             | Fully decentralized infra (future)                                   |
+| `3 #INFRA/`                   | Infrastructure for sovereignty                                       |
+| ├── `3.1 #INFRA1/`             | Bootstrapped hosted infrastructure                                   |
+| ├── `3.2 #INFRA2/`             | Decentralized node-hosted logic (future)                             |
 | └── `- README.md`              | Placeholder                                                          |
 |                                |                                                                      |
-| `4 #S-ID/`                     | Sovereign Identity modules                                           |
-| ├── `4.1 #SignUp1/`            | Web2-style login bridging into sovereignty                           |
-| ├── `4.2 #SignUp2/`            | zk-login, DIDs, fully sovereign onboarding                           |
+| `4 #S-ID/`                    | Identity path — from login to sovereignty                            |
+| ├── `4.1 #SignUp1/`            | Web2-based auth bridge                                               |
+| ├── `4.2 #SignUp2/`            | ZK-login and soul-based identity                                     |
 | └── `- README.md`              | Placeholder                                                          |
 |                                |                                                                      |
-| `5 #FEATURES/`                 | Verifiable service layers — metrics, logic, privacy                  |
-| ├── `5.1 #KPI/`                | Alignment metrics — zk-KPIs, telemetry                               |
-| ├── `5.2 #TTE/`                | The Truth Engine — rational decision layer                           |
-| ├── `5.3 #THG/`                | The Holy Grail — solver for human coordination problems              |
-| ├── `5.4 #PP/`                 | Protection Protocol — ethical defense mechanisms                     |
-| ├── `5.5 #SCRS/`               | Smart Compliance — privacy-preserving services                       |
-| ├── `5.6 #DSM/`                | Dark Side of the Moon — social media reconstruction                  |
-| ├── `5.7 #CPI/`                | Cipher Punk Ideology Index — roots and rationale                     |
-| ├── `5.8 #SOUL-AGENT/`         | Soul-based logging & narrative timestamping                          |
-| └── `README.md`                | Features layer overview                                              |
+| `5 #FEATURES/`               | Protocol logic: metrics, privacy, alignment                          |
+| ├── `5.1 #KPI/`                | Key Protocol Indicators (KPI) — with soul                            |
+| ├── `5.2 #TTE/`                | The Truth Engine — epistemic logic                                  |
+| ├── `5.3 #THG/`                | The Holy Grail — existential solver                                 |
+| ├── `5.4 #PP/`                 | Protection Protocol — ethical safety net                             |
+| ├── `5.5 #SCRS/`               | Smart Compliance — privacy-preserving governance                     |
+| ├── `5.6 #DSM/`                | Social reconstruction layer (Dark Side of the Moon)                  |
+| ├── `5.7 #CPI/`                | Cipher Punk Ideology — ethics tracking                              |
+| ├── `5.8 #SOUL-AGENT/`         | Soul-based logging, symbolic timestamping                           |
+| └── `README.md`                | Features index                                                       |
 |                                |                                                                      |
-| `6 #D-UI/`                     | Decentralized frontend shell                                         |
+| `6 #D-UI/`                    | Federated frontend shell — node-native UX                            |
 | └── `- README.md`              | Placeholder                                                          |
 |                                |                                                                      |
-| `backend/`                     | Backend service runner and API logic                                 |
+| `backend/`                    | API, runner services, core back logic                                |
 |                                |                                                                      |
-| `docs/`                        | Living system documentation and governance structure                 |
-| ├── `ARCHITECTURE.md`          | System layers and symbolic module overview                           |
-| ├── `ARCHIVE.md`               | Backup log and snapshot registry                                     |
-| ├── `BUIDL4.md`                | Who we build for — ethos, expression, soulmates                      |
-| ├── `CHANGELOG.md`             | Version log and protocol history                                     |
-| ├── `CONNECT.md`               | Contributor & ecosystem onboarding                                   |
-| ├── `GLOSSARY.md`              | Key terminology and symbolic vocabulary                              |
-| ├── `GUIDE-#SOULETHOS.md`      | Deep moral & spiritual grammar of the system                         |
-| ├── `GUIDE-BACKUP.md`          | Ritual naming and snapshot strategy                                  |
-| ├── `GUIDE-BRANCHING.md`       | Git flow: symbolic branches and fork logic                           |
-| ├── `GUIDE-COMMIT.md`          | Symbolic commit structure and message grammar                        |
-| ├── `GUIDE-STRUCTURE.md`       | Symbolic folder map and modular layout                               |
-| ├── `MANIFESTO.md`             | Foundational principles and social contract                          |
-| ├── `MISSION.md`               | The “What” — purpose, goals, and activation intent                   |
-| ├── `PHILOSOPHY.md`            | The “Why” — ethics, motivation, and narrative truth                  |
-| ├── `ROADMAP.md`               | Lunar phase-based evolution map: 🌒 → 🌓 → 🌕 → 🌑                  |
-| └── `VISION.md`                | The “How” — clarity, systems, and infinite game mindset              |
+| `docs/`                       | Ritual documentation and contributor grammar                         |
+| ├── `ARCHITECTURE.md`          | Layer system design + symbolic table                                 |
+| ├── `ARCHIVE.md`               | Snapshots, backups, and archival structure                           |
+| ├── `BUIDL4.md`                | Who we build for — souls, users, rebels                              |
+| ├── `CHANGELOG.md`             | Version history and ritual log                                       |
+| ├── `CONNECT.md`               | Contributor onboarding and collaboration flow                        |
+| ├── `GLOSSARY.md`              | Vocabulary, symbolic grammar                                         |
+| ├── `GUIDE-#SOULETHOS.md`      | Soul grammar, moral fabric of system                                 |
+| ├── `GUIDE-BACKUP.md`          | Ritualized file naming + snapshot rules                              |
+| ├── `GUIDE-BRANCHING.md`       | Git branching logic — symbolic + practical                           |
+| ├── `GUIDE-COMMIT.md`          | Symbolic commit structure & ritual commits                           |
+| ├── `GUIDE-STRUCTURE.md`       | This file — the full symbolic structure                              |
+| ├── `HIGHLIGHTS.md`            | Key quotes, verses, memetic gems                                     |
+| ├── `MANIFESTO.md`             | Foundational vows and ethical commitments                            |
+| ├── `MISSION.md`               | The "What" — action path and tool usage                              |
+| ├── `PHILOSOPHY.md`            | The "Why" — spiritual frame and values                               |
+| ├── `ROADMAP.md`               | Symbolic evolution: 🌒 → 🌕 → 🌑                                       |
+| └── `VISION.md`                | The "How" — systems thinking and design intention                    |
 |                                |                                                                      |
-| `CONTRIBUTING.md`              | How to contribute — roles, flow, values                              |
-| `LICENSE.md`                   | UNIVERSE.4ALL — A Ritual LICENSE for Symbolic Protocols              |
-| `README.md`                    | Entry point and ***Portal to the Possible*** (root-level)            |
+| `CONTRIBUTING.md`             | Contribution logic, spiritual alignment, how to begin                |
+| `LICENSE.md`                  | Ritual license — UNIVERSE.4ALL                                       |
+| `README.md`                   | Entry portal to the protocol                                         |
 
 ---
 
 > _UNIVERSE is a protocol of purpose — a structure of sovereignty and shared responsibility.  
 > You don’t just contribute. You shape a piece of the infinite._
-
-Let me know if you'd like this in a downloadable `.md` file too.
