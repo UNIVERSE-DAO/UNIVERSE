@@ -125,7 +125,6 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 - [BUIDL4 – WHO](docs/BUIDL4.md)  
 - [MEMES –  MEANING](1%20%23MEMES/MEMES.md) 
  
-
 #### Governance & Protocol Commitments
 - [DAO-MANIFESTO – What We Defend](docs/MANIFESTO.md)
 - [DAOIST – Layer Zero](0%20%23DAO%20-%20Layer%20Zero/DAOIST.md)   
