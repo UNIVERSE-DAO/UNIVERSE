@@ -1,13 +1,11 @@
-# MINDFORGER
+# [MINDFORGER](../README.md#mindforger) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to the INDEX - PORTAL</sub>
+
 
 _A Mirror for Moral Perception_  
 _A Narrative Teaser for the Need of “The Truth Engine”_
 
 **MINDFORGER** is an interactive cognitive experience that explores how meaning shifts depending on perspective.  
 It’s not just a storytelling engine — it’s a perceptual ritual, designed to help users feel their own framing before entering the realm of moral AI.
-
->[ ←Return to the Portal to the Possible](../README.md#portal)</sub></sub>
-
 
 ---
 
