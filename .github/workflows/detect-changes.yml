@@ -22,48 +22,48 @@ jobs:
 
       - name: Run if Markdown Changed
         if: steps.filter.outputs.markdown == 'true'
-        run: echo "Markdown files changed! Consider running SOUL-AGENT.md update."
+        run: echo "📘 Markdown files changed! Consider running SOUL-AGENT.md update."
 
   compare-controlled:
     needs: check-updates
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: 📥 Checkout repository
         uses: actions/checkout@v3
 
-      - name: Compare with .soul-controlled.json
+      - name: 🧠 Compare with .soul-controlled.json
         run: |
-          echo "🧠 Comparing with controlled list..."
-
+          echo "🔍 Detecting changed markdown files..."
           git fetch origin main
           git diff --name-only origin/main | grep '\.md$' > changed.txt || true
 
           echo "📂 Changed files:"
           cat changed.txt || echo "None"
 
-          echo "📘 Controlled:"
-          cat soul-agent/.soul-controlled.json
+          echo "🧬 Controlled list:"
+          cat '5 #FEATURES/5.8 #SOUL-AGENT/.soul-controlled.json'
 
           python3 - <<EOF
 import json
 import sys
 
-with open("soul-agent/.soul-controlled.json") as f:
-  controlled = json.load(f)["controlled"]
+controlled_path = "5 #FEATURES/5.8 #SOUL-AGENT/.soul-controlled.json"
+with open(controlled_path) as f:
+    controlled = json.load(f)["controlled"]
 
 try:
-  with open("changed.txt") as f:
-    changed = [line.strip() for line in f if line.strip()]
+    with open("changed.txt") as f:
+        changed = [line.strip() for line in f if line.strip()]
 except FileNotFoundError:
-  changed = []
+    changed = []
 
 uncontrolled = [f for f in changed if f not in controlled]
 
 if uncontrolled:
-  print("⚠️ Files changed but not tracked in SOUL-AGENT:")
-  for u in uncontrolled:
-    print(" -", u)
-  sys.exit(1)
+    print("⚠️  The following files changed but are NOT tracked in SOUL-AGENT:")
+    for u in uncontrolled:
+        print(" -", u)
+    sys.exit(1)
 else:
-  print("✅ All updated .md files are already tracked in SOUL-AGENT.")
+    print("✅ All updated .md files are already tracked in SOUL-AGENT.")
 EOF
