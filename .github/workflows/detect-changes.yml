@@ -1,0 +1,24 @@
+name: Detect Markdown Changes
+
+on:
+  pull_request:
+    paths:
+      - '**.md'
+
+jobs:
+  check-updates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Detect Markdown Changes
+        uses: dorny/paths-filter@v2
+        id: filter
+        with:
+          filters: |
+            markdown:
+              - '**.md'
+
+      - name: Run if Markdown Changed
+        if: steps.filter.outputs.markdown == 'true'
+        run: echo "Markdown files changed! Consider running SOUL-AGENT.md update."
