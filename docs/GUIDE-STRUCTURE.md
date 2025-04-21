@@ -1,3 +1,7 @@
+Here is the updated full `STRUCTURE.md` reflecting the correct folder structure and naming:
+
+---
+
 # 📂 STRUCTURE of UNIVERSE
 
 This document outlines the current folder and file structure of the UNIVERSE repository, including symbolic modules, protected folders, development placeholders, and system documentation.
@@ -26,7 +30,7 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | Layer | Folder                | Phase         | Meaning / Activation Layer                                               |
 |-------|-----------------------|---------------|---------------------------------------------------------------------------|
 | 0     | `#DAO – Layer Zero`   | 🌒 Phase 0    | Basic Social Consensus Layer — Root Governance                            |
-| 1     | `#MOMENTUM`           | 🌒 Phase 0    | Virality ignition, community rituals, memetic onboarding                  |
+| 1     | `#MEMES`              | 🌒 Phase 0    | Memetic ignition, culture transmission, symbolic onboarding               |
 | 2     | `MINDFORGER`          | 🌒 Phase 0    | Ideological refinement, PMF insight, narrative architecture               |
 | 3     | `#INFRA`              | 🌓 → 🌕        | Infra1 (hosted bootstrapping), Infra2 (decentralized infra modules)       |
 | 4     | `#S-ID`               | 🌓 → 🌕        | Sovereign Identity — from Web2 login to zk-auth & DIDs                    |
@@ -54,14 +58,13 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | ├── `0.5 signature/`           | Contributor keys, co-sign logic, attestation rituals                 |
 | └── `DAOIST.md`                | Identity entry-point — alignment before contribution                 |
 |                                |                                                                      |
-| `1 #MOMENTUM/`                 | Cultural ignition — virality, onboarding emotion                     |
-| ├── `#MEME/`                   | Meme archive and symbolic assets                                     |
-| └── `README.md`                | Layer overview                                                       |
+| `1 #MEMES/`                    | Cultural ignition — memetic logic, symbolic onboarding               |
+| ├── `1.1 #MEMES/`              | Meme archive and symbolic assets                                     |
+| ├── `1.2 #MOMENTUM/`           | Virality, emotional alignment, rituals                               |
+| └── `MEMES.md`                 | Layer overview                                                       |
 |                                |                                                                      |
 | `2 #MINDFORGER/`               | Ideology layer — vision, PMF insight, narrative refinement           |
-| ├── `README.md`                | Intro to Mindforger layer                                            |
-| ├── `index.html`               | Reflective prototype or story draft                                  |
-| └── `main.js, content.js`      | Interaction logic (placeholder)                                      |
+| └── `README.md`                | Intro to Mindforger layer                                            |
 |                                |                                                                      |
 | `3 #INFRA/`                    | Infrastructure systems for sovereignty                               |
 | ├── `3.1 #INFRA1/`             | Hosted infra (bootstrapping)                                         |
@@ -113,7 +116,7 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 
 ---
 
-<br>
-
 > _UNIVERSE is a protocol of purpose — a structure of sovereignty and shared responsibility.  
 > You don’t just contribute. You shape a piece of the infinite._
+
+Let me know if you'd like this in a downloadable `.md` file too.
