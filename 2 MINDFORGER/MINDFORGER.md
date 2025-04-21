@@ -1,4 +1,4 @@
-# [MINDFORGER](../README.md#mindforger) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to the INDEX - PORTAL</sub>
+# [MINDFORGER](../README.md#mindforger) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub><sub>← Return to the INDEX - PORTAL</sub></sub>
 
 
 _A Mirror for Moral Perception_  
