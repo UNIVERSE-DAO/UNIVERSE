@@ -87,7 +87,7 @@ Memes aren’t jokes. They’re symbolic vectors of moral energy.
 ### 11. GLOBIND  
 **“Globally Aligned in Morals and Ethics.”**  
 Still a mystery — but points to a future of moral interoperability.  
-📍 [MINDFORGER/](../2%20MINDFORGER/MINDFORGER.md)
+📍 [MINDFORGER.md](../2%20MINDFORGER/MINDFORGER.md)
 
 ---  
 <br>
