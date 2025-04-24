@@ -1,8 +1,8 @@
 ## Visit the Memetic Portal
 
-The site at [universe.meme](https://universe.meme) is built and hosted through 
+The site at [universe.meme](https://universe.meme)
 
-[GitHub Pages](https://pages.github.com), 
+is built and hosted through GitHub Pages
 
 maintained in the [`UNIVERSE.MEME`](https://github.com/UNIVERSE-MEME/UNIVERSE.MEME) repository.
 
