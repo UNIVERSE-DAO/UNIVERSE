@@ -62,7 +62,7 @@ We invite them to **build together**, signal clearly, and find one another **by 
 
 <br>
 
-## BUIDL4 : All Wokeness — Anchored in Wisdom
+## BUIDL4 : Freedom Anchored in Wisdom
 
 Yes, **all narratives are welcome**.  
 Yes, this is a place for radical self-expression and diverse identities.
@@ -103,18 +103,18 @@ If that resonates — you already belong.
 
 <br>
 
-## Open to All — Aligned with the Highest Purpose
+# BUIDL4All — Aligned with the Highest Purpose
 
-No one is excluded.  
-No belief system is too strange. No background too different.
+> _Invites everyone to build a future — rooted in truth, freedom, clarity, culture, sovereignty, and care._
 
-> **At any time, anyone can opt in** — to learn, to contribute, and to evolve alongside the mission.
+It means:
+- Everyone has a place  
+- Every contribution counts  
+- Tools must serve clarity, not control  
+- All roles are sacred — from coder to poet  
 
-You don’t need permission — just presence.  
-You don’t need credentials — just care.
-
-Whether you're contributing memes, protocols, rituals, code, or clarity —  
-you’re helping shape a system designed for **the highest purpose**:
+You don't need credentials — just care.  
+You don't need permission — just presence.
 
 
 <br>
