@@ -67,7 +67,7 @@ We invite them to **build together**, signal clearly, and find one another **by 
 Yes, **all narratives are welcome**.  
 Yes, this is a place for radical self-expression and diverse identities.
 
-But **clarity must still guide society**.
+But clarity must still guide society — within the MetaVERSE, where we prototype raw models, and above all, in the real world we are called to reengineer.
 
 > Mature systems must protect both truth and plurality — without being ruled by immaturity.
 
