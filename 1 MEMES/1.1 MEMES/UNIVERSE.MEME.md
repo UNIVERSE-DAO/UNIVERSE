@@ -1,6 +1,13 @@
-# Memetic Portal
+# [`www.universe.meme`](http://www.universe.meme) - The Memetic Portal
 
-### The live site at **[www.universe.meme](http://www.universe.meme)** is:
+> - **Built and hosted via GitHub Pages**
+> - **Maintained on GitHub [UNIVERSE-MEME](https://github.com/universe-meme/universe.meme/blob/main/README.md)** 
 
-- **Built and hosted via [GitHub Pages](https://pages.github.com)**
-- **Maintained in the `UNIVERSE.MEME`** GitHub repository
+---
+
+<br>
+
+##  Cultural Meaning of Memes
+
+![Cultural Meaning of Memes](memology.png)
+
