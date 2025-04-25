@@ -14,20 +14,23 @@
 # VISION  
 **How UNIVERSE Serves the Infinite Game**
 
----
-
-## Our Stand
-
-UNIVERSE is a **living design** —  
-not built to control people, but to coordinate them.  
+A **living protocol** — designed not to control, but to coordinate.  
 Not to centralize power, but to amplify clarity, care, and sovereignty.
 
-We believe systems should:
+Systems should:
 - Be legible to humans  
 - Be aligned with values  
-- Invite participation through meaning, not manipulation
+- Invite participation through meaning — not manipulation
 
 ---
+
+<br>
+
+<p align="center">
+  <img src="../media/VISION.png" alt="UNIVERSE System Map" width="75%" />
+</p>
+
+<br>
 
 ## Core Tenets
 
@@ -39,6 +42,8 @@ We believe systems should:
 6. **Memes-as-Protocol** — Symbols carry structure
 
 ---
+
+<br>
 
 ## What We're Composing
 
@@ -56,6 +61,8 @@ We are building:
 
 ---
 
+<br>
+
 ## A Vision That Evolves
 
 This isn’t a final form.  
@@ -66,6 +73,8 @@ If you build with care, code with conscience, or think in systems —
 
 ---
 
+<br>
+
 ## Contributing to the Vision
 
 This vision lives through participation.  
@@ -75,6 +84,8 @@ If it resonates — build, write, share, or protect.
 
 ---
 
+<br>
+
 ## Related Docs
 
 - [PHILOSOPHY – WHY](PHILOSOPHY.md)  
@@ -83,6 +94,7 @@ If it resonates — build, write, share, or protect.
 
 ---
 
+<br>
 
 **UNIVERSE**  
 Built to align clarity with power.  
