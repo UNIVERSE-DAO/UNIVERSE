@@ -80,4 +80,4 @@ UNIVERSE is an evolving protocol — built for those who resonate with sovereign
 
 **UNIVERSE**  
 Tools for clarity. Infrastructure for meaning.  
-An open protocol for those who choose to build the Infinite Game.
+UNIte to Master the Infinite Game through the MetaVERSE
