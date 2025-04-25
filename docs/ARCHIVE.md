@@ -45,8 +45,8 @@ Ensures continuity across platforms or sovereign storage.
 
 | Date       | Target Repo                | Source Branch | Stage              | Notes                                      |
 |------------|----------------------------|----------------|---------------------|---------------------------------------------|
-| 2025-04-19 | SHADOW-gitlab              | MAIN            | UNIVERSE-FULL-v0.1.2   | Synced via push to private GitLab repo      |
-
+| 2025-04-19 | SHADOW-GITHUB              | MAIN            | UNIVERSE-FULL-v0.1.2   | Synced via push to private GitLab repo      |
+| 2025-04-25 | SHADOW-GITHUB | main           | UNIVERSE-FULL-v0.1.3     | Shadow clone created via GitHub Import Tool
 ---
 
 ## 🧠 Why This Matters
