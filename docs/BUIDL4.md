@@ -122,7 +122,7 @@ You don't need permission — just presence.
 <div align="center">
 
 # ＵＮＩＶＥＲＳＥ  
-### **UNIte to find essential solutions with consensus through the MetaVERSE**
+### **UNIte to find solutions and reverse-engineer societies through the MetaVERSE**
 
 > _If this resonates — you’re already part of it._
 
