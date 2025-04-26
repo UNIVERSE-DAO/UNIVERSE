@@ -68,7 +68,8 @@ Because in UNIVERSE — they do.
 > They are the soul speaking in symbols.
 
 <br>
-> [⇦ Portal of Possible](../README.md)
+
+[⇦ Return to Portal of Possible](../README.md#portal)
 
 
 
