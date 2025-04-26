@@ -306,7 +306,7 @@ It’s a mirror of moral cognition — a **teaser into alignment**,
 and an invitation to explore what it means to be **GLOBIND**:  
 *Globally Aligned in Morals and Ethics.*
 
-> Try the experience: [`MINDFORGER-APP`](https://www.4rk.at/mindforger.html) — where alignment begins within.
+> Try the experience: [`MINDFORGER-APP`](https://www.universe.meme/mindforger.html) — where alignment begins within.
 
 ---
 
