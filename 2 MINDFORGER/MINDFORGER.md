@@ -10,6 +10,16 @@ It’s not just a storytelling engine — it’s a perceptual ritual, designed t
 
 <br>
 
+## Experience What GLOBIND Can Mean — or continue reading about the Purpose
+
+[Launch MINDFORGER — APP ↗](https://www.universe.meme/mindforger.html)
+
+> _GLOBIND = Globally Aligned in Morals and Ethics_
+
+---
+
+<br>
+
 ## Purpose
 
 To help users reflect before they decide.  
@@ -61,14 +71,6 @@ not to prescribe, but to expose how cognition bends.
 
 This isn’t about “right” or “wrong” —  
 it’s about witnessing the architecture of belief.
-
----
-
-<br>
-
-## Experience What GLOBIND Can Mean
-
-[Launch MINDFORGER — APP ↗](https://www.universe.meme/mindforger.html)
 
 ---
 
