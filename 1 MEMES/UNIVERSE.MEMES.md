@@ -56,13 +56,26 @@ _An invitation to remember, remix, and align — through story, humor, clarity, 
 
 <br>
 
-## [The MOMENTUM Engine](1.3%20MOMENTUM.md)
+## The MOMENTUM Engine — Coming Soon
+> _Currently being developed at [UNIVERSE-MEME/MOMENTUM](https://github.com/UNIVERSE-MEME/MOMENTUM)_
 
-A resonance engine for memetic coordination.  
-Not a task board — a pulse amplifier.
+<br>
 
-It listens to energy, intention, and alignment —  
+### MOMENTUM is the hidden pulse of UNIVERSE:
+
+A **living cultural engine** blending **memes + rituals + sovereignty** into a new form of collective movement.
+
+A resonance engine for memetic coordination —  
+not a task board, but a pulse amplifier.
+
+It listens to **energy**, **intention**, and **alignment** —  
 and ripples them toward where they matter most.
+
+<br>
+
+> MOMENTUM is not launched.  
+> MOMENTUM is ignited.
+
 
 ---
 
