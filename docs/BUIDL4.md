@@ -162,7 +162,7 @@ _A symbolic map from culture to code to consensus._
 - [PHILOSOPHY – The Why](PHILOSOPHY.md)  
 - [VISION – The How](VISION.md)  
 - [MISSION – The What](MISSION.md)
-- [LICENSE – UNIVERSE.4ALL](LICENSE.md)
+- [LICENSE – UNIVERSE.4ALL](../LICENSE.md)
 
 ---
 
