@@ -48,11 +48,9 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | └── `DAOIST.md`                | Ritual identity layer — the soul of contribution                     |
 |                                |                                                                      |
 | `1 MEMES/`                    | Cultural ignition and memetic field                                  |
-| ├── `1.1 MEMES/`               | Symbolic assets and resonance payloads (media, .html, .png)          |
-| │   ├── `media/`, `index.html`, `memology.html`, `memology.png`      |
-| │   ├── `mindforger.html`, `philosophy.html`, `verse-uni.png`        |
-| ├── `1.2 MOMENTUM/`           | Emotional tempo, viral clarity, onboarding rituals                   |
-| └── `MEMES.md`                 | Layer overview and memetic theory                                    |
+| ├── `1.1 MEMES-README.md`       | Entry to the Memetic Field — overview and purpose                   |
+| ├── `1.2 MEME-PORTAL.md`        | Deep dive into symbolic culture and alignment                       |
+| ├── `1.3 MOMENTUM.md`           | Emotional tempo, memetic ignition, viral resonance                  |
 |                                |                                                                      |
 | `2 MINDFORGER/`               | Ideological layer — from clarity to conviction                       |
 | ├── `MINDFORGER.md`           | Narrative primer and philosophical rehearsal                         |
