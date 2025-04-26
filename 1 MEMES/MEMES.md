@@ -38,7 +38,7 @@ They are **semiotic carriers of alignment**.
 ---  
 <br>
 
-## UNIVERSE.MEME
+## [UNIVERSE.MEME](UNIVERSE.MEME.md) 
 
 The portal to the protocol's soul.  
 An invitation to remember, remix, and align —  
@@ -50,7 +50,7 @@ through story, humor, clarity, and care.
 ---  
 <br>
 
-## The MOMENTUM Engine (coming soon)
+## [The MOMENTUM Engine](MOMENTUM.md)  
 
 A resonance engine for memetic coordination.  
 Not a task board — a pulse amplifier.
@@ -66,3 +66,9 @@ Because in UNIVERSE — they do.
 
 > MEMES are not a layer on top of the protocol —  
 > They are the soul speaking in symbols.
+
+<br>
+> [⇦ Portal of Possible](../README.md)
+
+
+
