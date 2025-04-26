@@ -14,7 +14,7 @@ This isn’t a startup. It’s a civilizational alignment mission — truth, tru
 ### 2. The Reason Before the Code  
 **“The Soul beneath the System. The Motivation behind the Mission. The Reason before the Code.”**  
 Every tool begins with truth — not tokens.  
-📍 [README.md](../README.md), [PHILOSOPHY.md](PHILOSOPHY.md)
+📍 [README.md](../README.md)
 
 ---  
 <br>
