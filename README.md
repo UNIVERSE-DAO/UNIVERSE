@@ -4,8 +4,9 @@
 
 
 <h3 align="center">The Ultimate Tech for Good &nbsp;&nbsp;&nbsp;to&nbsp;&nbsp;&nbsp;Master the Infinite Game</h3>
-<p align="center"><strong>Building, Decentralizing & Governing with Cipher Punk Ideology</strong></p>
+<p align="center"><sub><strong>Building, Decentralizing & Governing — Rooted in Cypherpunk Ethos</strong></sub></p>
 
+<br>
 <br>
 <br>
 
