@@ -70,7 +70,7 @@ COMUD isn't performance. It's presence.
 ### 9. Memes as Alignment  
 **“A meme is a mirror, a signal, a spark.”**  
 Memes aren’t jokes. They’re symbolic vectors of moral energy.  
-📍 [MEMES.md](../1%20MEMES/MEMES.md)
+📍 [MEMES.md](../1%20MEMES/MEMES.md)  
 
 ---  
 <br>
