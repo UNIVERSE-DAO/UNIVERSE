@@ -28,15 +28,14 @@ The UNIVERSE begins not with tech, but with a dilemma, a verse, and a reason to 
 ---  
 <br>
 
-### 4. The 7 Layers of Responsibility  
-| Self → Family → Community → Society → Nation → Humanity → UNIVERSE |  
-Not just sovereignty — nested responsibility.  
-📍 [PHILOSOPHY.md](PHILOSOPHY.md)
+### 4. You Don’t Join — You Resonate  
+**“If this resonates — you already belong.”**  
+📍 [README.md](../README.md)
 
 ---  
 <br>
 
-### 5. Layer Zer0 – Become the DAOIST  
+### 5. Layer Zer0 – Become a DAOIST  
 **“The journey is the UNIVERSE goal.”**  
 Participation isn’t permissionless code — it’s conscious alignment.  
 📍 [DAOIST.md](../0%20DAO%20-%20Layer%20Zero/DAOIST.md)
@@ -55,28 +54,20 @@ Code is welcome — soul is required.
 ### 7. The Truth Engine & The Holy Grail  
 **TTE** = Rational choice in AI alignment  
 **THG** = Shared truth for solving existential problems  
-If this works, it’s a spiritual firewall for civilization.  
+The spiritual firewall for civilization.  
 📍 [MISSION.md](MISSION.md)
 
 ---  
 <br>
 
-### 8. KPIs with Soul  
-**“Clarity over clicks. Depth over DAUs. Alignment over virality.”**  
-Metrics reimagined — not for ego, but for ethical evolution.  
-📍 [MISSION.md](MISSION.md)
+### 8. You’re not expected to be fine. You’re invited to be true. 
+COMUD isn't performance. It's presence.  
+📍 [`COMUD.md`](../4%20D-UI/4.4%20COMUD.md)
 
 ---  
 <br>
 
-### 9. Contribution = Spiritual Infrastructure  
-**“Whether you contribute memes, code, or rituals — you shape the Infinite Game.”**  
-📍 [BUIDL4.md](BUIDL4.md)
-
----  
-<br>
-
-### 10. Memes as Alignment  
+### 9. Memes as Alignment  
 **“A meme is a mirror, a signal, a spark.”**  
 Memes aren’t jokes. They’re symbolic vectors of moral energy.  
 📍 [MEMES.md](../1%20MEMES/MEMES.md)
@@ -84,7 +75,7 @@ Memes aren’t jokes. They’re symbolic vectors of moral energy.
 ---  
 <br>
 
-### 11. GLOBIND  
+### 10. GLOBIND  
 **“Globally Aligned in Morals and Ethics.”**  
 Still a mystery — but points to a future of moral interoperability.  
 📍 [MINDFORGER.md](../2%20MINDFORGER/MINDFORGER.md)
@@ -92,12 +83,6 @@ Still a mystery — but points to a future of moral interoperability.
 ---  
 <br>
 
-### 12. You Don’t Join — You Resonate  
-**“If this resonates — you already belong.”**  
-📍 [README.md](../README.md)
-
----  
-<br>
 
 ### THE Hidden GEM – (currently protected)  
 >The **VISION** & **MISSION** is not metaphoric.  
