@@ -62,7 +62,7 @@ The spiritual firewall for civilization.
 
 ### 8. You’re not expected to be fine. You’re invited to be true. 
 COMUD isn't performance. It's presence.  
-📍 [`COMUD.md`](../4%20D-UI/4.4%20COMUD.md)
+📍 [COMUD.md](../4%20D-UI/4.4%20COMUD.md)
 
 ---  
 <br>
