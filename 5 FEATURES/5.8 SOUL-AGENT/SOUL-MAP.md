@@ -20,11 +20,14 @@ _A living audit of the symbolic structure of UNIVERSE — tracking the state, ph
 | `#TTE/`                 | 🔐 Protected  | 🔗✅       | 🔹 Supplement  | Logic inferred from MISSION |
 | `#THG/`                 | 🔐 Protected  | 🔗✅       | 🔹 Supplement  | Holy Grail architecture |
 | `#PP/`                  | 🔐 Protected  | 🔗✅       | 🔹 Supplement  | Protection/Prevention logic |
-| `#KPI/`                 | 📘 Live       | ✅✅       | 🔹 Supplement  | v0.1.0 — Soulful Metrics |
 | `ARCHITECTURE.md`       | 📘 Live       | ✅✅       | 🔹 Supplement  | Modular Overview |
 | `ROADMAP.md`            | 📘 Live       | ✅✅       | 🔸 Clarifier   | v0.1.1 — Lunar Phase Structure |
 | `GLOSSARY.md`           | 📘 Live       | ✅✅       | 🔸 Clarifier   | v0.1.1 — Codified Symbol Grammar |
 | `GUIDE-STRUCTURE.md`    | 📘 Live       | ✅✅       | 🔹 Supplement  | Ritual File Naming |
+| `GUIDE.md`              | 📘 Live       | ✅✅       | 🔸 Clarifier   | v0.1.0 — Ethical Navigation Layer |
+| `VOW.md`                | 📘 Live       | ✅✅       | 🔺 Shifter     | v0.1.0 — Spiritual Commitment Protocol |
+| `SUCCESS.md`            | 📘 Live       | ✅✅       | 🔹 Supplement  | v0.1.0 — Redefining Success by Soul Alignment |
+| `EQUILIBRIUM.md`        | 📘 Live       | ✅✅       | 🔸 Clarifier   | v0.1.0 — Balance Between Rituals and Results |
 | `CHANGELOG.md`          | 📘 Live       | ⚠️         | —              | Exists, not symbol-aligned |
 | `MEMES.md`              | 📘 Live       | ✅✅       | 🔺 Shifter     | v0.1.0 — Memes-as-Meaning Protocol Layer |
 | `HIGHLIGHTS.md`         | 📘 Live       | ✅✅       | 🔹 Supplement  | v0.1.0 — Soul Verse Index |
