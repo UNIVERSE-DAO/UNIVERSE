@@ -41,17 +41,17 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 |                                |                                                                      |
 | `0 DAO - Layer Zero/`          | Governance: root contracts, proposals, voting, signatures           |
 | ├── `0.1 contracts/`           | Core smart contracts                                                |
-| ├── `0.2 proposals/`           | Proposal system (UIP placeholders)                                 |
+| ├── `0.2 proposals/`           | Mechanism for evolving the protocol                                 |
 | ├── `0.3 voting/`              | Voting logic                                                        |
 | ├── `0.4 treasury/`            | Treasury flows and funding logic                                   |
 | ├── `0.5 signature/`           | Ritual signing, contributor intent                                 |
 | └── `DAOIST.md`                | Ritual identity, social consensus root (Layer Zer0)                 |
 |                                |                                                                      |
 | `1 MEMES/`                     | Memetic ignition, symbolic onboarding                               |
-| └── `MEMES.md`                 | Memes-as-Movement philosophy                                        |
+| └── `MEMES.md`                 | Memes-as-OS Movement                                                |
 |                                |                                                                      |
 | `2 MINDFORGER/`                | Narrative reflection layer                                          |
-| ├── `MINDFORGER.md`            | Narrative reflections, PMF frame                                    |
+| ├── `MINDFORGER.md`            | The need for Rational AI Alignment                                  |
 | ├── `content.js`               | Dynamic content for Mindforger app                                  |
 | ├── `main.js`                  | Main logic for interactive mirror                                   |
 | └── `mindforger.html`          | Deployment HTML shell                                               |
@@ -61,25 +61,24 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | ├── `3.2 #INFRA2/`             | Fully decentralized infra                                           |
 | ├── `3.3 #SignUp1/`            | Web2-compatible login bridge                                        |
 | ├── `3.4 #SignUp2/`            | zk-auth enabled sovereign ID systems                                |
-| └── `- README.md`              | Placeholder                                                         |
-|                                |                                                                      |
-| `4 D-UI/`                      | Federated symbolic user interface                                   |
-| ├── `4.0 INTRO.md`             | Overview of symbolic pillars                                        |
+|                                |                                                                     |
+| `4 D-UI/`                      | Federated user interface                                            |
+| ├── `4.0 INTRO.md`             | Overview of the pillars of the Future                               |
 | ├── `4.1 COMMON.md`            | Moral compass                                                       |
-| ├── `4.2 VOW.md`               | Ritual of responsibility                                            |
+| ├── `4.2 VOW.md`               | Layers of Responsibility                                            |
 | ├── `4.3 GUIDE.md`             | Civic alignment logic                                               |
 | ├── `4.4 COMUD.md`             | Well-being / Inner Coherence                                        |
 | ├── `4.5 SUCCESS.md`           | Meaning / Social sensing                                            |
 | └── `4.6 EQUILIBRIUM.md`       | Economic balance layer                                              |
-|                                |                                                                      |
+|                                |                                                                     |
 | `5 FEATURES/`                  | Symbolic protocol systems                                           |
-| ├── `5.1 #DEMO/`               | Key Purpose Indicators (KPI logic)                                  |
+| ├── `5.1 #DEMO/`               | BEST PRACTICE                                                       |
 | ├── `5.2 #TTE/`                | The Truth Engine                                                    |
-| ├── `5.3 #THG/`                | The Holy Grail — solution logic                                     |
-| ├── `5.4 #PP/`                 | Prevention and Protection                                           |
+| ├── `5.3 #THG/`                | The Holy Grail                                                      |
+| ├── `5.4 #PP/`                 | Protection Protocol                                                 |
 | ├── `5.5 #SCRS/`               | Smart Compliance & Resilient Systems                                |
-| ├── `5.6 #DSM/`                | Dark Side of the Moon — DAO rehab                                   |
-| ├── `5.7 #CPI/`                | Cipherpunk Integrity                                                |
+| ├── `5.6 #DSM/`                | Dark Side of the Moon — fixing Social Media                                               |
+| ├── `5.7 #CPI/`                | Cipherpunk Ideology                                                 |
 | └── `5.8 SOUL-AGENT/`          | Soul reflections & symbolic audit                                   |
 |     ├── `#SOUL-AGENT.md`       | Memory reflections                                                  |
 |     ├── `SOUL-ETHOS.md`        | Public philosophical expression                                     |
