@@ -34,87 +34,92 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 
 ## Structure Breakdown
 
-| `0 DAO - Layer Zero/`         | Governance root layer                                                 |
-| ├── `0.1 contracts/`          | Smart contracts                                                       |
-| ├── `0.2 proposals/`          | UIPs and governance signals                                           |
-| ├── `0.3 voting/`             | Voting logic                                                          |
-| ├── `0.4 treasury/`           | Treasury flows and rules                                              |
-| ├── `0.5 signature/`          | Contributor intent and ritual signing                                 |
-| └── `DAOIST.md`               | DAOist primer and Layer Zer0 root                                     |
-|                               |                                                                       |
-| `1 MEMES/`                    | Memetic ignition, symbolic onboarding                                 |
-| └── `MEMES.md`                | Memes-as-Movement philosophy                                          |
-|                               |                                                                       |
-| `2 MINDFORGER/`               | Ideological sandbox and mirror                                        |
-| ├── `MINDFORGER.md`           | Narrative reflections                                                 |
-| ├── `content.js`              | Dynamic story content                                                 |
-| ├── `main.js`                 | Mirror logic engine                                                   |
-| └── `mindforger.html`         | Deployment shell                                                      |
-|                               |                                                                       |
-| `3 SOVERN/`                   | Sovereign Infra & ID layers                                           |
-| ├── `3.1 #INFRA1/`            | Hosted infra systems                                                  |
-| ├── `3.2 #INFRA2/`            | Decentralized infra system                                            |
-| ├── `3.3 #SignUp1/`           | Web2-compatible signup bridge                                         |
-| ├── `3.4 #SignUp2/`           | zk-auth ID systems                                                    |
-| └── `- README.md`             | Placeholder                                                           |
-|                               |                                                                       |
-| `4 D-UI/`                     | Federated symbolic UI shell                                           |
-| ├── `4.0 INTRO.md`            | D-UI system intro                                                     |
-| ├── `4.1 COMMON.md`           | Moral compass                                                         |
-| ├── `4.2 VOW.md`              | Ritual of responsibility                                              |
-| ├── `4.3 GUIDE.md`            | Civic alignment layer                                                 |
-| ├── `4.4 COMUD.md`            | Inner coherence (mirror of well-being)                               |
-| ├── `4.5 SUCCESS.md`          | Pulse of meaning / social sensing                                     |
-| └── `4.6 EQUILIBRIUM.md`      | Symbolic economic balance                                             |
-|                               |                                                                       |
-| `5 FEATURES/`                 | Symbolic protocol logic modules                                       |
-| ├── `5.1 #DEMO/`              | KPIs / Key Purpose Indicators                                         |
-| ├── `5.2 #TTE/`               | The Truth Engine                                                      |
-| ├── `5.3 #THG/`               | The Holy Grail                                                        |
-| ├── `5.4 #PP/`                | Prevention and Protection                                             |
-| ├── `5.5 #SCRS/`              | Smart Compliance and Resilient Systems                               |
-| ├── `5.6 #DSM/`               | Dark Side of the Moon                                                 |
-| ├── `5.7 #CPI/`               | Cipherpunk Integrity                                                  |
-| └── `5.8 SOUL-AGENT/`         | Soul-mapping, brand compression, inner proof                          |
-|     ├── `#SOUL-AGENT.md`      | Memory reflections                                                    |
-|     ├── `SOUL-ETHOS.md`       | Ethos expression                                                      |
-|     ├── `SOUL-BRIEF.md`       | Brand soul compression                                                |
-|     └── `SOUL-MAP.md`         | Symbolic soul map                                                     |
-|                               |                                                                       |
-| `backend/`                    | API infrastructure and runner logic                                  |
-| └── `package.json`            | Runtime environment config                                            |
-|                               |                                                                       |
-| `docs/`                       | Living documentation and contributor tools                           |
-| ├── `ARCHITECTURE.md`         | Layer system mapping                                                  |
-| ├── `ARCHIVE.md`              | Snapshots and backups                                                 |
-| ├── `BUIDL4.md`               | Ethos and contributor pledge                                          |
-| ├── `CHANGELOG.md`            | Iteration log                                                         |
-| ├── `CONNECT.md`              | Join paths and rituals                                                |
-| ├── `GLOSSARY.md`             | Symbolic grammar                                                      |
-| ├── `GUIDE-#SOULETHOS.md`     | Brand soul definition                                                 |
-| ├── `GUIDE-BACKUP.md`         | Backup and file ritual                                                |
-| ├── `GUIDE-BRANCHING.md`      | Git branching strategy                                                |
-| ├── `GUIDE-COMMIT.md`         | Symbolic commit flow                                                  |
-| ├── `GUIDE-STRUCTURE.md`      | This structure doc                                                    |
-| ├── `HIGHLIGHTS.md`           | Verse gems                                                            |
-| ├── `MANIFESTO.md`            | Foundational intent                                                   |
-| ├── `MISSION.md`              | Mission articulation                                                  |
-| ├── `PHILOSOPHY.md`           | Core metaphysics                                                      |
-| ├── `ROADMAP.md`              | Symbolic emergence phases                                             |
-| └── `VISION.md`               | System design and Infinite Game                                       |
-|                               |                                                                       |
-| `media/`                      | Visual and memetic symbols                                            |
-| ├── `UNIVERSE-DAO.png`        | DAO visual                                                            |
-| ├── `UNIVERSE.png`            | Main system logo                                                      |
-| ├── `VISION.png`              | Design philosophy image                                               |
-| ├── `memology.png`            | Meme ignition                                                        |
-| ├── `universe-favicon.ico`    | Browser icon                                                          |
-| ├── `universe.mp4`            | Intro video                                                           |
-| └── `verse-uni.png`           | Verse-based map                                                       |
-|                               |                                                                       |
-| `CONTRIBUTING.md`             | Contribution path                                                     |
-| `LICENSE.md`                  | Ritual license: UNIVERSE.4ALL                                         |
-| `README.md`                   | 📘 Portal to the Possible: Living WHITEPAPER                           |
+| Path                           | Purpose                                                              |
+|--------------------------------|----------------------------------------------------------------------|
+| `.github/workflows/`           | CI/CD, link checking (`ci-cd.yml`, `link-check.yml`)                 |
+| `.gitignore`                   | Ignore build, backup, node_modules, secret files                    |
+|                                |                                                                      |
+| `0 DAO - Layer Zero/`          | Governance: root contracts, proposals, voting, signatures           |
+| ├── `0.1 contracts/`           | Core smart contracts                                                |
+| ├── `0.2 proposals/`           | Proposal system (UIP placeholders)                                 |
+| ├── `0.3 voting/`              | Voting logic                                                        |
+| ├── `0.4 treasury/`            | Treasury flows and funding logic                                   |
+| ├── `0.5 signature/`           | Ritual signing, contributor intent                                 |
+| └── `DAOIST.md`                | Ritual identity, social consensus root (Layer Zer0)                 |
+|                                |                                                                      |
+| `1 MEMES/`                     | Memetic ignition, symbolic onboarding                               |
+| └── `MEMES.md`                 | Memes-as-Movement philosophy                                        |
+|                                |                                                                      |
+| `2 MINDFORGER/`                | Narrative reflection layer                                          |
+| ├── `MINDFORGER.md`            | Narrative reflections, PMF frame                                    |
+| ├── `content.js`               | Dynamic content for Mindforger app                                  |
+| ├── `main.js`                  | Main logic for interactive mirror                                   |
+| └── `mindforger.html`          | Deployment HTML shell                                               |
+|                                |                                                                      |
+| `3 SOVERN/`                    | Sovereign Infrastructure & Identity                                 |
+| ├── `3.1 #INFRA1/`             | Hosted bootstrap systems                                            |
+| ├── `3.2 #INFRA2/`             | Fully decentralized infra                                           |
+| ├── `3.3 #SignUp1/`            | Web2-compatible login bridge                                        |
+| ├── `3.4 #SignUp2/`            | zk-auth enabled sovereign ID systems                                |
+| └── `- README.md`              | Placeholder                                                         |
+|                                |                                                                      |
+| `4 D-UI/`                      | Federated symbolic user interface                                   |
+| ├── `4.0 INTRO.md`             | Overview of symbolic pillars                                        |
+| ├── `4.1 COMMON.md`            | Moral compass                                                       |
+| ├── `4.2 VOW.md`               | Ritual of responsibility                                            |
+| ├── `4.3 GUIDE.md`             | Civic alignment logic                                               |
+| ├── `4.4 COMUD.md`             | Well-being / Inner Coherence                                        |
+| ├── `4.5 SUCCESS.md`           | Meaning / Social sensing                                            |
+| └── `4.6 EQUILIBRIUM.md`       | Economic balance layer                                              |
+|                                |                                                                      |
+| `5 FEATURES/`                  | Symbolic protocol systems                                           |
+| ├── `5.1 #DEMO/`               | Key Purpose Indicators (KPI logic)                                  |
+| ├── `5.2 #TTE/`                | The Truth Engine                                                    |
+| ├── `5.3 #THG/`                | The Holy Grail — solution logic                                     |
+| ├── `5.4 #PP/`                 | Prevention and Protection                                           |
+| ├── `5.5 #SCRS/`               | Smart Compliance & Resilient Systems                                |
+| ├── `5.6 #DSM/`                | Dark Side of the Moon — DAO rehab                                   |
+| ├── `5.7 #CPI/`                | Cipherpunk Integrity                                                |
+| └── `5.8 SOUL-AGENT/`          | Soul reflections & symbolic audit                                   |
+|     ├── `#SOUL-AGENT.md`       | Memory reflections                                                  |
+|     ├── `SOUL-ETHOS.md`        | Public philosophical expression                                     |
+|     ├── `SOUL-BRIEF.md`        | Brand soul compression                                              |
+|     └── `SOUL-MAP.md`          | Symbolic audit map                                                  |
+|                                |                                                                      |
+| `backend/`                     | APIs, runners, bridge services                                      |
+| └── `package.json`             | Backend environment/package control                                 |
+|                                |                                                                      |
+| `docs/`                        | Living documentation and contributor tools                          |
+| ├── `ARCHITECTURE.md`          | Layer system mapping                                                |
+| ├── `ARCHIVE.md`               | Backup and snapshot tracking                                        |
+| ├── `BUIDL4.md`                | Contributor ethos philosophy                                        |
+| ├── `CHANGELOG.md`             | Version and evolution tracking                                      |
+| ├── `CONNECT.md`               | Participation and contributor pathways                              |
+| ├── `GLOSSARY.md`              | Symbol grammar definitions                                          |
+| ├── `GUIDE-#SOULETHOS.md`      | Brand Soul guide                                                    |
+| ├── `GUIDE-BACKUP.md`          | Backup naming and rituals                                           |
+| ├── `GUIDE-BRANCHING.md`       | Git branching symbolic map                                          |
+| ├── `GUIDE-COMMIT.md`          | Commit messages symbolic flow                                       |
+| ├── `GUIDE-STRUCTURE.md`       | This file — overview of all structure                               |
+| ├── `HIGHLIGHTS.md`            | Key verse, gems, and symbolic flashes                               |
+| ├── `MANIFESTO.md`             | UNIVERSE DAO foundational vows                                      |
+| ├── `MISSION.md`               | Mission articulation (what we protect and build)                    |
+| ├── `PHILOSOPHY.md`            | Core existential philosophical framing                              |
+| ├── `ROADMAP.md`               | Phases and modular emergence plan                                   |
+| └── `VISION.md`                | Systems design, Infinite Game alignment                             |
+|                                |                                                                      |
+| `media/`                       | Visual symbolic assets                                              |
+| ├── `UNIVERSE-DAO.png`         | DAO visual banner                                                   |
+| ├── `UNIVERSE.png`             | Core system logo                                                    |
+| ├── `VISION.png`               | Vision diagram                                                      |
+| ├── `memology.png`             | Memetic ignition visual                                             |
+| ├── `universe-favicon.ico`     | Favicon                                                             |
+| ├── `universe.mp4`             | Video intro (optional)                                              |
+| └── `verse-uni.png`            | Verse-based visual soul map                                         |
+|                                |                                                                      |
+| `CONTRIBUTING.md`              | Contribution path and how to join                                   |
+| `LICENSE.md`                   | Ritual license: UNIVERSE.4ALL                                       |
+| `README.md`                    | Portal to the Possible: Living WHITEPAPER                           |
 
 ---
 
