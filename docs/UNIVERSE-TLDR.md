@@ -22,7 +22,7 @@
 ---
 > TTLDR complete — Now you’re curious !
 >
-> **Explore the Pillars of the UNIVERSE:** 
+> **Explore the Pillars of the UNIVERSE :** 
 >
 > [COMMON](../4%20D-UI/4.1%20COMMON.md)  
 > [VOW](../4%20D-UI/4.2%20VOW.md)  
