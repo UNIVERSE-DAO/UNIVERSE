@@ -134,7 +134,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 <br>
 
 **Pillars of Human Progress**<br>
-- [INTRO – Pillars of Human Progress](4%20D-UI/0%20INTRO.md)  
+- [INTRO – Pillars of Human Progress](4%20D-UI/4.0%20INTRO.md)  
 - [COMMON – The Moral Compass](4%20D-UI/4.1%20COMMON.md)  
 - [VOW – The Ethical Core](4%20D-UI/4.2%20VOW.md)  
 - [GUIDE – The Navigation Protocol](4%20D-UI/4.3%20GUIDE.md)  
