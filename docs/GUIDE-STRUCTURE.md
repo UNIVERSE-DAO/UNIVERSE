@@ -105,6 +105,7 @@ This document outlines the current folder and file structure of the UNIVERSE rep
 | ├── `MISSION.md`               | Mission articulation (what we protect and build)                    |
 | ├── `PHILOSOPHY.md`            | Core existential philosophical framing                              |
 | ├── `ROADMAP.md`               | Phases and modular emergence plan                                   |
+| ├── `UNIVERSE-TLDR.md`         | Poetic summary of the UNIVERSE         |
 | └── `VISION.md`                | Systems design, Infinite Game alignment                             |
 |                                |                                                                      |
 | `media/`                       | Visual symbolic assets                                              |
