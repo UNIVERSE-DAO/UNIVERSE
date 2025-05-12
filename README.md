@@ -134,13 +134,13 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 <br>
 
 **Pillars of Human Progress**<br>
-- [INTRO – Pillars of Human Progress](../4%20D-UI/0%20INTRO.md)  
-- [COMMON – The Moral Compass](../4%20D-UI/4.1%20COMMON.md)  
-- [VOW – The Ethical Core](../4%20D-UI/4.2%20VOW.md)  
-- [GUIDE – The Navigation Protocol](../4%20D-UI/4.3%20GUIDE.md)  
-- [COMUD – The Intelligence Commons](../4%20D-UI/4.4%20COMUD.md)  
-- [SUCCESS – The Measurement of Meaning](../4%20D-UI/4.5%20SUCCESS.md)  
-- [EQUILIBRIUM – The Balancing Force](../4%20D-UI/4.6%20EQUILIBRIUM.md)  
+- [INTRO – Pillars of Human Progress](4%20D-UI/0%20INTRO.md)  
+- [COMMON – The Moral Compass](4%20D-UI/4.1%20COMMON.md)  
+- [VOW – The Ethical Core](4%20D-UI/4.2%20VOW.md)  
+- [GUIDE – The Navigation Protocol](4%20D-UI/4.3%20GUIDE.md)  
+- [COMUD – The Intelligence Commons](4%20D-UI/4.4%20COMUD.md)  
+- [SUCCESS – The Measurement of Meaning](4%20D-UI/4.5%20SUCCESS.md)  
+- [EQUILIBRIUM – The Balancing Force](4%20D-UI/4.6%20EQUILIBRIUM.md)  
 
 <br>
 
