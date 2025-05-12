@@ -1,21 +1,23 @@
 # UNIVERSE-TLDR
 
-*Hope for a Short Cut*
+> *Hope for a Short Cut*
 
-A system of symbols, encoded with care,  
-Built for the many, by those who dare.
+<br>
 
-Memes mirror the soul, invite the wise,  
-To govern through clarity — not disguise.
+`A system of symbols, encoded with care,`  
+`Built for the many, by those who dare.`
 
-Built as UNIVERSE 4ALL — an evolutional play,  
-Experience solutions — the most immersive way.
+`Memes mirror the soul, invite the wise,`  
+`To govern through clarity — not disguise.`
 
-Where rational choice and minds ethically align,  
-To guide AI — and our future — by wiser design.
+`Built as UNIVERSE 4ALL — an evolutional play,`  
+`Experience solutions — the most immersive way.`
 
-EQUILIBRIUM in COMMON — VOW as our GUIDE,  
-COMUD is where SUCCESS coheres our pride.
+`Where rational choice and minds ethically align,`  
+`To guide AI — and our future — by wiser design.`
+
+`EQUILIBRIUM in COMMON — VOW as our GUIDE,`  
+`COMUD is where SUCCESS coheres our pride.`
 
 <br>
 
