@@ -122,6 +122,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 #### UNIVERSE.TLDR
 - [Hope for a Short Cut](docs/TLDR.md)
 
+<br>
 
 #### Foundational Principles  
 - [PHILOSOPHY – WHY](docs/PHILOSOPHY.md)  
@@ -130,6 +131,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 - [BUIDL4 – WHO](docs/BUIDL4.md)  
 - [MEMES –  MEANING](1%20MEMES/MEMES.md) 
 
+<br>
 
 #### Pillars of Human Progress 
 - [INTRO – Pillars of Human Progress](../4%20D-UI/0%20INTRO.md)  
@@ -165,7 +167,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 **HIGHLIGHTS** – [UNIque SOULSHAPER quotes, gems, poems and VERSE](docs/HIGHLIGHTS.md)  
 
-
+<br>
 
 **Contribution** – [How to Join & Participate](CONTRIBUTING.md)  
  
