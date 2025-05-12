@@ -119,7 +119,10 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 ## `WHITEPAPER Index - Portal to the Possible` <a name="portal"></a>
 
-> ### [HIGHLIGHTS – UNIque SOULSHAPER quotes, gems, poems and VERSE](docs/HIGHLIGHTS.md)  
+#### UNIVERSE.TLDR
+- [Hope for a Short Cut](docs/TLDR.md)
+
+<br>
 
 #### <u>Foundational Principles</u>  
 - [PHILOSOPHY – WHY](docs/PHILOSOPHY.md)  
@@ -127,12 +130,26 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 - [MISSION – WHAT](docs/MISSION.md)  
 - [BUIDL4 – WHO](docs/BUIDL4.md)  
 - [MEMES –  MEANING](1%20MEMES/MEMES.md) 
+
+<br>
+
+#### <u>Pillars of Human Progress</u>  
+- [INTRO – Pillars of Human Progress](docs/4%20D-UI/0%20INTRO.md)  
+- [COMMON – The Moral Compass](docs/4%20D-UI/4.1%20COMMON.md)  
+- [VOW – The Ethical Core](docs/4%20D-UI/4.2%20VOW.md)  
+- [GUIDE – The Navigation Protocol](docs/4%20D-UI/4.3%20GUIDE.md)  
+- [COMUD – The Intelligence Commons](docs/4%20D-UI/4.4%20COMUD.md)  
+- [SUCCESS – The Measurement of Meaning](docs/4%20D-UI/4.5%20SUCCESS.md)  
+- [EQUILIBRIUM – The Balancing Force](docs/4%20D-UI/4.6%20EQUILIBRIUM.md)  
+
+<br>
  
 #### Governance & Protocol Commitments
 - [DAO-MANIFESTO – What We Defend](docs/MANIFESTO.md)
 - [DAOIST – Layer Zero](0%20DAO%20-%20Layer%20Zero/DAOIST.md)   
 - [UIP-GOVERNANCE – Proposal System & Evolution](0%20DAO%20-%20Layer%20Zero/0.2%20proposals/%23UIP.md)  
 
+<br>
 
 #### **Systems & Infrastructure**
 - [ARCHITECTURE – Modular Systems Overview](docs/ARCHITECTURE.md)  
@@ -146,6 +163,12 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 - [LICENSE – UNIVERSE.4ALL](LICENSE.md)  
 - [GLOSSARY – Core Terminology](docs/GLOSSARY.md)  
 
+<br>
+
+#### **HIGHLIGHTS**
+– [UNIque SOULSHAPER quotes, gems, poems and VERSE](docs/HIGHLIGHTS.md)  
+
+<br>
 
 #### Contribution Pathways
 - [CONTRIBUTING – How to Join & Participate](CONTRIBUTING.md)  
