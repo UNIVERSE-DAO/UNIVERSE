@@ -117,23 +117,23 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 <br>
 
 
-## `WHITEPAPER Index - Portal to the Possible` <a name="portal"></a>
+## `WHITEPAPER Index – Portal to the Possible` <a name="portal"></a>
 
-#### UNIVERSE.TLDR
+**UNIVERSE.TLDR**<br>
 - [Hope for a Short Cut](docs/TLDR.md)
 
 <br>
 
-#### Foundational Principles  
+**Foundational Principles**<br>
 - [PHILOSOPHY – WHY](docs/PHILOSOPHY.md)  
 - [VISION – HOW](docs/VISION.md)  
 - [MISSION – WHAT](docs/MISSION.md)  
 - [BUIDL4 – WHO](docs/BUIDL4.md)  
-- [MEMES –  MEANING](1%20MEMES/MEMES.md) 
+- [MEMES – MEANING](1%20MEMES/MEMES.md)  
 
 <br>
 
-#### Pillars of Human Progress 
+**Pillars of Human Progress**<br>
 - [INTRO – Pillars of Human Progress](../4%20D-UI/0%20INTRO.md)  
 - [COMMON – The Moral Compass](../4%20D-UI/4.1%20COMMON.md)  
 - [VOW – The Ethical Core](../4%20D-UI/4.2%20VOW.md)  
@@ -143,15 +143,15 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 - [EQUILIBRIUM – The Balancing Force](../4%20D-UI/4.6%20EQUILIBRIUM.md)  
 
 <br>
- 
-#### Governance & Protocol Commitments
-- [DAO-MANIFESTO – What We Defend](docs/MANIFESTO.md)
-- [DAOIST – Layer Zero](0%20DAO%20-%20Layer%20Zero/DAOIST.md)   
+
+**Governance & Protocol Commitments**<br>
+- [DAO-MANIFESTO – What We Defend](docs/MANIFESTO.md)  
+- [DAOIST – Layer Zero](0%20DAO%20-%20Layer%20Zero/DAOIST.md)  
 - [UIP-GOVERNANCE – Proposal System & Evolution](0%20DAO%20-%20Layer%20Zero/0.2%20proposals/%23UIP.md)  
 
 <br>
 
-#### **Systems & Infrastructure**
+**Systems & Infrastructure**<br>
 - [ARCHITECTURE – Modular Systems Overview](docs/ARCHITECTURE.md)  
 - [ROADMAP – The Journey *Is* the Goal](docs/ROADMAP.md)  
 - [PROJECT STRUCTURE – Symbolic Folder Map](docs/GUIDE-STRUCTURE.md)  
@@ -165,11 +165,13 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 <br>
 
-**HIGHLIGHTS** – [UNIque SOULSHAPER quotes, gems, poems and VERSE](docs/HIGHLIGHTS.md)  
+**HIGHLIGHTS**<br>
+- [UNIque SOULSHAPER quotes, gems, poems and VERSE](docs/HIGHLIGHTS.md)  
 
 <br>
 
-**Contribution** – [How to Join & Participate](CONTRIBUTING.md)  
+**CONTRIBUTING**<br>
+- [How to Join & Participate](CONTRIBUTING.md)
  
 
 ---
