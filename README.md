@@ -122,25 +122,23 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 #### UNIVERSE.TLDR
 - [Hope for a Short Cut](docs/TLDR.md)
 
-<br>
 
-#### <u>Foundational Principles</u>  
+#### Foundational Principles  
 - [PHILOSOPHY – WHY](docs/PHILOSOPHY.md)  
 - [VISION – HOW](docs/VISION.md)  
 - [MISSION – WHAT](docs/MISSION.md)  
 - [BUIDL4 – WHO](docs/BUIDL4.md)  
 - [MEMES –  MEANING](1%20MEMES/MEMES.md) 
 
-<br>
 
-#### <u>Pillars of Human Progress</u>  
-- [INTRO – Pillars of Human Progress](docs/4%20D-UI/0%20INTRO.md)  
-- [COMMON – The Moral Compass](docs/4%20D-UI/4.1%20COMMON.md)  
-- [VOW – The Ethical Core](docs/4%20D-UI/4.2%20VOW.md)  
-- [GUIDE – The Navigation Protocol](docs/4%20D-UI/4.3%20GUIDE.md)  
-- [COMUD – The Intelligence Commons](docs/4%20D-UI/4.4%20COMUD.md)  
-- [SUCCESS – The Measurement of Meaning](docs/4%20D-UI/4.5%20SUCCESS.md)  
-- [EQUILIBRIUM – The Balancing Force](docs/4%20D-UI/4.6%20EQUILIBRIUM.md)  
+#### Pillars of Human Progress 
+- [INTRO – Pillars of Human Progress](../4%20D-UI/0%20INTRO.md)  
+- [COMMON – The Moral Compass](../4%20D-UI/4.1%20COMMON.md)  
+- [VOW – The Ethical Core](../4%20D-UI/4.2%20VOW.md)  
+- [GUIDE – The Navigation Protocol](../4%20D-UI/4.3%20GUIDE.md)  
+- [COMUD – The Intelligence Commons](../4%20D-UI/4.4%20COMUD.md)  
+- [SUCCESS – The Measurement of Meaning](../4%20D-UI/4.5%20SUCCESS.md)  
+- [EQUILIBRIUM – The Balancing Force](../4%20D-UI/4.6%20EQUILIBRIUM.md)  
 
 <br>
  
@@ -165,13 +163,11 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 
 <br>
 
-#### **HIGHLIGHTS**
-– [UNIque SOULSHAPER quotes, gems, poems and VERSE](docs/HIGHLIGHTS.md)  
+**HIGHLIGHTS** – [UNIque SOULSHAPER quotes, gems, poems and VERSE](docs/HIGHLIGHTS.md)  
 
-<br>
 
-#### Contribution Pathways
-- [CONTRIBUTING – How to Join & Participate](CONTRIBUTING.md)  
+
+**Contribution** – [How to Join & Participate](CONTRIBUTING.md)  
  
 
 ---
