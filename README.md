@@ -120,7 +120,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 ## `WHITEPAPER Index – Portal to the Possible` <a name="portal"></a>
 
 **UNIVERSE.TLDR**<br>
-- [Hope for a Short Cut](docs/TLDR.md)
+- [Hope for a Short Cut](docs/UNIVERSE-TLDR.md)
 
 <br>
 
