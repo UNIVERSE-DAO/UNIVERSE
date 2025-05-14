@@ -1,4 +1,4 @@
-# #UIP - UNIVERSE IMPROVEMENT PROPOSAL
+# UIP - UNIVERSE IMPROVEMENT PROPOSAL
 
 This document is developed under protection  
 and will be published after **Phase 1: Pre Big-Bang**.
