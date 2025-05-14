@@ -70,7 +70,7 @@ COMUD isn't performance. It's presence.
 ### Memes as Alignment  
 **“A meme is a mirror, a signal, a spark.”**  
 Memes aren’t jokes. They’re symbolic vectors of moral energy.  
-📍 [MEMES.md](../1%20MEMES/MEMES.md)  
+📍 [MEMES.md](../1%20MOMENTUM/1.1%20MEMES%20*.md)  
 
 ---  
 <br>
@@ -78,7 +78,7 @@ Memes aren’t jokes. They’re symbolic vectors of moral energy.
 ### GLOBIND  
 **“Globally Aligned in Morals and Ethics.”**  
 Still a mystery — but points to a future of moral interoperability.  
-📍 [MINDFORGER.md](../2%20MINDFORGER/MINDFORGER.md)
+📍 [MINDFORGER.md](../1%20MOMENTUM/1.2%20MINDFORGER%20*.md)
 
 ---  
 <br>
