@@ -15,7 +15,7 @@
 | 1     | `1 MOMENTUM/`         | 🌓 Phase 1           | Cultural ignition, memetic onboarding                              |
 | 2     | `2 SOVERN/`           | 🌕 Phase 2    | Sovereign Infrastructure & Identity backbone                             |
 | 3     | `3 D-UI/`             | 🌑 Phase 3    | Decentralized User Interface (Pillars of Human Progress)                 |
-| —     | `4 FEATURES/`         | 🌒 → 🌑              | Symbolic protocol features (Truth Engine, KPI, etc.)                     |
+| —     | `4 FEATURES/`         | 🌒 → 🌑              | Symbolic protocol features (Truth Engine, Holy Grail, etc.)                     |
 | —     | `backend/`            | —             | Services & infrastructure APIs                                           |
 | —     | `docs/`               | —             | Living documentation and contributor guides                              |
 | —     | `media/`              | —             | Visual assets and symbolic diagrams                                      |
