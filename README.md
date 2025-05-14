@@ -147,7 +147,7 @@ UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized
 **Governance & Protocol Commitments**<br>
 - [DAO-MANIFESTO – What We Defend](docs/MANIFESTO.md)  
 - [DAOIST – Layer Zero](0%20DAO%20-%20Layer%20Zero/DAOIST.md)  
-- [UIP-GOVERNANCE – Proposal System & Evolution](0%20DAO%20-%20Layer%20Zero/0.2%20proposals/%23UIP.md)  
+- [UIP-GOVERNANCE – UNIVERSE Improvement Proposals](0%20DAO%20-%20Layer%20Zero/0.2%20proposals/UIP%20%23.md)  
 
 <br>
 
