@@ -11,12 +11,11 @@
 | Layer | Folder                | Phase         | Meaning / Activation Layer                                               |
 |-------|-----------------------|---------------|---------------------------------------------------------------------------|
 | —     | `.github/`            | —             | CI/CD, symbolic link checks, GitHub automation                           |
-| 0     | `0 DAO - Layer Zero/` | 🌒 Phase 0    | Root Governance, Core Intent, Base Consensus                             |
-| 1     | `1 MEMES/`            | 🌒 Phase 0           | Cultural ignition, memetic onboarding                                    |
-| 2     | `2 MINDFORGER/`       | 🌓 Phase 1           | Narrative reflection, perceptual alignment                               |
-| 3     | `3 SOVERN/`           | 🌕 Phase 2    | Sovereign Infrastructure & Identity backbone                             |
-| 4     | `4 D-UI/`             | 🌑 Phase 3    | Decentralized User Interface (Pillars of Human Progress)                 |
-| 5     | `5 FEATURES/`         | 🌕 → 🌑              | Symbolic protocol features (Truth Engine, KPI, etc.)                     |
+| 0     | `0 DAO - Layer Zero/` | 🌒 Phase 0    | Root Governance, Core Intent, Base Consensus                              |
+| 1     | `1 MOMENTUM/`         | 🌓 Phase 1           | Cultural ignition, memetic onboarding                              |
+| 2     | `2 SOVERN/`           | 🌕 Phase 2    | Sovereign Infrastructure & Identity backbone                             |
+| 3     | `3 D-UI/`             | 🌑 Phase 3    | Decentralized User Interface (Pillars of Human Progress)                 |
+| —     | `4 FEATURES/`         | 🌒 → 🌑              | Symbolic protocol features (Truth Engine, KPI, etc.)                     |
 | —     | `backend/`            | —             | Services & infrastructure APIs                                           |
 | —     | `docs/`               | —             | Living documentation and contributor guides                              |
 | —     | `media/`              | —             | Visual assets and symbolic diagrams                                      |
@@ -56,37 +55,33 @@
 | │   └── `UIP #.md`             | Unified Intent Proposals (off-chain, GitHub, or social layer)        |
 | └── `DAOIST.md`                | Social consensus and ritual identity base                            |
 |                                |                                                                      |
-| `1 MEMES/`                     | Memetic ignition layer                                               |
-| └── `MEMES.md`                 | Memes-as-OS Movement                                                 |
+| `1 MOMENTUM/`                     | Memetic ignition layer                                               |
+| └── `1.1 MEMES *.md`                 | Memes-as-OS Movement                                                 |
+| ├── `1.2 MINDFORGER *.md`            | Mirror logic and AI alignment                                        |
+| └── `1.3 FICTION ?.md`          | Deployment shell                                                     |
 |                                |                                                                      |
-| `2 MINDFORGER/`                | Narrative reflection & perceptual coherence                          |
-| ├── `MINDFORGER.md`            | Mirror logic and AI alignment                                        |
-| ├── `content.js`               | Dynamic content loader                                               |
-| ├── `main.js`                  | App engine logic                                                     |
-| └── `mindforger.html`          | Deployment shell                                                     |
+| `2 SOVERN/`                    | Sovereign infrastructure layer                                       |
+| ├── `2.1 INFRA #/`             | Hosted bootstrap infra                                               |
+| └── `2.2 S-ID #/`              | zk-enabled ID and sovereign login systems                            |
 |                                |                                                                      |
-| `3 SOVERN/`                    | Sovereign infrastructure layer                                       |
-| ├── `3.1 INFRA #/`             | Hosted bootstrap infra                                               |
-| └── `3.2 S-ID #/`              | zk-enabled ID and sovereign login systems                            |
+| `3 D-UI/`                      | Decentralized User Interface for Future Governance                   |
+| ├── `3.0 INTRO.md`             | Overview of interface metaphysics                                    |
+| ├── `3.1 COMMON.md`            | Universal symbolic alignment                                         |
+| ├── `3.2 VOW.md`               | Moral-responsibility scaffolding                                     |
+| ├── `3.3 GUIDE.md`             | Civic onboarding and ritual guide                                    |
+| ├── `3.4 COMUD.md`             | Coherence and internal well-being                                    |
+| ├── `3.5 SUCCESS.md`           | Social sensing and fulfillment maps                                  |
+| └── `3.6 EQUILIBRIUM.md`       | Economic balance protocol                                            |
 |                                |                                                                      |
-| `4 D-UI/`                      | Decentralized User Interface for Future Governance                   |
-| ├── `4.0 INTRO.md`             | Overview of interface metaphysics                                    |
-| ├── `4.1 COMMON.md`            | Universal symbolic alignment                                         |
-| ├── `4.2 VOW.md`               | Moral-responsibility scaffolding                                     |
-| ├── `4.3 GUIDE.md`             | Civic onboarding and ritual guide                                    |
-| ├── `4.4 COMUD.md`             | Coherence and internal well-being                                    |
-| ├── `4.5 SUCCESS.md`           | Social sensing and fulfillment maps                                  |
-| └── `4.6 EQUILIBRIUM.md`       | Economic balance protocol                                            |
-|                                |                                                                      |
-| `5 FEATURES/`                  | Symbolic protocol logic features                                     |
-| ├── `5.1 #DEMO/`               | Demonstration or best-practice module                                |
-| ├── `5.2 #TTE/`                | The Truth Engine                                                    |
-| ├── `5.3 #THG/`                | The Holy Grail logic                                                 |
-| ├── `5.4 #PP/`                 | Protection Protocol                                                  |
-| ├── `5.5 #SCRS/`               | Smart Compliance & Resilient Systems                                 |
-| ├── `5.6 #DSM/`                | Fixing social media (Dark Side Moon)                                 |
-| ├── `5.7 #CPI/`                | Cipherpunk Ideology                                                  |
-| └── `5.8 SOUL-AGENT/`          | Soul audit and symbolic memory                                       |
+| `4 FEATURES/`                  | Symbolic protocol logic features                                     |
+| ├── `4.1 #DEMO/`               | Demonstration or best-practice module                                |
+| ├── `4.2 #TTE/`                | The Truth Engine                                                    |
+| ├── `4.3 #THG/`                | The Holy Grail logic                                                 |
+| ├── `4.4 #PP/`                 | Protection Protocol                                                  |
+| ├── `4.5 #SCRS/`               | Smart Compliance & Resilient Systems                                 |
+| ├── `4.6 #DSM/`                | Fixing social media (Dark Side Moon)                                 |
+| ├── `4.7 #CPI/`                | Cipherpunk Ideology                                                  |
+| └── `4.8 SOUL-AGENT/`          | Soul audit and symbolic memory                                       |
 |     ├── `#SOUL-AGENT.md`       | Memory reflections                                                   |
 |     ├── `SOUL-ETHOS.md`        | Symbolic philosophical framing                                       |
 |     ├── `SOUL-BRIEF.md`        | Brand compression logic                                              |
