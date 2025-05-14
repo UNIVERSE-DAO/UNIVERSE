@@ -11,7 +11,7 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 <br>
 
-## 🌐 Connect to the Big Bang
+## Connect to the Big Bang
 
 | Action                        | Where to Go                                                                                   |
 |-------------------------------|------------------------------------------------------------------------------------------------|
@@ -19,7 +19,7 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 | 2. Understand the Bigger Picture | [WHITEPAPER](README.md) - [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md) →     |
 | 3. Bring Culture & Knowledge     | [Jump to Culture & Conversation section below](#3-bring-culture-knowledge-and-poetry) ⬇                    |
 | 4. Join the Conversation         | [GitHub Welcome Discussion](https://github.com/UNIVERSE-DAO/UNIVERSE/discussions/7) →         |
-| 5. Become a Key Contributor      | [Propose #UIP " UNIVERSE IMPROVEMENT PROPOSAL"](0%20DAO%20-%20Layer%20Zero/0.2%20proposals/%23UIP.md) →                      |
+| 5. Become a Key Contributor      | [Propose #UIP " UNIVERSE IMPROVEMENT PROPOSAL"](0%20DAO%20-%20Layer%20Zero/0.2%20PROPOSALS/UIP%20%23.md) →                      |
 | 6. Facilitate the UNIVERSE       | [Run #D-UI, mirror #TTE, or defend #PP](#6-facilitate-the-universe) ⬇                        |
 | 7. Govern the Protocol           | [Help shape UNIVERSE.DAO](#7-govern-the-protocol) ⬇                                          |
 
