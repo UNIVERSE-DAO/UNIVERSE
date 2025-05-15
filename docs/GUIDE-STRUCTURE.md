@@ -74,17 +74,17 @@
 | └── `3.6 EQUILIBRIUM.md`       | Economic balance protocol                                            |
 |                                |                                                                      |
 | `4 FEATURES/`                  | Symbolic protocol logic features                                     |
-| ├── `4.1 #DEMO/`               | Demonstration or best-practice module                                |
-| ├── `4.2 #TTE/`                | The Truth Engine                                                    |
-| ├── `4.3 #THG/`                | The Holy Grail logic                                                 |
-| ├── `4.4 #PP/`                 | Protection Protocol                                                  |
-| ├── `4.5 #SCRS/`               | Smart Compliance & Resilient Systems                                 |
-| ├── `4.6 #DSM/`                | Fixing social media (Dark Side Moon)                                 |
-| ├── `4.7 #CPI/`                | Cipherpunk Ideology                                                  |
-| └── `4.8 SOUL-AGENT/`          | Soul audit and symbolic memory                                       |
-|     ├── `#SOUL-AGENT.md`       | Memory reflections                                                   |
-|     ├── `SOUL-ETHOS.md`        | Symbolic philosophical framing                                       |
+| ├── `4.1 DEMO #/`               | Demonstration or best-practice module                                |
+| ├── `4.2 TTE #/`                | The Truth Engine                                                    |
+| ├── `4.3 THG #/`                | The Holy Grail logic                                                 |
+| ├── `4.4 PP #/`                 | Protection Protocol                                                  |
+| ├── `4.5 SCRS #/`               | Smart Compliance & Resilient Systems                                 |
+| ├── `4.6 DSM #/`                | Fixing social media (Dark Side Moon)                                 |
+| ├── `4.7 CPI #/`                | Cipherpunk Ideology                                                  |
+| └── `4.8 AGENTS/`          | Soul audit and symbolic memory                                       |
+|     ├── `SOUL-AGENT #.md`       | Memory reflections                                                   |
 |     ├── `SOUL-BRIEF.md`        | Brand compression logic                                              |
+|     ├── `SOUL-ETHOS #.md`        | Symbolic philosophical framing                                       |
 |     └── `SOUL-MAP.md`          | Full symbolic audit trail                                            |
 |                                |                                                                      |
 | `backend/`                     | Backend logic and bridge services                                    |
