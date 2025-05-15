@@ -100,16 +100,17 @@ Together, they form the backbone of a moral infrastructure built for clarity, so
 
 ### [ROADMAP - MILESTONES](docs/ROADMAP.md) <a name="intro-roadmap"></a>
 
-UNIVERSE unfolds in symbolic phases — guiding its emergence as a decentralized, privacy-first protocol:
+UNIVERSE unfolds in symbolic phases — each marking a deeper threshold of alignment, sovereignty, and trust.
 
-| Phase     | Name             | Description                                                        |
-|-----------|------------------|--------------------------------------------------------------------|
-| 0 - 🌒    | Backbone BUIDL   | Infrastructure scaffolding, commit standards, backup system        |
-| 1 - 🌓    | Pre Big-Bang     | Protected logic, governance prototypes, invite-only dev            |
-| 2 - 🌕    | Big Bang         | Ignition, UI nodes, early contributor expansion                    |
-| 3 - 🌑    | Black Hole       | AI truth engine, deep protocol work, DAO feature evolution         |
+| Phase   | Name        | Subtitle                                        | Folder Orientation       |
+|---------|-------------|--------------------------------------------------|--------------------------|
+| 0 - 🌒 | BACKBONE     | Root Spark of the Soul                           | `0 DAO - Layer Zero/`    |
+| 1 - 🌓 | BUIDL        | Privilege to Build the Foundation 4ALL           | `1 MOMENTUM/`            |
+| 2 - 🌕 | BIG BANG     | Ignition of Collective Sovereign Intelligence    | `2 SOVRIN/`              |
+| 3 - 🌑 | BLACK HOLE   | Gravity of the UNIVERSE                          | `3 D-UI/`                |
 
-> _Current Stage: **Phase 1 – Pre Big-Bang** 🌓_
+> _Current Stage: **Phase 1 – BUIDL** 🌓_
+
 
 
 ---

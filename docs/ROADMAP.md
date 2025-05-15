@@ -1,81 +1,81 @@
 >### [ROADMAP – MILESTONES](../README.md#intro-roadmap) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>← Return to README : ROADMAP</sub>  
->UNIVERSE unfolds in symbolic phases — each representing a layer of infrastructure, alignment, and collective responsibility.  
->
->
->| Phase     | Name             | Description                                                        |
->|-----------|------------------|--------------------------------------------------------------------|
->| 0 - 🌒    | Backbone BUIDL   | Infrastructure scaffolding, commit standards, backup system        |
->| 1 - 🌓    | Pre Big-Bang     | Protected logic, governance prototypes, invite-only dev            |
->| 2 - 🌕    | Big Bang         | Ignition, UI nodes, early contributor expansion                    |
->| 3 - 🌑    | Black Hole       | AI truth engine, deep protocol work, DAO feature evolution         |
->
-> _Current Stage: **Phase 1 – 🌓 Pre Big-Bang**_
+>UNIVERSE unfolds in symbolic phases — each marking a deeper threshold of alignment, sovereignty, and trust.
+
+| Phase   | Name        | Subtitle                                        | Folder Orientation       |
+|---------|-------------|--------------------------------------------------|--------------------------|
+| 0 - 🌒 | BACKBONE     | Root Spark of the Soul                           | `0 DAO - Layer Zero/`    |
+| 1 - 🌓 | BUIDL        | Privilege to Build the Foundation 4ALL           | `1 MOMENTUM/`            |
+| 2 - 🌕 | BIG BANG     | Ignition of Collective Sovereign Intelligence    | `2 SOVRIN/`              |
+| 3 - 🌑 | BLACK HOLE   | Gravity of the UNIVERSE                          | `3 D-UI/`                |
+
+> _Current Stage: **Phase 1 – BUIDL** 🌓_
 
 ---
 
 <br>
-
 
 # ROADMAP – MILESTONES
+> Each phase unfolds in **ritual sequence**, activating its own folder and symbolic logic.  
+> Modules are not features — they are thresholds of participation in the Infinite Game.
 
-### UNIVERSE – Development Phases · Glossary
-
->Some stages are public. Others remain protected until trust thresholds are met — such as decentralized UI operation and contributor federation. 
-
-
----
-<br>
-
-## 🌒 Phase 0 — Backbone BUIDL  
->Foundational scaffolding, symbolic structure, and system initialization.
-
-- `#DAO` — Governance initiation  
-- `#MOMENTUM` — Participation flow  
-- `#MINDFORGER` — Interactive ethics and alignment reflection
-
----
 
 <br>
 
-## 🌓 Phase 1 — Pre Big-Bang  
->Protected ideation, modular deployment, and internal synchronization.
+## 🌒 - BACKBONE  
+> Soul-gethering to shape the Portal of the Possible.
 
-- `#INFRA1` — Hosted backbone  
-- `#SignUp1` — Entry-level sovereign access  
-- `#KPI` — Initial key metrics
+- `DAO – Layer 0`  
+- `MEMES`  
+- `MINDFORGER`  
+- `PORTAL`, `PHILOSOPHY`, `MISSION`, `VISION`  
+- `LICENSE`  
+- `CONTRIBUTING`, `GLOSSARY`, `SOUL-MAP`
 
 ---
 
 <br>
 
-## 🌕 Phase 2 — Big Bang  
->Public ignition of key modules and contributor expansion.  
+## 🌓 - BUIDL  
+> In silence, shaping the Ultimate Tech as Public Good.
 
-- `#INFRA2` — Fully decentralized backend infrastructure  
-- `#SignUp2` — Full sovereign identity (DIDs + zk-auth)  
-- `#SCRS` — Smart Compliance and Resilient Services  
-- `#TTE` — The Truth Engine
-
----
-
-<br>
-
-## 🌑 Phase 3 — Black Hole  
->Core protocol deepening, advanced privacy tools, and AI-aligned infrastructure.
-
-- `#D-UI` — Decentralized UI / Distributed nodes  
-- `#THG` — The Holy Grail  
-- `#PP` — Protection Protocol  
-- `#DSM` — Dark Side of the Moon (*fixing social media*)  
-- `#CPI` — Cipher Punk Ideology Index
+- `MOMENTUM Engine`  
+- `INFRA1`  
+- `SignUp1`  
+- `SOUL-BRIEF`  
+- `SCRS`  
+- `SOUL-ETHOS`  
 
 ---
 
 <br>
 
->Each symbol marks a living module —  
->Some already unfolding in public view, others still protected, awaiting shared authorship.  
->
->_When readiness meets resonance — they reveal themselves._
+## 🌕 - BIG BANG  
+> Transmission begins to Master the Infinite Game.
 
-→ Return to the [README – Portal to the Possible](../README.md#portal)
+- `TTE`  
+- `THG`  
+- `INFRA2`  
+- `SignUp2`  
+- `SUCCESS`  
+- `COMMON`, `VOW`, `GUIDE`
+
+---
+
+<br>
+
+## 🌑 - BLACK HOLE  
+> UNIte to find consensus through the MetaVERSE.
+
+- `D-UI`  
+- `PP`  
+- `DSM`  
+- `CPI`  
+
+---
+
+<br>
+
+> _What is built here is not just protocol —  
+> It is a mirror, a ritual, and a tool for good._
+
+→ Return to [README – Portal to the Possible](../README.md#portal)
