@@ -10,7 +10,7 @@ Resilient against AI forgery and quantum disruption.
 
 <br>
 
-## WHY
+### WHY
 
 In a decentralized world, authorship must be provable —  
 across time, across platforms, and across consensus.
@@ -19,7 +19,7 @@ across time, across platforms, and across consensus.
 
 <br>
 
-## WHAT
+### WHAT
 
 - Social posts or public declarations  
 - DAO votes, election outcomes, or governance records  
@@ -35,7 +35,7 @@ across time, across platforms, and across consensus.
 
 <br>
 
-## HOW
+### HOW
 
 Each Canonical Hashed Message includes:
 
@@ -53,7 +53,7 @@ For full protocol mechanics, see:
 
 <br>
 
-## OPTIONS
+### OPTIONS
 
 A browser-based verifier UI visualizes Canonical Hashed Message status and quorum:   
 Open: [Canonical Hashed Message - ChM Verifier UI](https://universe-dao.github.io/SIG/index.html)
@@ -64,15 +64,16 @@ The tool is optional. Every message and signature remains portable, inspectable,
 
 <br>
 
-## VERSION
+### VERSION
 
 | Version | Description                                                          |
 |---------|----------------------------------------------------------------------|
 | v0      | Genesis signature — Layer Zero SIG ignition                          |
 |||
 | v1.0    | Canonical messages with embedded identity hash (C-HASH)              |
-| v1.1    | Quorum-based signature verification across multiple identities       |
-| v1.2    | Hash-linked signature chain — custom off-chain consensus mechanism   |
+| v1.1    | Sovereign decentralized GitHub-based (DAO-SIG3) verifier             |
+| v1.2    | Quorum-based signature verification across multiple identities       |
+| v1.3    | Hash-linked signature chain — custom off-chain consensus mechanism   |
 |||
 | v2      | Multisig support within each identity-layer SIG                      |
 |||
@@ -82,7 +83,7 @@ The tool is optional. Every message and signature remains portable, inspectable,
 
 <br>
 
-## CONCLUSION
+### CONCLUSION
 
 SIG-UNIVERSE.DAO is not just a protocol — it’s a commitment.  
 To truth over time. To authorship without platforms. To memory that resists silence.
