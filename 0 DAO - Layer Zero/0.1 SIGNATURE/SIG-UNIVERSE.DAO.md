@@ -47,7 +47,7 @@ Messages are fully human-readable and manually verifiable —
 no special tools, platforms, or wallets required.
 
 For full protocol mechanics, see:  
-[UNIVERSE-DAO/SIG/README](https://github.com/UNIVERSE-DAO/SIG/blob/main/README.md)
+[UNIVERSE-DAO/SIG/README](https://github.com/UNIVERSE-DAO/SIG)
 
 ---
 
