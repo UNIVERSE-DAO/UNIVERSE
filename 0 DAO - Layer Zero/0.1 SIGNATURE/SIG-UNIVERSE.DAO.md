@@ -94,5 +94,5 @@ you now have a way to prove it — without asking for permission.
 ---
 If we care about truth, we must be ready to prove it — in a world shaped by AI and fractured by quantum change.
 
-SIG-UNIVERSE.DAO  
+SIG-UNIVERSE.DAO
 ChM-2:v1:5d85009b0a0c28e4197fdc8273aaf64c949cf389c3326561a061bc8166a28822
