@@ -49,7 +49,7 @@ Will find the mirror does not remain.
 
 
 >_**Understand the Vision**: [README.md](./README.md)_ <br>
->_**Verification-SIGNATURE coming soon**: [`#SIGNATURE.md`](./0%20DAO%20-%20Layer%20Zero/0.1%20SIGNATURE/README.md)_
+>_**SIG-UNIVERSE.DAO coming soon**
 
 ---
 
