@@ -20,7 +20,7 @@
 <br>
 
 ---
-> TTLDR complete — Now you’re curious !
+> TLDR complete — Now you’re curious !
 >
 > **Explore the Pillars of the UNIVERSE :** 
 >
