@@ -1,10 +1,12 @@
-# UIP - UNIVERSE IMPROVEMENT PROPOSAL
+# UIP — UNIVERSE Improvement Proposal
 
-This document is developed under protection  
-and will be published after **Phase 1: BUIDL**.
+The UIP system defines the core mechanics for protocol evolution,  
+including proposal structure, governance flow, and upgrade authorization.
 
-It defines the core mechanics of governance,  
-including the UNIVERSE Improvement Proposal (UIP) system  
-and multisig-style upgrade authorization.
+This framework is currently under active development and protected  
+during **Phase 1: BUIDL** to ensure coherence and security.
 
-> Until decentralization is operational, this file remains private.
+Until decentralization becomes operational,  
+this directory remains intentionally minimal and partially private.
+
+A public UIP process will be released at the beginning of **Phase 2: ALIGN**.
