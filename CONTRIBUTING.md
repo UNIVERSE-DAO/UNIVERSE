@@ -15,7 +15,7 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 | Action                        | Where to Go                                                                                   |
 |-------------------------------|------------------------------------------------------------------------------------------------|
-| 1. Find Your Community           | [X - Twitter ↗](https://x.com/uni_meme_verse) • (Insta - YouTube - TikTok / **coming soon**)|
+| **1. Find Your Community**           | [X - Twitter ↗](https://x.com/uni_meme_verse) • [Telegram ↗](https://t.me/uni_chat_verse) • [Discord ↗](https://discord.gg/7Q4TZdBSaA) • (Insta - YouTube - TikTok / *coming soon*) |
 | 2. Understand the Bigger Picture | [WHITEPAPER](README.md) - [PHILOSOPHY](docs/PHILOSOPHY.md) - [VISION](docs/VISION.md) - [MISSION](docs/MISSION.md) →     |
 | 3. Bring Culture & Knowledge     | [Jump to Culture & Conversation section below](#3-bring-culture-knowledge-and-poetry) ⬇                    |
 | 4. Join the Conversation         | [GitHub Welcome Discussion](https://github.com/UNIVERSE-DAO/UNIVERSE/discussions/7) →         |
@@ -42,7 +42,9 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 Observe the values, energy, symbolic language and interact:
 
-- [X(Twitter)](https://x.com/uni_meme_verse) ↗  
+- **X / Twitter** → https://x.com/uni_meme_verse ↗   
+- **Telegram** → https://t.me/uni_chat_verse ↗   
+- **Discord** → https://discord.gg/7Q4TZdBSaA ↗    
 - Instagram - coming soon ↗  
 - YouTube - coming soon ↗ 
 - TikTok - coming soon ↗ 
@@ -80,6 +82,69 @@ Observe the values, energy, symbolic language and interact:
 
 ---
 
+<br>
+
+# 🌐 **TAG SYSTEM — [#uni_multi_verse](docs/GUIDE-#.md)**
+
+Tags are not just labels —  
+they are **coordinates** inside the MULTI_VERSE.
+
+UNIVERSE uses a dual tag layer:
+
+---
+
+### **A) Official Tags** *(clarity, indexing, onboarding)*
+
+```
+
+#universe_uip
+#universe_meme
+#universe_poem
+#universe_vow
+#universe_guide
+#universe_common
+
+```
+
+Use these in GitHub, documentation, and proposals.
+
+---
+
+### **B) MULTI_VERSE Tags** *(symbolic, creative, unique)*
+
+```
+
+#uni_uip_verse
+#uni_meme_verse
+#uni_poem_verse
+#uni_vow_verse
+#uni_guide_verse
+#uni_common_verse
+#uni_chat_verse
+#uni_culture_verse
+
+```
+
+Use these on X, Telegram, Discord, memes, and cultural content.
+
+---
+
+### **Recommended Usage**
+
+```
+
+#universe_uip     #uni_uip_verse
+#universe_meme    #uni_meme_verse
+#universe_poem    #uni_poem_verse
+
+```
+
+**One provides clarity.  
+One opens the multi_verse.**
+
+---
+
+<br>
 
 ### [The MOMENTUM Engine](#the-momentum-engine--coming-soon) — coming soon
 
@@ -136,7 +201,7 @@ A coordination system that listens to your intent — and amplifies it across th
 
 > Governance is not control — it is care at scale.
 
-- Read [`#UIP "UNIVERSE IMPROVEMENT PROPOSAL"`](0%20DAO%20-%20Layer%20Zero/0.2%20PROPOSALS/UIP%20%23.md)  
+- Read [`#UIP "UNIVERSE IMPROVEMENT PROPOSAL"`](0%20DAO%20-%20Layer%20Zero/0.2%20UIP/README.md)  
 - Propose, co-sign, or steward protocol logic and decisions  
 - Protect alignment across phases  
 
