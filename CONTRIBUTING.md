@@ -84,7 +84,7 @@ Observe the values, energy, symbolic language and interact:
 
 <br>
 
-# 🌐 **TAG SYSTEM — [#uni_multi_verse](docs/GUIDE-#.md)**
+# 🌐 **TAG SYSTEM — [#uni_multi_verse](docs/GUIDE-TAG.md)**
 
 Tags are not just labels —  
 they are **coordinates** inside the MULTI_VERSE.
