@@ -146,12 +146,7 @@ UNIVERSE unfolds in symbolic phases — each marking a deeper threshold of align
 ### Systems & Infrastructure
 - [ARCHITECTURE – Modular Systems Overview](docs/ARCHITECTURE.md)  
 - [ROADMAP – The Journey *Is* the Goal](docs/ROADMAP.md)  
-- [PROJECT STRUCTURE – Symbolic Folder Map](docs/GUIDE-STRUCTURE.md)  
-- [BACKUPS – Versioning & Archive Strategy](docs/ARCHIVE.md)  
-- [BACKUP-NAMING – Ritual Snapshot Naming](docs/GUIDE-BACKUP.md)  
-- [BRANCHING – Git Flow Strategy](docs/GUIDE-BRANCHING.md)  
-- [COMMITS – Symbolic Commit Guide](docs/GUIDE-COMMIT.md)  
-- [CHANGELOG – Protocol Evolution Log](docs/CHANGELOG.md)  
+- [PROJECT STRUCTURE – Symbolic Folder Map](docs/STRUCTURE.md)       
 - [LICENSE – UNIVERSE.4ALL](LICENSE.md)  
 - [GLOSSARY – Core Terminology](docs/GLOSSARY.md)
 
