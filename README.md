@@ -111,9 +111,6 @@ UNIVERSE unfolds in symbolic phases — each marking a deeper threshold of align
 
 ## WHITEPAPER Index – Portal to the Possible <a name="portal"></a>
 
-### UNIVERSE.TLDR
-- [Hope for a Short Cut](docs/UNIVERSE-TLDR.md)
-
 <br>
 
 ### Foundational Principles
