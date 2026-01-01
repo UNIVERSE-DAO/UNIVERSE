@@ -122,7 +122,7 @@ UNIVERSE unfolds in symbolic phases — each marking a deeper threshold of align
 
 <br>
 
-### Pillars of Human Progress — D-UI
+### Pillars of Human Progress — D-UI <a name="pillars"></a>
 - [INTRO – Pillars of Human Progress](3%20D-UI/3.0%20INTRO.md)  
 - [VOW – The Ethical Core](3%20D-UI/3.1%20VOW.md)  
 - [GUIDE – The Navigation Protocol](3%20D-UI/3.2%20GUIDE.md)  
