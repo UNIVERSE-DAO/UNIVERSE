@@ -100,7 +100,7 @@ UNIVERSE unfolds in symbolic phases — each marking a deeper threshold of align
 |------:|-------------|----------------------------------------------|--------|
 | 0 🌒 | BACKBONE     | Root Spark of the Soul                        | `0 DAO - Layer Zero/` |
 | 1 🌓 | BUIDL        | Privilege to Build the Foundation 4ALL        | `1 MOMENTUM/` |
-| 2 🌕 | BIG BANG     | Ignition of Collective Sovereign Intelligence | `2 SOVREN/` |
+| 2 🌕 | BIG BANG     | Ignition of Collective Sovereign Intelligence | `2 SOVERN/` |
 | 3 🌑 | BLACK HOLE   | Gravity of the UNIVERSE                       | `3 D-UI/` |
 
 > _Current Stage: **Phase 1 – BUIDL** 🌓_
