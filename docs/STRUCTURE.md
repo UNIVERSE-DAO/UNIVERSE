@@ -21,19 +21,6 @@
 | —     | `media/`              | —             | Visual assets and symbolic diagrams                                      |
 | —     | Root Files            | —             | Project license, contribution guide, whitepaper                         |
 
----
-
-<br>
-
-## Naming Conventions
-
-| Symbol     | Meaning                                                                 |
-|------------|-------------------------------------------------------------------------|
-| _None_     | **Active & Stable** — Fully integrated and live                         |
-| ` #`       | **Protected / Ritual Gate** — Requires symbolic unlocking or governance |
-| ` -`       | **Placeholder** — Exists as structure, but content is pending           |
-| ` *`       | **External Module** — Developed in another repo and synced manually     |
-| ` ~`       | **Experimental / Alpha** — Not finalized; subject to major changes      |
 
 ---
 
