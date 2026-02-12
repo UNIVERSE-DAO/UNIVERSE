@@ -53,8 +53,8 @@ Execution can be copied.
 **The CODEX evolves, anchored to its mission.**
 
 This layer exists in anticipation of quantum disruption and AI forgery,  
-where meaning collapses before errors are visible  
-and before it is clear who is being served or which game is being played.
+when meaning collapses before errors are visible  
+and it is unclear who is being served or which game is being played.
 
 **By design, the DAO CODEX ensures that:**
 - responsibility precedes capability  
