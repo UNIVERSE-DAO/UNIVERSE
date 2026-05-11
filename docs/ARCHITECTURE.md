@@ -1,5 +1,5 @@
 >### ARCHITECTURE — SYSTEMS
-><sub>← Return to Portal to the Possible</sub>
+><sub>[← Return to Portal to the Possible](../README.md)</sub>
 
 UNIVERSE is structured in symbolic layers — each aligned to sovereignty, coordination, and long-term coherence.
 
@@ -18,6 +18,8 @@ UNIVERSE is structured in symbolic layers — each aligned to sovereignty, coord
 | DOCS | Philosophy, structure, and coordination |
 
 > _Each layer expands the system at the right time._
+
+
 
 ---
 
