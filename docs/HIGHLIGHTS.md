@@ -45,7 +45,7 @@ It is coherence by choice.
 Participation begins before governance.  
 Alignment precedes execution.
 
-📍 [DAOIST.md](../0%20DAO%20-%20Layer%20Zero/DAOIST.md)
+📍 [DAOIST.md](../0%20DAO/0.3%20DAOIST.md)
 
 ---
 
