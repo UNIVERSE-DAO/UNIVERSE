@@ -135,8 +135,8 @@ UNIVERSE unfolds in symbolic phases — each marking a deeper threshold of align
 
 ### Governance & Protocol Commitments
 - [MANIFESTO – What We Defend](docs/MANIFESTO.md)  
-- [DAOIST – Layer Zero](0%20DAO%20-%20Layer%20Zero/DAOIST.md)  
-- [UIP – UNIVERSE Improvement Proposals](0%20DAO%20-%20Layer%20Zero/0.2%20UIP/README.md)
+- [DAOIST – Layer Zero](0%20DAO/0.3%20DAOIST.md)  
+- [UIP – UNIVERSE Improvement Proposals](0%20DAO/0.2%20UIP.md)
 
 <br>
 
