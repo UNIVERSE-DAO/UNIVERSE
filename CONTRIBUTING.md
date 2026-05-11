@@ -124,7 +124,7 @@ Observe the values, energy, symbolic language and interact:
 
 > Governance is not control — it is care at scale.
 
-- Read [`#UIP "UNIVERSE IMPROVEMENT PROPOSAL"`](0%20DAO%20-%20Layer%20Zero/0.2%20UIP/README.md)  
+- Read [`#UIP "UNIVERSE IMPROVEMENT PROPOSAL"`](0%20DAO/0.2%20UIP.md)  
 - Propose, co-sign, or steward protocol logic and decisions  
 - Protect alignment across phases  
 
