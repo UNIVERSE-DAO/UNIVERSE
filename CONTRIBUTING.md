@@ -42,12 +42,12 @@ It is a **symbolic protocol** — a living system for clarity, sovereignty, and 
 
 Observe the values, energy, symbolic language and interact:
 
-- **X / Twitter** → https://x.com/uni_dao_verse ↗   
-- **Telegram** → https://t.me/uni_chat_verse ↗   
+- **Telegram** → https://t.me/uni_chat_verse ↗
+- **X / Twitter** → https://x.com/uni_dao_verse ↗    
 - **Discord** → https://discord.gg/7Q4TZdBSaA ↗    
-- Instagram - coming soon ↗  
-- YouTube - coming soon ↗ 
-- TikTok - coming soon ↗ 
+- **YouTube** → https://www.youtube.com/@UNIVERSE-DAO ↗ 
+- **TikTok** → https://www.tiktok.com/@uni_meme_verse ↗
+- Instagram - coming soon ↗ 
 
 > _Culture begins by listening._
 ---
